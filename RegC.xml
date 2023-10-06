@@ -471,7 +471,8 @@
                </row>
                <row ana="prov:purchase">
                   <cell>3. </cell>
-                  <cell>Bernard. de S. <hi rend="underlined:true">Antonio</hi> Epitome<lb/>
+                  <cell><ptr target="#reg-C-bib-Bernardinus1623
+                     "/>Bernard. de S. <hi rend="underlined:true">Antonio</hi> Epitome<lb/>
                      redemptionū Captivorum a FF.<lb/>S. Trinitatis. <hi rend="underlined:true"
                         >Ulissip</hi>. 1623. 4°.</cell>
                   <cell><measure quantity="0" unit="pound">0</measure></cell>
@@ -482,7 +483,8 @@
                </row>
                <row ana="prov:purchase">
                   <cell>4.</cell>
-                  <cell>Jo. <hi rend="underlined:true">Maccovius</hi> redivivus, opera<lb/> Nic.
+                  <cell><ptr target="#reg-C-bib-Maccovius1654
+                     "/>Jo. <hi rend="underlined:true">Maccovius</hi> redivivus, opera<lb/> Nic.
                      Arnoldi. Franck. 1654. 4°.</cell>
                   <cell><measure quantity="0" unit="pound">0</measure></cell>
                   <cell><measure quantity="3" unit="shilling">3</measure></cell>
@@ -495,7 +497,8 @@
                </row>
                <row ana="prov:purchase">
                   <cell>5. </cell>
-                  <cell><hi rend="underlined:true">Crackanthorp</hi> defensio Eccl. Angl.<lb/> per
+                  <cell><ptr target="#regC-bib-Crakanthorp1625
+                     "/><hi rend="underlined:true">Crackanthorp</hi> defensio Eccl. Angl.<lb/> per
                      J. Barkham <hi rend="underlined:true">Lond</hi>. 1625. 4°.</cell>
                   <cell><measure quantity="0" unit="pound">0</measure></cell>
                   <cell><measure quantity="1" unit="shilling">1</measure></cell>
@@ -533,7 +536,8 @@
                </row>
                <row ana="prov:purchase">
                   <cell>8.</cell>
-                  <cell>Car. <hi rend="underlined:true">Eurei</hi> Theses Theolog. Franck.
+                  <cell><ptr target="#regC-bib-Linden1597
+                     "/>Car. <hi rend="underlined:true">Eurei</hi> Theses Theolog. Franck.
                      1597.4°.</cell>
                   <cell><measure quantity="0" unit="pound">0</measure></cell>
                   <cell><measure quantity="2" unit="shilling">2</measure></cell>
@@ -546,7 +550,8 @@
                </row>
                <row ana="prov:purchase">
                   <cell>9.</cell>
-                  <cell>M. <hi rend="underlined:true">Geierus</hi> in Danielem. <hi
+                  <cell><ptr target="#regC-bib-Geier1667
+                     "/>M. <hi rend="underlined:true">Geierus</hi> in Danielem. <hi
                         rend="underlined:true">Lips</hi>. 1667. 4°. </cell>
                   <cell><measure quantity="0" unit="pound">0</measure></cell>
                   <cell><measure quantity="2" unit="shilling">2</measure></cell>
@@ -570,7 +575,8 @@
                </row>
                <row ana="prov:purchase">
                   <cell>11.</cell>
-                  <cell>Alb. <hi rend="underlined:true">Grawerus</hi> contra Calvinum.
+                  <cell><ptr target="#regC-bib-Grawerus1618
+                     "/>Alb. <hi rend="underlined:true">Grawerus</hi> contra Calvinum.
                      1618.4°.</cell>
                   <cell><measure quantity="0" unit="pound">0</measure></cell>
                   <cell><measure quantity="1" unit="shilling">1</measure></cell>
@@ -583,7 +589,8 @@
                </row>
                <row ana="prov:purchase">
                   <cell>12.</cell>
-                  <cell><hi rend="underlined:true">Gurtleri</hi> Institt. Theol. <hi
+                  <cell><ptr target="#regC-bib-Gürtler1694
+                     "/><hi rend="underlined:true">Gurtleri</hi> Institt. Theol. <hi
                         rend="underlined:true">Amst</hi>. 1694 4<hi rend="superscript:true"
                      >o</hi>.</cell>
                   <cell><measure quantity="0" unit="pound">0</measure></cell>
@@ -611,7 +618,8 @@
                </row>
                <row ana="prov:purchase">
                   <cell>14.</cell>
-                  <cell><hi rend="underlined:true">Pfeifferi</hi> Informatorium
+                  <cell><ptr target="#regC-bib-Pfeiffer1687
+                     "/><hi rend="underlined:true">Pfeifferi</hi> Informatorium
                      Conscientiae<lb/>Eucharisticum Lips. 1687. 4<hi rend="superscript:true"
                      >o</hi>.</cell>
                   <cell><measure quantity="0" unit="pound">0</measure></cell>
@@ -636,7 +644,8 @@
                </row>
                <row ana="prov:purchase">
                   <cell>16.</cell>
-                  <cell>C. <hi rend="underlined:true">Sagittarii</hi> Historia Passionis D.
+                  <cell><ptr target="#regC-bib-Niemann1671
+                     "/>C. <hi rend="underlined:true">Sagittarii</hi> Historia Passionis D.
                      N.<lb/>Jesu Xti. <hi rend="underlined:true">Jenae</hi> 1671. 4°.</cell>
                   <cell><measure quantity="0" unit="pound">0</measure></cell>
                   <cell><measure quantity="2" unit="shilling">2</measure></cell>
@@ -814,7 +823,8 @@
                </row>
                <row ana="prov:purchase">
                   <cell>31.</cell>
-                  <cell>The Scourge by T. Lewis <hi rend="underlined:true">Lond</hi>.
+                  <cell><ptr target="#regC-bib-Lewis1720
+                     "/>The Scourge by T. Lewis <hi rend="underlined:true">Lond</hi>.
                      1720.8°.</cell>
                   <cell><measure quantity="0" unit="pound">0</measure></cell>
                   <cell><measure quantity="6" unit="shilling">6</measure></cell>
@@ -824,7 +834,7 @@
                </row>
                <row ana="prov:purchase">
                   <cell>32.33.34.</cell>
-                  <cell><hi rend="underlined:true">Pruckneri</hi> Comm. in Vet. et
+                  <cell><ptr target="#regC-bib-Prücknerus1663"/><hi rend="underlined:true">Pruckneri</hi> Comm. in Vet. et
                      Nov.<lb/>Testamentum. 3 Voll. <hi rend="underlined:true">Franc. ad Mœn.</hi>
                      1663.</cell>
                   <cell><measure quantity="2" unit="pound">2</measure></cell>
@@ -835,7 +845,8 @@
                </row>
                <row ana="prov:purchase">
                   <cell>35.</cell>
-                  <cell><hi rend="underlined:true">Dorschai</hi> &amp; <hi rend="underlined:true"
+                  <cell><ptr target="#regC-bib-Dorscheus1674
+                     "/><hi rend="underlined:true">Dorschai</hi> &amp; <hi rend="underlined:true"
                         >Grambsii</hi> Index Biblicus.<lb/>Franc. ad Mœn. 1674. 2 Voll. fol.</cell>
                   <cell><measure quantity="2" unit="pound">2</measure></cell>
                   <cell><measure quantity="5" unit="shilling">5</measure></cell>
@@ -845,7 +856,8 @@
                </row>
                <row ana="prov:purchase">
                   <cell>36.37.</cell>
-                  <cell><hi rend="underlined:true">Menochii</hi> Comm. in S. Scripturam.<lb/> 2
+                  <cell><ptr target="#regC-bib-Menochio1719
+                     "/><hi rend="underlined:true">Menochii</hi> Comm. in S. Scripturam.<lb/> 2
                      Voll. <hi rend="underlined:true">Par</hi>. 1719. [cum Supl.]. fol.</cell>
                   <cell><measure quantity="2" unit="pound">2</measure></cell>
                   <cell><measure quantity="16" unit="shilling">16</measure></cell>
