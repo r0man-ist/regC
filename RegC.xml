@@ -472,9 +472,9 @@
                <row ana="prov:purchase">
                   <cell>3. </cell>
                   <cell><ptr target="#reg-C-bib-Bernardinus1623
-                     "/>Bernard. de S. <hi rend="underlined:true">Antonio</hi> Epitome<lb/>
-                     redemptionū Captivorum a FF.<lb/>S. Trinitatis. <hi rend="underlined:true"
-                        >Ulissip</hi>. 1623. 4°.</cell>
+                     "/>Bernard. de S. <hi rend="underlined:true">Antonio</hi>
+                     Epitome<lb/> redemptionū Captivorum a FF.<lb/>S. Trinitatis. <hi
+                        rend="underlined:true">Ulissip</hi>. 1623. 4°.</cell>
                   <cell><measure quantity="0" unit="pound">0</measure></cell>
                   <cell><measure quantity="1" unit="shilling">1</measure></cell>
                   <cell><measure quantity="6" unit="pence">6</measure></cell>
@@ -484,8 +484,8 @@
                <row ana="prov:purchase">
                   <cell>4.</cell>
                   <cell><ptr target="#reg-C-bib-Maccovius1654
-                     "/>Jo. <hi rend="underlined:true">Maccovius</hi> redivivus, opera<lb/> Nic.
-                     Arnoldi. Franck. 1654. 4°.</cell>
+                     "/>Jo. <hi rend="underlined:true">Maccovius</hi> redivivus,
+                     opera<lb/> Nic. Arnoldi. Franck. 1654. 4°.</cell>
                   <cell><measure quantity="0" unit="pound">0</measure></cell>
                   <cell><measure quantity="3" unit="shilling">3</measure></cell>
                   <cell><measure quantity="6" unit="pence">6</measure></cell>
@@ -498,8 +498,9 @@
                <row ana="prov:purchase">
                   <cell>5. </cell>
                   <cell><ptr target="#regC-bib-Crakanthorp1625
-                     "/><hi rend="underlined:true">Crackanthorp</hi> defensio Eccl. Angl.<lb/> per
-                     J. Barkham <hi rend="underlined:true">Lond</hi>. 1625. 4°.</cell>
+                     "/><hi rend="underlined:true">Crackanthorp</hi> defensio
+                     Eccl. Angl.<lb/> per J. Barkham <hi rend="underlined:true">Lond</hi>. 1625.
+                     4°.</cell>
                   <cell><measure quantity="0" unit="pound">0</measure></cell>
                   <cell><measure quantity="1" unit="shilling">1</measure></cell>
                   <cell><measure quantity="6" unit="pence">6</measure></cell>
@@ -524,7 +525,7 @@
                   <cell>7.</cell>
                   <cell><ptr target="#regC-bib-Leotaud1654"/>Greg. a S. <hi rend="underlined:true"
                         >Vincentio</hi> Curvilineorum<lb/> Contemplatio. <hi rend="underlined:true"
-                        >Lugd</hi>. 1654.4<hi rend="superscript:true">o</hi>.</cell>
+                           >Lugd</hi>. 1654. 4°.</cell>
                   <cell><measure quantity="0" unit="pound">0</measure></cell>
                   <cell><measure quantity="4" unit="shilling">4</measure></cell>
                   <cell><measure quantity="0" unit="pence">0</measure></cell>
@@ -537,8 +538,8 @@
                <row ana="prov:purchase">
                   <cell>8.</cell>
                   <cell><ptr target="#regC-bib-Linden1597
-                     "/>Car. <hi rend="underlined:true">Eurei</hi> Theses Theolog. Franck.
-                     1597.4°.</cell>
+                     "/>Car. <hi rend="underlined:true">Eurei</hi> Theses Theolog.
+                     Franck. 1597.4°.</cell>
                   <cell><measure quantity="0" unit="pound">0</measure></cell>
                   <cell><measure quantity="2" unit="shilling">2</measure></cell>
                   <cell><measure quantity="6" unit="pence">6</measure></cell>
@@ -551,8 +552,8 @@
                <row ana="prov:purchase">
                   <cell>9.</cell>
                   <cell><ptr target="#regC-bib-Geier1667
-                     "/>M. <hi rend="underlined:true">Geierus</hi> in Danielem. <hi
-                        rend="underlined:true">Lips</hi>. 1667. 4°. </cell>
+                     "/>M. <hi rend="underlined:true">Geierus</hi> in Danielem.
+                        <hi rend="underlined:true">Lips</hi>. 1667. 4°. </cell>
                   <cell><measure quantity="0" unit="pound">0</measure></cell>
                   <cell><measure quantity="2" unit="shilling">2</measure></cell>
                   <cell><measure quantity="6" unit="pence">6</measure></cell>
@@ -576,8 +577,8 @@
                <row ana="prov:purchase">
                   <cell>11.</cell>
                   <cell><ptr target="#regC-bib-Grawerus1618
-                     "/>Alb. <hi rend="underlined:true">Grawerus</hi> contra Calvinum.
-                     1618.4°.</cell>
+                     "/>Alb. <hi rend="underlined:true">Grawerus</hi> contra
+                     Calvinum. 1618.4°.</cell>
                   <cell><measure quantity="0" unit="pound">0</measure></cell>
                   <cell><measure quantity="1" unit="shilling">1</measure></cell>
                   <cell><measure quantity="0" unit="pence">0</measure></cell>
@@ -590,9 +591,9 @@
                <row ana="prov:purchase">
                   <cell>12.</cell>
                   <cell><ptr target="#regC-bib-Gürtler1694
-                     "/><hi rend="underlined:true">Gurtleri</hi> Institt. Theol. <hi
-                        rend="underlined:true">Amst</hi>. 1694 4<hi rend="superscript:true"
-                     >o</hi>.</cell>
+                     "/><hi rend="underlined:true">Gurtleri</hi> Institt. Theol.
+                        <hi rend="underlined:true">Amst</hi>. 1694 4<hi rend="superscript:true"
+                        >o</hi>.</cell>
                   <cell><measure quantity="0" unit="pound">0</measure></cell>
                   <cell><measure quantity="6" unit="shilling">6</measure></cell>
                   <cell><measure quantity="0" unit="pence">0</measure></cell>
@@ -645,8 +646,9 @@
                <row ana="prov:purchase">
                   <cell>16.</cell>
                   <cell><ptr target="#regC-bib-Niemann1671
-                     "/>C. <hi rend="underlined:true">Sagittarii</hi> Historia Passionis D.
-                     N.<lb/>Jesu Xti. <hi rend="underlined:true">Jenae</hi> 1671. 4°.</cell>
+                     "/>C. <hi rend="underlined:true">Sagittarii</hi> Historia
+                     Passionis D. N.<lb/>Jesu Xti. <hi rend="underlined:true">Jenae</hi> 1671.
+                     4°.</cell>
                   <cell><measure quantity="0" unit="pound">0</measure></cell>
                   <cell><measure quantity="2" unit="shilling">2</measure></cell>
                   <cell><measure quantity="0" unit="pence">0</measure></cell>
@@ -658,8 +660,9 @@
                </row>
                <row ana="prov:purchase">
                   <cell>17.</cell>
-                  <cell><ptr target="#regC-bib-Nicolson1714"/>Bp. Nicholson&apos;s Historical Library<lb/>in three parts. <hi
-                        rend="underlined:true">Lond</hi>. 1714. fol.</cell>
+                  <cell><ptr target="#regC-bib-Nicolson1714"/>Bp. Nicholson&apos;s Historical
+                     Library<lb/>in three parts. <hi rend="underlined:true">Lond</hi>. 1714.
+                     fol.</cell>
                   <cell><measure quantity="0" unit="pound">0</measure></cell>
                   <cell><measure quantity="10" unit="shilling">10</measure></cell>
                   <cell><measure quantity="0" unit="pence">0</measure></cell>
@@ -785,8 +788,8 @@
                </row>
                <row ana="prov:purchase">
                   <cell>25.</cell>
-                  <cell><ptr target="#regC-bib-Sprott1719"/><hi rend="underlined:true">Sprotti</hi> Chronica, &amp;c. p Hearne. Oxon.
-                     1719.</cell>
+                  <cell><ptr target="#regC-bib-Sprott1719"/><hi rend="underlined:true">Sprotti</hi>
+                     Chronica, &amp;c. p Hearne. Oxon. 1719.</cell>
                   <cell><measure quantity="0" unit="pound">0</measure></cell>
                   <cell><measure quantity="11" unit="shilling">11</measure></cell>
                   <cell><measure quantity="0" unit="pence">0</measure></cell>
@@ -824,8 +827,8 @@
                <row ana="prov:purchase">
                   <cell>31.</cell>
                   <cell><ptr target="#regC-bib-Lewis1720
-                     "/>The Scourge by T. Lewis <hi rend="underlined:true">Lond</hi>.
-                     1720.8°.</cell>
+                     "/>The Scourge by T. Lewis <hi rend="underlined:true"
+                        >Lond</hi>. 1720.8°.</cell>
                   <cell><measure quantity="0" unit="pound">0</measure></cell>
                   <cell><measure quantity="6" unit="shilling">6</measure></cell>
                   <cell><measure quantity="0" unit="pence">0</measure></cell>
@@ -834,9 +837,9 @@
                </row>
                <row ana="prov:purchase">
                   <cell>32.33.34.</cell>
-                  <cell><ptr target="#regC-bib-Prücknerus1663"/><hi rend="underlined:true">Pruckneri</hi> Comm. in Vet. et
-                     Nov.<lb/>Testamentum. 3 Voll. <hi rend="underlined:true">Franc. ad Mœn.</hi>
-                     1663.</cell>
+                  <cell><ptr target="#regC-bib-Prücknerus1663"/><hi rend="underlined:true"
+                        >Pruckneri</hi> Comm. in Vet. et Nov.<lb/>Testamentum. 3 Voll. <hi
+                        rend="underlined:true">Franc. ad Mœn.</hi> 1663.</cell>
                   <cell><measure quantity="2" unit="pound">2</measure></cell>
                   <cell><measure quantity="10" unit="shilling">10</measure></cell>
                   <cell><measure quantity="0" unit="pence">0</measure></cell>
@@ -846,8 +849,9 @@
                <row ana="prov:purchase">
                   <cell>35.</cell>
                   <cell><ptr target="#regC-bib-Dorscheus1674
-                     "/><hi rend="underlined:true">Dorschai</hi> &amp; <hi rend="underlined:true"
-                        >Grambsii</hi> Index Biblicus.<lb/>Franc. ad Mœn. 1674. 2 Voll. fol.</cell>
+                     "/><hi rend="underlined:true">Dorschai</hi> &amp; <hi
+                        rend="underlined:true">Grambsii</hi> Index Biblicus.<lb/>Franc. ad Mœn.
+                     1674. 2 Voll. fol.</cell>
                   <cell><measure quantity="2" unit="pound">2</measure></cell>
                   <cell><measure quantity="5" unit="shilling">5</measure></cell>
                   <cell><measure quantity="0" unit="pence">0</measure></cell>
@@ -857,8 +861,9 @@
                <row ana="prov:purchase">
                   <cell>36.37.</cell>
                   <cell><ptr target="#regC-bib-Menochio1719
-                     "/><hi rend="underlined:true">Menochii</hi> Comm. in S. Scripturam.<lb/> 2
-                     Voll. <hi rend="underlined:true">Par</hi>. 1719. [cum Supl.]. fol.</cell>
+                     "/><hi rend="underlined:true">Menochii</hi> Comm. in S.
+                     Scripturam.<lb/> 2 Voll. <hi rend="underlined:true">Par</hi>. 1719. [cum
+                     Supl.]. fol.</cell>
                   <cell><measure quantity="2" unit="pound">2</measure></cell>
                   <cell><measure quantity="16" unit="shilling">16</measure></cell>
                   <cell><measure quantity="0" unit="pence">0</measure></cell>
@@ -1096,8 +1101,8 @@
                </row>
                <row ana="prov:purchase">
                   <cell>56.</cell>
-                  <cell><ptr target="#regC-bib-Ernulf1720"/> Textus Roffensis [charg'd in
-                     pag.5.]</cell>
+                  <cell><ptr target="#regC-bib-Ernulf1720"/> Textus Roffensis [charg'd in <ref
+                        target="#fol-9r">pag.5</ref>.]</cell>
                   <cell/>
                   <cell/>
                   <cell/>
@@ -1355,90 +1360,91 @@
                   <cell>Place</cell>
                   <cell>Curator</cell>
                </row>
-               <row>
+               <row ana="prov:donation">
                   <cell><hi rend="underlined:true">S. Augustinus</hi> de Civ. Dei <hi
                         rend="underlined:true">Ven</hi>. 1475. fol.</cell>
                   <cell>M<hi rend="superscript:true">r</hi>. Massey</cell>
                   <cell>C.5.10.Th.</cell>
                   <cell>Vice-Can.</cell>
                </row>
-               <row>
+               <row ana="prov:donation">
                   <cell>Supplem. in Monument. Angl. 1728. 8°</cell>
                   <cell>M<hi rend="superscript:true">r</hi>. Le Neve</cell>
                   <cell>8° D.36.Jur.</cell>
                   <cell>Prof. Jur.</cell>
                </row>
-               <row>
-                  <cell>Lives &amp; Characters of the reform'd<lb/> Bishops. <hi
+               <row ana="prov:donation">
+                  <cell><ptr target="#regC-bib-Le_Neve1720
+                     "/>Lives &amp; Characters of the reform'd<lb/> Bishops. <hi
                         rend="underlined:true">Lond.</hi> 1719. 8°</cell>
                   <cell>Idem.</cell>
                   <cell>8° Z.412.Th.</cell>
                   <cell>Prof. Theol.</cell>
                </row>
-               <row>
+               <row ana="prov:donation">
                   <cell>Opuscula B. <hi rend="underlined:true">Augustini</hi>, Ms. pergam.
                      8°.</cell>
                   <cell>Dr. Brabourne</cell>
                   <cell>NE.F.9.19.</cell>
                   <cell>Prof. Græc.</cell>
                </row>
-               <row>
+               <row ana="prov:donation">
                   <cell>S. <hi rend="underlined:true">Bonaventuræ</hi> meditationes de<lb/> Jesu
                      Xto. Ms. chart. 8°</cell>
                   <cell>Idem.</cell>
                   <cell>NE.F.9. 20.</cell>
                   <cell>Prof Græc.</cell>
                </row>
-               <row>
+               <row ana="prov:donation">
                   <cell>J. <hi rend="underlined:true">Leopold</hi> de Itinere suo Suecio. 8°.</cell>
                   <cell/>
                   <cell>8°. D.56.Jur.</cell>
                   <cell>Prof. Jur.</cell>
                </row>
-               <row>
+               <row ana="prov:donation">
                   <cell>A volume of Tracts in 8° </cell>
                   <cell/>
                   <cell>8° D.55.Jur.</cell>
                   <cell>Prof Jur.</cell>
                </row>
-               <row>
+               <row ana="prov:donation">
                   <cell><hi rend="underlined:true">Cebetis</hi> Thebani Tabula, Gr. L. ꝑ
                      Johnson</cell>
                   <cell/>
                   <cell>8° D.72.Jur.</cell>
                   <cell>Prof. Jur.</cell>
                </row>
-               <row>
+               <row ana="prov:donation">
                   <cell>History of the Regal Succession. 8°</cell>
                   <cell>M<hi rend="superscript:true">r</hi>. Lindsay</cell>
                   <cell>8° D.57.Jur.</cell>
                   <cell>Prof. Jur.</cell>
                </row>
-               <row>
+               <row ana="prov:donation">
                   <cell>J. <hi rend="underlined:true">Keil</hi> Epistola ad J. Bernoulli. 4°.</cell>
                   <cell>D<hi rend="szperscript:true">r</hi>. Keil</cell>
                   <cell>A.A.49.Jur.</cell>
                   <cell>Prof. Jur.</cell>
                </row>
-               <row>
+               <row ana="prov:donation">
                   <cell><hi rend="underlined:true">Ziegenbalgi</hi> Gram̄atica Malabar. 4°</cell>
                   <cell>M<hi rend="superscript:true">r</hi>. Phillips.</cell>
                   <cell>A.A.24.Jur.</cell>
                   <cell>Prof. Jur.</cell>
                </row>
-               <row>
-                  <cell>Clavis Linquæ Sanctæ fol.</cell>
+               <row ana="prov:donation">
+                  <cell><ptr target="#regC-bib-Trott1719"/>Clavis Linguæ Sanctæ fol.</cell>
                   <cell>M<hi rend="superscript:true">r</hi>. Trot.</cell>
                   <cell>C.11.16. Th.</cell>
                   <cell>Vice-Can.</cell>
                </row>
-               <row>
+               <row ana="prov:donation">
                   <cell>Musicus apparatus Academicus ꝑ</cell>
                   <cell>D<hi rend="superscript:true">r</hi>. Croft.</cell>
                   <cell>C.1.17.Jur.</cell>
                   <cell>Prof. Jur.</cell>
                </row>
-               <row>
+               <row ana="prov:donation">
                   <cell>Recuel de divers pieces fur la philo-<lb/> sophie 2.Voll. 8° ꝑ M<hi
                         rend="superscript:true">r</hi>. <hi rend="underlined:true"
                      >Maizeaux</hi></cell>
@@ -1446,38 +1452,38 @@
                   <cell>8° D.58.59. Jur.</cell>
                   <cell>Prof. Jur.</cell>
                </row>
-               <row>
-                  <cell>Collection of Ecclesiastical Laws.<lb/> and Canons &amp;c. 2 Voll. 8°. by yͤ
+               <row ana="prov:donation">
+                  <cell><ptr target="#regC-bib-Johnson1720"/>Collection of Ecclesiastical Laws.<lb/> and Canons &amp;c. 2 Voll. 8°. by yͤ
                      Author.</cell>
                   <cell>M<hi rend="superscript:true">r</hi>. Johnson</cell>
                   <cell>8°X.68.69. Th.</cell>
                   <cell>Prof. Theol.</cell>
                </row>
-               <row>
-                  <cell>Poems on Several Occasions by</cell>
+               <row ana="prov:donation">
+                  <cell><ptr target="#regC-bib-Lux1719"/>Poems on Several Occasions by</cell>
                   <cell>M<hi rend="superscript:true">r</hi>. Lux.</cell>
                   <cell>8° M.236.Th.</cell>
                   <cell>Prof. Theol.</cell>
                </row>
-               <row>
+               <row ana="prov:donation">
                   <cell>Merton Walks, a Poem 8°</cell>
                   <cell/>
                   <cell>8°. M. 23.<hi rend="underlined:true">Linc</hi>.</cell>
                   <cell>Prof. Astron.</cell>
                </row>
-               <row>
+               <row ana="prov:donation">
                   <cell>Biblia Lat. Vet. Edit. 8°</cell>
                   <cell/>
                   <cell>8° O.30.Linc.</cell>
                   <cell>Prof. Astron.</cell>
                </row>
-               <row>
+               <row ana="prov:donation">
                   <cell>English Topographer by</cell>
                   <cell>D<hi rend="superscript:true">r</hi>. Rawlinson</cell>
                   <cell>8° D.49.Jur.</cell>
                   <cell>Prof. Jur.</cell>
                </row>
-               <row>
+               <row ana="prov:donation">
                   <cell>Esperienze fisico-meccaniche sopra<lb/> vari Soggetti &amp;c. ꝑ Hauksbee.
                      4°.</cell>
                   <cell rows="3">S<hi rend="superscript:true">r</hi>. Thomas<lb/><hi
@@ -1486,33 +1492,33 @@
                   <cell rows="3">C.17.1,2,3</cell>
                   <cell rows="3">Prof. Astron.</cell>
                </row>
-               <row>
+               <row ana="prov:donation">
                   <cell>Loriuolo da polso de Medici &amp;c. ꝑ.<lb/> Floyer. 4°.</cell>
                </row>
-               <row>
+               <row ana="prov:donation">
                   <cell>Dimostrazione della Essenza, ed<lb/> attributi d'Iddio. 4°. ꝑ Dereham</cell>
 
                </row>
-               <row>
+               <row ana="prov:donation">
                   <cell>Dissertatio de Amuleto quodam</cell>
                   <cell rows="2">D. Smit.</cell>
                   <cell rows="2">4° B 26.61.Linc.</cell>
                   <cell rows="2">Prof. Astron.</cell>
                </row>
-               <row>
+               <row ana="prov:donation">
                   <cell>Exercitatio de Paschate auctore</cell>
                </row>
-               <row>
+               <row ana="prov:donation">
                   <cell>Lumen Chirurgicum</cell>
                   <cell rows="2">by D<hi rend="superscript:true">r</hi>. Colbatch</cell>
                   <cell rows="2">8° M.22.Linc.</cell>
                   <cell rows="2">Prof. Astron.</cell>
                </row>
-               <row>
+               <row ana="prov:donation">
                   <cell>Treatise of the Gout</cell>
 
                </row>
-               <row>
+               <row ana="prov:donation">
                   <cell>Liber Precum Lat. Ms.</cell>
                   <cell>M<hi rend="superscript:true">r</hi>. Mid. Massey</cell>
                   <cell>NE.F. 1.13.</cell>
