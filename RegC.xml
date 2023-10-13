@@ -46,12 +46,24 @@
             <titlePart type="sub">Or, an Account</titlePart>
          </docTitle>
          <ab><list>
-               <item>I. Of duplicates sold or exchang'd. <ref>pag.4</ref></item>
-               <item>II. Of money receiv'd. <ref>pag.4</ref></item>
-               <item>III.</item>
-               <item>IV.</item>
-               <item>V.</item>
-               <item>VI.</item>
+               <item>I. Of duplicates sold or exchang'd. <ref target="#fol-8v">pag.4.</ref></item>
+               <item>II. Of money receiv'd. <ref target="#fol-8v">pag.4</ref></item>
+               <item>III. Of Money laid out either for Books, or other necessaries<lb/> for the
+                  Library <ref target="#fol-9r">pag. 5</ref>,<ref target="#fol-9v">6</ref>.</item>
+               <item>IV. Of Books <add place="above">Bought</add> or given, with their several
+                  prices and places in<lb/> the Library <ref target="#fol-10r">pag. 7</ref>,<ref
+                     target="#fol-10v">8</ref>,<ref target="#fol-11r">9</ref>,<ref target="#fol-11v"
+                     >10</ref>,<ref target="#fol-12r">11</ref>,<ref target="#fol-12v"
+                     >12</ref>,13,14<note>One leaf with pages 13 and 14 is missing; pencil foliation
+                     is continuous, indicating that the leaf was already missing when foliation was
+                     added.</note>,<ref target="#fol-13r">15</ref>,<ref target="#fol-13v"
+                     >16</ref>,<ref target="#fol-14r">17</ref>,<ref target="#fol-14v">18</ref>,<ref
+                     target="#fol-15r">19</ref>.</item>
+               <item>V. Of Books which have been remov'd; with the Numbers<lb/> shewing where they
+                  formerly stood, and where they are<lb/> placed at present. <ref target="#fol-15v"
+                     >pag. 20</ref>, <ref target="#fol-16r">21</ref>, <ref target="#fol-16v"
+                     >22</ref>, <ref target="#fol-17r">23</ref>.</item>
+               <item>VI. Ballance of the whole Account. <ref target="#fol-18r">p. 25</ref>. </item>
             </list></ab>
 
       </front>
@@ -62,9 +74,10 @@
          <pb xml:id="fol-8v" n="4"/>
          <ab ana="1720"><table>
                <row>
-                  <cell rend="head">Duplicates sold out of the Bodleian Library <lb/>between the
-                     ninth of Nov.<hi rend="superscript:true">r</hi> 1719 &amp; the eighth of
-                        Nov.<hi rend="superscript:true">r</hi> 1720</cell>
+                  <cell rend="head">Duplicates sold out of the Bodleian Library <lb/><date
+                        from="1719-11-09" to="1720-11-08">between the ninth of Nov.<hi
+                           rend="superscript:true">r</hi> 1719 &amp; the eighth of Nov.<hi
+                           rend="superscript:true">r</hi> 1720</date></cell>
                   <cell/>
                   <cell/>
                   <cell/>
@@ -93,13 +106,13 @@
                   <cell/>
                </row>
                <row>
-                  <cell><date when="1920-01-10">Jan: 10.</date></cell>
+                  <cell><date when="1720-01-10">Jan: 10.</date></cell>
                   <cell><measure quantity="10" unit="pound">10</measure></cell>
                   <cell><measure quantity="10" unit="shilling">10</measure></cell>
                   <cell><measure quantity="0" unit="pence">00</measure></cell>
                </row>
                <row>
-                  <cell><date when="1920-07-17">July 17.</date></cell>
+                  <cell><date when="1720-07-17">July 17.</date></cell>
                   <cell><measure quantity="10" unit="pound">10</measure></cell>
                   <cell><measure quantity="10" unit="shilling">10</measure></cell>
                   <cell><measure quantity="0" unit="pence">00</measure></cell>
@@ -525,7 +538,7 @@
                   <cell>7.</cell>
                   <cell><ptr target="#regC-bib-Leotaud1654"/>Greg. a S. <hi rend="underlined:true"
                         >Vincentio</hi> Curvilineorum<lb/> Contemplatio. <hi rend="underlined:true"
-                           >Lugd</hi>. 1654. 4°.</cell>
+                        >Lugd</hi>. 1654. 4°.</cell>
                   <cell><measure quantity="0" unit="pound">0</measure></cell>
                   <cell><measure quantity="4" unit="shilling">4</measure></cell>
                   <cell><measure quantity="0" unit="pence">0</measure></cell>
@@ -777,7 +790,7 @@
                </row>
                <row ana="prov:purchase">
                   <cell>24.</cell>
-                  <cell>F. F. <hi rend="underlined:true">Quetif</hi> &amp; <hi
+                  <cell><ptr target="#regC-bib-Quétif1719"/>F. F. <hi rend="underlined:true">Quetif</hi> &amp; <hi
                         rend="underlined:true">Echard</hi> Scriptores Ordinis<lb/>Praedicatorum.
                      fol. <hi rend="underlined:true">Par</hi>. 1719. Vol.1.</cell>
                   <cell><measure quantity="1" unit="pound">1</measure></cell>
@@ -798,7 +811,7 @@
                </row>
                <row ana="prov:purchase">
                   <cell>26.</cell>
-                  <cell>Abr. <hi rend="underlined:true">Trommi</hi> Concordantiae Gr. Vet.
+                  <cell><ptr target="#regC-bib-Trommius1718"/>Abr. <hi rend="underlined:true">Trommi</hi> Concordantiae Gr. Vet.
                      Test.<lb/>2 Voll. fol. <hi rend="underlined:true">Amst</hi>. 1718.</cell>
                   <cell><measure quantity="2" unit="pound">2</measure></cell>
                   <cell><measure quantity="18" unit="shilling">18</measure></cell>
@@ -860,14 +873,13 @@
                </row>
                <row ana="prov:purchase">
                   <cell>36.37.</cell>
-                  <cell><ptr target="#regC-bib-Menochio1719
-                     "/><hi rend="underlined:true">Menochii</hi> Comm. in S.
+                  <cell><ptr target="#regC-bib-Menochio1719"/><hi rend="underlined:true">Menochii</hi> Comm. in S.
                      Scripturam.<lb/> 2 Voll. <hi rend="underlined:true">Par</hi>. 1719. [cum
                      Supl.]. fol.</cell>
                   <cell><measure quantity="2" unit="pound">2</measure></cell>
                   <cell><measure quantity="16" unit="shilling">16</measure></cell>
                   <cell><measure quantity="0" unit="pence">0</measure></cell>
-                  <cell>S.12. 14,15. Th.</cell>
+                  <cell>S.12. 14,15. Th.<note>Todays shelfmark is S. 2.14,15 Th.; in the copies, "12" is crossed out and corrected to "2". It is more likely that a clerical mistake was made and later corrected than that the book was actually moved from one shelfmark to another.</note></cell>
                   <cell>Vice-Can.</cell>
                </row>
                <row ana="prov:purchase">
@@ -908,8 +920,9 @@
                </row>
                <row ana="prov:purchase">
                   <cell>41.</cell>
-                  <cell>Six Maps of Sacred Geography, by<lb/>Senex &amp; Taylor. <hi
-                        rend="underlined:true">Lond</hi>. 1716. fol.</cell>
+                  <cell><ptr target="#regC-bib-Sacred1716"/>Six Maps of Sacred Geography,
+                     by<lb/>Senex &amp; Taylor. <hi rend="underlined:true">Lond</hi>. 1716.
+                     fol.</cell>
                   <cell><measure quantity="0" unit="pound">0</measure></cell>
                   <cell><measure quantity="6" unit="shilling">6</measure></cell>
                   <cell><measure quantity="0" unit="pence">0</measure></cell>
@@ -961,7 +974,7 @@
                </row>
                <row ana="prov:purchase">
                   <cell>43.</cell>
-                  <cell>S. <hi rend="underlined:true">Hippolyti</hi> Opera Gr. Lat. p Joh.<lb/>
+                  <cell><ptr target="#regC-bib-Hippolytus1716"/>S. <hi rend="underlined:true">Hippolyti</hi> Opera Gr. Lat. p Joh.<lb/>
                      Fabricium. Vol. 1. Hamb. 1716. fol.</cell>
                   <cell><measure quantity="1" unit="pound">1</measure></cell>
                   <cell><measure quantity="3" unit="shilling">3</measure></cell>
@@ -1026,7 +1039,7 @@
                </row>
                <row ana="prov:purchase">
                   <cell>49.</cell>
-                  <cell><hi rend="underlined:true">Vitringa</hi> in Isaiam. 2 Voll. Louv.
+                  <cell><ptr target="#regC-bib-Vitringa1714"/><hi rend="underlined:true">Vitringa</hi> in Isaiam. 2 Voll. Louv.
                      1719.20.</cell>
                   <cell><measure quantity="3" unit="pound">3</measure></cell>
                   <cell><measure quantity="6" unit="shilling">6</measure></cell>
@@ -1039,7 +1052,7 @@
                </row>
                <row ana="prov:purchase">
                   <cell>51.</cell>
-                  <cell>S. <hi rend="underlined:true">Cyrilli</hi> Hierosol. Opera Gr. Lat. per<lb/>
+                  <cell><ptr target="#regC-bib-Cyril1720"/>S. <hi rend="underlined:true">Cyrilli</hi> Hierosol. Opera Gr. Lat. per<lb/>
                      Monachos Benedictinos <hi rend="underlined:true">Par</hi>. 1720.</cell>
                   <cell><measure quantity="1" unit="pound">1</measure></cell>
                   <cell><measure quantity="16" unit="shilling">16</measure></cell>
@@ -1151,7 +1164,7 @@
                </row>
                <row ana="prov:purchase">
                   <cell>59.60.</cell>
-                  <cell>Corneille le <hi rend="underlined:true">Brun</hi> Voyages par la <lb/>
+                  <cell><ptr target="#regC-bib-Bruyn1718"/>Corneille le <hi rend="underlined:true">Brun</hi> Voyages par la <lb/>
                      Moscovie, en Perse, et aux Indes<lb/>Orientales. 2 Voll. <hi
                         rend="underlined:true">Amst</hi>. 1718. fol.</cell>
                   <cell><measure quantity="3" unit="pound">3</measure></cell>
@@ -1453,8 +1466,8 @@
                   <cell>Prof. Jur.</cell>
                </row>
                <row ana="prov:donation">
-                  <cell><ptr target="#regC-bib-Johnson1720"/>Collection of Ecclesiastical Laws.<lb/> and Canons &amp;c. 2 Voll. 8°. by yͤ
-                     Author.</cell>
+                  <cell><ptr target="#regC-bib-Johnson1720"/>Collection of Ecclesiastical Laws.<lb/>
+                     and Canons &amp;c. 2 Voll. 8°. by yͤ Author.</cell>
                   <cell>M<hi rend="superscript:true">r</hi>. Johnson</cell>
                   <cell>8°X.68.69. Th.</cell>
                   <cell>Prof. Theol.</cell>

@@ -15,7 +15,55 @@
                 <link rel="stylesheet"
                     href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"/>
                 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"/>
-
+                <script src="https://code.jquery.com/jquery-3.6.0.min.js"/>
+                <!-- script to look up object information in tei file -->
+                <script type="text/javascript">
+                    <![CDATA[
+                    function openModal(target) {
+                        console.log('Opening modal for ' + target);
+                        
+                        // Create a URL for the XML data file
+                        const xmlDataUrl = 'TEST_itemList.xml';
+                        
+                        // Use jQuery to load the XML data
+                        $.ajax({
+                            type: 'GET',
+                            url: xmlDataUrl,
+                            dataType: 'xml',
+                            success: function (xmlData) {
+                                console.log('XML Data:', xmlData);
+                                
+                                const modifiedTarget = '[xml\\:id="' + target + '"]';
+                                
+                                const item = $(xmlData).find(modifiedTarget);
+                                if (item.length > 0) {
+                                    const name = item.find('name').text();
+                                    const description = item.find('description').text();
+                                    const xmlContent = ` < h4 > $ {
+                                    name
+                                } < / h4 > < p > $ {
+                                    description
+                                } < / p >
+                                `;
+                                $('#modal-title').text(name);
+                                $('#modal-description').html(xmlContent);
+                                $('#myModal').modal('show');
+                            } else {
+                                console.error('Object with target ' + modifiedTarget + ' not found.');
+                            }
+                        },
+                        error: function (xhr, status, error) {
+                            console.error('Error loading XML data: ' + error);
+                        }
+                    });
+                }//]]>
+                </script>
+                
+<!-- additional css -->
+                [data-tooltip]:before {
+                content: attr(data-tooltip);
+                }
+                
             </head>
             <body>
 
@@ -59,11 +107,29 @@
             <xsl:choose>
                 <xsl:when test="@ana = 'prov:purchase'">
                     <td style="width:5%">
+                        <!-- Modal -->
+                        <div class="modal fade" id="myModal" role="dialog">
+                            <div class="modal-dialog">
+                                <!-- Modal content -->
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"
+                                            >x</button>
+                                        <h4 class="modal-title" id="modal-title">Object Details</h4>
+                                    </div>
+                                    <div class="modal-body" id="modal-description">
+                                        <!-- XML data will be added here -->
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-default"
+                                            data-dismiss="modal">Close</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                         <xsl:variable name="rowId" select="t:cell/t:ptr/@target"/>
-                        <button type="button" class="btn btn-light" data-bs-toggle="modal"
-                            data-bs-target="#myModal" value="{$rowId}">
-                            <xsl:value-of select="$rowId"/>
-                        </button>
+                        <button type="button" class="btn btn-light" onclick="openModal('{$rowId}')">
+                            Details</button>
 
                         <div class="modal" id="myModal">
                             <div class="modal-dialog">
@@ -150,7 +216,7 @@
     </xsl:template>
     <!-- choice for abbreviations -->
     <xsl:template match="t:choice">
-        <span title="{t:expan}">
+        <span data-tooltip="{t:expan}" data-tooltip-position="bottom">
             <xsl:value-of select="t:abbr"/>
         </span>
     </xsl:template>
@@ -166,6 +232,17 @@
         </s>
     </xsl:template>
 
+    <!-- item List -->
+    <xsl:template match="t:list">
+        <ul style="list-style-type:none;">
+            <xsl:apply-templates/>
+        </ul>
+    </xsl:template>
+    <xsl:template match="t:item">
+        <li>
+            <xsl:apply-templates></xsl:apply-templates>
+        </li>
+    </xsl:template>
     <!-- pagebreaks -->
     <xsl:template match="t:pb">
         <xsl:variable name="pageId" select="./@xml:id"/>
@@ -189,5 +266,6 @@
         </a>
 
     </xsl:template>
+    
 
 </xsl:stylesheet>
