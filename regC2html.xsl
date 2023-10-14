@@ -15,54 +15,72 @@
                 <link rel="stylesheet"
                     href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"/>
                 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"/>
-                <script src="https://code.jquery.com/jquery-3.6.0.min.js"/>
-                <!-- script to look up object information in tei file -->
+                <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+                <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+              
                 <script type="text/javascript">
                     <![CDATA[
-                    function openModal(target) {
-                        console.log('Opening modal for ' + target);
-                        
-                        // Create a URL for the XML data file
-                        const xmlDataUrl = 'TEST_itemList.xml';
-                        
-                        // Use jQuery to load the XML data
-                        $.ajax({
-                            type: 'GET',
-                            url: xmlDataUrl,
-                            dataType: 'xml',
-                            success: function (xmlData) {
-                                console.log('XML Data:', xmlData);
-                                
-                                const modifiedTarget = '[xml\\:id="' + target + '"]';
-                                
-                                const item = $(xmlData).find(modifiedTarget);
-                                if (item.length > 0) {
-                                    const name = item.find('name').text();
-                                    const description = item.find('description').text();
-                                    const xmlContent = ` < h4 > $ {
-                                    name
-                                } < / h4 > < p > $ {
-                                    description
-                                } < / p >
-                                `;
-                                $('#modal-title').text(name);
-                                $('#modal-description').html(xmlContent);
-                                $('#myModal').modal('show');
-                            } else {
-                                console.error('Object with target ' + modifiedTarget + ' not found.');
-                            }
-                        },
-                        error: function (xhr, status, error) {
-                            console.error('Error loading XML data: ' + error);
-                        }
-                    });
-                }//]]>
-                </script>
-                
-<!-- additional css -->
-                [data-tooltip]:before {
-                content: attr(data-tooltip);
+    function openModal(target) {
+      console.log('Opening modal for ' + target);
+
+      // Create a URL for the XML data file
+      const xmlDataUrl = 'regC.xml';
+
+      // Use jQuery to load the XML data
+      $.ajax({
+        type: 'GET',
+        url: xmlDataUrl,
+        dataType: 'xml',
+        success: function(xmlData) {
+          console.log('XML Data:', xmlData);
+
+         const modifiedTarget = '[xml\\:id="' + target.substring(1) + '"]';
+
+          const item = $(xmlData).find(modifiedTarget);
+          if (item.length > 0) {
+            const targetElement = item[0];
+            const attributeValue = $(targetElement).attr('ana');
+            const title = item.find('title').text();
+            const author = item.find('author').text();
+            const link = item.find('idno[type=SOLOlink]').text();
+            const date = item.find('date').text();
+            const place = item.find('pubPlace').text();
+            const shelfmark = item.find('idno[type=shelfmark]').text();
+             // conditional whether copy is identified
+             if (attributeValue === "copy-identified") {
+                const modalTitle = "The copy has been identified";
+                const xmlContent = `
+                <p>${author}</p>
+                <p>${title}</p>
+                <p>${place}, ${date}</p>
+                <p>Today's Shelfmark: ${shelfmark}</p>
+                <p><a href="${link}">Bibliographic Record in SOLO</a></p>`
+                $('#modal-title').html(modalTitle);
+                $('#modal-description').html(xmlContent);
+                $('#myModal').modal('show');
                 }
+             else {
+                const modalTitle = "The copy could not be localized";
+                const xmlContent = `
+                <p>The edition most likely is the following:</p>
+                <p>${author}</p>
+                <p>${title}</p>
+                <p>${place}, ${date}</p>`
+                $('#modal-title').html(modalTitle);
+                $('#modal-description').html(xmlContent);
+                $('#myModal').modal('show');
+                }
+          } else {
+            console.error('Object with target ' + modifiedTarget + ' not found.');
+          }
+        },
+        error: function(xhr, status, error) {
+          console.error('Error loading XML data: ' + error);
+        }
+      });
+    }
+  ]]>
+                </script>
                 
             </head>
             <body>
@@ -88,7 +106,7 @@
         </html>
 
     </xsl:template>
-    <!-- Dressing Table -->
+    <!--  Table -->
     <xsl:attribute-set name="full.size.table">
         <xsl:attribute name="class" select="'table table-fixed'"/>
         <!--<xsl:attribute name="style" select="'width:100%'"/>-->
@@ -113,49 +131,22 @@
                                 <!-- Modal content -->
                                 <div class="modal-content">
                                     <div class="modal-header">
-                                        <button type="button" class="close" data-dismiss="modal"
-                                            >x</button>
-                                        <h4 class="modal-title" id="modal-title">Object Details</h4>
+                                       <h4 class="modal-title" id="modal-title"></h4>
                                     </div>
                                     <div class="modal-body" id="modal-description">
                                         <!-- XML data will be added here -->
                                     </div>
                                     <div class="modal-footer">
                                         <button type="button" class="btn btn-default"
-                                            data-dismiss="modal">Close</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <xsl:variable name="rowId" select="t:cell/t:ptr/@target"/>
-                        <button type="button" class="btn btn-light" onclick="openModal('{$rowId}')">
-                            Details</button>
-
-                        <div class="modal" id="myModal">
-                            <div class="modal-dialog">
-                                <div class="modal-content">
-                                    <!-- Modal Header -->
-                                    <div class="modal-header">
-
-                                        <h4 class="modal-title">test</h4>
-                                        <button type="button" class="btn-close"
-                                            data-bs-dismiss="modal"/>
-                                    </div>
-                                    <!-- Modal body -->
-                                    <div class="modal-body">
-                                        <p id="input">
-                                            <xsl:value-of select="../t:cell/t:ref"/>
-                                        </p>
-
-                                    </div>
-                                    <!-- Modal footer -->
-                                    <div class="modal-footer">
-                                        <button type="button" class="btn btn-danger"
                                             data-bs-dismiss="modal">Close</button>
                                     </div>
                                 </div>
                             </div>
                         </div>
+                        <xsl:variable name="target" select="t:cell/t:ptr/@target"/>
+                        <button type="button" class="btn btn-light" onclick="openModal('{$target}')">Details</button>
+
+                        
                     </td>
                 </xsl:when>
             </xsl:choose>
@@ -208,16 +199,15 @@
             <xsl:apply-templates/>
         </u>
     </xsl:template>
-    <!-- deletions -->
-    <xsl:template match="//t:del">
-        <s>
-            <xsl:apply-templates/>
-        </s>
-    </xsl:template>
+    
+    <!-- notes -->
+   <xsl:template match="t:note">
+       <span title="{.}" style="color:red">*</span>
+   </xsl:template>
     <!-- choice for abbreviations -->
     <xsl:template match="t:choice">
-        <span data-tooltip="{t:expan}" data-tooltip-position="bottom">
-            <xsl:value-of select="t:abbr"/>
+        <span title="{t:expan}">
+            <u style="text-decoration:underline dotted"><xsl:value-of select="t:abbr"/></u>
         </span>
     </xsl:template>
     <!-- choice for shelfmark normalisation -->
