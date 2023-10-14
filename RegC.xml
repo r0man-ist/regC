@@ -25,6 +25,1121 @@
          </sourceDesc>
       </fileDesc>
    </teiHeader>
+   <standOff>
+      <listObject>
+         <object xml:id="regC-bib-Bonifacio1652" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990205807710107026</idno>
+               <idno type="shelfmark">AA 37 Jur.</idno>
+               <idno type="ALMA-ID">990205807710107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Bonifacio, Baldassarre, 1585-1659, author.</author>
+                  <title>Balthassaris Bonifacii ludicra historia /</title>
+                  <imprint>
+                     <date>1652</date>
+                     <pubPlace>Venetiis, :</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Falster1717" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990148132190107026</idno>
+               <idno type="shelfmark">8° D 70 Jur.</idno>
+               <idno type="ALMA-ID">990148132190107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Falster, Christian.</author>
+                  <title>Christiani Falsteri Supplementum lingvæ Latinæ,sive, Observationes ad
+                     lexicon Fabro-Cellarianum, ed. mdccx. Adjectis notis cum præfatione S.
+                     Lintrupii.</title>
+                  <imprint>
+                     <date>1717</date>
+                     <pubPlace>Flensburgi</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Münster1533" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990146819860107026</idno>
+               <idno type="shelfmark">AA 36 Jur.</idno>
+               <idno type="ALMA-ID">990146819860107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Münster, Sebastian, 1489-1552.</author>
+                  <title>Horologiographia, post priorem æd. recogn. &amp; aucta.</title>
+                  <imprint>
+                     <date>1533</date>
+                     <pubPlace>Basil.</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Renaldini1654" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990142074730107026</idno>
+               <idno type="shelfmark">AA 34 Jur.</idno>
+               <idno type="ALMA-ID">990142074730107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Renaldini, Carlo conte.</author>
+                  <title>Caroli Renaldinii Opus mathematicum, in quo vtraque algebra nouis præceptis
+                     nouis(que) demonstrationibus illustratur. Methodus quoque resolutionis &amp;
+                     compositionis mathematicæ copiosiùs ad abstrusiora theoremata enodanda
+                     declaratur.</title>
+                  <imprint>
+                     <date>1655</date>
+                     <pubPlace>Bononiæ</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Vertot1720" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990143584850107026</idno>
+               <idno type="shelfmark">AA 40,41 Jur.</idno>
+               <idno type="ALMA-ID">990143584850107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Vertot, abbé de, 1655-1735.</author>
+                  <title>The history of the revolutions that happened in the government of the Roman
+                     republic, English'd by mr. Ozell and others.</title>
+                  <imprint>
+                     <date>1720</date>
+                     <pubPlace>Lond.</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-ActaEruditorum1719" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990104522620107026</idno>
+               <idno type="shelfmark">(Vet.) Per. 3977 d.161</idno>
+               <idno type="ALMA-ID">990104522620107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>null</author>
+                  <title>Acta Eruditorum</title>
+                  <imprint>
+                     <date>1719</date>
+                     <pubPlace>Lipsiae</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Grollier1719" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990144314170107026</idno>
+               <idno type="shelfmark">AA 48 Jur.</idno>
+               <idno type="ALMA-ID">990144314170107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Grollier de Servière, Gaspard.</author>
+                  <title>Recueil d'ouvrages curieux de mathématique et de mécanique, ou Description
+                     du cabinet de monsieur Grollier de Servière, par son petit fils.</title>
+                  <imprint>
+                     <date>1719</date>
+                     <pubPlace>Lyon</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Valier1719" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990141463910107026</idno>
+               <idno type="shelfmark">AA 29 Jur.</idno>
+               <idno type="ALMA-ID">990141463910107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Valier, Agostino card.</author>
+                  <title>Augustini Valerii ... opusculum ... de cautione adhibenda in edendis
+                     libris. Nec non Bernardi cardinalis Naugerii vita, eodem Valerio auctore.
+                     Accessere P. Barrocii orationes tres. Nonnullae item aliae patriciorum
+                     Venetorum.</title>
+                  <imprint>
+                     <date>1719</date>
+                     <pubPlace>Patavii</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Sannazaro1719" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990141723020107026</idno>
+               <idno type="shelfmark">AA 28 Jur.</idno>
+               <idno type="ALMA-ID">990141723020107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Sannazaro, Jacopo, 1458-1530.</author>
+                  <title>Jacobi ... Sannazarii ... poëmata. Accessit ejusdem vita, J.A. Vulpio
+                     auctore, item G. Altilii et H. Fascitelli carmina nonnulla.</title>
+                  <imprint>
+                     <date>1719</date>
+                     <pubPlace>Patavii</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Garofalo1718" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990140826430107026</idno>
+               <idno type="shelfmark">AA 30 Jur.</idno>
+               <idno type="ALMA-ID">990140826430107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Garofalo, Biagio.</author>
+                  <title>B. Caryophili ... dissertationum miscellanearum pars prima [ed. by T.M.
+                     Minorellus].</title>
+                  <imprint>
+                     <date>1718</date>
+                     <pubPlace>Romæ</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Galilei1718" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990144329390107026</idno>
+               <idno type="shelfmark">AA 25-27 Jur.</idno>
+               <idno type="ALMA-ID">990144329390107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Galilei, Galileo, 1564-1642.</author>
+                  <title>Opere de Galileo Galilei. Nuova ed. [ed. by T. Buonaventuri, G. Grandi and
+                     B. Bresciani].</title>
+                  <imprint>
+                     <date>1718</date>
+                     <pubPlace>Firenze</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Guglielmini1719" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990141864830107026</idno>
+               <idno type="shelfmark">CC 1,2 Jur.</idno>
+               <idno type="ALMA-ID">990141864830107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Guglielmini, Giovanni Domenico.</author>
+                  <title>Dominici Gulielmini ... opera omnia mathematica, hydraulica, medica, et
+                     physica.</title>
+                  <imprint>
+                     <date>1719</date>
+                     <pubPlace>Genevæ</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Hearne1720" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990132537230107026</idno>
+               <idno type="shelfmark">Mus. Bibl. II. 63</idno>
+               <idno type="ALMA-ID">990132537230107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Hearne, Thomas, 1678-1735</author>
+                  <title>A collection of curious discourses, : written by eminent antiquaries upon
+                     several heads in our English antiquities, </title>
+                  <imprint>
+                     <date>1720</date>
+                     <pubPlace>Oxford</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Willis1718" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135407150107026</idno>
+               <idno type="shelfmark">8° D 50 Jur.</idno>
+               <idno type="ALMA-ID">990135407150107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Willis, Browne, 1682-1760.</author>
+                  <title>An history of the mitred Parliamentary abbies, and conventual cathedral
+                     churches. : Shewing the times of their respective foundations, and what
+                     alterations they have undergone. With some descriptions of their monuments, and
+                     dimensions of their buildings, &amp;c. Together with a catalogue of their
+                     abbats, priors, &amp;c. To which are annexed, several other lists of the
+                     principals of divers monasteries; the number of monks at the surrender, and the
+                     names of the last abbats, priors, &amp;c. who signed the same; as far as they
+                     have come to hand. With an exact account of those religious men and women, and
+                     chantry priests, receiving pensions throughout England and Wales, An. 1553. A
+                     work, among other uses, necessary to give light to several charters sans date;
+                     and helpful to such who shall treat of families and dignified persons. For
+                     whose benefit are subjoined large indexes. The whole extracted out of very
+                     curious manuscripts, &amp;c. which have been many years colecting by the most
+                     eminent antiquaries; and faithfully published. /</title>
+                  <imprint>
+                     <date>1718</date>
+                     <pubPlace>London, :</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Willis1717" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135410410107026</idno>
+               <idno type="shelfmark">8° D 52 Jur.</idno>
+               <idno type="ALMA-ID">990135410410107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Willis, Browne, 1682-1760.</author>
+                  <title>A survey of the Cathedral Church of St. David's, and the edifices belonging
+                     to it, as they stood in the year 1715. : To which is added, some memoirs
+                     relating thereto and the country adjacent, from a MS wrote about the latter end
+                     of Queen Elizabeth's reign. Together, with an account of the arch-bishops,
+                     bishops, precentors, chancellors, treasurers, and arch-deacons of the See of
+                     St. David's. /</title>
+                  <imprint>
+                     <date>1717</date>
+                     <pubPlace>London: :</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Willis1719" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135407100107026</idno>
+               <idno type="shelfmark">8° D 53 Jur.</idno>
+               <idno type="ALMA-ID">990135407100107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Willis, Browne, 1682-1760</author>
+                  <title>A survey of the Cathedral-Church of Landaff. : Containing the inscriptions
+                     upon the monuments, with an account of the bishops and other dignitaries
+                     belonging to the same; what other preferments they enjoy'd; and the times of
+                     their decease, places of burial, and epitaphs. To which is subjoin'd a large
+                     appendix of records, and other curious matters relating thereto. /</title>
+                  <imprint>
+                     <date>1719</date>
+                     <pubPlace>London: :</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Willis1720" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990147362170107026</idno>
+               <idno type="shelfmark">8° D 54 Jur.</idno>
+               <idno type="ALMA-ID">990147362170107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Willis, Browne.</author>
+                  <title>A survey of the cathedral-church of St. Asaph: and the edifices belonging
+                     to it.</title>
+                  <imprint>
+                     <date>1720</date>
+                     <pubPlace>Lond.</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Struve1715" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990140158990107026</idno>
+               <idno type="shelfmark">8° D 60 Jur.</idno>
+               <idno type="ALMA-ID">990140158990107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Struve, Burkhard Gotthelf, 1671-1738</author>
+                  <title>Burcardi Gotthelffii Struvi i Introductio ad notitiam rei litteraria &amp;
+                     usum bibliothecarum, accessit dissertatio de doctis impostoribus. Huic 3æ ed.
+                     accedunt supplementa necessaria et oratio de meritis Germanorum in
+                     historiam.</title>
+                  <imprint>
+                     <date>1715</date>
+                     <pubPlace>Ienæ</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Ernulf1720" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990108430110107026</idno>
+               <idno type="shelfmark">Mus. Bibl. II. 66</idno>
+               <idno type="ALMA-ID">990108430110107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Ernulf, Bishop of Rochester, 1040-1124, author. </author>
+                  <title>Textus Roffensis. : Accedunt, Professionum antiquorum Angliæ Episcoporum
+                     formulæ, de canonica obedientia Archiepiscopis Cantuariensibus præstanda, et
+                     Leonardi Hutteni Dissertatio, Anglice conscripta, de antiquitatibus
+                     Oxoniensibus.</title>
+                  <imprint>
+                     <date>1720</date>
+                     <pubPlace>Oxonii</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Quintilian1527" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990146226100107026</idno>
+               <idno type="shelfmark">8° C 64 Jur.</idno>
+               <idno type="ALMA-ID">990146226100107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Quintilian.</author>
+                  <title>M. Fabij Quintiliani ... oratoriarū institutionū libri. xij. [With] M.
+                     Fabij Quintiliani ... xix. declamationes argustissimæ.</title>
+                  <imprint>
+                     <date>1527</date>
+                     <pubPlace>Par.</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Huet1718" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990144441750107026</idno>
+               <idno type="shelfmark">8° D 71 Jur.</idno>
+               <idno type="ALMA-ID">990144441750107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Huet, Pierre-Daniel, 1630-1721. 1630-1721</author>
+                  <title>Pet. Dan. Huetii ... Commentarius de rebus ad eum pertinentibus.</title>
+                  <imprint>
+                     <date>1718</date>
+                     <pubPlace>Amst.</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Roper1716" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990144727970107026</idno>
+               <idno type="shelfmark">Mus. Bibl. II. 55</idno>
+               <idno type="ALMA-ID">990144727970107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Roper, William</author>
+                  <title>Guilielmi Roperi Vita D. Thomæ Mori Equitis Aurati, lingua Anglicana
+                     contexta. : Accedunt, Mori Epistola de scholasticis quibusdam Trojanos sese
+                     appellantibus; Academiæ Oxonienses epistolæ et orationes aliquammultæ; anonymi
+                     Chronicon Godstovianum; et fenestrarum depictarum ecclesiæ parochialis de
+                     Fairford in agro Glocestriensi explicatio.</title>
+                  <imprint>
+                     <date>1716</date>
+                     <pubPlace>[Oxf.]</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Sprott1719" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135051310107026</idno>
+               <idno type="shelfmark">Mus. Bibl. II. 62</idno>
+               <idno type="ALMA-ID">990135051310107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Sprott, Thomas</author>
+                  <title>Thomæ Sprotti Chronica. E codice antiquo MSto. in bibliotheca praenobilis
+                     adolescentis Dni. Edvardi Dering, de Surrenden Dering in agro Cantiano,
+                     Baronetti, descripsit ediditque Tho. Hearnius, qui &amp; alia quaedam opuscula,
+                     è codicibus MSStis. authenticis à seipso itidem descripta, subjecit.</title>
+                  <imprint>
+                     <date>1719</date>
+                     <pubPlace>Oxonii</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Nicolson1714" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135290490107026</idno>
+               <idno type="shelfmark">R 1.7 Jur.</idno>
+               <idno type="ALMA-ID">990135290490107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Nicolson, William, 1655-1727.</author>
+                  <title>The English historical library. : In three parts. Giving a short view and
+                     character of most of our historians either in print or manuscript: with an
+                     account of our records, law-books, coins, and other matters serviceable to the
+                     undertakers of a general history of England. The second edition corrected and
+                     augmented. /</title>
+                  <imprint>
+                     <date>1714</date>
+                     <pubPlace>London, :</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Prücknerus1663" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990142752010107026</idno>
+               <idno type="shelfmark">L 4.4-6 Th.</idno>
+               <idno type="ALMA-ID">990142752010107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Prücknerus, Andreas.</author>
+                  <title>Commentarius philologico theologicus in omnes Veteris et Novi Testamenti
+                     libros, tam canonicos quam apocryphos.</title>
+                  <imprint>
+                     <date>1663</date>
+                     <pubPlace>Francof. a. M.</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="reg-C-bib-Bernardinus1623" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990141954320107026</idno>
+               <idno type="shelfmark">FF 34 Th.</idno>
+               <idno type="ALMA-ID">990141954320107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Bernardinus de s. Antonio frater.</author>
+                  <title>Epitome generalium redemptionū captiuorum, quæ a fratribus Ordinis S.mæ
+                     Trinitatis sunt factæ. [With] Additionis liber tertius.</title>
+                  <imprint>
+                     <date>1623</date>
+                     <pubPlace>Vlyssip.</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="reg-C-bib-Maccovius1654" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990140393530107026</idno>
+               <idno type="shelfmark">FF 38 Th.</idno>
+               <idno type="ALMA-ID">990140393530107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Maccovius, Johannes.</author>
+                  <title>Johannes Maccovius redivivus: sive, manuscripta ejus typis exscripta,
+                     continens, Theologiam polemicam, Prōton pseudos pontificiorum [&amp;c.], Casus
+                     conscientiae ad normam doctrinæ Socinianæ, anti-Socinum, cum appendice de
+                     atheis, procurante N. Arnoldo.</title>
+                  <imprint>
+                     <date>1654</date>
+                     <pubPlace>Franequeræ</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Crakanthorp1625" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990138814190107026</idno>
+               <idno type="shelfmark">FF 31 Th.</idno>
+               <idno type="ALMA-ID">990138814190107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Crakanthorpe, Richard, 1567-1624.</author>
+                  <title>Defensio Ecclesiæ Anglicanæ, contra M ... a. de Dominis iniurias, opus
+                     posthumum a I. Barkham ed.</title>
+                  <imprint>
+                     <date>1625</date>
+                     <pubPlace>Lond.</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Linden1597" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990147366200107026</idno>
+               <idno type="shelfmark">FF 32 Th. (1)</idno>
+               <idno type="ALMA-ID">990147366200107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Linden, Henricus Antonides van der praeses.</author>
+                  <title>Theses theologicæ de sponsa Christi.</title>
+                  <imprint>
+                     <date>1597</date>
+                     <pubPlace>Franekeræ</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Geier1667" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990143776200107026</idno>
+               <idno type="shelfmark">FF 37 Th.</idno>
+               <idno type="ALMA-ID">990143776200107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Geier, Martin, 1614-1680.</author>
+                  <title>Prælectiones academicæ in Danielem prophetam.</title>
+                  <imprint>
+                     <date>1667</date>
+                     <pubPlace>Lips.</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Grawerus1618" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990143006840107026</idno>
+               <idno type="shelfmark">FF 36 Th.</idno>
+               <idno type="ALMA-ID">990143006840107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Grawerus, Albertus.</author>
+                  <title>Absurda, absurdorum absurdissima, Calvinistica absurda. Keckermanno
+                     opposita.</title>
+                  <imprint>
+                     <date>1618</date>
+                     <pubPlace>Jenæ</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Gürtler1694" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990147889130107026</idno>
+               <idno type="shelfmark">FF 35 Th.</idno>
+               <idno type="ALMA-ID">990147889130107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Gürtler, Nicolaus.</author>
+                  <title>Nicolai Gürtleri ... Institutiones theologicæ.</title>
+                  <imprint>
+                     <date>1694</date>
+                     <pubPlace>Amst.</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Pfeiffer1687" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990146993880107026</idno>
+               <idno type="shelfmark">FF 33 Th.</idno>
+               <idno type="ALMA-ID">990146993880107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Pfeiffer, Augustus.</author>
+                  <title>Augusti Pfeifferi ... Informatorium conscientiæ eucharisticum.</title>
+                  <imprint>
+                     <date>1687</date>
+                     <pubPlace>Lips.</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Niemann1671" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990141774800107026</idno>
+               <idno type="shelfmark">FF 30 Th.</idno>
+               <idno type="ALMA-ID">990141774800107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Niemann, Sebastian, 1625-1684, praeses.</author>
+                  <title>Harmonia Evangelica historiæ passionis ... Iesu Christi, cujus partem
+                     primam ... exponit m. Caspar Sagittarius ... auctor.</title>
+                  <imprint>
+                     <date>1671</date>
+                     <pubPlace>Jenæ</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Lewis1720" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990144692230107026</idno>
+               <idno type="shelfmark">8° Y 361 BS</idno>
+               <idno type="ALMA-ID">990144692230107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Lewis, Thomas, 1689-1749?</author>
+                  <title>The Scourge: in vindication of the Church of England. To which are added,
+                     i. The danger of the Church-establishment of England, from the insolence of
+                     Protestant dissenters. ii. The anatomy of the heretical synod of dissenters at
+                     Salters-hall. By T.L.</title>
+                  <imprint>
+                     <date>1720</date>
+                     <pubPlace>Lond.</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Dorscheus1674" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990145533300107026</idno>
+               <idno type="shelfmark">L 3.12,13 Th.</idno>
+               <idno type="ALMA-ID">990145533300107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Dorscheus, Joannes Georgius.</author>
+                  <title>Joh. Georg. Dorschei Biblia numerata; seu, Index specialis in Vetus (Novum)
+                     Testamentum, auctus a J. Grambsio.</title>
+                  <imprint>
+                     <date>1674</date>
+                     <pubPlace>Francof. a. M.</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Menochio1719" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990148549290107026</idno>
+               <idno type="shelfmark">S 2.14,15 Th.</idno>
+               <idno type="ALMA-ID">990148549290107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Menochio, Giovanni Stefano.</author>
+                  <title>R.p. Joan. Stephani Menochii ... Commentarii totius s. Scripturæ.</title>
+                  <imprint>
+                     <date>1719</date>
+                     <pubPlace>Lutec. Par.</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Le_Neve1720" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990140557270107026</idno>
+               <idno type="shelfmark">8° Z 412 Th.</idno>
+               <idno type="ALMA-ID">990140557270107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Le Neve, John, 1679-1741.</author>
+                  <title>The lives and characters [&amp;c.] of all the Protestant bishops of the
+                     Church of England since ... 1559. Vol.1. [in 2 pt. No more publ.].</title>
+                  <imprint>
+                     <date>1720</date>
+                     <pubPlace>Lond.</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Trott1719" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135521710107026</idno>
+               <idno type="shelfmark">fol. BS. 50</idno>
+               <idno type="ALMA-ID">990135521710107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Trott, Nicholas, 1663-1740</author>
+                  <title>[Mafteaḥ leshon ha-ḳodesh] = Clavis linguæ sanctæ, : continens
+                     grammaticalem explicationem 564. Versiculorum ex Libro Psalmorum, &amp; 546.
+                     Versiculorum ex cæteris libris Veteris Testamenti: in quibus omnes radices purè
+                     Hebraicæ Veteris Testamenti, cum nonnullis radicibus Chaldaicis (occurrentibus
+                     tamen in libris Hebraicis) inveniuntur: &amp; in hac clave referantur, &amp;
+                     juxta grammaticas regulas, resolvuntur, &amp; explicantur.</title>
+                  <imprint>
+                     <date>1719</date>
+                     <pubPlace>Oxonii</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Johnson1720" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135042490107026</idno>
+               <idno type="shelfmark">8° X 68,69 Th.</idno>
+               <idno type="ALMA-ID">990135042490107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Johnson, John, 1662-1725</author>
+                  <title>A collection of all the ecclesiastical laws, canons, answers, or rescripts,
+                     with other memorials concerning the government, discipline and worship of the
+                     Church of England, from its first foundation to the Conquest, that have
+                     hitherto been publish'd in the Latin and Saxonic tongues. And of all the canons
+                     and constitutions ecclesiastical, made since the Conquest and before the
+                     Reformation, in any National Council, or in the provincial synods of Canterbury
+                     and York, that have hitherto been publish'd in the Latin tongue. Now first
+                     translated into English with explanatory notes, and such glosses from Lyndwood
+                     and Athone, as were thought most useful. Part the First. [- Second.] /</title>
+                  <imprint>
+                     <date>1720</date>
+                     <pubPlace>London: :</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Lux1719" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135535610107026</idno>
+               <idno type="shelfmark">8° M 236 Th.</idno>
+               <idno type="ALMA-ID">990135535610107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Lux, William, 1694?-</author>
+                  <title>Poems on several occasions: viz. The garden. The phænomenon, a poem on the
+                     late surprizing meteor, seen in the sky, Mar. 19th. 1719. A vision, ...</title>
+                  <imprint>
+                     <date>1719</date>
+                     <pubPlace>Oxford :</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Lebrun1718" ana="not-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/almanull</idno>
+               <idno type="shelfmark">null</idno>
+               <idno type="ALMA-ID">null</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>null</author>
+                  <title>null</title>
+                  <imprint>
+                     <date>null</date>
+                     <pubPlace>null</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Meyer1561" ana="not-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/almanull</idno>
+               <idno type="shelfmark">null</idno>
+               <idno type="ALMA-ID">null</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Meyer, Jacques de, 1491-1552</author>
+                  <title>Commentarii siue annales rerum Flandricarum libri septendecim</title>
+                  <imprint>
+                     <date>1561</date>
+                     <pubPlace>Antuerpiæ</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Prideaux" ana="not-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/almanull</idno>
+               <idno type="shelfmark">null</idno>
+               <idno type="ALMA-ID">null</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Prideaux, Humphrey, 1648-1724 </author>
+                  <title>The Old and New Testament connected in the history of the Jews and
+                     neighbouring nations</title>
+                  <imprint>
+                     <date>null</date>
+                     <pubPlace>null</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Leotaud1654" ana="not-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/almanull</idno>
+               <idno type="shelfmark">null</idno>
+               <idno type="ALMA-ID">null</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Leotaud, Vincent, 1595-1672</author>
+                  <title>Examen circuli quadraturae hactenus editarum celeberrimae, : quam
+                     Apollonius alter, magno illo Pergaeo non minor geometra, R. P. Gregorius a
+                     Sancto Vincentio Societatis Iesu exposuit.</title>
+                  <imprint>
+                     <date>1654</date>
+                     <pubPlace>null</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Mabillon1704" ana="not-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/almanull</idno>
+               <idno type="shelfmark">null</idno>
+               <idno type="ALMA-ID">null</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Mabillon, Jean, 1632-1707</author>
+                  <title>Librorum de re diplomatica supplementum. : In quo archetypa in his libris
+                     pro regulis proposita, ipsæque regulæ denuo confirmantur, novisque speciminibus
+                     &amp; argumentis asseruntur &amp; illustrantur.</title>
+                  <imprint>
+                     <date>1704</date>
+                     <pubPlace>null</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Sacred1716" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990146444210107026</idno>
+               <idno type="shelfmark">O 3.1 Th.</idno>
+               <idno type="ALMA-ID">990146444210107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>null</author>
+                  <title>Sacred geography contained in six maps.</title>
+                  <imprint>
+                     <date>1716</date>
+                     <pubPlace>Lond.</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Cyril1720" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990140066620107026</idno>
+               <idno type="shelfmark">G 3.11 Th.</idno>
+               <idno type="ALMA-ID">990140066620107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Cyril, Saint, Bishop of Jerusalem, approximately 315-386</author>
+                  <title>Tou en hagiois patros hēmōn Kurillou ... ta heuriskomena panta ... cum nova
+                     interpretatione studio A.A. Toultée.</title>
+                  <imprint>
+                     <date>1720</date>
+                     <pubPlace>Par.</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Quétif1719" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990146365220107026</idno>
+               <idno type="shelfmark">M 1.2 Th.</idno>
+               <idno type="ALMA-ID">990146365220107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Quétif, Jacques.</author>
+                  <title>Scriptores Ordinis prædicatorum recensiti, opus inchoavit J. Quétif,
+                     absolvit J. Echard.</title>
+                  <imprint>
+                     <date>1719</date>
+                     <pubPlace>Lutet. Par.</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Vitringa1714" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990143810580107026</idno>
+               <idno type="shelfmark">A 7.11,12 Th.</idno>
+               <idno type="ALMA-ID">990143810580107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Vitringa, Campegius, 1659-1722</author>
+                  <title>Commentarius in librum prophetiarum Iesaiæ: cum prolegomenis.</title>
+                  <imprint>
+                     <date>1714</date>
+                     <pubPlace>Leovardiæ</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Trommius1718" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990147168890107026</idno>
+               <idno type="shelfmark">P 7.8,9 Th.</idno>
+               <idno type="ALMA-ID">990147168890107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Trommius, Abraham.</author>
+                  <title>Abrahami Trommii Concerdantiæ Græcæ versionis vulgo dictæ LXX interpretum,
+                     cujus voces secundum ordinem elementorum sermonis Græci digestæ recensentur,
+                     contra atque in opere Kircheriano factum fuerat.</title>
+                  <imprint>
+                     <date>1718</date>
+                     <pubPlace>Amst. &amp;c.</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Hippolytus1716" ana="copy-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990130888040107026</idno>
+               <idno type="shelfmark">C 16.11 Th.</idno>
+               <idno type="ALMA-ID">990130888040107026</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Hippolytus, Antipope, approximately 170-235 or 236.</author>
+                  <title>S. Hippolyti episcopi et martyris Opera, : non antea collecta, et partem
+                     nunc primum e MSS. in lucem edita Græce et Latine. Accedunt virorum doctorum
+                     notæ et animadversiones, ac præter aliorum commentarios in monumentum paschale
+                     Sancti Martyris tabula triplici ænea expressum, dissertationes integræ virorum
+                     clarissimorum Francisci Blanchini, et Jo. Vignolii, atque ex Virginii Valsechii
+                     et Philippi a Turre scriptis excerpta S. Hippolytum spectantia. Subjuncta
+                     appendix scriptorum dubiorum, supposititiorumque, nec non quæcunque reperiri
+                     potuere ex lucubrationibus Hippolyti Junioris Thebani. /</title>
+                  <imprint>
+                     <date>1716</date>
+                     <pubPlace>Hamburgi, :</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+         <object xml:id="regC-bib-Bruyn1718" ana="not-identified">
+            <objectIdentifier>
+               <institution>Bodleian Library</institution>
+               <idno type="SOLOlink"
+                  >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/almanull</idno>
+               <idno type="shelfmark">null</idno>
+               <idno type="ALMA-ID">null</idno>
+            </objectIdentifier>
+            <biblStruct>
+               <monogr>
+                  <author>Bruyn, Cornelis de, 1652-1726 or 7.</author>
+                  <title>Voyages de Corneille Le Brun par la Moscovie, en Perse, et aux Indes
+                     Orientales. : Ouvrage enrichi de plus de 320 tailles douces ... On y a ajoûté
+                     la route qu'a suivie Mr. Isbrants, ambassadeur de Moscovie, en traversant la
+                     Russie &amp; la Tartarie, pour se rendre à la Chine. Et quelques remarques
+                     contre Mrs. Chardin &amp; Kempfer. Avec une lettre écrite à l'auteur, sur ce
+                     sujet..</title>
+                  <imprint>
+                     <date>1718</date>
+                     <pubPlace>A Amsterdam</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </object>
+      </listObject>
+   </standOff>
    <text>
       <front>
          <pb xml:id="fol-1v" n="frontmatter"/>
@@ -76,7 +1191,7 @@
                <row>
                   <cell rend="head">Duplicates sold out of the Bodleian Library <lb/><date
                         from="1719-11-09" to="1720-11-08">between the ninth of Nov.<hi
-                           rend="superscript:true">r</hi> 1719 &amp; the eighth of Nov.<hi
+                           rend="superscript:true">r</hi> 1719 &amp;amp; the eighth of Nov.<hi
                            rend="superscript:true">r</hi> 1720</date></cell>
                   <cell/>
                   <cell/>
@@ -603,8 +1718,7 @@
                </row>
                <row ana="prov:purchase">
                   <cell>12.</cell>
-                  <cell><ptr target="#regC-bib-Gürtler1694
-                     "/><hi rend="underlined:true">Gurtleri</hi> Institt. Theol.
+                  <cell><ptr target="#regC-bib-Gürtler1694"/><hi rend="underlined:true">Gurtleri</hi> Institt. Theol.
                         <hi rend="underlined:true">Amst</hi>. 1694 4<hi rend="superscript:true"
                         >o</hi>.</cell>
                   <cell><measure quantity="0" unit="pound">0</measure></cell>
@@ -790,9 +1904,10 @@
                </row>
                <row ana="prov:purchase">
                   <cell>24.</cell>
-                  <cell><ptr target="#regC-bib-Quétif1719"/>F. F. <hi rend="underlined:true">Quetif</hi> &amp; <hi
-                        rend="underlined:true">Echard</hi> Scriptores Ordinis<lb/>Praedicatorum.
-                     fol. <hi rend="underlined:true">Par</hi>. 1719. Vol.1.</cell>
+                  <cell><ptr target="#regC-bib-Quétif1719"/>F. F. <hi rend="underlined:true"
+                        >Quetif</hi> &amp; <hi rend="underlined:true">Echard</hi> Scriptores
+                     Ordinis<lb/>Praedicatorum. fol. <hi rend="underlined:true">Par</hi>. 1719.
+                     Vol.1.</cell>
                   <cell><measure quantity="1" unit="pound">1</measure></cell>
                   <cell><measure quantity="18" unit="shilling">18</measure></cell>
                   <cell><measure quantity="0" unit="pence">0</measure></cell>
@@ -811,8 +1926,9 @@
                </row>
                <row ana="prov:purchase">
                   <cell>26.</cell>
-                  <cell><ptr target="#regC-bib-Trommius1718"/>Abr. <hi rend="underlined:true">Trommi</hi> Concordantiae Gr. Vet.
-                     Test.<lb/>2 Voll. fol. <hi rend="underlined:true">Amst</hi>. 1718.</cell>
+                  <cell><ptr target="#regC-bib-Trommius1718"/>Abr. <hi rend="underlined:true"
+                        >Trommi</hi> Concordantiae Gr. Vet. Test.<lb/>2 Voll. fol. <hi
+                        rend="underlined:true">Amst</hi>. 1718.</cell>
                   <cell><measure quantity="2" unit="pound">2</measure></cell>
                   <cell><measure quantity="18" unit="shilling">18</measure></cell>
                   <cell><measure quantity="0" unit="pence">0</measure></cell>
@@ -873,13 +1989,16 @@
                </row>
                <row ana="prov:purchase">
                   <cell>36.37.</cell>
-                  <cell><ptr target="#regC-bib-Menochio1719"/><hi rend="underlined:true">Menochii</hi> Comm. in S.
-                     Scripturam.<lb/> 2 Voll. <hi rend="underlined:true">Par</hi>. 1719. [cum
-                     Supl.]. fol.</cell>
+                  <cell><ptr target="#regC-bib-Menochio1719"/><hi rend="underlined:true"
+                        >Menochii</hi> Comm. in S. Scripturam.<lb/> 2 Voll. <hi
+                        rend="underlined:true">Par</hi>. 1719. [cum Supl.]. fol.</cell>
                   <cell><measure quantity="2" unit="pound">2</measure></cell>
                   <cell><measure quantity="16" unit="shilling">16</measure></cell>
                   <cell><measure quantity="0" unit="pence">0</measure></cell>
-                  <cell>S.12. 14,15. Th.<note>Todays shelfmark is S. 2.14,15 Th.; in the copies, "12" is crossed out and corrected to "2". It is more likely that a clerical mistake was made and later corrected than that the book was actually moved from one shelfmark to another.</note></cell>
+                  <cell>S.12. 14,15. Th.<note>Todays shelfmark is S. 2.14,15 Th.; in the copies,
+                        "12" is crossed out and corrected to "2". It is more likely that a clerical
+                        mistake was made and later corrected than that the book was actually moved
+                        from one shelfmark to another.</note></cell>
                   <cell>Vice-Can.</cell>
                </row>
                <row ana="prov:purchase">
@@ -974,8 +2093,9 @@
                </row>
                <row ana="prov:purchase">
                   <cell>43.</cell>
-                  <cell><ptr target="#regC-bib-Hippolytus1716"/>S. <hi rend="underlined:true">Hippolyti</hi> Opera Gr. Lat. p Joh.<lb/>
-                     Fabricium. Vol. 1. Hamb. 1716. fol.</cell>
+                  <cell><ptr target="#regC-bib-Hippolytus1716"/>S. <hi rend="underlined:true"
+                        >Hippolyti</hi> Opera Gr. Lat. p Joh.<lb/> Fabricium. Vol. 1. Hamb. 1716.
+                     fol.</cell>
                   <cell><measure quantity="1" unit="pound">1</measure></cell>
                   <cell><measure quantity="3" unit="shilling">3</measure></cell>
                   <cell><measure quantity="0" unit="pence
@@ -1039,8 +2159,8 @@
                </row>
                <row ana="prov:purchase">
                   <cell>49.</cell>
-                  <cell><ptr target="#regC-bib-Vitringa1714"/><hi rend="underlined:true">Vitringa</hi> in Isaiam. 2 Voll. Louv.
-                     1719.20.</cell>
+                  <cell><ptr target="#regC-bib-Vitringa1714"/><hi rend="underlined:true"
+                        >Vitringa</hi> in Isaiam. 2 Voll. Louv. 1719.20.</cell>
                   <cell><measure quantity="3" unit="pound">3</measure></cell>
                   <cell><measure quantity="6" unit="shilling">6</measure></cell>
                   <cell><measure quantity="0" unit="pence">0</measure></cell>
@@ -1052,8 +2172,9 @@
                </row>
                <row ana="prov:purchase">
                   <cell>51.</cell>
-                  <cell><ptr target="#regC-bib-Cyril1720"/>S. <hi rend="underlined:true">Cyrilli</hi> Hierosol. Opera Gr. Lat. per<lb/>
-                     Monachos Benedictinos <hi rend="underlined:true">Par</hi>. 1720.</cell>
+                  <cell><ptr target="#regC-bib-Cyril1720"/>S. <hi rend="underlined:true"
+                        >Cyrilli</hi> Hierosol. Opera Gr. Lat. per<lb/> Monachos Benedictinos <hi
+                        rend="underlined:true">Par</hi>. 1720.</cell>
                   <cell><measure quantity="1" unit="pound">1</measure></cell>
                   <cell><measure quantity="16" unit="shilling">16</measure></cell>
                   <cell><measure quantity="0" unit="pence">0</measure></cell>
@@ -1164,9 +2285,10 @@
                </row>
                <row ana="prov:purchase">
                   <cell>59.60.</cell>
-                  <cell><ptr target="#regC-bib-Bruyn1718"/>Corneille le <hi rend="underlined:true">Brun</hi> Voyages par la <lb/>
-                     Moscovie, en Perse, et aux Indes<lb/>Orientales. 2 Voll. <hi
-                        rend="underlined:true">Amst</hi>. 1718. fol.</cell>
+                  <cell><ptr target="#regC-bib-Bruyn1718"/>Corneille le <hi rend="underlined:true"
+                        >Brun</hi> Voyages par la <lb/> Moscovie, en Perse, et aux
+                     Indes<lb/>Orientales. 2 Voll. <hi rend="underlined:true">Amst</hi>. 1718.
+                     fol.</cell>
                   <cell><measure quantity="3" unit="pound">3</measure></cell>
                   <cell><measure quantity="3" unit="shilling">3</measure></cell>
                   <cell><measure quantity="0" unit="pence">0</measure></cell>
