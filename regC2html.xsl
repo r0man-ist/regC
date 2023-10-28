@@ -158,6 +158,12 @@
         <a href="example.com"><xsl:apply-templates></xsl:apply-templates></a>
     </xsl:template>
 
+<!-- Gaps -->
+<xsl:template match="t:gap[@reason='deleted']">
+    <xsl:text>##deletion##</xsl:text><xsl:apply-templates></xsl:apply-templates>
+</xsl:template>
+    
+    
     <!-- style cells, borders and headings -->
     <xsl:template match="t:cell[@cols and @rows]">
         <xsl:choose>
