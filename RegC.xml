@@ -2717,9 +2717,9 @@
                   <cell>Lumen Chirurgicum</cell>
                   <cell rows="2">by D<hi rend="superscript:true">r</hi>. Colbatch</cell>
                   <cell rows="2"><ab type="shelfmark"><choice>
-                     <orig>8° M.22.Linc.</orig>
-                     <reg>8° M 22 Linc.</reg>
-                  </choice></ab></cell>
+                           <orig>8° M.22.Linc.</orig>
+                           <reg>8° M 22 Linc.</reg>
+                        </choice></ab></cell>
                   <cell rows="2">Prof. Astron.</cell>
                </row>
                <row ana="prov:donation">
@@ -2797,6 +2797,342 @@
                </row>
             </table>
          </ab>
+         <pb xml:id="fol-15v" n="20" style="empty"/>
+         <pb xml:id="fol-16r" n="21"/>
+         <ab ana="prov:when"><date when="1720"/><table>
+               <row>
+                  <cell/>
+                  <cell rend="head">Books remov'd</cell>
+                  <cell rend="head">Former<lb/> Number</cell>
+                  <cell rend="head">Present<lb/> Number</cell>
+               </row>
+               <row>
+                  <cell>1,2.</cell>
+                  <cell>Archimedes</cell>
+                  <cell>A. 1, 26,27. Art.</cell>
+                  <cell>Arch. C.112,113.</cell>
+               </row>
+               <row>
+                  <cell>3.</cell>
+                  <cell>Archimedes</cell>
+                  <cell>A.1,28. Art.</cell>
+                  <cell>B.4.2. Art.</cell>
+               </row>
+               <row>
+                  <cell>4.</cell>
+                  <cell>R. Azaria.</cell>
+                  <cell>M.5.11. Th.</cell>
+                  <cell>F.F. 27. Th.</cell>
+               </row>
+               <row>
+                  <cell>5.</cell>
+                  <cell>Boxhornius</cell>
+                  <cell>B.4.2. Art.</cell>
+                  <cell>A .A. 31. Jur.</cell>
+               </row>
+               <row>
+                  <cell>6.</cell>
+                  <cell>Ceva</cell>
+                  <cell>C.5.10. Th.</cell>
+                  <cell>D.D. 44. Th.</cell>
+               </row>
+               <row>
+                  <cell>7.</cell>
+                  <cell>Driverus</cell>
+                  <cell>T. 1. 7. Med.</cell>
+                  <cell>4.<hi rend="superscript:true">to</hi> F. 15. Med.</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell> Jo. Guido</cell>
+                  <cell>ibid.</cell>
+                  <cell>ibid.</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell> Selanus</cell>
+                  <cell>ibid.</cell>
+                  <cell>ibid.</cell>
+               </row>
+               <row>
+                  <cell>8.</cell>
+                  <cell>Espencæus</cell>
+                  <cell>E.4,3 Th.</cell>
+                  <cell>F.F 29. Th.</cell>
+               </row>
+               <row>
+                  <cell>9.</cell>
+                  <cell>Flacius.</cell>
+                  <cell>D.3,12. Th.</cell>
+                  <cell>F.F. 23. Th.</cell>
+               </row>
+               <row>
+                  <cell>10.</cell>
+                  <cell>Greenham</cell>
+                  <cell>Arch. A.73.</cell>
+                  <cell>Arch. D. <del>68</del>.70.</cell>
+               </row>
+               <row>
+                  <cell>11.</cell>
+                  <cell>Hemelarius</cell>
+                  <cell>C.2.1. Art.</cell>
+                  <cell>A.A.33.Jur.</cell>
+               </row>
+               <row>
+                  <cell>12.</cell>
+                  <cell>Herrera</cell>
+                  <cell>L.4.17.Th.</cell>
+                  <cell>H.5,11 Th.</cell>
+               </row>
+               <row>
+                  <cell>13.</cell>
+                  <cell>Kircherus</cell>
+                  <cell>B.6.3 Art.</cell>
+                  <cell>A. A. 47. Jur.</cell>
+               </row>
+               <row>
+                  <cell>14.</cell>
+                  <cell>Labata</cell>
+                  <cell>L.3.13. Th.</cell>
+                  <cell>D.D. 49. Th.</cell>
+               </row>
+               <row>
+                  <cell>15.</cell>
+                  <cell>Idem</cell>
+                  <cell>L.3. 14. Th.</cell>
+                  <cell>D.D. 50. Th.</cell>
+               </row>
+               <row>
+                  <cell>16.</cell>
+                  <cell>Lippeloo</cell>
+                  <cell>L.4.4. Th.</cell>
+                  <cell>D.D. 46. Th.</cell>
+               </row>
+               <row>
+                  <cell>17.</cell>
+                  <cell>Lippeloo</cell>
+                  <cell>L.4.5.Th.</cell>
+                  <cell>D.D. 47. Th.</cell>
+               </row>
+               <row>
+                  <cell>18.</cell>
+                  <cell>Lyserus</cell>
+                  <cell>L.4.6.Th.</cell>
+                  <cell>D.D. 48. Th.</cell>
+               </row>
+               <row>
+                  <cell>19.</cell>
+                  <cell>Missale</cell>
+                  <cell>A.1.11. Th.</cell>
+                  <cell>Arch. A.73.</cell>
+               </row>
+               <row>
+                  <cell>20.</cell>
+                  <cell>Camillo Pellegrino</cell>
+                  <cell>B.6.4. Art.</cell>
+                  <cell>A. A. 46. Jur.</cell>
+               </row>
+               <row>
+                  <cell>21.</cell>
+                  <cell>Rhonæus.</cell>
+                  <cell>R. 7.11.Th.</cell>
+                  <cell>D.D. 42. Th.</cell>
+               </row>
+               <row>
+                  <cell>22.</cell>
+                  <cell>Ribera</cell>
+                  <cell>R.7.12. Th.</cell>
+                  <cell>D.D. 43. Th.</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>Day</cell>
+                  <cell>ibid.</cell>
+                  <cell>ibid.</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>Gardyner</cell>
+                  <cell>ibid.</cell>
+                  <cell>ibid.</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>Blanchot</cell>
+                  <cell>ibid.</cell>
+                  <cell>ibid.</cell>
+               </row>
+               <row>
+                  <cell>23.</cell>
+                  <cell>R. <hi rend="underlined:true">Samuel</hi> &amp;. Jacob</cell>
+                  <cell>M.5.12. Th.</cell>
+                  <cell>F.F. 28. Th.</cell>
+               </row>
+               <row>
+                  <cell>24.</cell>
+                  <cell>Schotanus</cell>
+                  <cell>H.5.11. Th.</cell>
+                  <cell>F.F. 24. Th.</cell>
+               </row>
+               <row>
+                  <cell>25.</cell>
+                  <cell>SpeideliuS</cell>
+                  <cell>S. 2.10. Jur.</cell>
+                  <cell>A.A. 38. Jur.</cell>
+               </row>
+               <row>
+                  <cell>26.</cell>
+                  <cell>Vattier.</cell>
+                  <cell>B.5.1. Art.</cell>
+                  <cell>A.A. 32. Jur.</cell>
+               </row>
+               <row>
+                  <cell>27.</cell>
+                  <cell>Forentius <hi rend="underlined:true">Volusenus</hi>.</cell>
+                  <cell>A. 8.17. Art.</cell>
+                  <cell>A.A. 45. Jur.</cell>
+               </row>
+            </table></ab>
+         <pb xml:id="fol-16v" n="22" style="empty"/>
+         <pb xml:id="fol-17r" n="23"/>
+         <table>
+            <row>
+               <cell/>
+               <cell rend="head">Books remov'd</cell>
+               <cell rend="head">Former<lb/> Number</cell>
+               <cell rend="head">Present<lb/> Number</cell>
+            </row>
+            <row>
+               <cell>28.</cell>
+               <cell>Nieuhoff</cell>
+               <cell>Arch. A. 147.</cell>
+               <cell>F.2. 7. Art.</cell>
+            </row>
+            <row>
+               <cell>29.</cell>
+               <cell>Finkius</cell>
+               <cell>F.2.7. Art.</cell>
+               <cell>A.A. 52. Jur.</cell>
+            </row>
+            <row>
+               <cell>30.</cell>
+               <cell>Cicero de Officiis</cell>
+               <cell>Arch. C. 93.</cell>
+               <cell>Arch. A. 147.</cell>
+            </row>
+            <row>
+               <cell>31.</cell>
+               <cell>Maranta</cell>
+               <cell>4° W. 49. Jur.</cell>
+               <cell>CC. 4. Jur.</cell>
+            </row>
+            <row>
+               <cell>32.</cell>
+               <cell>Idem</cell>
+               <cell>4° W. 50.Jur.</cell>
+               <cell>CC. 5. Jur</cell>
+            </row>
+         </table>
+
+         <pb xml:id="fol-17v" n="24" style="empty"/>
+         <pb xml:id="fol-18r" n="25"/>
+
+         <table>
+            <row>
+               <cell rend="head">Ballance of the whole Account for the Year 1720.</cell>
+               <cell/>
+               <cell/>
+               <cell/>
+            </row>
+            <row>
+               <cell/>
+               <cell>L</cell>
+               <cell>s</cell>
+               <cell>d</cell>
+            </row>
+            <row>
+               <cell>Summ Total of the Bills, Expences &amp;c. <ref target="#fol-8v"
+                  >p.4</ref></cell>
+               <cell><measure quantity="79" unit="pound">79</measure></cell>
+               <cell><measure quantity="19" unit="shilling">19</measure></cell>
+               <cell><measure quantity="2" unit="pence">2</measure></cell>
+            </row>
+            <row>
+               <cell rend="head">Amount of the several pages wherein are<lb/> written the particular
+                  Disbursements.</cell>
+               <cell/>
+               <cell/>
+               <cell/>
+            </row>
+            <row>
+               <cell>Of page <ref target="#fol-9r">5</ref></cell>
+               <cell><measure quantity="14" unit="pound">14</measure></cell>
+               <cell><measure quantity="9" unit="shilling">9</measure></cell>
+               <cell><measure quantity="6" unit="pence">6</measure></cell>
+            </row>
+            <row>
+               <cell>___<ref target="#fol-9v">6</ref></cell>
+               <cell><measure quantity="4" unit="pound">4</measure></cell>
+               <cell><measure quantity="16" unit="shilling">16</measure></cell>
+               <cell><measure quantity="6" unit="pence">6</measure></cell>
+            </row>
+            <row>
+               <cell>___<ref target="#fol-10r">7</ref></cell>
+               <cell><measure quantity="4" unit="pound">4</measure></cell>
+               <cell><measure quantity="9" unit="shilling">9</measure></cell>
+               <cell><measure quantity="0" unit="pence">0</measure></cell>
+            </row>
+            <row>
+               <cell>___<ref target="#fol-11r">9</ref></cell>
+               <cell><measure quantity="19" unit="pound">19</measure></cell>
+               <cell><measure quantity="1" unit="shilling">1</measure></cell>
+               <cell><measure quantity="0" unit="pence">0</measure></cell>
+            </row>
+            <row>
+               <cell>___<ref target="#fol-12r">11</ref></cell>
+               <cell><measure quantity="19" unit="pound">19</measure></cell>
+               <cell><measure quantity="0" unit="shilling">0</measure></cell>
+               <cell><measure quantity="2" unit="pence">2</measure></cell>
+            </row>
+            <row>
+               <cell>___13<note>One leaf with pages 13 and 14 is missing; pencil foliation is
+                     continuous, indicating that the leaf was already missing when foliation was
+                     added.</note></cell>
+               <cell><measure quantity="16" unit="pound">16</measure></cell>
+               <cell><measure quantity="5" unit="shilling">5</measure></cell>
+               <cell><measure quantity="6" unit="pence">6</measure></cell>
+            </row>
+            <row>
+               <cell>___<ref target="#fol-13r">15</ref></cell>
+               <cell><measure quantity="0" unit="pound">0</measure></cell>
+               <cell><measure quantity="0" unit="shilling">0</measure></cell>
+               <cell><measure quantity="0" unit="pence">0</measure></cell>
+            </row>
+            <row>
+               <cell>___<ref target="#fol-14r">17</ref></cell>
+               <cell><measure quantity="0" unit="pound">0</measure></cell>
+               <cell><measure quantity="0" unit="shilling">0</measure></cell>
+               <cell><measure quantity="0" unit="pence">0</measure></cell>
+            </row>
+            <row>
+               <cell>Total of Disbursements</cell>
+               <cell><measure quantity="78" unit="pound">78</measure></cell>
+               <cell><measure quantity="1" unit="shilling">1</measure></cell>
+               <cell><measure quantity="8" unit="pence">8</measure></cell>
+            </row>
+            <row>
+               <cell>Due to ballance. v. <ref target="#fol-9v">pag. 6</ref></cell>
+               <cell><measure quantity="1" unit="pound">1</measure></cell>
+               <cell><measure quantity="17" unit="shilling">17</measure></cell>
+               <cell><measure quantity="6" unit="pence">6</measure></cell>
+            </row>
+         </table>
+         <p><persName corresp="#regC-RSHI">Rob. Shippen Vice-Can.</persName><lb/><persName
+               corresp="#regC-TTER">Tho: Terry Gr. Ling. P<hi rend="superscript:true">r</hi>
+               Regius.</persName><lb/>
+            <persName corresp="#regC-RCLA">Rob. Clavering Ling. Hebr. P<hi rend="superscript:true"
+                  >r</hi>. Regius</persName><lb/>
+            <persName corresp="#regC-JLAS">Josh. Lasher Med. Prof. Deput.</persName></p>
 
       </body>
    </text>
