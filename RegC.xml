@@ -1169,10 +1169,10 @@
          <p>Order'd by the Curators of the Bodleian Library<lb/>
             <list>
                <item>1. That the MSS. supra and Superius Seld now under <lb/> the Inspection of the
-                        <del>Sen<hi rend="superscript:true">r</hi>. Proctor be</del> Professor<lb/>
-                  of Gr. be transfer'd to the Senior Proctor; and that<lb/> both of them have new
-                  Curating Books finish'd<lb/> before Nov.<hi rend="superscript:true">r</hi>
-                  next.</item>
+                        <del>Sen<hi rend="superscript:true">r</hi>. Proctor be</del>
+                  <persName corresp="regC-TTER">Professor<lb/> of Gr.</persName> be transfer'd to
+                  the Senior Proctor; and that<lb/> both of them have new Curating Books
+                  finish'd<lb/> before Nov.<hi rend="superscript:true">r</hi> next.</item>
                <item>2. That all the MSS. which are out of repair in their<lb/> binding be <add
                      place="above">repair'd or</add> new bound. </item>
                <item>That the Rest of the Books in the Library below <lb/> Stairs, be placed
@@ -1181,15 +1181,21 @@
                      >r</hi>. Proctor.</item>
             </list>
          </p>
-         <p><table><row><cell>Order'd also that this Visitation<lb/> be adjourn'd 'till this day-<lb/> fortnight
-            between Eight &amp;<lb/> Nine in the morning.</cell>
-         <cell><persName corresp="#regC-RSHI">Rob: Shippen. Vice-Can</persName><lb/><persName
-               corresp="#regC-JPOT">Po. Oxford R. Pr. of Divinity</persName><lb/>
-            <persName corresp="regC-TTER">Tho: Terry Gr. Ling. Pr. Reg.</persName><lb/>
-            <persName corresp="#regC-JBOU">James Bouchier Reg. Prof. of Civ. Law</persName></cell></row></table></p>
+         <p><table>
+               <row>
+                  <cell>Order'd also that this Visitation<lb/> be adjourn'd 'till this day-<lb/>
+                     fortnight between Eight &amp;<lb/> Nine in the morning.</cell>
+                  <cell><persName corresp="#regC-RSHI">Rob: Shippen.
+                        Vice-Can</persName><lb/><persName corresp="#regC-JPOT">Po. Oxford R. Pr. of
+                        Divinity</persName><lb/>
+                     <persName corresp="regC-TTER">Tho: Terry Gr. Ling. Pr. Reg.</persName><lb/>
+                     <persName corresp="#regC-JBOU">James Bouchier Reg. Prof. of Civ.
+                     Law</persName></cell>
+               </row>
+            </table></p>
          <pb xml:id="fol-2r" n="frontmatter"/>
          <p>A copy of an Order of the Delegates of the Press, deliver'd<lb/> to yͤ Librarian
-            according to yͤ Direction of yͤ s<hi rend='superscript:true'>d</hi>. Delegates by <lb/>
+            according to yͤ Direction of yͤ s<hi rend="superscript:true">d</hi>. Delegates by <lb/>
             <persName corresp="#regC-HFIS"> M<hi rend="superscript:true">r</hi> Fisher Registrary of
                yͤ University</persName>.</p>
          <p><date when="1744-02-14">Feb.14.174¾</date> At a general meeting of yͤ Delegates<lb/> of
@@ -1198,8 +1204,17 @@
             the<lb/> chief Librarian of the Bodleian Library for the use<lb/> of the said Library
             before the Publication of the said<lb/> Book and that a Copy of this Order be given
             to<lb/> the said Chief Librarian. </p>
-         <p><table><row><cell>Sign'd <persName corresp="'regC-WHOD">W. Hodges V.C.</persName><lb/>
-         <persName>Jo. Mather</persName><lb/><persName corresp="#regC-SNIB">St. Niblett</persName><lb/><persName corresp="#regC-JPUR">John Purnell</persName></cell><cell><persName>J. Le Marchant Proc. Sen<hi rend='superscript:true'>r</hi>.</persName><lb></lb><persName>John Collins Proc. Jun<hi rend='superscript:true'>r</hi>.</persName></cell></row></table></p>
+         <p><table>
+               <row>
+                  <cell>Sign'd <persName corresp="'regC-WHOD">W. Hodges V.C.</persName><lb/>
+                     <persName>Jo. Mather</persName><lb/><persName corresp="#regC-SNIB">St.
+                        Niblett</persName><lb/><persName corresp="#regC-JPUR">John
+                        Purnell</persName></cell>
+                  <cell><persName>J. Le Marchant Proc. Sen<hi rend="superscript:true"
+                        >r</hi>.</persName><lb/><persName>John Collins Proc. Jun<hi
+                           rend="superscript:true">r</hi>.</persName></cell>
+               </row>
+            </table></p>
          <pb xml:id="fol-2v" n="frontmatter"/>
          <pb xml:id="fol-3r" n="frontmatter" style="empty"/>
          <pb xml:id="fol-3v" n="frontmatter" style="empty"/>
@@ -1207,7 +1222,6 @@
          <pb xml:id="fol-4v" n="frontmatter" style="empty"/>
          <pb xml:id="fol-5r" n="frontmatter" style="empty"/>
          <pb xml:id="fol-5v" n="frontmatter" style="empty"/>
-
          <pb xml:id="fol-6r" n="frontmatter" style="empty"/>
          <pb xml:id="fol-6v" n="frontmatter" style="empty"/>
          <pb xml:id="fol-7r" n="1"/>
@@ -1244,7 +1258,8 @@
 
          <pb xml:id="fol-8r" n="3" style="empty"/>
          <pb xml:id="fol-8v" n="4"/>
-         <ab ana="1720"><table>
+         <ab ana="prov:when"><date when="1720">1720</date>
+            <table>
                <row>
                   <cell rend="head">Duplicates sold out of the Bodleian Library <lb/><date
                         from="1719-11-09" to="1720-11-08">between the ninth of Nov.<hi
@@ -1374,9 +1389,9 @@
                   <cell rend="border-top"><measure quantity="15" unit="shilling"/>15</cell>
                   <cell rend="border-top"><measure quantity="8" unit="pence"/>8</cell>
                </row>
-            </table>
-            <pb xml:id="fol-9r" n="5"/>
-            <table>
+            </table></ab>
+         <pb xml:id="fol-9r" n="5"/>
+         <ab ana="prov:when"><date when="1720">1720</date><table>
                <row>
                   <cell rend="head">Money laid out for the use of the Bodleian Libray<lb/> from the
                      ninth of Nov<hi rend="superscript:true">r</hi>. 1719. to the eighth of Nov<hi
@@ -1531,9 +1546,9 @@
                   <cell rend="border-top"><measure quantity="9" unit="shilling">9</measure></cell>
                   <cell rend="border-top"><measure quantity="6" unit="pence">6</measure></cell>
                </row>
-            </table>
-            <pb xml:id="fol-9v" n="6"/>
-            <table>
+            </table></ab>
+         <pb xml:id="fol-9v" n="6"/>
+         <ab ana="prov:when"><date when="1720">1720</date><table>
                <row>
                   <cell rend="head">Money laid out &amp;c.</cell>
                   <cell/>
@@ -1617,9 +1632,9 @@
                   <cell><measure quantity="17" unit="shilling">17</measure></cell>
                   <cell><measure quantity="6" unit="pence">6</measure></cell>
                </row>
-            </table>
-            <pb xml:id="fol-10r" n="7"/>
-            <table>
+            </table></ab>
+         <pb xml:id="fol-10r" n="7"/>
+         <ab ana="prov:when"><date when="1720">1720</date><table>
                <row>
                   <cell/>
                   <cell rend="head">Books bought</cell>
@@ -1867,10 +1882,10 @@
                   <cell/>
                   <cell/>
                </row>
-            </table>
-            <pb xml:id="fol-10v" n="8" style="empty"/>
-            <pb xml:id="fol-11r" n="9"/>
-            <table>
+            </table></ab>
+         <pb xml:id="fol-10v" n="8" style="empty"/>
+         <pb xml:id="fol-11r" n="9"/>
+         <ab ana="prov:when"><date when="1720">1720</date><table>
                <row>
                   <cell/>
                   <cell rend="head">Books bought</cell>
@@ -2122,10 +2137,10 @@
                   <cell/>
                   <cell/>
                </row>
-            </table>
-            <pb xml:id="fol-11v" n="10" style="empty"/>
-            <pb xml:id="fol-12r" n="11"/>
-            <table>
+            </table></ab>
+         <pb xml:id="fol-11v" n="10" style="empty"/>
+         <pb xml:id="fol-12r" n="11"/>
+         <ab ana="prov:when"><date when="1720">1720</date><table>
                <row>
                   <cell/>
                   <cell rend="head">Books bought</cell>
@@ -2399,10 +2414,10 @@
                   <cell/>
                   <cell/>
                </row>
-            </table>
-            <pb xml:id="fol-12v" n="12" style="empty"/>
-            <pb xml:id="fol-13r" n="15"/>
-            <table>
+            </table></ab>
+         <pb xml:id="fol-12v" n="12" style="empty"/>
+         <pb xml:id="fol-13r" n="15"/>
+         <ab ana="prov:when"><date when="1720"/><table>
                <row>
                   <cell rend="head">Books bought</cell>
                   <cell cols="3" rend="head">Price</cell>
@@ -2477,10 +2492,14 @@
                         </choice></ab></cell>
                   <cell>Prof. Jur.</cell>
                </row>
-               <row ana="prov:purchase">
-                  <cell>The Books that follow next in<lb/> this page were bought in D<hi
-                        rend="superscript:true">r</hi>.<lb/> Hudson&apos;s Time, but not placed<lb/>
-                     in the Library till now.</cell>
+            </table></ab>
+         <ab ana="prov:when"><date notAfter="1720"/>
+            <table>
+               <row>
+                  <cell>The Books that follow next in<lb/> this page were bought in <persName
+                        corresp="#regC-JHUD">D<hi rend="superscript:true">r</hi>.<lb/>
+                     Hudson</persName>&apos;s Time, but not placed<lb/> in the Library till
+                     now.</cell>
                   <cell/>
                   <cell/>
                   <cell/>
@@ -2537,180 +2556,177 @@
                         </choice></ab></cell>
                   <cell>Prof. Theol.</cell>
                </row>
-            </table>
-            <pb xml:id="fol-13v" n="16" style="empty"/>
-            <pb xml:id="fol-14r" n="17"/><table>
-               <row>
-                  <cell>Books given</cell>
-                  <cell>Benefactor</cell>
-                  <cell>Place</cell>
-                  <cell>Curator</cell>
-               </row>
-               <row ana="prov:donation">
-                  <cell><hi rend="underlined:true">S. Augustinus</hi> de Civ. Dei <hi
-                        rend="underlined:true">Ven</hi>. 1475. fol.</cell>
-                  <cell>M<hi rend="superscript:true">r</hi>. Massey</cell>
-                  <cell>C.5.10.Th.</cell>
-                  <cell>Vice-Can.</cell>
-               </row>
-               <row ana="prov:donation">
-                  <cell>Supplem. in Monument. Angl. 1728. 8°</cell>
-                  <cell>M<hi rend="superscript:true">r</hi>. Le Neve</cell>
-                  <cell>8° D.36.Jur.</cell>
-                  <cell>Prof. Jur.</cell>
-               </row>
-               <row ana="prov:donation">
-                  <cell><ptr target="#regC-bib-Le_Neve1720"/>Lives &amp; Characters of the
-                     reform'd<lb/> Bishops. <hi rend="underlined:true">Lond.</hi> 1719. 8°</cell>
-                  <cell>Idem.</cell>
-                  <cell>8° Z.412.Th.</cell>
-                  <cell>Prof. Theol.</cell>
-               </row>
-               <row ana="prov:donation">
-                  <cell>Opuscula B. <hi rend="underlined:true">Augustini</hi>, Ms. pergam.
-                     8°.</cell>
-                  <cell>Dr. Brabourne</cell>
-                  <cell>NE.F.9.19.</cell>
-                  <cell>Prof. Græc.</cell>
-               </row>
-               <row ana="prov:donation">
-                  <cell>S. <hi rend="underlined:true">Bonaventuræ</hi> meditationes de<lb/> Jesu
-                     Xto. Ms. chart. 8°</cell>
-                  <cell>Idem.</cell>
-                  <cell>NE.F.9. 20.</cell>
-                  <cell>Prof Græc.</cell>
-               </row>
-               <row ana="prov:donation">
-                  <cell>J. <hi rend="underlined:true">Leopold</hi> de Itinere suo Suecio. 8°.</cell>
-                  <cell/>
-                  <cell>8°. D.56.Jur.</cell>
-                  <cell>Prof. Jur.</cell>
-               </row>
-               <row ana="prov:donation">
-                  <cell>A volume of Tracts in 8° </cell>
-                  <cell/>
-                  <cell>8° D.55.Jur.</cell>
-                  <cell>Prof Jur.</cell>
-               </row>
-               <row ana="prov:donation">
-                  <cell><hi rend="underlined:true">Cebetis</hi> Thebani Tabula, Gr. L. ꝑ
-                     Johnson</cell>
-                  <cell/>
-                  <cell>8° D.72.Jur.</cell>
-                  <cell>Prof. Jur.</cell>
-               </row>
-               <row ana="prov:donation">
-                  <cell>History of the Regal Succession. 8°</cell>
-                  <cell>M<hi rend="superscript:true">r</hi>. Lindsay</cell>
-                  <cell>8° D.57.Jur.</cell>
-                  <cell>Prof. Jur.</cell>
-               </row>
-               <row ana="prov:donation">
-                  <cell>J. <hi rend="underlined:true">Keil</hi> Epistola ad J. Bernoulli. 4°.</cell>
-                  <cell>D<hi rend="szperscript:true">r</hi>. Keil</cell>
-                  <cell>A.A.49.Jur.</cell>
-                  <cell>Prof. Jur.</cell>
-               </row>
-               <row ana="prov:donation">
-                  <cell><hi rend="underlined:true">Ziegenbalgi</hi> Gram̄atica Malabar. 4°</cell>
-                  <cell>M<hi rend="superscript:true">r</hi>. Phillips.</cell>
-                  <cell>A.A.24.Jur.</cell>
-                  <cell>Prof. Jur.</cell>
-               </row>
-               <row ana="prov:donation">
-                  <cell><ptr target="#regC-bib-Trott1719"/>Clavis Linguæ Sanctæ fol.</cell>
-                  <cell>M<hi rend="superscript:true">r</hi>. Trot.</cell>
-                  <cell>C.11.16. Th.</cell>
-                  <cell>Vice-Can.</cell>
-               </row>
-               <row ana="prov:donation">
-                  <cell>Musicus apparatus Academicus ꝑ</cell>
-                  <cell>D<hi rend="superscript:true">r</hi>. Croft.</cell>
-                  <cell>C.1.17.Jur.</cell>
-                  <cell>Prof. Jur.</cell>
-               </row>
-               <row ana="prov:donation">
-                  <cell>Recuel de divers pieces fur la philo-<lb/> sophie 2.Voll. 8° ꝑ M<hi
-                        rend="superscript:true">r</hi>. <hi rend="underlined:true"
-                     >Maizeaux</hi></cell>
-                  <cell>Maizeaux</cell>
-                  <cell>8° D.58.59. Jur.</cell>
-                  <cell>Prof. Jur.</cell>
-               </row>
-               <row ana="prov:donation">
-                  <cell><ptr target="#regC-bib-Johnson1720"/>Collection of Ecclesiastical Laws.<lb/>
-                     and Canons &amp;c. 2 Voll. 8°. by yͤ Author.</cell>
-                  <cell>M<hi rend="superscript:true">r</hi>. Johnson</cell>
-                  <cell>8°X.68.69. Th.</cell>
-                  <cell>Prof. Theol.</cell>
-               </row>
-               <row ana="prov:donation">
-                  <cell><ptr target="#regC-bib-Lux1719"/>Poems on Several Occasions by</cell>
-                  <cell>M<hi rend="superscript:true">r</hi>. Lux.</cell>
-                  <cell>8° M.236.Th.</cell>
-                  <cell>Prof. Theol.</cell>
-               </row>
-               <row ana="prov:donation">
-                  <cell>Merton Walks, a Poem 8°</cell>
-                  <cell/>
-                  <cell>8°. M. 23.<hi rend="underlined:true">Linc</hi>.</cell>
-                  <cell>Prof. Astron.</cell>
-               </row>
-               <row ana="prov:donation">
-                  <cell>Biblia Lat. Vet. Edit. 8°</cell>
-                  <cell/>
-                  <cell>8° O.30.Linc.</cell>
-                  <cell>Prof. Astron.</cell>
-               </row>
-               <row ana="prov:donation">
-                  <cell>English Topographer by</cell>
-                  <cell>D<hi rend="superscript:true">r</hi>. Rawlinson</cell>
-                  <cell>8° D.49.Jur.</cell>
-                  <cell>Prof. Jur.</cell>
-               </row>
-               <row ana="prov:donation">
-                  <cell>Esperienze fisico-meccaniche sopra<lb/> vari Soggetti &amp;c. ꝑ Hauksbee.
-                     4°.</cell>
-                  <cell rows="3">S<hi rend="superscript:true">r</hi>. Thomas<lb/><hi
-                        rend="underlined:true">Dereham</hi>, of<lb/>Dereham Ab-<lb/> bey in the<lb/>
-                     County of<lb/>Norfolk</cell>
-                  <cell rows="3">C.17.1,2,3</cell>
-                  <cell rows="3">Prof. Astron.</cell>
-               </row>
-               <row ana="prov:donation">
-                  <cell>Loriuolo da polso de Medici &amp;c. ꝑ.<lb/> Floyer. 4°.</cell>
-               </row>
-               <row ana="prov:donation">
-                  <cell>Dimostrazione della Essenza, ed<lb/> attributi d'Iddio. 4°. ꝑ Dereham</cell>
+            </table></ab>
+         <pb xml:id="fol-13v" n="16" style="empty"/>
+         <pb xml:id="fol-14r" n="17"/>
+         <ab ana="prov:when"><date when="1720">1720</date><table>
+            <row>
+               <cell>Books given</cell>
+               <cell>Benefactor</cell>
+               <cell>Place</cell>
+               <cell>Curator</cell>
+            </row>
+            <row ana="prov:donation">
+               <cell><hi rend="underlined:true">S. Augustinus</hi> de Civ. Dei <hi
+                     rend="underlined:true">Ven</hi>. 1475. fol.</cell>
+               <cell>M<hi rend="superscript:true">r</hi>. Massey</cell>
+               <cell>C.5.10.Th.</cell>
+               <cell>Vice-Can.</cell>
+            </row>
+            <row ana="prov:donation">
+               <cell>Supplem. in Monument. Angl. 1728. 8°</cell>
+               <cell>M<hi rend="superscript:true">r</hi>. Le Neve</cell>
+               <cell>8° D.36.Jur.</cell>
+               <cell>Prof. Jur.</cell>
+            </row>
+            <row ana="prov:donation">
+               <cell><ptr target="#regC-bib-Le_Neve1720"/>Lives &amp; Characters of the
+                  reform'd<lb/> Bishops. <hi rend="underlined:true">Lond.</hi> 1719. 8°</cell>
+               <cell>Idem.</cell>
+               <cell>8° Z.412.Th.</cell>
+               <cell>Prof. Theol.</cell>
+            </row>
+            <row ana="prov:donation">
+               <cell>Opuscula B. <hi rend="underlined:true">Augustini</hi>, Ms. pergam. 8°.</cell>
+               <cell>Dr. Brabourne</cell>
+               <cell>NE.F.9.19.</cell>
+               <cell>Prof. Græc.</cell>
+            </row>
+            <row ana="prov:donation">
+               <cell>S. <hi rend="underlined:true">Bonaventuræ</hi> meditationes de<lb/> Jesu Xto.
+                  Ms. chart. 8°</cell>
+               <cell>Idem.</cell>
+               <cell>NE.F.9. 20.</cell>
+               <cell>Prof Græc.</cell>
+            </row>
+            <row ana="prov:donation">
+               <cell>J. <hi rend="underlined:true">Leopold</hi> de Itinere suo Suecio. 8°.</cell>
+               <cell/>
+               <cell>8°. D.56.Jur.</cell>
+               <cell>Prof. Jur.</cell>
+            </row>
+            <row ana="prov:donation">
+               <cell>A volume of Tracts in 8° </cell>
+               <cell/>
+               <cell>8° D.55.Jur.</cell>
+               <cell>Prof Jur.</cell>
+            </row>
+            <row ana="prov:donation">
+               <cell><hi rend="underlined:true">Cebetis</hi> Thebani Tabula, Gr. L. ꝑ Johnson</cell>
+               <cell/>
+               <cell>8° D.72.Jur.</cell>
+               <cell>Prof. Jur.</cell>
+            </row>
+            <row ana="prov:donation">
+               <cell>History of the Regal Succession. 8°</cell>
+               <cell>M<hi rend="superscript:true">r</hi>. Lindsay</cell>
+               <cell>8° D.57.Jur.</cell>
+               <cell>Prof. Jur.</cell>
+            </row>
+            <row ana="prov:donation">
+               <cell>J. <hi rend="underlined:true">Keil</hi> Epistola ad J. Bernoulli. 4°.</cell>
+               <cell>D<hi rend="szperscript:true">r</hi>. Keil</cell>
+               <cell>A.A.49.Jur.</cell>
+               <cell>Prof. Jur.</cell>
+            </row>
+            <row ana="prov:donation">
+               <cell><hi rend="underlined:true">Ziegenbalgi</hi> Gram̄atica Malabar. 4°</cell>
+               <cell>M<hi rend="superscript:true">r</hi>. Phillips.</cell>
+               <cell>A.A.24.Jur.</cell>
+               <cell>Prof. Jur.</cell>
+            </row>
+            <row ana="prov:donation">
+               <cell><ptr target="#regC-bib-Trott1719"/>Clavis Linguæ Sanctæ fol.</cell>
+               <cell>M<hi rend="superscript:true">r</hi>. Trot.</cell>
+               <cell>C.11.16. Th.</cell>
+               <cell>Vice-Can.</cell>
+            </row>
+            <row ana="prov:donation">
+               <cell>Musicus apparatus Academicus ꝑ</cell>
+               <cell>D<hi rend="superscript:true">r</hi>. Croft.</cell>
+               <cell>C.1.17.Jur.</cell>
+               <cell>Prof. Jur.</cell>
+            </row>
+            <row ana="prov:donation">
+               <cell>Recuel de divers pieces fur la philo-<lb/> sophie 2.Voll. 8° ꝑ M<hi
+                     rend="superscript:true">r</hi>. <hi rend="underlined:true">Maizeaux</hi></cell>
+               <cell>Maizeaux</cell>
+               <cell>8° D.58.59. Jur.</cell>
+               <cell>Prof. Jur.</cell>
+            </row>
+            <row ana="prov:donation">
+               <cell><ptr target="#regC-bib-Johnson1720"/>Collection of Ecclesiastical Laws.<lb/>
+                  and Canons &amp;c. 2 Voll. 8°. by yͤ Author.</cell>
+               <cell>M<hi rend="superscript:true">r</hi>. Johnson</cell>
+               <cell>8°X.68.69. Th.</cell>
+               <cell>Prof. Theol.</cell>
+            </row>
+            <row ana="prov:donation">
+               <cell><ptr target="#regC-bib-Lux1719"/>Poems on Several Occasions by</cell>
+               <cell>M<hi rend="superscript:true">r</hi>. Lux.</cell>
+               <cell>8° M.236.Th.</cell>
+               <cell>Prof. Theol.</cell>
+            </row>
+            <row ana="prov:donation">
+               <cell>Merton Walks, a Poem 8°</cell>
+               <cell/>
+               <cell>8°. M. 23.<hi rend="underlined:true">Linc</hi>.</cell>
+               <cell>Prof. Astron.</cell>
+            </row>
+            <row ana="prov:donation">
+               <cell>Biblia Lat. Vet. Edit. 8°</cell>
+               <cell/>
+               <cell>8° O.30.Linc.</cell>
+               <cell>Prof. Astron.</cell>
+            </row>
+            <row ana="prov:donation">
+               <cell>English Topographer by</cell>
+               <cell>D<hi rend="superscript:true">r</hi>. Rawlinson</cell>
+               <cell>8° D.49.Jur.</cell>
+               <cell>Prof. Jur.</cell>
+            </row>
+            <row ana="prov:donation">
+               <cell>Esperienze fisico-meccaniche sopra<lb/> vari Soggetti &amp;c. ꝑ Hauksbee.
+                  4°.</cell>
+               <cell rows="3">S<hi rend="superscript:true">r</hi>. Thomas<lb/><hi
+                     rend="underlined:true">Dereham</hi>, of<lb/>Dereham Ab-<lb/> bey in the<lb/>
+                  County of<lb/>Norfolk</cell>
+               <cell rows="3">C.17.1,2,3</cell>
+               <cell rows="3">Prof. Astron.</cell>
+            </row>
+            <row ana="prov:donation">
+               <cell>Loriuolo da polso de Medici &amp;c. ꝑ.<lb/> Floyer. 4°.</cell>
+            </row>
+            <row ana="prov:donation">
+               <cell>Dimostrazione della Essenza, ed<lb/> attributi d'Iddio. 4°. ꝑ Dereham</cell>
 
-               </row>
-               <row ana="prov:donation">
-                  <cell>Dissertatio de Amuleto quodam</cell>
-                  <cell rows="2">D. Smit.</cell>
-                  <cell rows="2">4° B 26.61.Linc.</cell>
-                  <cell rows="2">Prof. Astron.</cell>
-               </row>
-               <row ana="prov:donation">
-                  <cell>Exercitatio de Paschate auctore</cell>
-               </row>
-               <row ana="prov:donation">
-                  <cell>Lumen Chirurgicum</cell>
-                  <cell rows="2">by D<hi rend="superscript:true">r</hi>. Colbatch</cell>
-                  <cell rows="2">8° M.22.Linc.</cell>
-                  <cell rows="2">Prof. Astron.</cell>
-               </row>
-               <row ana="prov:donation">
-                  <cell>Treatise of the Gout</cell>
+            </row>
+            <row ana="prov:donation">
+               <cell>Dissertatio de Amuleto quodam</cell>
+               <cell rows="2">D. Smit.</cell>
+               <cell rows="2">4° B 26.61.Linc.</cell>
+               <cell rows="2">Prof. Astron.</cell>
+            </row>
+            <row ana="prov:donation">
+               <cell>Exercitatio de Paschate auctore</cell>
+            </row>
+            <row ana="prov:donation">
+               <cell>Lumen Chirurgicum</cell>
+               <cell rows="2">by D<hi rend="superscript:true">r</hi>. Colbatch</cell>
+               <cell rows="2">8° M.22.Linc.</cell>
+               <cell rows="2">Prof. Astron.</cell>
+            </row>
+            <row ana="prov:donation">
+               <cell>Treatise of the Gout</cell>
 
-               </row>
-               <row ana="prov:donation">
-                  <cell>Liber Precum Lat. Ms.</cell>
-                  <cell>M<hi rend="superscript:true">r</hi>. Mid. Massey</cell>
-                  <cell>NE.F. 1.13.</cell>
-                  <cell>Prof. Græc.</cell>
-               </row>
-            </table>
-         </ab>
+            </row>
+            <row ana="prov:donation">
+               <cell>Liber Precum Lat. Ms.</cell>
+               <cell>M<hi rend="superscript:true">r</hi>. Mid. Massey</cell>
+               <cell>NE.F. 1.13.</cell>
+               <cell>Prof. Græc.</cell>
+            </row>
+         </table></ab>
       </body>
    </text>
 </TEI>
