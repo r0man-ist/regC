@@ -60,7 +60,7 @@
              else {
                 const modalTitle = "The copy could not be localized";
                 const xmlContent = `
-                <p>The edition most likely is the following:</p>
+                <p>The work/edition most likely is the following:</p>
                 <p>${author}</p>
                 <p>${title}</p>
                 <p>${place}, ${date}</p>`
@@ -115,42 +115,46 @@
        <p><xsl:apply-templates></xsl:apply-templates></p>
     </xsl:template>
     <!-- Dealing with rows -->
+    
     <!-- General styling of rows -->
     <xsl:template match="t:row">
+    <xsl:variable name="call-modal"><td style="width:5%">
+        <!-- Modal -->
+        <div class="modal fade" id="myModal" role="dialog">
+            <div class="modal-dialog">
+                <!-- Modal content -->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title" id="modal-title"></h4>
+                    </div>
+                    <div class="modal-body" id="modal-description">
+                        <!-- XML data will be added here -->
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default"
+                            data-bs-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <xsl:variable name="target" select="t:cell/@corresp"/>
+        <button type="button" class="btn btn-light" onclick="openModal('{$target}')">Details</button>
+    </td></xsl:variable>
+    
         <tr>
             <xsl:apply-templates select="t:cell"/>
             <xsl:choose>
                 <xsl:when test="@ana = 'prov:purchase'">
-                    <td style="width:5%">
-                        <!-- Modal -->
-                        <div class="modal fade" id="myModal" role="dialog">
-                            <div class="modal-dialog">
-                                <!-- Modal content -->
-                                <div class="modal-content">
-                                    <div class="modal-header">
-                                       <h4 class="modal-title" id="modal-title"></h4>
-                                    </div>
-                                    <div class="modal-body" id="modal-description">
-                                        <!-- XML data will be added here -->
-                                    </div>
-                                    <div class="modal-footer">
-                                        <button type="button" class="btn btn-default"
-                                            data-bs-dismiss="modal">Close</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <xsl:variable name="target" select="t:cell/t:ptr/@target"/>
-                        <button type="button" class="btn btn-light" onclick="openModal('{$target}')">Details</button>
-
-                        
-                    </td>
+                    <xsl:copy-of select="$call-modal"></xsl:copy-of>
                 </xsl:when>
+                <xsl:when test="@ana = 'prov:subscription'">
+                <xsl:copy-of select="$call-modal"></xsl:copy-of></xsl:when>
+                <xsl:when test="@ana = 'prov:sold'">
+                    <xsl:copy-of select="$call-modal"></xsl:copy-of></xsl:when><xsl:when test="@ana = 'prov:move-changeId'">
+                        <xsl:copy-of select="$call-modal"></xsl:copy-of></xsl:when><xsl:when test="@ana = 'prov:donation'">
+                            <xsl:copy-of select="$call-modal"></xsl:copy-of></xsl:when>
             </xsl:choose>
-
-
-        </tr>
-    </xsl:template>
+        </tr></xsl:template>
 
 <!-- Names -->
     <xsl:template match="t:persName[@corresp]">
