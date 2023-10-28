@@ -21,8 +21,7 @@
                 <script type="text/javascript">
                     <![CDATA[
     function openModal(target) {
-      console.log('Opening modal for ' + target);
-
+      
       // Create a URL for the XML data file
       const xmlDataUrl = 'regC.xml';
 
@@ -32,7 +31,6 @@
         url: xmlDataUrl,
         dataType: 'xml',
         success: function(xmlData) {
-          console.log('XML Data:', xmlData);
 
          const modifiedTarget = '[xml\\:id="' + target.substring(1) + '"]';
 
@@ -90,21 +88,17 @@
                         <xsl:value-of select="/t:TEI/t:teiHeader/t:fileDesc/t:titleStmt/t:title"/>
                     </h1>
                 </div>
-                <p>
-                    <xsl:value-of select="/t:TEI/t:teiHeader/t:fileDesc/t:titleStmt/t:respStmt"/>
-                </p>
-                <p>
-                    <xsl:value-of select="/t:TEI/t:teiHeader/t:fileDesc/t:publicationStmt"/>
-                </p>
-                <p>
-                    <xsl:value-of select="/t:TEI/t:teiHeader[1]/t:fileDesc[1]/t:sourceDesc[1]"/>
-                </p>
+                                
                 <div class="container mt-5">
                     <xsl:apply-templates select="//t:text"/>
                 </div>
             </body>
         </html>
 
+    </xsl:template>
+    <!-- Title -->
+    <xsl:template match="t:docTitle">
+        <h2><xsl:apply-templates/></h2>
     </xsl:template>
     <!--  Table -->
     <xsl:attribute-set name="full.size.table">
@@ -116,7 +110,10 @@
             <xsl:apply-templates select="t:row"/>
         </xsl:element>
     </xsl:template>
-
+    <!-- paragraphs -->
+    <xsl:template match="t:p">
+       <p><xsl:apply-templates></xsl:apply-templates></p>
+    </xsl:template>
     <!-- Dealing with rows -->
     <!-- General styling of rows -->
     <xsl:template match="t:row">
@@ -155,7 +152,11 @@
         </tr>
     </xsl:template>
 
-
+<!-- Names -->
+    <xsl:template match="t:persName[@corresp]">
+        <!-- refer to a name-page and link with #id to specific location -->
+        <a href="example.com"><xsl:apply-templates></xsl:apply-templates></a>
+    </xsl:template>
 
     <!-- style cells, borders and headings -->
     <xsl:template match="t:cell[@cols and @rows]">
@@ -206,9 +207,9 @@
    </xsl:template>
     <!-- choice for abbreviations -->
     <xsl:template match="t:choice">
-        <span title="{t:expan}">
-            <u style="text-decoration:underline dotted"><xsl:value-of select="t:abbr"/></u>
-        </span>
+        <abbr title="{t:expan}">
+            <xsl:value-of select="t:abbr"/>
+        </abbr>
     </xsl:template>
     <!-- choice for shelfmark normalisation -->
     <xsl:template match="t:ab[@type = 'shelfmark']/t:choice">
