@@ -1398,7 +1398,7 @@
                   <cell><measure quantity="0" unit="pence">0</measure></cell>
                </row>
                <row ana="prov:purchase">
-                  <cell corresp="#regC-bib-Lebrun1718"><persName>D<hi rend="superscript:true">r</hi>. Keil's</persName>, for le Brun's Voyages</cell>
+                  <cell><persName>D<hi rend="superscript:true">r</hi>. Keil's</persName>, for <bibl corresp="#regC-bib-Bruyn1718">le Brun's Voyages</bibl></cell>
                   <cell><measure quantity="3" unit="pound">03</measure></cell>
                   <cell><measure quantity="3" unit="shilling">3</measure></cell>
                   <cell><measure quantity="0" unit="pence">0</measure></cell>
