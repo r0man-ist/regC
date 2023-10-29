@@ -1,7 +1,7 @@
 import pandas as pd
 import xml.etree.ElementTree as ET
 
-# Read data from a CSV file with a semicolon delimiter
+# Read data from the CSV file with a semicolon delimiter
 df = pd.read_csv('standOff_List-Persons.csv', delimiter=';')
 
 # Create the root element for the XML
@@ -34,5 +34,3 @@ for _, row in df.iterrows():
 # Create the XML file
 tree = ET.ElementTree(root)
 tree.write('standOff_List-Persons.xml')
-
-print("Conversion complete. XML file saved as output.xml")
