@@ -1,16 +1,16 @@
-﻿ID;full_name;primary_role;description;viaf-id;CERL;WikiData
-regC-JBOW;Joseph Bowles;Librarian;;6137157162105278980009;cnp02260393;Q6281642
-regC-SFLE;Stephen Fletcher;bookseller;;;cnp00058554;
-regC-TTER;Thomas Terry;Curator;Regius Professor of Greek;;;
-regC-RSHI;Robert Shippen;Vice-Chancellor;;4683159941682025440006;;Q7349764
-regC-JPOT;John Potter;Curator;Regius Professor of Divinity;100189223;cnp00000200;Q336868
-regC-JBOU;James Bouchier;Curator;Regius Professor of Civil Law;;;
-regC-HFIS;Henry Fisher;;Registrar of the University;;;
-regC-WHOD;Walter Hodges;Vice-Chancellor;;17094678;;
-regC-JPUR;John Purnell;;;;;Q6253571
-regC-SNIB;Stephen Niblett;;;;;Q7610098
-regC-JHUD;John Hudson;Librarian;;100222314;;Q13522431
-regC-JLAS;Joshua Lasher;;Regius Professor of Medecine;59438513;;
-regC-RCLA;Robert Clavering;;Regius Professor of Hebrew;71262625;;Q7342960
-regC-HCLE;Henry Clements;bookseller;;;;
-
+﻿xml:id;persName;primary_role;description;VIAF;CERL;WikiData
+regC-JBOW;Bowles, Joseph;Librarian;;6,13716E+21;cnp02260393;Q6281642
+regC-SFLE;Fletcher, Stephen;bookseller;;;cnp00058554;
+regC-TTER;Terry, Thomas;Curator;Regius Professor of Greek;;;
+regC-RSHI;Shippen, Robert;Vice-Chancellor;;4,68316E+21;;Q7349764
+regC-JPOT;Potter, John;Curator;Regius Professor of Divinity;100189223;cnp00000200;Q336868
+regC-JBOU;Bouchier, James;Curator;Regius Professor of Civil Law;;;
+regC-HFIS;Fisher, Henry;;Registrar of the University;;;
+regC-WHOD;Hodges, Walter;Vice-Chancellor;;17094678;;
+regC-JPUR;Purnell, John;;;;;Q6253571
+regC-SNIB;Niblett, Stephen;;;;;Q7610098
+regC-JHUD;Hudson, John;Librarian;;100222314;;Q13522431
+regC-JLAS;Lasher, Joshua;;Regius Professor of Medecine;59438513;;
+regC-RCLA;Clavering, Robert;;Regius Professor of Hebrew;71262625;;Q7342960
+regC-HCLE;Clements, Henry;bookseller;;;cnp02330155;
+regC-JECK;Eckhart, Johann Georg von;Librarian;;71489973;;Q71289

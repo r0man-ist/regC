@@ -137,7 +137,7 @@
                 </div>
             </div>
         </div>
-        <xsl:variable name="target" select="t:cell/@corresp"/>
+        <xsl:variable name="target" select="t:cell/t:bibl/@corresp"/>
         <button type="button" class="btn btn-light" onclick="openModal('{$target}')">Details</button>
     </td></xsl:variable>
     
