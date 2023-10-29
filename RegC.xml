@@ -37,7 +37,7 @@
       <listPerson>
          <person xml:id="regC-JBOW">
             <persName>Bowles, Joseph</persName>
-            <idno type="VIAF">6,13716E+21</idno>
+            <idno type="VIAF">6137157162105278980009</idno>
             <idno type="CERL">cnp02260393</idno>
             <idno type="WikiData">Q6281642</idno>
          </person>
@@ -50,7 +50,7 @@
          </person>
          <person xml:id="regC-RSHI">
             <persName>Shippen, Robert</persName>
-            <idno type="VIAF">4,68316E+21</idno>
+            <idno type="VIAF">4683159941682025440006</idno>
             <idno type="WikiData">Q7349764</idno>
          </person>
          <person xml:id="regC-JPOT">
@@ -101,8 +101,6 @@
             <idno type="WikiData">Q71289</idno>
          </person>
       </listPerson>
-      
-      
       <listObject>
          <object xml:id="regC-bib-Bonifacio1652" ana="copy-identified">
             <objectIdentifier>
