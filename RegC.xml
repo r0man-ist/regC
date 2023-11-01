@@ -1415,19 +1415,19 @@
                <row>
                   <cell>Books p<hi rend="superscript:true">d</hi>. for by <persName>M<hi
                            rend="superscript:true">r</hi>. Vice-Chancellor</persName> in <ref
-                        target="#fol10r">pag. 7</ref></cell>
+                        target="#fol-10r">pag. 7</ref></cell>
                   <cell rend="border-top"><measure quantity="4" unit="pound">4</measure></cell>
                   <cell rend="border-top"><measure quantity="9" unit="shilling">9</measure></cell>
                   <cell rend="border-top"><measure quantity="0" unit="pence">0</measure></cell>
                </row>
                <row>
-                  <cell>___<ref target="#fol11r">pag. 9</ref></cell>
+                  <cell>___<ref target="#fol-11r">pag. 9</ref></cell>
                   <cell><measure quantity="19" unit="pound">19</measure></cell>
                   <cell><measure quantity="1" unit="shilling">1</measure></cell>
                   <cell><measure quantity="0" unit="pence">0</measure></cell>
                </row>
                <row>
-                  <cell>___<ref target="#fol12r">pag. 11</ref></cell>
+                  <cell>___<ref target="#fol-12r">pag. 11</ref></cell>
                   <cell><measure quantity="19" unit="pound">19</measure></cell>
                   <cell><measure quantity="0" unit="shilling">0</measure></cell>
                   <cell><measure quantity="2" unit="pence">2</measure></cell>
@@ -1922,7 +1922,8 @@
             </table></ab>
          <pb xml:id="fol-10v" n="8" style="empty"/>
          <pb xml:id="fol-11r" n="9"/>
-         <ab ana="prov:when"><date notAfter="1720-11-08" notBefore="1719-11-09"/><table>
+         <ab ana="prov:when"><date notAfter="1720-11-08" notBefore="1719-11-09"/>
+            <table>
                <row>
                   <cell/>
                   <cell rend="head">Books bought</cell>
@@ -2114,7 +2115,7 @@
                <row ana="prov:purchase">
                   <cell>39.</cell>
                   <cell><bibl corresp="#regC-bib-Hearne1720">M<hi rend="superscript:true">r</hi>.
-                        Hearne&apos;s Collection of curious Discourses by Antiquaries Oxon.
+                        Hearne&apos;s Collection of curious<lb/> Discourses by Antiquaries Oxon.
                         1720</bibl>.</cell>
                   <cell><measure quantity="0" unit="pound">0</measure></cell>
                   <cell><measure quantity="12" unit="shilling">12</measure></cell>
@@ -2125,7 +2126,8 @@
                <row ana="prov:purchase">
                   <cell>40.</cell>
                   <cell><bibl corresp="#regC-bib-Falster1717"><hi rend="underlined:true"
-                           >Falsteri</hi> Supplementum linguae Latinae. Flensb. 1717</bibl>.</cell>
+                           >Falsteri</hi> Supplementum linguae<lb/> Latinae. Flensb.
+                     1717</bibl>.</cell>
                   <cell><measure quantity="0" unit="pound">0</measure></cell>
                   <cell><measure quantity="3" unit="shilling">3</measure></cell>
                   <cell><measure quantity="6" unit="pence">6</measure></cell>
@@ -3009,7 +3011,8 @@
          <pb xml:id="fol-18r" n="25"/>
          <table>
             <row>
-               <cell rend="head">Ballance of the whole Account for the Year <date when="1720">1720</date>.</cell>
+               <cell rend="head">Ballance of the whole Account for the Year <date when="1720"
+                     >1720</date>.</cell>
                <cell/>
                <cell/>
                <cell/>

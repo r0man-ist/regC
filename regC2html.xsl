@@ -6,6 +6,10 @@
 
         <!--  Main output -->
         <html lang="en">
+       
+            
+          
+            
             <head>
                 <title>
                     <xsl:value-of select="/t:TEI/t:teiHeader/t:fileDesc/t:titleStmt/t:title"/>
@@ -17,7 +21,9 @@
                 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"/>
                 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
                 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-              
+               
+                
+                <!-- Script for pulling data into modal -->
                 <script type="text/javascript">
                     <![CDATA[
     function openModal(target) {
@@ -80,22 +86,73 @@
   ]]>
                 </script>
                 
+               
             </head>
             <body>
+<!-- Navbar -->
+                
+                <nav class="navbar navbar-expand-lg" style="position: sticky;  top: 0;background: silver;z-index: 100;">
+                    <div class="container-fluid">
+                        <div class="navbar-header"><a class="navbar-brand" href="#">RegC</a></div>
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent">
+                            <span class="navbar-toggler-icon"></span>
+                                                    </button>
+                        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                                <li class="nav-item">
+                                    <a class="nav-link active" aria-current="page" href="#">about</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link active" href="#">persons</a>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        go to page
+                                    </a>
+                                    <ul class="dropdown-menu" style="height: auto;max-height: 400px; overflow-x: hidden;">
+                                        <li><xsl:for-each select="//t:pb"><xsl:variable name="pageNav" select="./@xml:id"/><a class="dropdown-item" href="#{$pageNav}"><xsl:value-of select="./@xml:id"/> <xsl:if test="./@n castable as xs:integer"> / Page <xsl:value-of select="./@n"
+                                        /></xsl:if></a></xsl:for-each></li>
+                                    </ul>
+                                </li><li class="nav-item dropdown">
+                                    <a  class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        go to year
+                                    </a>
+                                    <ul class="dropdown-menu" style="height: auto;max-height: 400px; overflow-x: hidden;">
+                                        <li><xsl:for-each select="//t:pb"><xsl:variable name="pageNav" select="./@xml:id"/><a onclick="scrollToElementInsideContainer({$pageNav})" class="dropdown-item" href="#{$pageNav}"><xsl:value-of select="./@xml:id"/></a></xsl:for-each></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <form class="d-flex">
+                                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                                    <button class="btn btn-outline-success" type="submit">Search</button></input>
+                            </form>
+                        </div>
+                    </div>
+                </nav>
+                
 
-                <div class="jumbotron text-center">
+<!-- title -->
+                <div class="content-container" style="padding-top: 70px;"><div class="jumbotron text-center">
                     <h1>
                         <xsl:value-of select="/t:TEI/t:teiHeader/t:fileDesc/t:titleStmt/t:title"/>
                     </h1>
                 </div>
-                                
+                         
+<!-- text -->
                 <div class="container mt-5">
                     <xsl:apply-templates select="//t:text"/>
-                </div>
+                </div></div>
             </body>
         </html>
 
+        
+
+
     </xsl:template>
+    
+
+      
+    
     <!-- Title -->
     <xsl:template match="t:docTitle">
         <h2><xsl:apply-templates/></h2>
@@ -245,9 +302,9 @@
         </li>
     </xsl:template>
     <!-- pagebreaks -->
-    <xsl:template match="t:pb">
+    <xsl:template match="t:pb" name="pages">
         <xsl:variable name="pageId" select="./@xml:id"/>
-        <div class="page text-center text-muted mt-5 mb-3" level="" id="{$pageId}">
+        <div style="scroll-margin-top: 70px" class="page text-center text-muted mt-5 mb-3" level="" id="{$pageId}">
             <span class="pageNumber">
                 <b>
                     <xsl:value-of select="./@xml:id"/>
@@ -265,7 +322,7 @@
         <a href="{$refID}">
             <xsl:apply-templates/>
         </a>
-
+        
     </xsl:template>
     
 
