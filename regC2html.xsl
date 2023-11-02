@@ -6,10 +6,10 @@
 
         <!--  Main output -->
         <html lang="en">
-       
-            
-          
-            
+
+
+
+
             <head>
                 <title>
                     <xsl:value-of select="/t:TEI/t:teiHeader/t:fileDesc/t:titleStmt/t:title"/>
@@ -19,10 +19,10 @@
                 <link rel="stylesheet"
                     href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"/>
                 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"/>
-                <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-                <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-               
-                
+                <script src="https://code.jquery.com/jquery-3.6.0.min.js"/>
+                <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"/>
+
+
                 <!-- Script for pulling data into modal -->
                 <script type="text/javascript">
                     <![CDATA[
@@ -85,77 +85,189 @@
     }
   ]]>
                 </script>
-                
-               
+
+
             </head>
+
+
             <body>
-<!-- Navbar -->
-                
-                <nav class="navbar navbar-expand-lg" style="position: sticky;  top: 0;background: silver;z-index: 100;">
+                <!-- Navbar -->
+
+                <nav class="navbar navbar-expand-lg"
+                    style="position: sticky;  top: 0;background: silver;z-index: 100;">
                     <div class="container-fluid">
-                        <div class="navbar-header"><a class="navbar-brand" href="#">RegC</a></div>
-                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent">
-                            <span class="navbar-toggler-icon"></span>
-                                                    </button>
+                        <div class="navbar-header">
+                            <a class="navbar-brand" href="regC.html">RegC</a>
+                        </div>
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent">
+                            <span class="navbar-toggler-icon"/>
+                        </button>
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                                 <li class="nav-item">
-                                    <a class="nav-link active" aria-current="page" href="#">about</a>
+                                    <a class="nav-link active" aria-current="page" href="about.html"
+                                        >about</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link active" href="#">persons</a>
+                                    <a class="nav-link active" href="persons.html">persons</a>
                                 </li>
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                        go to page
-                                    </a>
-                                    <ul class="dropdown-menu" style="height: auto;max-height: 400px; overflow-x: hidden;">
-                                        <li><xsl:for-each select="//t:pb"><xsl:variable name="pageNav" select="./@xml:id"/><a class="dropdown-item" href="#{$pageNav}"><xsl:value-of select="./@xml:id"/> <xsl:if test="./@n castable as xs:integer"> / Page <xsl:value-of select="./@n"
-                                        /></xsl:if></a></xsl:for-each></li>
+                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown"
+                                        role="button" data-bs-toggle="dropdown"
+                                        aria-expanded="false"> go to page </a>
+                                    <ul class="dropdown-menu"
+                                        style="height: auto;max-height: 400px; overflow-x: hidden;">
+                                        <li>
+                                            <xsl:for-each select="//t:pb">
+                                                <xsl:variable name="pageNav" select="./@xml:id"/>
+                                                <a class="dropdown-item" href="#{$pageNav}">
+                                                  <xsl:value-of select="./@xml:id"/>
+                                                  <xsl:if test="./@n castable as xs:integer"> / Page
+                                                  <xsl:value-of select="./@n"/></xsl:if>
+                                                </a>
+                                            </xsl:for-each>
+                                        </li>
                                     </ul>
-                                </li><li class="nav-item dropdown">
-                                    <a  class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                        go to year
-                                    </a>
-                                    <ul class="dropdown-menu" style="height: auto;max-height: 400px; overflow-x: hidden;">
-                                        <li><xsl:for-each select="//t:pb"><xsl:variable name="pageNav" select="./@xml:id"/><a onclick="scrollToElementInsideContainer({$pageNav})" class="dropdown-item" href="#{$pageNav}"><xsl:value-of select="./@xml:id"/></a></xsl:for-each></li>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown"
+                                        role="button" data-bs-toggle="dropdown"
+                                        aria-expanded="false"> go to year </a>
+                                    <ul class="dropdown-menu"
+                                        style="height: auto;max-height: 400px; overflow-x: hidden;">
+                                        <li>
+                                            
+                                                   <a class="dropdown-item" href="#regC-fol7r">1720</a>
+                                        </li>
                                     </ul>
                                 </li>
                             </ul>
                             <form class="d-flex">
-                                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                                    <button class="btn btn-outline-success" type="submit">Search</button></input>
+                                <input class="form-control me-2" type="search" placeholder="Search"
+                                    aria-label="Search">
+                                    <button class="btn btn-outline-success" type="submit"
+                                        >Search</button>
+                                </input>
                             </form>
                         </div>
                     </div>
                 </nav>
-                
 
-<!-- title -->
-                <div class="content-container" style="padding-top: 70px;"><div class="jumbotron text-center">
-                    <h1>
-                        <xsl:value-of select="/t:TEI/t:teiHeader/t:fileDesc/t:titleStmt/t:title"/>
-                    </h1>
+
+                <!-- title -->
+                <div class="content-container" style="padding-top: 70px;">
+                    <div class="jumbotron text-center">
+                        <h1>
+                            <xsl:value-of select="/t:TEI/t:teiHeader/t:fileDesc/t:titleStmt/t:title"
+                            />
+                        </h1>
+                    </div>
+
+                    <!-- text -->
+                    <div class="container mt-5">
+                        <xsl:apply-templates select="//t:text"/>
+                    </div>
                 </div>
-                         
-<!-- text -->
-                <div class="container mt-5">
-                    <xsl:apply-templates select="//t:text"/>
-                </div></div>
             </body>
         </html>
 
-        
+        <!-- persons html document -->
+        <xsl:result-document href="persons.html" method="html">
+            <html lang="en">
+                <title>Index of persons</title>
+                <meta charset="utf-8"/>
+                <meta name="viewport" content="width=device-width, initial-scale=1"/>
+                <link rel="stylesheet"
+                    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"/>
+                <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"/>
+                <script src="https://code.jquery.com/jquery-3.6.0.min.js"/>
+                <body>
+                    <nav class="navbar navbar-expand-lg"
+                        style="position: sticky;  top: 0;background: silver;z-index: 100;">
+                        <div class="container-fluid">
+                            <div class="navbar-header">
+                                <a class="navbar-brand" href="regC.html">RegC</a>
+                            </div>
+                            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#navbarSupportedContent">
+                                <span class="navbar-toggler-icon"/>
+                            </button>
+                            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                                    <li class="nav-item">
+                                        <a class="nav-link active" aria-current="page" href="about.html"
+                                            >about</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link active" href="persons.html">persons</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </nav>
+                    <div class="container mt-5">
+                        <ul class="list-group">
+                            <xsl:apply-templates select="//t:listPerson/t:person"/>
+                        </ul>
+                    </div>
+                </body>
+            </html>
 
+        </xsl:result-document>
+
+        <!-- about html document -->
+        <xsl:result-document href="about.html" method="html">
+            <html lang="en">
+                <title>Index of persons</title>
+                <meta charset="utf-8"/>
+                <meta name="viewport" content="width=device-width, initial-scale=1"/>
+                <link rel="stylesheet"
+                    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"/>
+                <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"/>
+                <script src="https://code.jquery.com/jquery-3.6.0.min.js"/>
+                <body>
+                    <nav class="navbar navbar-expand-lg"
+                        style="position: sticky;  top: 0;background: silver;z-index: 100;">
+                        <div class="container-fluid">
+                            <div class="navbar-header">
+                                <a class="navbar-brand" href="regC.html">RegC</a>
+                            </div>
+                            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#navbarSupportedContent">
+                                <span class="navbar-toggler-icon"/>
+                            </button>
+                            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                                    <li class="nav-item">
+                                        <a class="nav-link active" aria-current="page" href="about.html"
+                                            >about</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link active" href="persons.html">persons</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </nav>
+                    <div class="container mt-5">
+                        <xsl:apply-templates select="/t:fileDesc"></xsl:apply-templates>
+                    </div>
+                </body>
+            </html>
+            
+        </xsl:result-document>
 
     </xsl:template>
-    
 
-      
-    
+
+
+
     <!-- Title -->
     <xsl:template match="t:docTitle">
-        <h2><xsl:apply-templates/></h2>
+        <h2>
+            <xsl:apply-templates/>
+        </h2>
     </xsl:template>
     <!--  Table -->
     <xsl:attribute-set name="full.size.table">
@@ -169,62 +281,77 @@
     </xsl:template>
     <!-- paragraphs -->
     <xsl:template match="t:p">
-       <p><xsl:apply-templates></xsl:apply-templates></p>
+        <p>
+            <xsl:apply-templates/>
+        </p>
     </xsl:template>
     <!-- Dealing with rows -->
-    
+
     <!-- General styling of rows -->
     <xsl:template match="t:row">
-    <xsl:variable name="call-modal"><td style="width:5%">
-        <!-- Modal -->
-        <div class="modal fade" id="myModal" role="dialog">
-            <div class="modal-dialog">
-                <!-- Modal content -->
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h4 class="modal-title" id="modal-title"></h4>
-                    </div>
-                    <div class="modal-body" id="modal-description">
-                        <!-- XML data will be added here -->
-                    </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-default"
-                            data-bs-dismiss="modal">Close</button>
+        <xsl:variable name="call-modal">
+            <td style="width:5%">
+                <!-- Modal -->
+                <div class="modal fade" id="myModal" role="dialog">
+                    <div class="modal-dialog">
+                        <!-- Modal content -->
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h4 class="modal-title" id="modal-title"/>
+                            </div>
+                            <div class="modal-body" id="modal-description">
+                                <!-- XML data will be added here -->
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-default"
+                                    data-bs-dismiss="modal">Close</button>
+                            </div>
+                        </div>
                     </div>
                 </div>
-            </div>
-        </div>
-        <xsl:variable name="target" select="t:cell/t:bibl/@corresp"/>
-        <button type="button" class="btn btn-light" onclick="openModal('{$target}')">Details</button>
-    </td></xsl:variable>
-    
+                <xsl:variable name="target" select="t:cell/t:bibl/@corresp"/>
+                <button type="button" class="btn btn-light" onclick="openModal('{$target}')"
+                    >Details</button>
+            </td>
+        </xsl:variable>
+
         <tr>
             <xsl:apply-templates select="t:cell"/>
             <xsl:choose>
                 <xsl:when test="@ana = 'prov:purchase'">
-                    <xsl:copy-of select="$call-modal"></xsl:copy-of>
+                    <xsl:copy-of select="$call-modal"/>
                 </xsl:when>
                 <xsl:when test="@ana = 'prov:subscription'">
-                <xsl:copy-of select="$call-modal"></xsl:copy-of></xsl:when>
+                    <xsl:copy-of select="$call-modal"/>
+                </xsl:when>
                 <xsl:when test="@ana = 'prov:sold'">
-                    <xsl:copy-of select="$call-modal"></xsl:copy-of></xsl:when><xsl:when test="@ana = 'prov:move-changeId'">
-                        <xsl:copy-of select="$call-modal"></xsl:copy-of></xsl:when><xsl:when test="@ana = 'prov:donation'">
-                            <xsl:copy-of select="$call-modal"></xsl:copy-of></xsl:when>
+                    <xsl:copy-of select="$call-modal"/>
+                </xsl:when>
+                <xsl:when test="@ana = 'prov:move-changeId'">
+                    <xsl:copy-of select="$call-modal"/>
+                </xsl:when>
+                <xsl:when test="@ana = 'prov:donation'">
+                    <xsl:copy-of select="$call-modal"/>
+                </xsl:when>
             </xsl:choose>
-        </tr></xsl:template>
-
-<!-- Names -->
-    <xsl:template match="t:persName[@corresp]">
-        <!-- refer to a name-page and link with #id to specific location -->
-        <a href="example.com"><xsl:apply-templates></xsl:apply-templates></a>
+        </tr>
     </xsl:template>
 
-<!-- Gaps -->
-<xsl:template match="t:gap[@reason='deleted']">
-    <xsl:text>##deletion##</xsl:text><xsl:apply-templates></xsl:apply-templates>
-</xsl:template>
-    
-    
+    <!-- Names -->
+    <xsl:template match="t:persName[@corresp]">
+        <!-- refer to a name-page and link with #id to specific location -->
+        <a href="example.com">
+            <xsl:apply-templates/>
+        </a>
+    </xsl:template>
+
+    <!-- Gaps -->
+    <xsl:template match="t:gap[@reason = 'deleted']">
+        <xsl:text>##deletion##</xsl:text>
+        <xsl:apply-templates/>
+    </xsl:template>
+
+
     <!-- style cells, borders and headings -->
     <xsl:template match="t:cell[@cols and @rows]">
         <xsl:choose>
@@ -267,11 +394,11 @@
             <xsl:apply-templates/>
         </u>
     </xsl:template>
-    
+
     <!-- notes -->
-   <xsl:template match="t:note">
-       <span title="{.}" style="color:red">*</span>
-   </xsl:template>
+    <xsl:template match="t:note">
+        <span title="{.}" style="color:red">*</span>
+    </xsl:template>
     <!-- choice for abbreviations -->
     <xsl:template match="t:choice">
         <abbr title="{t:expan}">
@@ -298,13 +425,14 @@
     </xsl:template>
     <xsl:template match="t:item">
         <li>
-            <xsl:apply-templates></xsl:apply-templates>
+            <xsl:apply-templates/>
         </li>
     </xsl:template>
     <!-- pagebreaks -->
     <xsl:template match="t:pb" name="pages">
         <xsl:variable name="pageId" select="./@xml:id"/>
-        <div style="scroll-margin-top: 70px" class="page text-center text-muted mt-5 mb-3" level="" id="{$pageId}">
+        <div style="scroll-margin-top: 70px" class="page text-center text-muted mt-5 mb-3" level=""
+            id="{$pageId}">
             <span class="pageNumber">
                 <b>
                     <xsl:value-of select="./@xml:id"/>
@@ -322,8 +450,21 @@
         <a href="{$refID}">
             <xsl:apply-templates/>
         </a>
-        
+
+    </xsl:template>
+
+    <!-- persons -->
+    <xsl:template match="//t:listPerson/t:person">
+        <xsl:variable name="VIAF-ID" select="./t:idno[@type='VIAF']"/>
+        <xsl:variable name="Wikidata-ID" select="./t:idno[@type='WikiData']"/>
+        <xsl:variable name="CERL-ID" select="./t:idno[@type='CERL']"/>
+        <li class="list-group-item"><xsl:value-of select="./t:persName"/>
+            <xsl:choose><xsl:when test="./t:idno/@type='VIAF'">; <a href="https://viaf.org/viaf/{$VIAF-ID}" target="_blank">VIAF</a></xsl:when></xsl:choose>
+            <xsl:choose><xsl:when test="./t:idno/@type='CERL'">; <a href="https://data.cerl.org/thesaurus/{$CERL-ID}" target="_blank">CERL</a></xsl:when></xsl:choose>
+            <xsl:choose><xsl:when test="./t:idno/@type='WikiData'">; <a href="https://www.wikidata.org/wiki/{$Wikidata-ID}" target="_blank">Wikidata</a></xsl:when></xsl:choose>
+        </li>
     </xsl:template>
     
-
+    <!-- about/fileDesc -->
+<xsl:template match="//t:fileDesc"><xsl:apply-templates></xsl:apply-templates></xsl:template>
 </xsl:stylesheet>

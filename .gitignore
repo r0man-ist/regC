@@ -1,4 +1,7 @@
 *.xpr
 TEST_*.*
 INTERN_*.*
+RegC.html
+persons.html
+about.html
 ~$*
