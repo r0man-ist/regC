@@ -2793,49 +2793,49 @@
                </row>
                <row ana="prov:move-changeId">
                   <cell>4.</cell>
-                  <cell><bibl>R. Azaria</bibl>.</cell>
+                  <cell><bibl corresp="#regC-bib-Azaria[uncatalogued]">R. Azaria</bibl>.</cell>
                   <cell>M.5.11. Th.</cell>
                   <cell>F.F. 27. Th.</cell>
                </row>
                <row ana="prov:move-changeId">
                   <cell>5.</cell>
-                  <cell><bibl>Boxhornius</bibl></cell>
+                  <cell><bibl corresp="#regC-bib-Boxhorn1632">Boxhornius</bibl></cell>
                   <cell>B.4.2. Art.</cell>
                   <cell>A .A. 31. Jur.</cell>
                </row>
                <row ana="prov:move-changeId">
                   <cell>6.</cell>
-                  <cell><bibl>Ceva</bibl></cell>
+                  <cell><bibl corresp="#regC-bib-Ceva1515">Ceva</bibl></cell>
                   <cell>C.5.10. Th.</cell>
                   <cell>D.D. 44. Th.</cell>
                </row>
                <row ana="prov:move-changeId">
                   <cell>7.</cell>
-                  <cell><bibl>Driverus</bibl></cell>
+                  <cell><bibl corresp="#regC-bib-Driverus1551">Driverus</bibl></cell>
                   <cell>T. 1. 7. Med.</cell>
                   <cell>4.<hi rend="superscript:true">to</hi> F. 15. Med.</cell>
                </row>
                <row ana="prov:move-changeId">
                   <cell/>
-                  <cell><bibl>Jo. Guido</bibl></cell>
+                  <cell><bibl corresp="#regC-bib-Guido1543">Jo. Guido</bibl></cell>
                   <cell>ibid.</cell>
                   <cell>ibid.</cell>
                </row>
                <row ana="prov:move-changeId">
                   <cell/>
-                  <cell><bibl>Selanus</bibl></cell>
+                  <cell><bibl corresp="#regC-bib-Sclanus1583">Sclanus</bibl></cell>
                   <cell>ibid.</cell>
                   <cell>ibid.</cell>
                </row>
                <row ana="prov:move-changeId">
                   <cell>8.</cell>
-                  <cell><bibl>Espencæus</bibl></cell>
+                  <cell><bibl corresp="#regC-bib-Espence1565">Espencæus</bibl></cell>
                   <cell>E.4,3 Th.</cell>
                   <cell>F.F 29. Th.</cell>
                </row>
                <row ana="prov:move-changeId">
                   <cell>9.</cell>
-                  <cell><bibl>Flacius</bibl>.</cell>
+                  <cell><bibl corresp="#regC-bib-Flacius1562">Flacius</bibl>.</cell>
                   <cell>D.3,12. Th.</cell>
                   <cell>F.F. 23. Th.</cell>
                </row>
@@ -2847,49 +2847,49 @@
                </row>
                <row ana="prov:move-changeId">
                   <cell>11.</cell>
-                  <cell><bibl>Hemelarius</bibl></cell>
+                  <cell><bibl corresp="#regC-bib-Bie1627">Hemelarius</bibl></cell>
                   <cell>C.2.1. Art.</cell>
                   <cell>A.A.33.Jur.</cell>
                </row>
                <row ana="prov:move-changeId">
                   <cell>12.</cell>
-                  <cell><bibl>Herrera</bibl></cell>
+                  <cell><bibl corresp="#regC-bib-Herrera1600">Herrera</bibl></cell>
                   <cell>L.4.17.Th.</cell>
                   <cell>H.5,11 Th.</cell>
                </row>
                <row ana="prov:move-changeId">
                   <cell>13.</cell>
-                  <cell><bibl>Kircherus</bibl></cell>
+                  <cell><bibl corresp="#regC-bib-Kircher1665">Kircherus</bibl></cell>
                   <cell>B.6.3 Art.</cell>
                   <cell>A. A. 47. Jur.</cell>
                </row>
                <row ana="prov:move-changeId">
                   <cell>14.</cell>
-                  <cell><bibl>Labata</bibl></cell>
+                  <cell><bibl corresp="#regC-bib-Labata1615a">Labata</bibl></cell>
                   <cell>L.3.13. Th.</cell>
                   <cell>D.D. 49. Th.</cell>
                </row>
                <row ana="prov:move-changeId">
                   <cell>15.</cell>
-                  <cell><bibl>Idem</bibl></cell>
+                  <cell><bibl corresp="#regC-bib-Labata1615b">Idem</bibl></cell>
                   <cell>L.3. 14. Th.</cell>
                   <cell>D.D. 50. Th.</cell>
                </row>
                <row ana="prov:move-changeId">
                   <cell>16.</cell>
-                  <cell><bibl>Lippeloo</bibl></cell>
+                  <cell><bibl corresp="#regC-bibLippeloo1601a">Lippeloo</bibl></cell>
                   <cell>L.4.4. Th.</cell>
                   <cell>D.D. 46. Th.</cell>
                </row>
                <row ana="prov:move-changeId">
                   <cell>17.</cell>
-                  <cell><bibl>Lippeloo</bibl></cell>
+                  <cell><bibl corresp="#regC-bibLippeloo1601b">Lippeloo</bibl></cell>
                   <cell>L.4.5.Th.</cell>
                   <cell>D.D. 47. Th.</cell>
                </row>
                <row ana="prov:move-changeId">
                   <cell>18.</cell>
-                  <cell><bibl>Lyserus</bibl></cell>
+                  <cell><bibl corresp="#regC-bib-Leyser1604">Lyserus</bibl></cell>
                   <cell>L.4.6.Th.</cell>
                   <cell>D.D. 48. Th.</cell>
                </row>
@@ -2901,37 +2901,37 @@
                </row>
                <row ana="prov:move-changeId">
                   <cell>20.</cell>
-                  <cell><bibl>Camillo Pellegrino</bibl></cell>
+                  <cell><bibl corresp="#regC-bib-Pellegrino1651">Camillo Pellegrino</bibl></cell>
                   <cell>B.6.4. Art.</cell>
                   <cell>A. A. 46. Jur.</cell>
                </row>
                <row ana="prov:move-changeId">
                   <cell>21.</cell>
-                  <cell><bibl>Rhonæus</bibl>.</cell>
+                  <cell><bibl corresp="#regC-bib-Oraeus1623">Rhonæus</bibl>.</cell>
                   <cell>R. 7.11.Th.</cell>
                   <cell>D.D. 42. Th.</cell>
                </row>
                <row ana="prov:move-changeId">
                   <cell>22.</cell>
-                  <cell><bibl>Ribera</bibl></cell>
+                  <cell><bibl corresp="#regC-bib-Ribera1623">Ribera</bibl></cell>
                   <cell>R.7.12. Th.</cell>
                   <cell>D.D. 43. Th.</cell>
                </row>
                <row ana="prov:move-changeId">
                   <cell/>
-                  <cell><bibl>Day</bibl></cell>
+                  <cell><bibl corresp="#regC-bib-Daye1632">Day</bibl></cell>
                   <cell>ibid.</cell>
                   <cell>ibid.</cell>
                </row>
                <row ana="prov:move-changeId">
                   <cell/>
-                  <cell><bibl>Gardyner</bibl></cell>
+                  <cell><bibl corresp="#regC-bib-Gardiner1631">Gardyner</bibl></cell>
                   <cell>ibid.</cell>
                   <cell>ibid.</cell>
                </row>
                <row ana="prov:move-changeId">
                   <cell/>
-                  <cell><bibl>Blanchot</bibl></cell>
+                  <cell><bibl corresp="#regC-bib-Blanchot1631">Blanchot</bibl></cell>
                   <cell>ibid.</cell>
                   <cell>ibid.</cell>
                </row>
