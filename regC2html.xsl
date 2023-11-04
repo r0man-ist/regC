@@ -86,18 +86,12 @@
   ]]>
                 </script>
                 
-<!-- Script for highlighting names -->                
-<!--<script type="text/javascript">
-    <xsl:text>
-        var addclass = 'color';
-        var $cols = $('.divs').click(function(e) {
-            $cols.removeClass(addclass);
-            $(this).addClass(addclass);
-});
-    </xsl:text>
-    
-    -->
-<!--</script>-->
+<!-- css -->
+<style>
+    a {color: #CC9900;
+    text-decoration: none;}
+</style>
+
 
             </head>
 
@@ -158,7 +152,7 @@
                             <form class="d-flex">
                                 <input class="form-control me-2" type="search" placeholder="Search"
                                     aria-label="Search">
-                                    <button class="btn btn-outline-success" type="submit"
+                                    <button class="btn btn-outline-light" type="submit"
                                         >Search</button>
                                 </input>
                             </form>
@@ -195,7 +189,7 @@
                 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"/>
                 <script src="https://code.jquery.com/jquery-3.6.0.min.js"/>
                 <body>
-                    <nav class="navbar navbar-expand-lg"
+                    <nav class="navbar navbar-expand-lg sticky-top"
                         style="position: sticky;  top: 0;background: silver;z-index: 100;">
                         <div class="container-fluid">
                             <div class="navbar-header">
@@ -221,6 +215,12 @@
                     <div class="container mt-5">
                         <xsl:apply-templates select="//t:listPerson"/>
                     </div>
+                    <!-- css  -->
+                    <style>
+                        :target {background-color: #FFCC33;scroll-margin-top: 70px}<!-- to highlight target fragments -->
+                        a {color: #CC9900;
+                        text-decoration: none;}}
+                    </style>
                 </body>
             </html>
 
@@ -488,8 +488,7 @@
 <!-- links to persons -->
     <xsl:template match="t:persName[@corresp]">
         <xsl:variable name="persRef" select="./@corresp"/>
-        <xsl:variable name="persName" select="//t:listPerson/t:person[@xml:id = substring($persRef,2)]/t:persName"/>
-        <a rel="noopener" href="persons.html{$persRef}#:~:text={$persName}" target="_blank">
+        <a rel="noopener" href="persons.html{$persRef}" target="_blank">
             <xsl:apply-templates/>
         </a>
     </xsl:template>
