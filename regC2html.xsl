@@ -85,7 +85,19 @@
     }
   ]]>
                 </script>
-
+                
+<!-- Script for highlighting names -->                
+<!--<script type="text/javascript">
+    <xsl:text>
+        var addclass = 'color';
+        var $cols = $('.divs').click(function(e) {
+            $cols.removeClass(addclass);
+            $(this).addClass(addclass);
+});
+    </xsl:text>
+    
+    -->
+<!--</script>-->
 
             </head>
 
@@ -137,8 +149,8 @@
                                     <ul class="dropdown-menu"
                                         style="height: auto;max-height: 400px; overflow-x: hidden;">
                                         <li>
-                                            
-                                                   <a class="dropdown-item" href="#fol-7r">1720</a>
+
+                                            <a class="dropdown-item" href="#fol-7r">1720</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -196,8 +208,8 @@
                             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                                     <li class="nav-item">
-                                        <a class="nav-link active" aria-current="page" href="about.html"
-                                            >about</a>
+                                        <a class="nav-link active" aria-current="page"
+                                            href="about.html">about</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link active" href="persons.html">persons</a>
@@ -207,9 +219,7 @@
                         </div>
                     </nav>
                     <div class="container mt-5">
-                        <ul class="list-group">
-                            <xsl:apply-templates select="//t:listPerson/t:person"/>
-                        </ul>
+                        <xsl:apply-templates select="//t:listPerson"/>
                     </div>
                 </body>
             </html>
@@ -240,8 +250,8 @@
                             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                                     <li class="nav-item">
-                                        <a class="nav-link active" aria-current="page" href="about.html"
-                                            >about</a>
+                                        <a class="nav-link active" aria-current="page"
+                                            href="about.html">about</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link active" href="persons.html">persons</a>
@@ -251,11 +261,11 @@
                         </div>
                     </nav>
                     <div class="container mt-5">
-                        <xsl:apply-templates select="/t:fileDesc"></xsl:apply-templates>
+                        <xsl:apply-templates select="/t:fileDesc"/>
                     </div>
                 </body>
             </html>
-            
+
         </xsl:result-document>
 
     </xsl:template>
@@ -337,13 +347,7 @@
         </tr>
     </xsl:template>
 
-    <!-- Names -->
-    <xsl:template match="t:persName[@corresp]">
-        <!-- refer to a name-page and link with #id to specific location -->
-        <a href="example.com">
-            <xsl:apply-templates/>
-        </a>
-    </xsl:template>
+
 
     <!-- Gaps -->
     <xsl:template match="t:gap[@reason = 'deleted']">
@@ -454,17 +458,47 @@
     </xsl:template>
 
     <!-- persons -->
-    <xsl:template match="//t:listPerson/t:person">
-        <xsl:variable name="VIAF-ID" select="./t:idno[@type='VIAF']"/>
-        <xsl:variable name="Wikidata-ID" select="./t:idno[@type='WikiData']"/>
-        <xsl:variable name="CERL-ID" select="./t:idno[@type='CERL']"/>
-        <li class="list-group-item"><xsl:value-of select="./t:persName"/>
-            <xsl:choose><xsl:when test="./t:idno/@type='VIAF'">; <a href="https://viaf.org/viaf/{$VIAF-ID}" target="_blank">VIAF</a></xsl:when></xsl:choose>
-            <xsl:choose><xsl:when test="./t:idno/@type='CERL'">; <a href="https://data.cerl.org/thesaurus/{$CERL-ID}" target="_blank">CERL</a></xsl:when></xsl:choose>
-            <xsl:choose><xsl:when test="./t:idno/@type='WikiData'">; <a href="https://www.wikidata.org/wiki/{$Wikidata-ID}" target="_blank">Wikidata</a></xsl:when></xsl:choose>
+    <xsl:template match="t:listPerson">
+        <ul class="list-group">
+            <xsl:apply-templates select="t:person">
+                <xsl:sort select="t:persName"/>
+            </xsl:apply-templates>
+        </ul>
+    </xsl:template>
+
+    <xsl:template match="t:person">
+        <xsl:variable name="persId" select="./@xml:id"/>
+        <xsl:variable name="VIAF-ID" select="./t:idno[@type = 'VIAF']"/>
+        <xsl:variable name="Wikidata-ID" select="./t:idno[@type = 'WikiData']"/>
+        <xsl:variable name="CERL-ID" select="./t:idno[@type = 'CERL']"/>
+
+        <li class="list-group-item" id="{$persId}">
+            <xsl:value-of select="./t:persName"/>
+            <xsl:if test="./t:idno/@type = 'VIAF'">; <a href="https://viaf.org/viaf/{$VIAF-ID}"
+                    target="_blank">VIAF</a></xsl:if>
+            <xsl:if test="./t:idno/@type = 'CERL'">; <a
+                    href="https://data.cerl.org/thesaurus/{$CERL-ID}" target="_blank"
+                >CERL</a></xsl:if>
+            <xsl:if test="./t:idno/@type = 'WikiData'">; <a
+                    href="https://www.wikidata.org/wiki/{$Wikidata-ID}" target="_blank"
+                >Wikidata</a></xsl:if>
         </li>
     </xsl:template>
-    
+
+<!-- links to persons -->
+    <xsl:template match="t:persName[@corresp]">
+        <xsl:variable name="persRef" select="./@corresp"/>
+        <xsl:variable name="persName" select="//t:listPerson/t:person[@xml:id = substring($persRef,2)]/t:persName"/>
+        <a rel="noopener" href="persons.html{$persRef}#:~:text={$persName}" target="_blank">
+            <xsl:apply-templates/>
+        </a>
+    </xsl:template>
+ 
+
+
+
     <!-- about/fileDesc -->
-<xsl:template match="//t:fileDesc"><xsl:apply-templates></xsl:apply-templates></xsl:template>
+    <xsl:template match="//t:fileDesc">
+        <xsl:apply-templates/>
+    </xsl:template>
 </xsl:stylesheet>
