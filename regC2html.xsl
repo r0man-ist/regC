@@ -29,7 +29,7 @@
     function openModal(target) {
       
       // Create a URL for the XML data file
-      const xmlDataUrl = 'regC.xml';
+      const xmlDataUrl = '../regC.xml';
 
       // Use jQuery to load the XML data
       $.ajax({
