@@ -3279,7 +3279,7 @@
                </row>
                <row ana="prov:donation">
                   <cell><bibl>Supplem. in Monument. Angl. 1728. 8°</bibl></cell>
-                  <cell><persName corresp="#regCJLEN" ana="prov:donor">M<hi rend="superscript:true"
+                  <cell><persName corresp="#regC-JLEN" ana="prov:donor">M<hi rend="superscript:true"
                            >r</hi>. Le Neve</persName></cell>
                   <cell>8° D.36.Jur.</cell>
                   <cell>Prof. Jur.</cell>
@@ -3288,7 +3288,7 @@
                   <cell><bibl corresp="#regC-bib-Le_Neve1720">Lives &amp; Characters of the
                         reform'd<lb/> Bishops. <hi rend="underlined:true">Lond.</hi> 1719.
                      8°</bibl></cell>
-                  <cell><persName corresp="#regCJLEN" ana="prov:donor">Idem.</persName></cell>
+                  <cell><persName corresp="#regC-JLEN" ana="prov:donor">Idem.</persName></cell>
                   <cell>8° Z.412.Th.</cell>
                   <cell>Prof. Theol.</cell>
                </row>
