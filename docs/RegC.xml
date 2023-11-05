@@ -1,0 +1,3861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Register C (Library Records c.854)</title>
+            <respStmt>
+               <resp>transcribed and encoded by</resp>
+               <persName>Roman Kuhn</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Transcription of the Bodleian Library "Register C" (Library Records c.854) with added
+               provenance and title data. This document is part of a MA thesis at Humboldt
+               Universität zu Berlin (MA Library and Information Science)</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Bodleian Library Record c.854, known as Register C, is an account book of the
+               Bodleian Library for the years 1720-1767. It records, in various hands, expenses,
+               books bought, donated and given to the library as well as the moving of books to
+               other shelves.</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Shelfmarks are transcibed as they appear in the source. Additionally, a 'normalized'
+            form corresponding to the form shelfmarks are used in today's catalogue (with spaces and
+            stops at the appropriate positions) is provided in a 'choice'-element.</p>
+         <p>The tables in the source are reproduced as tables, but brackets indicating alignments of
+            rows or dots filling the line are not reproduced (where appropriate, cells spanning
+            multiple colums or rows are marked as such.</p>
+      </encodingDesc>
+   </teiHeader>
+   <standOff>
+      <listPerson>
+         <person xml:id="regC-JBOW">
+            <persName>Bowles, Joseph</persName>
+            <idno type="VIAF">6137157162105278980009</idno>
+            <idno type="CERL">cnp02260393</idno>
+            <idno type="WikiData">Q6281642</idno>
+         </person>
+         <person xml:id="regC-SFLE">
+            <persName>Fletcher, Stephen</persName>
+            <idno type="CERL">cnp00058554</idno>
+         </person>
+         <person xml:id="regC-TTER">
+            <persName>Terry, Thomas</persName>
+         </person>
+         <person xml:id="regC-RSHI">
+            <persName>Shippen, Robert</persName>
+            <idno type="VIAF">4683159941682025440006</idno>
+            <idno type="WikiData">Q7349764</idno>
+         </person>
+         <person xml:id="regC-JPOT">
+            <persName>Potter, John</persName>
+            <idno type="VIAF">100189223</idno>
+            <idno type="CERL">cnp00000200</idno>
+            <idno type="WikiData">Q336868</idno>
+         </person>
+         <person xml:id="regC-JBOU">
+            <persName>Bouchier, James</persName>
+         </person>
+         <person xml:id="regC-HFIS">
+            <persName>Fisher, Henry</persName>
+         </person>
+         <person xml:id="regC-WHOD">
+            <persName>Hodges, Walter</persName>
+            <idno type="VIAF">17094678</idno>
+         </person>
+         <person xml:id="regC-JPUR">
+            <persName>Purnell, John</persName>
+            <idno type="WikiData">Q6253571</idno>
+         </person>
+         <person xml:id="regC-SNIB">
+            <persName>Niblett, Stephen</persName>
+            <idno type="WikiData">Q7610098</idno>
+         </person>
+         <person xml:id="regC-JHUD">
+            <persName>Hudson, John</persName>
+            <idno type="VIAF">100222314</idno>
+            <idno type="WikiData">Q13522431</idno>
+         </person>
+         <person xml:id="regC-JLAS">
+            <persName>Lasher, Joshua</persName>
+            <idno type="VIAF">59438513</idno>
+         </person>
+         <person xml:id="regC-RCLA">
+            <persName>Clavering, Robert</persName>
+            <idno type="VIAF">71262625</idno>
+            <idno type="WikiData">Q7342960</idno>
+         </person>
+         <person xml:id="regC-HCLE">
+            <persName>Clements, Henry</persName>
+            <idno type="CERL">cnp02330155</idno>
+         </person>
+         <person xml:id="regC-JECK">
+            <persName>Eckhart, Johann Georg von</persName>
+            <idno type="VIAF">71489973</idno>
+            <idno type="WikiData">Q71289</idno>
+         </person>
+         <person xml:id="regC-JLEN">
+            <persName>Le Neve, John</persName>
+            <idno type="VIAF">66547674</idno>
+         </person>
+         <person xml:id="regC-JLIN">
+            <persName>Lindsay, John</persName>
+            <idno type="VIAF">28500517</idno>
+         </person>
+         <person xml:id="regC-NTRO">
+            <persName>Trott, Nicholas</persName>
+            <idno type="VIAF">76700095</idno>
+         </person>
+         <person xml:id="regC-JJON">
+            <persName>Johnson, John</persName>
+            <idno type="VIAF">1431094</idno>
+         </person>
+         <person xml:id="regC-WLUX">
+            <persName>Lux, William</persName>
+            <idno type="VIAF">58058121</idno>
+         </person>
+         <person xml:id="regC-RRAW">
+            <persName>Rawlinson, Richard</persName>
+            <idno type="VIAF">47563478</idno>
+         </person>
+         <person xml:id="regC-TDER">
+            <persName>Dereham, Thomas Sir</persName>
+            <idno type="VIAF">5037148209311300460001</idno>
+         </person>
+         <person xml:id="regC-FSMI">
+            <persName>Smit, Franz</persName>
+            <idno type="VIAF">74718649</idno>
+         </person>
+         <person xml:id="regC-JCOL">
+            <persName>Colbatch, John</persName>
+            <idno type="VIAF">6276752</idno>
+         </person>
+      </listPerson>
+      <listObject>
+    <object xml:id="regC-bib-ActaEruditorum1719" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">(Vet.) Per. 3977 d.161</idno>
+            <idno type="ALMA-ID">990104522620107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990104522620107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <title>Acta Eruditorum</title>
+                <imprint>
+                    <pubPlace>Lipsiae</pubPlace>
+                    <date>1719</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Aristides1722" ana="not-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="ALMA-ID">990135456420107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135456420107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Aristides, Aelius</author>
+                <title>Aelii Aristidis Adrianensis Opera omnia Graece&#160;&amp;&#160;Latine, : in
+                    duo volumina distributa</title>
+                <imprint>
+                    <pubPlace>Oxonii</pubPlace>
+                    <date>1722</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Avesbury1720" ana="not-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="ALMA-ID">990135249730107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135249730107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Robert, of&#160;Avesbury</author>
+                <title>Roberti de&#160;Avesbury&#160;Historia de mirabilibus gestis Edvard: III.
+                    descripsit ediditque Tho. Hearnius</title>
+                <imprint>
+                    <pubPlace>Oxonii</pubPlace>
+                    <date>1720</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Azaria-uncatalogued" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">FF 27 Th.</idno>
+            <idno type="ALMA-ID">990234206960107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990234206960107026</idno>
+        </objectIdentifier>
+    </object>
+    <object xml:id="reg-C-bib-Bernardinus1623" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">FF 34 Th.</idno>
+            <idno type="ALMA-ID">990141954320107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990141954320107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Bernardinus de s. Antonio frater.</author>
+                <title>Epitome generalium redemption&#363; captiuorum, qu&#230; a fratribus Ordinis
+                    S.m&#230; Trinitatis sunt fact&#230;. [With] Additionis liber tertius.</title>
+                <imprint>
+                    <pubPlace>Vlyssip.</pubPlace>
+                    <date>1623</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Bie1627" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">AA 33(1) Jur.</idno>
+            <idno type="ALMA-ID">990139643220107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990139643220107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Bie, Jacques de.</author>
+                <title>Imperatorum Romanorum &#224; Iulio C&#230;sare ad Heraclium usque numismata
+                    aurea ... Caroli ducis Croyi ... studio collecta, arte I. de Bye in &#230;s
+                    incisa, opera I. Hemelarii comm. explicata.</title>
+                <imprint>
+                    <pubPlace>Antu.</pubPlace>
+                    <date>1627</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Blanchot1631" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">DD 43(4) Th.</idno>
+            <idno type="ALMA-ID">990146263160107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990146263160107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Blanchot, Pierre.</author>
+                <title>Bibliotheca ss. patrum concionatoria, qua ... conciones, homili&#230;,
+                    orationes ... summatim exposita ... exhibentur.</title>
+                <imprint>
+                    <pubPlace>Par.</pubPlace>
+                    <date>1631</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Bonifacio1652" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">AA 37 Jur.</idno>
+            <idno type="ALMA-ID">990205807710107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990205807710107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Bonifacio, Baldassarre, 1585-1659, author.</author>
+                <title>Balthassaris Bonifacii ludicra historia /</title>
+                <imprint>
+                    <pubPlace>Venetiis, :</pubPlace>
+                    <date>1652</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Boxhorn1632" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">AA 31 Jur.</idno>
+            <idno type="ALMA-ID">990147946710107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990147946710107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Boxhorn, Marcus Zuerius, 1612-1653.</author>
+                <title>Marci Zuerii Boxhornii Theatrum, sive Hollandi&#230; comitatus et urbium nova
+                    descriptio.</title>
+                <imprint>
+                    <pubPlace>Amst.</pubPlace>
+                    <date>1632</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Bruyn1718" ana="not-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Bruyn, Cornelis de, 1652-1726 or 7.</author>
+                <title>Voyages de Corneille Le Brun par la Moscovie, en Perse, et aux Indes
+                    Orientales. : Ouvrage enrichi de plus de 320 tailles douces ... On y a
+                    ajo&#251;t&#233; la route qu'a suivie Mr. Isbrants, ambassadeur de Moscovie, en
+                    traversant la Russie &amp; la Tartarie, pour se rendre &#224; la Chine. Et
+                    quelques remarques contre Mrs. Chardin &amp; Kempfer. Avec une lettre
+                    &#233;crite &#224; l'auteur, sur ce sujet..</title>
+                <imprint>
+                    <pubPlace>A Amsterdam</pubPlace>
+                    <date>1718</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Ceva1515" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">DD 44 Th.</idno>
+            <idno type="ALMA-ID">990144195410107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990144195410107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Bonifacius de Ceva.</author>
+                <title>Bonifacij de Ceua ... Viatice excursi&#333;es ... nuper de n&#333;nullis
+                    ho&#299;m vicijs sparsim edite.</title>
+                <imprint>
+                    <pubPlace>Par.</pubPlace>
+                    <date>1515</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Colbatch1695" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">8&#176; M 22 Linc. (2)</idno>
+            <idno type="ALMA-ID">990143211860107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990143211860107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Colbatch, John,</author>
+                <title>Novum lumen chirurgicum: or, A new light of chirurgery</title>
+                <imprint>
+                    <pubPlace>Lond.</pubPlace>
+                    <date>1695</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Crakanthorp1625" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">FF 31 Th.</idno>
+            <idno type="ALMA-ID">990138814190107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990138814190107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Crakanthorpe, Richard, 1567-1624.</author>
+                <title>Defensio Ecclesi&#230; Anglican&#230;, contra M ... a. de Dominis iniurias,
+                    opus posthumum a I. Barkham ed.</title>
+                <imprint>
+                    <pubPlace>Lond.</pubPlace>
+                    <date>1625</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Cyril1720" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">G 3.11 Th.</idno>
+            <idno type="ALMA-ID">990140066620107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990140066620107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Cyril, Saint, Bishop of Jerusalem, approximately 315-386</author>
+                <title>Tou en hagiois patros h&#275;m&#333;n Kurillou ... ta heuriskomena panta ...
+                    cum nova interpretatione studio A.A. Toult&#233;e.</title>
+                <imprint>
+                    <pubPlace>Par.</pubPlace>
+                    <date>1720</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Daye1632" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">DD 43(2) Th.</idno>
+            <idno type="ALMA-ID">990147264320107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990147264320107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Daye, Lionel.</author>
+                <title>Concio ad clerum [on Luke xxii, 31] habita Oxonii ... 1609.</title>
+                <imprint>
+                    <pubPlace>Oxon.</pubPlace>
+                    <date>1632</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Dorscheus1674" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">L 3.12,13 Th.</idno>
+            <idno type="ALMA-ID">990145533300107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990145533300107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Dorscheus, Joannes Georgius.</author>
+                <title>Joh. Georg. Dorschei Biblia numerata; seu, Index specialis in Vetus (Novum)
+                    Testamentum, auctus a J. Grambsio.</title>
+                <imprint>
+                    <pubPlace>Francof. a. M.</pubPlace>
+                    <date>1674</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Driverus1551" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">4&#176; F 15(1) Med.</idno>
+            <idno type="ALMA-ID">990148180110107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990148180110107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Driverus, Hieremias</author>
+                <title>Hieremi&#230; Thriueri ... commentarij in vii. libros Aphorismorum
+                    Hippocratis</title>
+                <imprint>
+                    <date>1551</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Dry1717" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">8&#176; M 23(1) Linc.</idno>
+            <idno type="ALMA-ID">990135229780107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135229780107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Dry, John</author>
+                <title>Merton walks, or The Oxford beauties, : a poem</title>
+                <imprint>
+                    <pubPlace>Oxford</pubPlace>
+                    <date>1717</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Du-Bois1721" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">8&#176; C 81 Jur.</idno>
+            <idno type="ALMA-ID">990135340130107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135340130107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Du-Bois, P. B.</author>
+                <title>Useful reflections on several subjects, suited to the present times: each
+                    chapter beginning with a diverting fable; to which is added a proper moral: with
+                    curious observations from the best histories. Done into English, from a French
+                    manuscript, by P. B. Du-Bois.</title>
+                <imprint>
+                    <pubPlace>[Oxford] :</pubPlace>
+                    <date>1721</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Ernulf1720" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">Mus. Bibl. II. 66</idno>
+            <idno type="ALMA-ID">990108430110107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990108430110107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Ernulf, Bishop of Rochester, 1040-1124, author.&#160;</author>
+                <title>Textus Roffensis. : Accedunt, Professionum antiquorum Angli&#230; Episcoporum
+                    formul&#230;, de canonica obedientia Archiepiscopis Cantuariensibus
+                    pr&#230;standa, et Leonardi Hutteni Dissertatio, Anglice conscripta, de
+                    antiquitatibus Oxoniensibus.</title>
+                <imprint>
+                    <pubPlace>Oxonii</pubPlace>
+                    <date>1720</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Espence1565" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">FF 29 Th.</idno>
+            <idno type="ALMA-ID">990148140490107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990148140490107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Espence, Claude d', 1511-1571.</author>
+                <title>Claudii Espenc&#230;i ... collectaneorum de continentia libri sex.</title>
+                <imprint>
+                    <pubPlace>Par.</pubPlace>
+                    <date>1565</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Falster1717" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">8&#176; D 70 Jur.</idno>
+            <idno type="ALMA-ID">990148132190107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990148132190107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Falster, Christian.</author>
+                <title>Christiani Falsteri Supplementum lingv&#230; Latin&#230;,sive, Observationes
+                    ad lexicon Fabro-Cellarianum, ed. mdccx. Adjectis notis cum pr&#230;fatione S.
+                    Lintrupii.</title>
+                <imprint>
+                    <pubPlace>Flensburgi</pubPlace>
+                    <date>1717</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Flacius1562" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">FF 23 Th.</idno>
+            <idno type="ALMA-ID">990139346800107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990139346800107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Flacius Illyricus, Matthias, 1520-1575.</author>
+                <title>Disputatio de originali peccato et libero arbitrio, inter M. Flacium
+                    Illyricum &amp; V. Strigelium public&#232; Vinari&#230; ... anno 1560 ...
+                    habita. Accesserunt eiusdem argumenti &amp; alia quaedam scripta [ed. S.
+                    Mus&#230;us].</title>
+                <imprint>
+                    <pubPlace>[Bremen]</pubPlace>
+                    <date>1562</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Galilei1718" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">AA 25-27 Jur.</idno>
+            <idno type="ALMA-ID">990144329390107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990144329390107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Galilei, Galileo, 1564-1642.</author>
+                <title>Opere de Galileo Galilei. Nuova ed. [ed. by T. Buonaventuri, G. Grandi and B.
+                    Bresciani].</title>
+                <imprint>
+                    <pubPlace>Firenze</pubPlace>
+                    <date>1718</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Gardiner1631" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">DD 43(3) Th.</idno>
+            <idno type="ALMA-ID">990141287360107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990141287360107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Gardiner, Richard, 1591-1670</author>
+                <title>Concio ad clerum habita in templo beat&#230; Mari&#230; Oxon: Feb:
+                    14.</title>
+                <imprint>
+                    <pubPlace>Oxon.</pubPlace>
+                    <date>1631</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Garofalo1718" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">AA 30 Jur.</idno>
+            <idno type="ALMA-ID">990140826430107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990140826430107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Garofalo, Biagio.</author>
+                <title>B. Caryophili ... dissertationum miscellanearum pars prima [ed. by T.M.
+                    Minorellus].</title>
+                <imprint>
+                    <pubPlace>Rom&#230;</pubPlace>
+                    <date>1718</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Geier1667" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">FF 37 Th.</idno>
+            <idno type="ALMA-ID">990143776200107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990143776200107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Geier, Martin, 1614-1680.</author>
+                <title>Pr&#230;lectiones academic&#230; in Danielem prophetam.</title>
+                <imprint>
+                    <pubPlace>Lips.</pubPlace>
+                    <date>1667</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Gramaye1611" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">B 26.60 Linc.</idno>
+            <idno type="ALMA-ID">990140698230107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990140698230107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Gramaye, Jean-Baptiste</author>
+                <title>I.B. Gramaye Primiti&#230; antiquitatum Gandensium. (Antiquitatum Gandensium
+                    volumen altera)</title>
+                <imprint>
+                    <pubPlace>Antu.</pubPlace>
+                    <date>1611</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Grawerus1618" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">FF 36 Th.</idno>
+            <idno type="ALMA-ID">990143006840107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990143006840107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Grawerus, Albertus.</author>
+                <title>Absurda, absurdorum absurdissima, Calvinistica absurda. Keckermanno
+                    opposita.</title>
+                <imprint>
+                    <pubPlace>Jen&#230;</pubPlace>
+                    <date>1618</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Grollier1719" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">AA 48 Jur.</idno>
+            <idno type="ALMA-ID">990144314170107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990144314170107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Grollier de Servi&#232;re, Gaspard.</author>
+                <title>Recueil d'ouvrages curieux de math&#233;matique et de m&#233;canique, ou
+                    Description du cabinet de monsieur Grollier de Servi&#232;re, par son petit
+                    fils.</title>
+                <imprint>
+                    <pubPlace>Lyon</pubPlace>
+                    <date>1719</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Guglielmini1719" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">CC 1,2 Jur.</idno>
+            <idno type="ALMA-ID">990141864830107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990141864830107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Guglielmini, Giovanni Domenico.</author>
+                <title>Dominici Gulielmini ... opera omnia mathematica, hydraulica, medica, et
+                    physica.</title>
+                <imprint>
+                    <pubPlace>Genev&#230;</pubPlace>
+                    <date>1719</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Guido1543" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">4&#176; F 15(2) Med.</idno>
+            <idno type="ALMA-ID">990142091800107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990142091800107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Guido, Joannes</author>
+                <title>Ioannis Guidonis ... de temporis, astrorum, anniq&#769;ue partium integra
+                    atque absoluta animaduersione, libri duo</title>
+                <imprint>
+                    <pubPlace>Par.</pubPlace>
+                    <date>1543</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-G&#252;rtler1694" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">FF 35 Th.</idno>
+            <idno type="ALMA-ID">990147889130107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990147889130107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>G&#252;rtler, Nicolaus.</author>
+                <title>Nicolai G&#252;rtleri ... Institutiones theologic&#230;.</title>
+                <imprint>
+                    <pubPlace>Amst.</pubPlace>
+                    <date>1694</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Hearne1720" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">Mus. Bibl. II. 63</idno>
+            <idno type="ALMA-ID">990132537230107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990132537230107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Hearne, Thomas, 1678-1735</author>
+                <title>A collection of curious discourses, : written by eminent antiquaries upon
+                    several heads in our English antiquities, </title>
+                <imprint>
+                    <pubPlace>Oxford</pubPlace>
+                    <date>1720</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Herrera1600" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">H 5.11 Th.</idno>
+            <idno type="ALMA-ID">990143240730107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990143240730107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Herrera, Franciscus de.</author>
+                <title>Disputationes theologic&#230; et commentaria in secundum librum Sententiarum
+                    Scoti, a 28 vsque ad 42.</title>
+                <imprint>
+                    <pubPlace>Salmantic&#230;</pubPlace>
+                    <date>1600</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Hippolytus1716" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">C 16.11 Th.</idno>
+            <idno type="ALMA-ID">990130888040107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990130888040107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Hippolytus, Antipope, approximately 170-235 or 236.</author>
+                <title>S. Hippolyti episcopi et martyris Opera, : non antea collecta, et partem nunc
+                    primum e MSS. in lucem edita Gr&#230;ce et Latine. Accedunt virorum doctorum
+                    not&#230; et animadversiones, ac pr&#230;ter aliorum commentarios in monumentum
+                    paschale Sancti Martyris tabula triplici &#230;nea expressum, dissertationes
+                    integr&#230; virorum clarissimorum Francisci Blanchini, et Jo. Vignolii, atque
+                    ex Virginii Valsechii et Philippi a Turre scriptis excerpta S. Hippolytum
+                    spectantia. Subjuncta appendix scriptorum dubiorum, supposititiorumque, nec non
+                    qu&#230;cunque reperiri potuere ex lucubrationibus Hippolyti Junioris Thebani.
+                    /</title>
+                <imprint>
+                    <pubPlace>Hamburgi, :</pubPlace>
+                    <date>1716</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Hjaerne1719" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">8&#176; M 23(4) Linc.</idno>
+            <idno type="ALMA-ID">990148336650107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990148336650107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Hj&#228;rne, Urban</author>
+                <title>Xylobalsamum artificiale, cujus beneficio res qu&#230;libet ligne&#230; quin
+                    &amp; ali&#230; mult&#230; &#226; putredine &amp; corruptione possunt
+                    conservari. Cum versione Lat.</title>
+                <imprint>
+                    <pubPlace>Amst. &amp;c.</pubPlace>
+                    <date>1719</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Huet1718" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">8&#176; D 71 Jur.</idno>
+            <idno type="ALMA-ID">990144441750107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990144441750107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Huet, Pierre-Daniel, 1630-1721. 1630-1721</author>
+                <title>Pet. Dan. Huetii ... Commentarius de rebus ad eum pertinentibus.</title>
+                <imprint>
+                    <pubPlace>Amst.</pubPlace>
+                    <date>1718</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Johnson1720" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">8&#176; X 68,69 Th.</idno>
+            <idno type="ALMA-ID">990135042490107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135042490107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Johnson, John, 1662-1725</author>
+                <title>A collection of all the ecclesiastical laws, canons, answers, or rescripts,
+                    with other memorials concerning the government, discipline and worship of the
+                    Church of England, from its first foundation to the Conquest, that have hitherto
+                    been publish'd in the Latin and Saxonic tongues. And of all the canons and
+                    constitutions ecclesiastical, made since the Conquest and before the
+                    Reformation, in any National Council, or in the provincial synods of Canterbury
+                    and York, that have hitherto been publish'd in the Latin tongue. Now first
+                    translated into English with explanatory notes, and such glosses from Lyndwood
+                    and Athone, as were thought most useful. Part the First. [- Second.] /</title>
+                <imprint>
+                    <pubPlace>London: :</pubPlace>
+                    <date>1720</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Kircher1665" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">AA 47 Jur.</idno>
+            <idno type="ALMA-ID">990137016410107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990137016410107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Kircher, Athanasius, 1602-1680.</author>
+                <title>Athanasii Kircheri e Societate Iesu Arithmologia siue De abditis numerorum
+                    mysterijs : qua origo, antiquitas &amp; fabrica numerorum exponitur; abditae
+                    eorundem proprietates demonstrantur; fontes superstitionum in amuletorum fabrica
+                    aperiuntur; denique post cabalistarum, arabum, gnosticorum, aliorumque magicas
+                    impietates detectas, vera &amp; licita numerorum mystica significatio
+                    ostenditur..</title>
+                <imprint>
+                    <pubPlace>Romae, :</pubPlace>
+                    <date>1665</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Labata1615a" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">DD 49 Th.</idno>
+            <idno type="ALMA-ID">990144461540107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990144461540107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Labata, Francisco.</author>
+                <title>Apparatus concionatorum, seu, Loci communes ad conciones ordine alphabetico
+                    digesti.</title>
+                <imprint>
+                    <pubPlace>Colon. Agripp.</pubPlace>
+                    <date>1615</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Labata1615b" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">DD 49,50 Th.</idno>
+            <idno type="ALMA-ID">990144461540107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990144461540107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Labata, Francisco.</author>
+                <title>Apparatus concionatorum, seu, Loci communes ad conciones ordine alphabetico
+                    digesti.</title>
+                <imprint>
+                    <pubPlace>Colon. Agripp.</pubPlace>
+                    <date>1615</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Le_Neve1720" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">8&#176; Z 412 Th.</idno>
+            <idno type="ALMA-ID">990140557270107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990140557270107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Le Neve, John, 1679-1741.</author>
+                <title>The lives and characters [&amp;c.] of all the Protestant bishops of the
+                    Church of England since ... 1559. Vol.1. [in 2 pt. No more publ.].</title>
+                <imprint>
+                    <pubPlace>Lond.</pubPlace>
+                    <date>1720</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-LeClerc1716" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">FF 39 Th.</idno>
+            <idno type="ALMA-ID">990146093880107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990146093880107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Le Clerc, Jean, 1657-1736.</author>
+                <title>Historia ecclesiastica duorum primorum a Christo nato saeculorum.</title>
+                <imprint>
+                    <pubPlace>Amst.</pubPlace>
+                    <date>1716</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Leotaud1654" ana="not-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Leotaud, Vincent, 1595-1672</author>
+                <title>Examen circuli quadraturae hactenus editarum celeberrimae, : quam Apollonius
+                    alter, magno illo Pergaeo non minor geometra, R. P. Gregorius a Sancto Vincentio
+                    Societatis Iesu exposuit.</title>
+                <imprint>
+                    <date>1654</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Lewis1720" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">8&#176; Y 361 BS</idno>
+            <idno type="ALMA-ID">990144692230107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990144692230107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Lewis, Thomas, 1689-1749?</author>
+                <title>The Scourge: in vindication of the Church of England. To which are added, i.
+                    The danger of the Church-establishment of England, from the insolence of
+                    Protestant dissenters. ii. The anatomy of the heretical synod of dissenters at
+                    Salters-hall. By T.L.</title>
+                <imprint>
+                    <pubPlace>Lond.</pubPlace>
+                    <date>1720</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Leyser1604" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">DD 48(1) Th.</idno>
+            <idno type="ALMA-ID">990143622720107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990143622720107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Leyser, Polycarp, 1552-1610.</author>
+                <title>Adamus: hoc est, Theologica expositio prim&#230; partis Geneseos.</title>
+                <imprint>
+                    <pubPlace>Lips.</pubPlace>
+                    <date>1604</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Linden1597" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">FF 32 Th. (1)</idno>
+            <idno type="ALMA-ID">990147366200107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990147366200107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Linden, Henricus Antonides van der praeses.</author>
+                <title>Theses theologic&#230; de sponsa Christi.</title>
+                <imprint>
+                    <pubPlace>Franeker&#230;</pubPlace>
+                    <date>1597</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Lindsay1720" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">8&#176; D 57 Jur.</idno>
+            <idno type="ALMA-ID">990134928490107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990134928490107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Lindsay, John, 1686-1768.</author>
+                <title>The short history of the regal succession, and the rights of the several
+                    kings recorded in the holy scriptures, enlarged and improved in a third edition:
+                    ... By a presbyter of the same church.</title>
+                <imprint>
+                    <pubPlace>London :</pubPlace>
+                    <date>1720</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bibLippeloo1601a" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">DD 46 Th.</idno>
+            <idno type="ALMA-ID">990146044840107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990146044840107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Lippeloo, Zacharias.</author>
+                <title>Vit&#230; sanctorum, siue Res gest&#230; martyrum, confessorum atque
+                    sanctarum virginum, eorum pr&#230;cipue qu&#230; per L. Surium sex tomis
+                    comprehens&#230; sunt, restrictis verborum ambagibus digest&#230;.</title>
+                <imprint>
+                    <pubPlace>Brixi&#230;</pubPlace>
+                    <date>1601</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bibLippeloo1601b" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">DD 47 Th.</idno>
+            <idno type="ALMA-ID">990146044840107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990146044840107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Lippeloo, Zacharias.</author>
+                <title>Vit&#230; sanctorum, siue Res gest&#230; martyrum, confessorum atque
+                    sanctarum virginum, eorum pr&#230;cipue qu&#230; per L. Surium sex tomis
+                    comprehens&#230; sunt, restrictis verborum ambagibus digest&#230;.</title>
+                <imprint>
+                    <pubPlace>Brixi&#230;</pubPlace>
+                    <date>1601</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Lux1719" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">8&#176; M 236 Th.</idno>
+            <idno type="ALMA-ID">990135535610107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135535610107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Lux, William, 1694?-</author>
+                <title>Poems on several occasions: viz. The garden. The ph&#230;nomenon, a poem on
+                    the late surprizing meteor, seen in the sky, Mar. 19th. 1719. A vision,
+                    ...</title>
+                <imprint>
+                    <pubPlace>Oxford :</pubPlace>
+                    <date>1719</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Mabillon1704" ana="not-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Mabillon, Jean, 1632-1707</author>
+                <title>Librorum de re diplomatica&#160;supplementum. : In quo archetypa in his
+                    libris pro regulis proposita, ips&#230;que regul&#230; denuo confirmantur,
+                    novisque speciminibus &amp; argumentis asseruntur &amp; illustrantur.</title>
+                <imprint>
+                    <date>1704</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="reg-C-bib-Maccovius1654" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">FF 38 Th.</idno>
+            <idno type="ALMA-ID">990140393530107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990140393530107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Maccovius, Johannes.</author>
+                <title>Johannes Maccovius redivivus: sive, manuscripta ejus typis exscripta,
+                    continens, Theologiam polemicam, Pr&#333;ton pseudos pontificiorum [&amp;c.],
+                    Casus conscientiae ad normam doctrin&#230; Socinian&#230;, anti-Socinum, cum
+                    appendice de atheis, procurante N. Arnoldo.</title>
+                <imprint>
+                    <pubPlace>Franequer&#230;</pubPlace>
+                    <date>1654</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Menochio1719" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">S 2.14,15 Th.</idno>
+            <idno type="ALMA-ID">990148549290107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990148549290107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Menochio, Giovanni Stefano.</author>
+                <title>R.p. Joan. Stephani Menochii ... Commentarii totius s.
+                    Scriptur&#230;.</title>
+                <imprint>
+                    <pubPlace>Lutec. Par.</pubPlace>
+                    <date>1719</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Meyer1561" ana="not-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Meyer, Jacques de, 1491-1552</author>
+                <title>Commentarii siue annales rerum Flandricarum libri septendecim</title>
+                <imprint>
+                    <pubPlace>Antuerpi&#230;</pubPlace>
+                    <date>1561</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-M&#252;nster1533" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">AA 36 Jur.</idno>
+            <idno type="ALMA-ID">990146819860107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990146819860107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>M&#252;nster, Sebastian, 1489-1552.</author>
+                <title>Horologiographia, post priorem &#230;d. recogn. &amp; aucta.</title>
+                <imprint>
+                    <pubPlace>Basil.</pubPlace>
+                    <date>1533</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Nicolson1714" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">R 1.7 Jur.</idno>
+            <idno type="ALMA-ID">990135290490107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135290490107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Nicolson, William, 1655-1727.</author>
+                <title>The English historical library. : In three parts. Giving a short view and
+                    character of most of our historians either in print or manuscript: with an
+                    account of our records, law-books, coins, and other matters serviceable to the
+                    undertakers of a general history of England. The second edition corrected and
+                    augmented. /</title>
+                <imprint>
+                    <pubPlace>London, :</pubPlace>
+                    <date>1714</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Niemann1671" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">FF 30 Th.</idno>
+            <idno type="ALMA-ID">990141774800107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990141774800107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Niemann, Sebastian, 1625-1684, praeses.</author>
+                <title>Harmonia Evangelica histori&#230; passionis ... Iesu Christi, cujus partem
+                    primam ... exponit m. Caspar Sagittarius ... auctor.</title>
+                <imprint>
+                    <pubPlace>Jen&#230;</pubPlace>
+                    <date>1671</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Norrelius1720" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">8&#176; M 23(3) Linc.</idno>
+            <idno type="ALMA-ID">990142815280107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990142815280107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Norrelius, Andreas</author>
+                <title>&#931;&#967;&#949;&#948;&#8055;&#945;&#963;&#956;&#945; de avibus ... arbeh
+                    solam chargol chagab Israelitis Lev. xi. &amp; Deut. xiv. in cibum concessis,
+                    quas locustas fuisse vulg&#242; creditur</title>
+                <imprint>
+                    <pubPlace>Amst.</pubPlace>
+                    <date>1720</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Oraeus1623" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">DD 42 Th.</idno>
+            <idno type="ALMA-ID">990142685500107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990142685500107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Oraeus, Henricus.</author>
+                <title>Ide&#230; reformandi Antichristi ... tomus primus (-tertius) studio &amp;
+                    opera Eryci Rhon&#230;i (quo continetur discursus I. &#224; M&#252;nster de
+                    palingenesia et instauratione Ecclesi&#230;).</title>
+                <imprint>
+                    <pubPlace>[Neustadt]</pubPlace>
+                    <date>1623</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Pellegrino1651" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">AA 46 Jur.</idno>
+            <idno type="ALMA-ID">990146394890107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990146394890107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Pellegrino, Camillo, 1598-1663.</author>
+                <title>Apparato alle antichit&#224; di Capua o vero Discorsi della Campania
+                    felice.</title>
+                <imprint>
+                    <pubPlace>Napoli</pubPlace>
+                    <date>1651</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Pfeiffer1687" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">FF 33 Th.</idno>
+            <idno type="ALMA-ID">990146993880107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990146993880107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Pfeiffer, Augustus.</author>
+                <title>Augusti Pfeifferi ... Informatorium conscienti&#230; eucharisticum.</title>
+                <imprint>
+                    <pubPlace>Lips.</pubPlace>
+                    <date>1687</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Prideaux" ana="not-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Prideaux, Humphrey, 1648-1724 </author>
+                <title>The Old and New Testament connected in the history of the Jews and
+                    neighbouring nations</title>
+                <imprint>
+                    <date>unknown</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Pr&#252;cknerus1663" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">L 4.4-6 Th.</idno>
+            <idno type="ALMA-ID">990142752010107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990142752010107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Pr&#252;cknerus, Andreas.</author>
+                <title>Commentarius philologico theologicus in omnes Veteris et Novi Testamenti
+                    libros, tam canonicos quam apocryphos.</title>
+                <imprint>
+                    <pubPlace>Francof. a. M.</pubPlace>
+                    <date>1663</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Qu&#233;tif1719" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">M 1.2 Th.</idno>
+            <idno type="ALMA-ID">990146365220107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990146365220107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Qu&#233;tif, Jacques.</author>
+                <title>Scriptores Ordinis pr&#230;dicatorum recensiti, opus inchoavit J.
+                    Qu&#233;tif, absolvit J. Echard.</title>
+                <imprint>
+                    <pubPlace>Lutet. Par.</pubPlace>
+                    <date>1719</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Quintilian1527" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">8&#176; C 64 Jur.</idno>
+            <idno type="ALMA-ID">990146226100107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990146226100107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Quintilian.</author>
+                <title>M. Fabij Quintiliani ... oratoriar&#363; institution&#363; libri. xij. [With]
+                    M. Fabij Quintiliani ... xix. declamationes argustissim&#230;.</title>
+                <imprint>
+                    <pubPlace>Par.</pubPlace>
+                    <date>1527</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Rawlinson1720" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">8&#176; D 49 Jur.</idno>
+            <idno type="ALMA-ID">990135046420107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135046420107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Rawlinson, Richard, 1690-1755.</author>
+                <title>The English topographer: or, An historical account, (as far as can be
+                    collected from printed books and manuscripts) of all the pieces that have been
+                    written relating to the antiquities, natural history, or topographical
+                    description of any part of England. : Alphabetically digested, and illustrated
+                    with the draughts of several very curious old seals, exactly engraven from their
+                    respective originals. /</title>
+                <imprint>
+                    <pubPlace>London: :</pubPlace>
+                    <date>1720</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Renaldini1654" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">AA 34 Jur.</idno>
+            <idno type="ALMA-ID">990142074730107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990142074730107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Renaldini, Carlo conte.</author>
+                <title>Caroli Renaldinii Opus mathematicum, in quo vtraque algebra nouis
+                    pr&#230;ceptis nouis(que) demonstrationibus illustratur. Methodus quoque
+                    resolutionis &amp; compositionis mathematic&#230; copiosi&#249;s ad abstrusiora
+                    theoremata enodanda declaratur.</title>
+                <imprint>
+                    <pubPlace>Bononi&#230;</pubPlace>
+                    <date>1655</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Renaudot1709" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">8&#176; Z 414 Th.</idno>
+            <idno type="ALMA-ID">990141725520107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990141725520107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Renaudot, Eus&#232;be.</author>
+                <title>D&#233;fense [by E. Renaudot] de La perp&#233;tuit&#233; de la foy [of A.
+                    Arnauld] contre les calomnies et faussetez du livre [by J. Aymon] intitul&#233;,
+                    Monumens authentiques de la religion des Grecs.</title>
+                <imprint>
+                    <pubPlace>Par.</pubPlace>
+                    <date>1709</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Ribera1623" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">DD 43(1) Th.</idno>
+            <idno type="ALMA-ID">990147522920107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990147522920107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Ribera, Francisco de.</author>
+                <title>Francisci Riber&#230; ... in sanctum Iesu-Christi euangelium secund&#249;m
+                    Ioannem commentarii.</title>
+                <imprint>
+                    <pubPlace>Lugd.</pubPlace>
+                    <date>1623</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Roper1716" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">Mus. Bibl. II. 55</idno>
+            <idno type="ALMA-ID">990144727970107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990144727970107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Roper, William</author>
+                <title>Guilielmi Roperi Vita D. Thom&#230; Mori Equitis Aurati, lingua Anglicana
+                    contexta. : Accedunt, Mori Epistola de scholasticis quibusdam Trojanos sese
+                    appellantibus; Academi&#230; Oxonienses epistol&#230; et orationes
+                    aliquammult&#230;; anonymi Chronicon Godstovianum; et fenestrarum depictarum
+                    ecclesi&#230; parochialis de Fairford in agro Glocestriensi explicatio.</title>
+                <imprint>
+                    <pubPlace>[Oxf.]</pubPlace>
+                    <date>1716</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Sacred1716" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">O 3.1 Th.</idno>
+            <idno type="ALMA-ID">990146444210107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990146444210107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <title>Sacred geography contained in six maps.</title>
+                <imprint>
+                    <pubPlace>Lond.</pubPlace>
+                    <date>1716</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Sannazaro1719" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">AA 28 Jur.</idno>
+            <idno type="ALMA-ID">990141723020107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990141723020107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Sannazaro, Jacopo, 1458-1530.</author>
+                <title>Jacobi ... Sannazarii ... po&#235;mata. Accessit ejusdem vita, J.A. Vulpio
+                    auctore, item G. Altilii et H. Fascitelli carmina nonnulla.</title>
+                <imprint>
+                    <pubPlace>Patavii</pubPlace>
+                    <date>1719</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Sclanus1583" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">4&#176; F 15(3) Med.</idno>
+            <idno type="ALMA-ID">990143287210107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990143287210107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Sclanus, Salvus</author>
+                <title>Salui Sclani ... in librum primum Aphorismorum Hippocratis
+                    commentaria</title>
+                <imprint>
+                    <pubPlace>Ven.</pubPlace>
+                    <date>1583</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Smit1717" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">B 26.61(1) Linc.</idno>
+            <idno type="ALMA-ID">990145495390107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990145495390107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Smit,&#160;Franz</author>
+                <title>Exercitatio Talmudico-theologica de Paschate</title>
+                <imprint>
+                    <pubPlace>Brem&#230;</pubPlace>
+                    <date>1717</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Smit1717b" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">B 26.61(2) Linc.</idno>
+            <idno type="ALMA-ID">990140356140107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990140356140107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Smit,&#160;Franz</author>
+                <title>Dissertationem hieroglyphicam de amuleto quodam Gnosticorum ... subjiciet ...
+                    auctor Franciscus&#160;Smit</title>
+                <imprint>
+                    <pubPlace>Brem&#230;</pubPlace>
+                    <date>1717</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Sprott1719" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">Mus. Bibl. II. 62</idno>
+            <idno type="ALMA-ID">990135051310107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135051310107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Sprott, Thomas</author>
+                <title>Thom&#230; Sprotti Chronica. E codice antiquo MSto. in bibliotheca
+                    praenobilis adolescentis Dni. Edvardi Dering, de Surrenden Dering in agro
+                    Cantiano, Baronetti, descripsit ediditque Tho. Hearnius, qui &amp; alia quaedam
+                    opuscula, &#232; codicibus MSStis. authenticis &#224; seipso itidem descripta,
+                    subjecit.</title>
+                <imprint>
+                    <pubPlace>Oxonii</pubPlace>
+                    <date>1719</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Struve1715" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">8&#176; D 60 Jur.</idno>
+            <idno type="ALMA-ID">990140158990107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990140158990107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Struve, Burkhard Gotthelf, 1671-1738</author>
+                <title>Burcardi Gotthelffii Struvi i Introductio ad notitiam rei litteraria &amp;
+                    usum bibliothecarum, accessit dissertatio de doctis impostoribus. Huic 3&#230;
+                    ed. accedunt supplementa necessaria et oratio de meritis Germanorum in
+                    historiam.</title>
+                <imprint>
+                    <pubPlace>Ien&#230;</pubPlace>
+                    <date>1715</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Trommius1718" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">P 7.8,9 Th.</idno>
+            <idno type="ALMA-ID">990147168890107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990147168890107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Trommius, Abraham.</author>
+                <title>Abrahami Trommii Concerdanti&#230; Gr&#230;c&#230; versionis vulgo dict&#230;
+                    LXX interpretum, cujus voces secundum ordinem elementorum sermonis Gr&#230;ci
+                    digest&#230; recensentur, contra atque in opere Kircheriano factum
+                    fuerat.</title>
+                <imprint>
+                    <pubPlace>Amst. &amp;c.</pubPlace>
+                    <date>1718</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Trott1719" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">fol. BS. 50</idno>
+            <idno type="ALMA-ID">990135521710107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135521710107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Trott, Nicholas, 1663-1740</author>
+                <title>[Maftea&#7717; leshon ha-&#7731;odesh] =&#160;Clavis&#160;lingu&#230;
+                    sanct&#230;, : continens grammaticalem explicationem 564. Versiculorum ex Libro
+                    Psalmorum, &amp; 546. Versiculorum ex c&#230;teris libris Veteris Testamenti: in
+                    quibus omnes radices pur&#232; Hebraic&#230; Veteris Testamenti, cum nonnullis
+                    radicibus Chaldaicis (occurrentibus tamen in libris Hebraicis) inveniuntur:
+                    &amp; in hac clave referantur, &amp; juxta grammaticas regulas, resolvuntur,
+                    &amp; explicantur.</title>
+                <imprint>
+                    <pubPlace>Oxonii</pubPlace>
+                    <date>1719</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Valier1719" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">AA 29 Jur.</idno>
+            <idno type="ALMA-ID">990141463910107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990141463910107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Valier, Agostino card.</author>
+                <title>Augustini Valerii ... opusculum ... de cautione adhibenda in edendis libris.
+                    Nec non Bernardi cardinalis Naugerii vita, eodem Valerio auctore. Accessere P.
+                    Barrocii orationes tres. Nonnullae item aliae patriciorum Venetorum.</title>
+                <imprint>
+                    <pubPlace>Patavii</pubPlace>
+                    <date>1719</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Vertot1720" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">AA 40,41 Jur.</idno>
+            <idno type="ALMA-ID">990143584850107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990143584850107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Vertot, abb&#233; de, 1655-1735.</author>
+                <title>The history of the revolutions that happened in the government of the Roman
+                    republic, English'd by mr. Ozell and others.</title>
+                <imprint>
+                    <pubPlace>Lond.</pubPlace>
+                    <date>1720</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Vitringa1714" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">A 7.11,12 Th.</idno>
+            <idno type="ALMA-ID">990143810580107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990143810580107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Vitringa, Campegius, 1659-1722</author>
+                <title>Commentarius in librum prophetiarum Iesai&#230;: cum prolegomenis.</title>
+                <imprint>
+                    <pubPlace>Leovardi&#230;</pubPlace>
+                    <date>1714</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Willis1717" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">8&#176; D 52 Jur.</idno>
+            <idno type="ALMA-ID">990135410410107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135410410107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Willis, Browne, 1682-1760.</author>
+                <title>A survey of the Cathedral Church of St. David's, and the edifices belonging
+                    to it, as they stood in the year 1715. : To which is added, some memoirs
+                    relating thereto and the country adjacent, from a MS wrote about the latter end
+                    of Queen Elizabeth's reign. Together, with an account of the arch-bishops,
+                    bishops, precentors, chancellors, treasurers, and arch-deacons of the See of St.
+                    David's. /</title>
+                <imprint>
+                    <pubPlace>London: :</pubPlace>
+                    <date>1717</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Willis1718" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">8&#176; D 50 Jur.</idno>
+            <idno type="ALMA-ID">990135407150107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135407150107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Willis, Browne, 1682-1760.</author>
+                <title>An history of the mitred Parliamentary abbies, and conventual cathedral
+                    churches. : Shewing the times of their respective foundations, and what
+                    alterations they have undergone. With some descriptions of their monuments, and
+                    dimensions of their buildings, &amp;c. Together with a catalogue of their
+                    abbats, priors, &amp;c. To which are annexed, several other lists of the
+                    principals of divers monasteries; the number of monks at the surrender, and the
+                    names of the last abbats, priors, &amp;c. who signed the same; as far as they
+                    have come to hand. With an exact account of those religious men and women, and
+                    chantry priests, receiving pensions throughout England and Wales, An. 1553. A
+                    work, among other uses, necessary to give light to several charters sans date;
+                    and helpful to such who shall treat of families and dignified persons. For whose
+                    benefit are subjoined large indexes. The whole extracted out of very curious
+                    manuscripts, &amp;c. which have been many years colecting by the most eminent
+                    antiquaries; and faithfully published. /</title>
+                <imprint>
+                    <pubPlace>London, :</pubPlace>
+                    <date>1718</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Willis1719" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">8&#176; D 53 Jur.</idno>
+            <idno type="ALMA-ID">990135407100107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135407100107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Willis, Browne, 1682-1760</author>
+                <title>A survey of the Cathedral-Church of Landaff. : Containing the inscriptions
+                    upon the monuments, with an account of the bishops and other dignitaries
+                    belonging to the same; what other preferments they enjoy'd; and the times of
+                    their decease, places of burial, and epitaphs. To which is subjoin'd a large
+                    appendix of records, and other curious matters relating thereto. /</title>
+                <imprint>
+                    <pubPlace>London: :</pubPlace>
+                    <date>1719</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Willis1720" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">8&#176; D 54 Jur.</idno>
+            <idno type="ALMA-ID">990147362170107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990147362170107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Willis, Browne.</author>
+                <title>A survey of the cathedral-church of St. Asaph: and the edifices belonging to
+                    it.</title>
+                <imprint>
+                    <pubPlace>Lond.</pubPlace>
+                    <date>1720</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Zohar1720" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">8&#176; M 23(2) Linc.</idno>
+            <idno type="ALMA-ID">990138918090107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990138918090107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Zohar</author>
+                <title>Phosphorus orthodox&#230; fidei veterum Cabbalistarum seu Testimonia de sacro
+                    sancta Trinitate et Messia Deo et Homine, ex pervetusto libro Sohar deprompta,
+                    qu&#230; nunc primum Lat. reddita ed. A. Norrelius</title>
+                <imprint>
+                    <pubPlace>Amst.</pubPlace>
+                    <date>1720</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+</listObject>
+
+
+
+
+
+
+
+
+
+
+
+   </standOff>
+   <text>
+      <front>
+         <pb xml:id="fol-1v" n="frontmatter"/>
+         <p><date when="1724-11-09">Nov. 9<hi rend="superscript:true">th</hi> 1724</date></p>
+         <p>Order'd by the Curators of the Bodleian Library<lb/>
+            <list>
+               <item>1. That the MSS. supra and Superius Seld now under <lb/> the Inspection of the
+                        <del>Sen<hi rend="superscript:true">r</hi>. Proctor be</del>
+                  <persName corresp="#regC-TTER">Professor<lb/> of Gr.</persName> be transfer'd to
+                  the Senior Proctor; and that<lb/> both of them have new Curating Books
+                  finish'd<lb/> before Nov.<hi rend="superscript:true">r</hi> next.</item>
+               <item>2. That all the MSS. which are out of repair in their<lb/> binding be <add
+                     place="above">repair'd or</add> new bound. </item>
+               <item>That the Rest of the Books in the Library below <lb/> Stairs, be placed
+                  according to their sizes (as<lb/> near as may be) in the same manner with
+                  those<lb/> in Arts under the Inspection of the Sen<hi rend="superscript:true"
+                     >r</hi>. Proctor.</item>
+            </list>
+         </p>
+         <p><table>
+               <row>
+                  <cell>Order'd also that this Visitation<lb/> be adjourn'd 'till this day-<lb/>
+                     fortnight between Eight &amp;<lb/> Nine in the morning.</cell>
+                  <cell><persName corresp="#regC-RSHI">Rob: Shippen.
+                        Vice-Can</persName><lb/><persName corresp="#regC-JPOT">Po. Oxford R. Pr. of
+                        Divinity</persName><lb/>
+                     <persName corresp="#regC-TTER">Tho: Terry Gr. Ling. Pr. Reg.</persName><lb/>
+                     <persName corresp="#regC-JBOU">James Bouchier Reg. Prof. of Civ.
+                     Law</persName></cell>
+               </row>
+            </table></p>
+         <pb xml:id="fol-2r" n="frontmatter"/>
+         <p>A copy of an Order of the Delegates of the Press, deliver'd<lb/> to yͤ Librarian
+            according to yͤ Direction of yͤ s<hi rend="superscript:true">d</hi>. Delegates by <lb/>
+            <persName corresp="#regC-HFIS"> M<hi rend="superscript:true">r</hi> Fisher Registrary of
+               yͤ University</persName>.</p>
+         <p><date when="1744-02-14">Feb.14.174¾</date> At a general meeting of yͤ Delegates<lb/> of
+            the Press, it was order'd, that every Author and Editor<lb/> who shall hereafter publish
+            any Book from the University<lb/> Press shall deliver one copy of said Book Bound to
+            the<lb/> chief Librarian of the Bodleian Library for the use<lb/> of the said Library
+            before the Publication of the said<lb/> Book and that a Copy of this Order be given
+            to<lb/> the said Chief Librarian. </p>
+         <p><table>
+               <row>
+                  <cell>Sign'd <persName corresp="#regC-WHOD">W. Hodges V.C.</persName><lb/>
+                     <persName>Jo. Mather</persName><lb/><persName corresp="#regC-SNIB">St.
+                        Niblett</persName><lb/><persName corresp="#regC-JPUR">John
+                        Purnell</persName></cell>
+                  <cell><persName>J. Le Marchant Proc. Sen<hi rend="superscript:true"
+                        >r</hi>.</persName><lb/><persName>John Collins Proc. Jun<hi
+                           rend="superscript:true">r</hi>.</persName></cell>
+               </row>
+            </table></p>
+         <pb xml:id="fol-2v" n="frontmatter"/>
+         <pb xml:id="fol-3r" n="frontmatter" style="empty"/>
+         <pb xml:id="fol-3v" n="frontmatter" style="empty"/>
+         <pb xml:id="fol-4r" n="frontmatter" style="empty"/>
+         <pb xml:id="fol-4v" n="frontmatter" style="empty"/>
+         <pb xml:id="fol-5r" n="frontmatter" style="empty"/>
+         <pb xml:id="fol-5v" n="frontmatter" style="empty"/>
+         <pb xml:id="fol-6r" n="frontmatter" style="empty"/>
+         <pb xml:id="fol-6v" n="frontmatter" style="empty"/>
+         <pb xml:id="fol-7r" n="1"/>
+         <docTitle>
+            <titlePart type="main">The STATE of the Bodleian Library <lb/>for the Year <date
+                  when="1720">MDCCXX</date>: <lb/></titlePart>
+            <titlePart type="sub">Or, an Account</titlePart>
+         </docTitle>
+         <ab><list>
+               <item>I. Of duplicates sold or exchang&apos;d. <ref target="#fol-8v"
+                  >pag.4.</ref></item>
+               <item>II. Of money receiv'd. <ref target="#fol-8v">pag.4</ref></item>
+               <item>III. Of Money laid out either for Books, or other necessaries<lb/> for the
+                  Library <ref target="#fol-9r">pag. 5</ref>,<ref target="#fol-9v">6</ref>.</item>
+               <item>IV. Of Books <add place="above">Bought</add> or given, with their several
+                  prices and places in<lb/> the Library <ref target="#fol-10r">pag. 7</ref>,<ref
+                     target="#fol-10v">8</ref>,<ref target="#fol-11r">9</ref>,<ref target="#fol-11v"
+                     >10</ref>,<ref target="#fol-12r">11</ref>,<ref target="#fol-12v"
+                     >12</ref>,13,14<note>One leaf with pages 13 and 14 is missing; pencil foliation
+                     is continuous, indicating that the leaf was already missing when foliation was
+                     added.</note>,<ref target="#fol-13r">15</ref>,<ref target="#fol-13v"
+                     >16</ref>,<ref target="#fol-14r">17</ref>,<ref target="#fol-14v">18</ref>,<ref
+                     target="#fol-15r">19</ref>.</item>
+               <item>V. Of Books which have been remov'd; with the Numbers<lb/> shewing where they
+                  formerly stood, and where they are<lb/> placed at present. <ref target="#fol-15v"
+                     >pag. 20</ref>, <ref target="#fol-16r">21</ref>, <ref target="#fol-16v"
+                     >22</ref>, <ref target="#fol-17r">23</ref>.</item>
+               <item>VI. Ballance of the whole Account. <ref target="#fol-18r">p. 25</ref>. </item>
+            </list></ab>
+
+      </front>
+      <body>
+         <pb xml:id="fol-7v" n="2" style="empty"/>
+
+         <pb xml:id="fol-8r" n="3" style="empty"/>
+         <pb xml:id="fol-8v" n="4"/>
+         <ab ana="prov:when"><date when="1720"/>
+            <table>
+               <row>
+                  <cell rend="head">Duplicates sold out of the Bodleian Library <lb/><date
+                        from="1719-11-09" to="1720-11-08">between the ninth of Nov.<hi
+                           rend="superscript:true">r</hi> 1719 &amp; the eighth of Nov.<hi
+                           rend="superscript:true">r</hi> 1720</date></cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>L</cell>
+                  <cell>s</cell>
+                  <cell>d</cell>
+               </row>
+               <row ana="prov:sold">
+                  <cell><date when="1720-07-21">July 21.</date>
+                     <bibl corresp="#regC-bib-Prideaux">D<hi rend="superscript:true">r</hi>.
+                        Prideaux's Connexion of the History of the Old and new Testament, 1<hi
+                           rend="superscript:true">st</hi>. vol. 8°.</bibl></cell>
+                  <cell><measure quantity="0" unit="pound">00</measure></cell>
+                  <cell><measure quantity="3" unit="shilling">3</measure></cell>
+                  <cell><measure quantity="6" unit="pence">3</measure></cell>
+               </row>
+               <row>
+                  <cell rend="head">Money received of <persName>M<hi rend="superscript:true">r</hi>.
+                        Vice-Chancellor</persName></cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell><date when="1720-01-10">Jan: 10.</date></cell>
+                  <cell><measure quantity="10" unit="pound">10</measure></cell>
+                  <cell><measure quantity="10" unit="shilling">10</measure></cell>
+                  <cell><measure quantity="0" unit="pence">00</measure></cell>
+               </row>
+               <row>
+                  <cell><date when="1720-07-17">July 17.</date></cell>
+                  <cell><measure quantity="10" unit="pound">10</measure></cell>
+                  <cell><measure quantity="10" unit="shilling">10</measure></cell>
+                  <cell><measure quantity="0" unit="pence">00</measure></cell>
+               </row>
+               <row>
+                  <cell>The Sum for which the <persName>Library-Keeper</persName> is
+                     accountable</cell>
+                  <cell rend="border-top"><measure quantity="21" unit="pound">21</measure></cell>
+                  <cell rend="border-top"><measure quantity="3" unit="shilling">3</measure></cell>
+                  <cell rend="border-top"><measure quantity="6" unit="pence">06</measure></cell>
+               </row>
+               <row>
+                  <cell rend="head">The Summ of Bills for Books sign'd by <persName
+                        corresp="#regC-JBOW"><choice>
+                           <abbr>J.B.</abbr>
+                           <expan>Joseph Bowles</expan>
+                        </choice></persName></cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell><persName corresp="#regC-SFLE">Stephen Fletcher</persName>'s Bill</cell>
+                  <cell><measure quantity="4" unit="pound">04</measure></cell>
+                  <cell><measure quantity="9" unit="shilling">9</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+               </row>
+               <row>
+                  <cell><persName corresp="#regC-HCLE">Henry Clements</persName>'s</cell>
+                  <cell><measure quantity="30" unit="pound">30</measure></cell>
+                  <cell><measure quantity="8" unit="shilling">8</measure></cell>
+                  <cell><measure quantity="8" unit="pence">8</measure></cell>
+               </row>
+               <row>
+                  <cell><del><persName>M<hi rend="superscript:true">r</hi>.
+                        Mitchell's</persName></del><note>The payment to Mr. Mitchel is entered in
+                        pag. 6 (fol.9v)</note></cell>
+                  <cell><measure quantity="2" unit="pound"><del>02</del></measure></cell>
+                  <cell><measure quantity="14" unit="shilling"><del>14</del></measure></cell>
+                  <cell><measure quantity="6" unit="pence"><del>6</del></measure></cell>
+               </row>
+               <row>
+                  <cell><persName>M<hi rend="superscript:true">r</hi>. Dunoyer's</persName></cell>
+                  <cell><measure quantity="20" unit="pound">20</measure></cell>
+                  <cell><measure quantity="15" unit="shilling">15</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell><persName>D<hi rend="superscript:true">r</hi>. Keil's</persName>, for <bibl
+                        corresp="#regC-bib-Bruyn1718">le Brun's Voyages</bibl></cell>
+                  <cell><measure quantity="3" unit="pound">03</measure></cell>
+                  <cell><measure quantity="3" unit="shilling">3</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+               </row>
+               <row>
+                  <cell rend="head">Summ Total</cell>
+                  <cell rend="border-top"><measure quantity="58" unit="pound">58</measure></cell>
+                  <cell rend="border-top"><measure quantity="15" unit="shilling">15</measure></cell>
+                  <cell rend="border-top"><measure quantity="8" unit="pence">8</measure></cell>
+               </row>
+               <row>
+                  <cell>Books p<hi rend="superscript:true">d</hi>. for by <persName>M<hi
+                           rend="superscript:true">r</hi>. Vice-Chancellor</persName> in <ref
+                        target="#fol-10r">pag. 7</ref></cell>
+                  <cell rend="border-top"><measure quantity="4" unit="pound">4</measure></cell>
+                  <cell rend="border-top"><measure quantity="9" unit="shilling">9</measure></cell>
+                  <cell rend="border-top"><measure quantity="0" unit="pence">0</measure></cell>
+               </row>
+               <row>
+                  <cell>___<ref target="#fol-11r">pag. 9</ref></cell>
+                  <cell><measure quantity="19" unit="pound">19</measure></cell>
+                  <cell><measure quantity="1" unit="shilling">1</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+               </row>
+               <row>
+                  <cell>___<ref target="#fol-12r">pag. 11</ref></cell>
+                  <cell><measure quantity="19" unit="pound">19</measure></cell>
+                  <cell><measure quantity="0" unit="shilling">0</measure></cell>
+                  <cell><measure quantity="2" unit="pence">2</measure></cell>
+               </row>
+               <row>
+                  <cell>___pag. 13<note>One leaf with pages 13 and 14 is missing; pencil foliation
+                        is continuous, indicating that the leaf was already missing when foliation
+                        was added.</note></cell>
+                  <cell><measure quantity="16" unit="pound">16</measure></cell>
+                  <cell><measure quantity="5" unit="shilling">5</measure></cell>
+                  <cell><measure quantity="6" unit="pence">6</measure></cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell rend="border-top"><measure quantity="58" unit="pound">58</measure></cell>
+                  <cell rend="border-top"><measure quantity="15" unit="shilling">15</measure></cell>
+                  <cell rend="border-top"><measure quantity="8" unit="pence">8</measure></cell>
+               </row>
+            </table></ab>
+         <pb xml:id="fol-9r" n="5"/>
+         <ab ana="prov:when"><date notBefore="1720"/><table>
+               <row>
+                  <cell rend="head">Money laid out for the use of the Bodleian Libray<lb/> from the
+                        <date when="1719-11-09">ninth of Nov<hi rend="superscript:true">r</hi>.
+                        1719</date>. to the <date when="1720-11-08">eighth of Nov<hi
+                           rend="superscript:true">r</hi>. 1720</date>.</cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>L</cell>
+                  <cell>s</cell>
+                  <cell>d.</cell>
+               </row>
+               <row ana="prov:subscription">
+                  <cell>Subscribed to <bibl corresp="#regC-bib-Aristides1722">M<hi
+                           rend="superscript:true">r</hi>. Jebb for his Edition of
+                     Aristides</bibl></cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="3" unit="shilling">3</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+               </row>
+               <row>
+                  <cell>To the Man who brought up <persName corresp="#regC-JHUD">D<hi
+                           rend="superscript:true">r</hi>. Hudson</persName>&apos;s Picture</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="1" unit="shilling">1</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+               </row>
+               <row>
+                  <cell>To the Sweeper for Extraordinary work</cell>
+                  <cell><measure quantity="1" unit="pound">1</measure></cell>
+                  <cell><measure quantity="1" unit="shilling">1</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+               </row>
+               <row>
+                  <cell>For Letter Charges &amp;c. in procuring from <persName corresp="#regC-JECK"
+                           >M<hi rend="superscript:true">r</hi>. Eccard,<lb/> Library Keeper at
+                        Han̄over</persName>, part of Junius&apos;s Ms.<lb/> Glossary, which had been
+                     formerly stoln by a Dane.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="3" unit="shilling">3</measure></cell>
+                  <cell><measure quantity="6" unit="pence">6</measure></cell>
+               </row>
+               <row>
+                  <cell>To <persName>D<hi rend="superscript:true">r</hi>. Bilston</persName>e (by
+                     Order of the curators) in part for<lb/> transcribing the Curating Book
+                     belonging to the<lb/>
+                     <persName>Professor of Divinity</persName></cell>
+                  <cell><measure quantity="1" unit="pound">1</measure></cell>
+                  <cell><measure quantity="4" unit="shilling">4</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+               </row>
+               <row ana="prov:subscription">
+                  <cell>Subscribed for <bibl corresp="#regC-bib-Du-Bois1721">Du-bois&apos;s Moral
+                        Reflections</bibl></cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="2" unit="shilling">2</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+               </row>
+               <row>
+                  <cell>To <persName>H. Osbaldeston (Butler of S.M. Hall)</persName> the money
+                     allow&apos;d<lb/> by the Curators to<persName> D<hi rend="superscript:true"
+                           >r</hi>. Swallow</persName>, deceas&apos;d for his Extra-<lb/> ordinary
+                     pains in the Library, by order of <persName corresp="#regC-JHUD">D<hi
+                           rend="superscript:true">r</hi>. Hudson</persName></cell>
+                  <cell><measure quantity="3" unit="pound">3</measure></cell>
+                  <cell><measure quantity="0" unit="shilling">0</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+               </row>
+               <row ana="prov:subscription">
+                  <cell>Subscribed for <bibl corresp="#regC-bib-Ernulf1720"><persName>M<hi
+                              rend="superscript:true">r</hi>. Hearne&apos;s</persName> Textus
+                        Roffensis</bibl></cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="5" unit="shilling">5</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>To <bibl>M<hi rend="superscript:true">r</hi>. Wheatly for his Book on the
+                        Common Prayer, fol.</bibl></cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="12" unit="shilling">12</measure></cell>
+                  <cell><measure quantity="6" unit="pence">6</measure></cell>
+               </row>
+               <row ana="prov:subscription">
+                  <cell>Subscribed for <bibl>M<hi rend="superscript:true">r</hi>. Leslie&apos;s
+                        Works to M<hi rend="superscript:true">r</hi>. Taylor of<lb/> University
+                        College</bibl></cell>
+                  <cell><measure quantity="1" unit="pound">1</measure></cell>
+                  <cell><measure quantity="1" unit="shilling">1</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+               </row>
+               <row>
+                  <cell>To the men who brought the Pictures from the <persName>L<hi
+                           rend="superscript:true">d</hi>.<lb/> Bp̄. of Durham</persName></cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="2" unit="shilling">2</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+               </row>
+               <row>
+                  <cell rows="2">To the Sweeper for Extraordinary Work in cleaning <lb/>the Books
+                     above-stairs &amp; in the Archives, at two several times</cell>
+                  <cell><measure quantity="1" unit="pound">1</measure></cell>
+                  <cell><measure quantity="1" unit="shilling">1</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+               </row>
+               <row>
+                  <cell><measure quantity="3" unit="pound">3</measure></cell>
+                  <cell><measure quantity="3" unit="shilling">3</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+               </row>
+               <row>
+                  <cell>To <persName>Ben. Cole</persName> for the large New Map of England</cell>
+                  <cell><measure quantity="1" unit="pound">1</measure></cell>
+                  <cell><measure quantity="5" unit="shilling">5</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+               </row>
+               <row ana="prov:subscription">
+                  <cell>To M<hi rend="superscript:true">r</hi>. Hearne for the Second Paym<hi
+                        rend="superscript:true">t</hi>. towards <bibl corresp="#regC-bib-Ernulf1720"
+                        >Textus Roffensis</bibl></cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="5" unit="shilling">5</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+               </row>
+               <row ana="prov:subscription">
+                  <cell>Subscribed for <bibl corresp="#regC-bib-Avesbury1720">Mr. Hearne&apos;s Rob.
+                        of Avesbury</bibl>.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="5" unit="shilling">5</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+               </row>
+               <row>
+                  <cell>For Charges in receiving Books &amp;c. given by several<lb/>
+                     Benefactors.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="12" unit="shilling">12</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>For <bibl>Middleton’s State of Trinity College in Cambrige</bibl></cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="0" unit="shilling">0</measure></cell>
+                  <cell><measure quantity="6" unit="pence">6</measure></cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>For three Books bought of <hi rend="underlined:true">Norrellius</hi> (a
+                     Swede) recommended<lb/> by the Ld. Bp̄. of London, viz 1°. <bibl
+                        corresp="#regC-bib-Zohar1720">Phosphorus Orthodoxæ fidei</bibl><lb/> 2°.
+                        <bibl corresp="#regC-bib-Norrelius1720">Σχεδιασμα de avibus</bibl>, 3°.
+                        <bibl corresp="#regC-bib-Hjaerne1719">Xylobalsamum artificiale</bibl></cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="3" unit="shilling">3</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell rend="border-top"><measure quantity="14" unit="pound">14</measure></cell>
+                  <cell rend="border-top"><measure quantity="9" unit="shilling">9</measure></cell>
+                  <cell rend="border-top"><measure quantity="6" unit="pence">6</measure></cell>
+               </row>
+            </table></ab>
+         <pb xml:id="fol-9v" n="6"/>
+         <ab ana="prov:when"><date notAfter="1720-11-08" notBefore="1719-11-09"/><table>
+               <row>
+                  <cell rend="head">Money laid out &amp;c.</cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>L</cell>
+                  <cell>s</cell>
+                  <cell>d</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell> For <bibl corresp="#regC-bib-Roper1716">Roper&apos;s Life of S<hi
+                           rend="superscript:true">r</hi>. Tho. More, &amp;c. by M<hi
+                           rend="superscript:true">r</hi>. Hearne</bibl></cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="17" unit="shilling">17</measure></cell>
+                  <cell><measure quantity="6" unit="pence">6</measure></cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>For <bibl corresp="#regC-bib-Quintilian1527">Chevallonius&apos;s Edition of
+                        Quintilian 8°</bibl>. <hi rend="underlined:true">Par</hi>. 1527</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="6" unit="shilling">6</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+               </row>
+               <row>
+                  <cell>For bringing Q. Catharine&apos;s Picture from <hi rend="underlined:true"
+                        >London</hi></cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="8" unit="shilling">8</measure></cell>
+                  <cell><measure quantity="6" unit="pence">6</measure></cell>
+               </row>
+               <row>
+                  <cell>For two Parcels from the Company of Stationers</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="2" unit="shilling">2</measure></cell>
+                  <cell><measure quantity="6" unit="pence">6</measure></cell>
+               </row>
+               <row>
+                  <cell>For this Book</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="7" unit="shilling">7</measure></cell>
+                  <cell><measure quantity="6" unit="pence">6</measure></cell>
+               </row>
+               <row>
+                  <cell>For M<hi rend="superscript:true">r</hi>. Mitchels&apos; Books, as p
+                     Bill</cell>
+                  <cell><measure quantity="2" unit="pound">2</measure></cell>
+                  <cell><measure quantity="14" unit="shilling">14</measure></cell>
+                  <cell><measure quantity="6" unit="pence">6</measure></cell>
+               </row>
+               <row>
+                  <cell>Sum of this page</cell>
+                  <cell><measure quantity="4" unit="pound">4</measure></cell>
+                  <cell><measure quantity="16" unit="shilling">16</measure></cell>
+                  <cell><measure quantity="6" unit="pence">6</measure></cell>
+               </row>
+               <row>
+                  <cell>From the other Side</cell>
+                  <cell><measure quantity="14" unit="pound">14</measure></cell>
+                  <cell><measure quantity="9" unit="shilling">9</measure></cell>
+                  <cell><measure quantity="6" unit="pence">6</measure></cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell><measure quantity="19" unit="pound">19</measure></cell>
+                  <cell><measure quantity="6" unit="shilling">6</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+               </row>
+               <row>
+                  <cell>Recd from the Vice Chancellor</cell>
+                  <cell><measure quantity="21" unit="pound">21</measure></cell>
+                  <cell><measure quantity="3" unit="shilling">3</measure></cell>
+                  <cell><measure quantity="6" unit="pence">6</measure></cell>
+               </row>
+               <row>
+                  <cell>Remains in hand due to ballance</cell>
+                  <cell><measure quantity="1" unit="pound">1</measure></cell>
+                  <cell><measure quantity="17" unit="shilling">17</measure></cell>
+                  <cell><measure quantity="6" unit="pence">6</measure></cell>
+               </row>
+            </table></ab>
+         <pb xml:id="fol-10r" n="7"/>
+         <ab ana="prov:when"><date notAfter="1720-11-08" notBefore="1719-11-09"/><table>
+               <row>
+                  <cell/>
+                  <cell rend="head">Books bought</cell>
+                  <cell cols="3" rend="head">Price</cell>
+                  <cell rend="head">Place</cell>
+                  <cell rend="head">Curator</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell/>
+                  <cell>£</cell>
+                  <cell>s</cell>
+                  <cell>d</cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>1.</cell>
+                  <cell><bibl corresp="#regC-bib-Meyer1561">Jac. <hi rend="underlined:true"
+                           >Meyeri</hi> Annales rerū Flandr. <hi rend="underlined:true">Ant</hi>.
+                        1561.</bibl></cell>
+                  <cell><measure quantity="1" unit="pound">1</measure></cell>
+                  <cell><measure quantity="0" unit="shilling">0</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>fol. B. 5. 1. Art</cell>
+                  <cell>Proc. Sen.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>2.</cell>
+                  <cell><bibl>Jos <hi rend="underlined:true">Ripamontii</hi> rerum Hispanarum<lb/>
+                        libri octo. fol.</bibl></cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="15" unit="shilling">15</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>C. 2. 1. Art.</cell>
+                  <cell>Proc. Sen.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>3. </cell>
+                  <cell><bibl corresp="#reg-C-bib-Bernardinus1623">Bernard. de S. <hi
+                           rend="underlined:true">Antonio</hi> Epitome<lb/> redemptionū Captivorum a
+                        FF.<lb/>S. Trinitatis. <hi rend="underlined:true">Ulissip</hi>. 1623.
+                        4°.</bibl></cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="1" unit="shilling">1</measure></cell>
+                  <cell><measure quantity="6" unit="pence">6</measure></cell>
+                  <cell>F.F. 34. Th.</cell>
+                  <cell>Vice.-Can.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>4.</cell>
+                  <cell><bibl corresp="#reg-C-bib-Maccovius1654">Jo. <hi rend="underlined:true"
+                           >Maccovius</hi> redivivus, opera<lb/> Nic. Arnoldi. Franck. 1654.
+                        4°</bibl>.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="3" unit="shilling">3</measure></cell>
+                  <cell><measure quantity="6" unit="pence">6</measure></cell>
+                  <cell>FF. 38. <hi rend="underlined:true">Th</hi>.</cell>
+                  <cell>Vice.-Can.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>5. </cell>
+                  <cell><bibl corresp="#regC-bib-Crakanthorp1625"><hi rend="underlined:true"
+                           >Crackanthorp</hi> defensio Eccl. Angl.<lb/> per J. Barkham <hi
+                           rend="underlined:true">Lond</hi>. 1625. 4°</bibl>.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="1" unit="shilling">1</measure></cell>
+                  <cell><measure quantity="6" unit="pence">6</measure></cell>
+                  <cell>FF. 31. Th.</cell>
+                  <cell>Vice-Can.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>6.</cell>
+                  <cell><bibl corresp="#regC-bib-Bonifacio1652"><hi rend="underlined:true"
+                           >Bonifacii</hi> Historia ludicra. <hi rend="underlined:true">Ven</hi>.
+                        1652. 4°</bibl>.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="7" unit="shilling">7</measure></cell>
+                  <cell><measure quantity="6" unit="pence">6</measure></cell>
+                  <cell>A. A. 37. Jur.</cell>
+                  <cell>Prof. Jur</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>7.</cell>
+                  <cell><bibl corresp="#regC-bib-Leotaud1654">Greg. a S. <hi rend="underlined:true"
+                           >Vincentio</hi> Curvilineorum<lb/> Contemplatio. <hi
+                           rend="underlined:true">Lugd</hi>. 1654. 4°</bibl>.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="4" unit="shilling">4</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>A.A. 35. Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>8.</cell>
+                  <cell><bibl corresp="#regC-bib-Linden1597">Car. <hi rend="underlined:true"
+                           >Eurei</hi> Theses Theolog. Franck. 1597.4°</bibl>.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="2" unit="shilling">2</measure></cell>
+                  <cell><measure quantity="6" unit="pence">6</measure></cell>
+                  <cell>F.F. 32. Th.</cell>
+                  <cell>Th. Vice-Can.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>9.</cell>
+                  <cell><bibl corresp="#regC-bib-Geier1667">M. <hi rend="underlined:true"
+                           >Geierus</hi> in Danielem. <hi rend="underlined:true">Lips</hi>. 1667.
+                        4°</bibl>.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="2" unit="shilling">2</measure></cell>
+                  <cell><measure quantity="6" unit="pence">6</measure></cell>
+                  <cell>F.F. 37. Th.</cell>
+                  <cell>Vice-Can.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>10.</cell>
+                  <cell><bibl corresp="#regC-bib-Gramaye1611">J. <hi rend="underlined:true"
+                           >Grammaye</hi> Antiquitates Gandenses.<lb/><hi rend="underlined:true"
+                           >Ant</hi>. 1613. 4°</bibl>.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="3" unit="shilling">3</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>B. 26. 60. Linc.</cell>
+                  <cell>Prof. Astron.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>11.</cell>
+                  <cell><bibl corresp="#regC-bib-Grawerus1618">Alb. <hi rend="underlined:true"
+                           >Grawerus</hi> contra Calvinum. 1618.4°</bibl>.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="1" unit="shilling">1</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>F.F. 36. Th.</cell>
+                  <cell>Vice-Can.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>12.</cell>
+                  <cell><bibl corresp="#regC-bib-Gürtler1694"><hi rend="underlined:true"
+                           >Gurtleri</hi> Institt. Theol. <hi rend="underlined:true">Amst</hi>. 1694
+                        4°</bibl>.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="6" unit="shilling">6</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>FF. 35. Th.</cell>
+                  <cell>Vice-Can.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>13.</cell>
+                  <cell><bibl corresp="#regC-bib-Münster1533"><hi rend="underlined:true"
+                           >Munsteri</hi> Horologiographia. <hi rend="underlined:true">Bas</hi>.
+                        1533.4°</bibl>.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="2" unit="shilling">2</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>A.A. 36. Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>14.</cell>
+                  <cell><bibl corresp="#regC-bib-Pfeiffer1687"><hi rend="underlined:true"
+                           >Pfeifferi</hi> Informatorium Conscientiae<lb/>Eucharisticum Lips. 1687.
+                        4°</bibl>.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="4" unit="shilling">4</measure></cell>
+                  <cell><measure quantity="6" unit="pence">6</measure></cell>
+                  <cell>F.F. 33. Th.</cell>
+                  <cell>Vice.-Can.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>15.</cell>
+                  <cell><bibl corresp="#regC-bib-Renaldini1654"><hi rend="underlined:true"
+                           >Renaldini</hi> opus Mathematicum.<lb/><hi rend="underlined:true"
+                           >Bonon</hi>. 1654. 4°</bibl>.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="2" unit="shilling">2</measure></cell>
+                  <cell><measure quantity="6" unit="pence">6</measure></cell>
+                  <cell>A.A. 34. Jur.</cell>
+                  <cell>Prof. Jur </cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>16.</cell>
+                  <cell><bibl corresp="#regC-bib-Niemann1671">C. <hi rend="underlined:true"
+                           >Sagittarii</hi> Historia Passionis D. N.<lb/>Jesu Xti. <hi
+                           rend="underlined:true">Jenae</hi> 1671. 4°</bibl>.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="2" unit="shilling">2</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>FF. 30. Th.</cell>
+                  <cell>Vice-Can</cell>
+               </row>
+               <row ana="prov:purchase" corresp="#regC-SFLE">
+                  <cell>17.</cell>
+                  <cell><bibl corresp="#regC-bib-Nicolson1714">Bp. Nicholson&apos;s Historical
+                        Library<lb/>in three parts. <hi rend="underlined:true">Lond</hi>. 1714.
+                        fol.</bibl></cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="10" unit="shilling">10</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>S. 2. 10. Jur.</cell>
+                  <cell>Prof. Jur. </cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>NB. The above mention&apos;d Books<lb/> [in this 7<hi
+                        rend="superscript:true">th</hi>. page] were bespoke of<lb/>
+                     <persName ana="prov:seller" corresp="#regC-SFLE">Stephen Fletcher</persName>,
+                     Bookseller, by <persName corresp="#regC-JHUD">Doctor<lb/> Hudson</persName>,
+                     sometime before the last vi‐<lb/> sitation, but not paid for, nor placed<lb/>
+                     in the Library till now. <persName corresp="#regC-JBOW"><choice>
+                           <abbr>JB</abbr>
+                           <expan>Joseph Bowles</expan>
+                        </choice></persName>.</cell>
+                  <cell><measure quantity="4" unit="pound">4</measure></cell>
+                  <cell><measure quantity="9" unit="shilling">9</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell/>
+                  <cell/>
+               </row>
+            </table></ab>
+         <pb xml:id="fol-10v" n="8" style="empty"/>
+         <pb xml:id="fol-11r" n="9"/>
+         <ab ana="prov:when"><date notAfter="1720-11-08" notBefore="1719-11-09"/>
+            <table>
+               <row>
+                  <cell/>
+                  <cell rend="head">Books bought</cell>
+                  <cell cols="3" rend="head">Price</cell>
+                  <cell rend="head">Place</cell>
+                  <cell rend="head">Curator</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell/>
+                  <cell>L</cell>
+                  <cell>s</cell>
+                  <cell>d</cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>18.</cell>
+                  <cell><bibl corresp="#regC-bib-Guglielmini1719"><hi rend="underlined:true"
+                           >Gulielmini</hi> Opera. 2 Voll. <hi rend="underlined:true">Gen</hi>.
+                        1719. 4°</bibl>.</cell>
+                  <cell><measure quantity="1" unit="pound">1</measure></cell>
+                  <cell><measure quantity="14" unit="shilling">14</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>C.C. 1,2 Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>19.</cell>
+                  <cell><bibl>D<hi rend="superscript:true">r</hi>. Hare&apos;s Visitation Sermon.
+                           <hi rend="underlined:true">Lond</hi>. 1720.</bibl></cell>
+                  <cell>0</cell>
+                  <cell>0</cell>
+                  <cell>6</cell>
+                  <cell>8° M. 19. Linc.</cell>
+                  <cell>Prof. Astron.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>20.</cell>
+                  <cell><bibl>[D<hi rend="superscript:true">r</hi>. Potter] Bp̄. of Oxford&apos;s
+                        Charge. 1720</bibl></cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="0" unit="shilling">0</measure></cell>
+                  <cell><measure quantity="6" unit="pence">6</measure></cell>
+                  <cell>ibid.</cell>
+                  <cell rows="2">Given afterwards by<lb/>the Bishop, as appears<lb/>in the next
+                     year&apos;s<lb/> Account.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>21.</cell>
+                  <cell>_______ <bibl>Defence of the Same.</bibl></cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell>ibid.</cell>
+
+               </row>
+               <row ana="prov:purchase">
+                  <cell>22.</cell>
+                  <cell><bibl>[Mr. Hoadley] Bp̄. of Bangor&apos;s Answer to D<hi
+                           rend="superscript:true">r</hi>. Hare. <hi rend="underlined:true"
+                           >Lond</hi>. 1720</bibl>.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="3" unit="shilling">3</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>ibid.</cell>
+                  <cell/>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>23.</cell>
+                  <cell><bibl corresp="#regC-bib-Mabillon1704"><hi rend="underlined:true"
+                           >Mabillonii</hi> Supplementum in lib. de<lb/>re diplomatica Par. 1704.
+                        fol.</bibl></cell>
+                  <cell><measure quantity="1" unit="pound">1</measure></cell>
+                  <cell><measure quantity="4" unit="shilling">4</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>C. 4. 15. Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>24.</cell>
+                  <cell><bibl corresp="#regC-bib-Quétif1719">F. F. <hi rend="underlined:true"
+                           >Quetif</hi> &amp; <hi rend="underlined:true">Echard</hi> Scriptores
+                        Ordinis<lb/>Praedicatorum. fol. <hi rend="underlined:true">Par</hi>. 1719.
+                        Vol.1</bibl>.</cell>
+                  <cell><measure quantity="1" unit="pound">1</measure></cell>
+                  <cell><measure quantity="18" unit="shilling">18</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>T. 10.1. Th.</cell>
+                  <cell>Vice-Can.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>25.</cell>
+                  <cell><bibl corresp="#regC-bib-Sprott1719"><hi rend="underlined:true">Sprotti</hi>
+                        Chronica, &amp;c. p Hearne. Oxon. 1719</bibl>.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="11" unit="shilling">11</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>8°. A. 90. Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>26.</cell>
+                  <cell><bibl corresp="#regC-bib-Trommius1718">Abr. <hi rend="underlined:true"
+                           >Trommi</hi> Concordantiae Gr. Vet. Test.<lb/>2 Voll. fol. <hi
+                           rend="underlined:true">Amst</hi>. 1718</bibl>.</cell>
+                  <cell><measure quantity="2" unit="pound">2</measure></cell>
+                  <cell><measure quantity="18" unit="shilling">18</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>R. 7.11,12. Th.</cell>
+                  <cell>Vice-Can.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>27.28.</cell>
+                  <cell><bibl>Journal des Sçavans 1719. Tom. 65.</bibl><lb/><bibl>66.</bibl> 2
+                     Voll.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="8" unit="shilling">8</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>DD. Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>29.30.</cell>
+                  <cell><bibl>Bibliotheque anciene &amp; moderne,<lb/> Tom. XI</bibl>,
+                        <bibl>XII</bibl> 2 Voll.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="5" unit="shilling">5</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>31.</cell>
+                  <cell><bibl corresp="#regC-bib-Lewis1720">The Scourge by T. Lewis <hi
+                           rend="underlined:true">Lond</hi>. 1720.8°</bibl>.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="6" unit="shilling">6</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>FF. 13. Th.</cell>
+                  <cell>Vice-Can.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>32.33.34.</cell>
+                  <cell><bibl corresp="#regC-bib-Prücknerus1663"><hi rend="underlined:true"
+                           >Pruckneri</hi> Comm. in Vet. et Nov.<lb/>Testamentum. 3 Voll. <hi
+                           rend="underlined:true">Franc. ad Mœn.</hi> 1663</bibl>.</cell>
+                  <cell><measure quantity="2" unit="pound">2</measure></cell>
+                  <cell><measure quantity="10" unit="shilling">10</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>L. 4. 4,5,6. Th.</cell>
+                  <cell>Vice-Can.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>35.</cell>
+                  <cell><bibl corresp="#regC-bib-Dorscheus1674"><hi rend="underlined:true"
+                           >Dorschai</hi> &amp; <hi rend="underlined:true">Grambsii</hi> Index
+                        Biblicus.<lb/>Franc. ad Mœn. 1674. 2 Voll. fol.</bibl></cell>
+                  <cell><measure quantity="2" unit="pound">2</measure></cell>
+                  <cell><measure quantity="5" unit="shilling">5</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>L. 3. 12,13. Th.</cell>
+                  <cell>Vice-Can.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>36.37.</cell>
+                  <cell><bibl corresp="#regC-bib-Menochio1719"><hi rend="underlined:true"
+                           >Menochii</hi> Comm. in S. Scripturam.<lb/> 2 Voll. <hi
+                           rend="underlined:true">Par</hi>. 1719. [cum Supl.]. fol.</bibl></cell>
+                  <cell><measure quantity="2" unit="pound">2</measure></cell>
+                  <cell><measure quantity="16" unit="shilling">16</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>S.12. 14,15. Th.<note>Todays shelfmark is S. 2.14,15 Th.; in the copies,
+                        "12" is crossed out and corrected to "2". It is more likely that a clerical
+                        mistake was made and later corrected than that the book was actually moved
+                        from one shelfmark to another.</note></cell>
+                  <cell>Vice-Can.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>38.</cell>
+                  <cell><bibl corresp="#regC-bib-ActaEruditorum1719">Acta Eruditorum 1719.
+                     4°</bibl>.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="10" unit="shilling">10</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>CC. Th.</cell>
+                  <cell>Vice-Can.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>39.</cell>
+                  <cell><bibl corresp="#regC-bib-Hearne1720">M<hi rend="superscript:true">r</hi>.
+                        Hearne&apos;s Collection of curious<lb/> Discourses by Antiquaries Oxon.
+                        1720</bibl>.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="12" unit="shilling">12</measure></cell>
+                  <cell><measure quantity="6" unit="pence">6</measure></cell>
+                  <cell>8° D. 48. Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>40.</cell>
+                  <cell><bibl corresp="#regC-bib-Falster1717"><hi rend="underlined:true"
+                           >Falsteri</hi> Supplementum linguae<lb/> Latinae. Flensb.
+                     1717</bibl>.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="3" unit="shilling">3</measure></cell>
+                  <cell><measure quantity="6" unit="pence">6</measure></cell>
+                  <cell>8° D. 70. Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>41.</cell>
+                  <cell><bibl corresp="#regC-bib-Sacred1716">Six Maps of Sacred Geography,
+                        by<lb/>Senex &amp; Taylor. <hi rend="underlined:true">Lond</hi>. 1716.
+                        fol.</bibl></cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="6" unit="shilling">6</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>S. 3. 18. Th.</cell>
+                  <cell>Vice-Can.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>42.</cell>
+                  <cell><bibl corresp="#regC-bib-Vertot1720"><hi rend="underlined:true"
+                           >Vertot&apos;s</hi> Roman Revolutions. 2 Voll.<lb/><hi
+                           rend="underlined:true">Lond</hi>. 1720. 8°</bibl>.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="10" unit="shilling">10</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>A.A. 40,41. Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell/>
+                  <cell><measure quantity="19" unit="pound">19</measure></cell>
+                  <cell><measure quantity="1" unit="shilling">1</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell/>
+                  <cell/>
+               </row>
+            </table></ab>
+         <pb xml:id="fol-11v" n="10" style="empty"/>
+         <pb xml:id="fol-12r" n="11"/>
+         <ab ana="prov:when"><date notAfter="1720-11-08" notBefore="1719-11-09"/><table>
+               <row>
+                  <cell/>
+                  <cell rend="head">Books bought</cell>
+                  <cell cols="3" rend="head">Price</cell>
+                  <cell rend="head">Place</cell>
+                  <cell rend="head">Curator</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell/>
+                  <cell>L</cell>
+                  <cell>s</cell>
+                  <cell>d</cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>43.</cell>
+                  <cell><bibl corresp="#regC-bib-Hippolytus1716">S. <hi rend="underlined:true"
+                           >Hippolyti</hi> Opera Gr. Lat. p Joh.<lb/> Fabricium. Vol. 1. Hamb. 1716.
+                        fol.</bibl></cell>
+                  <cell><measure quantity="1" unit="pound">1</measure></cell>
+                  <cell><measure quantity="3" unit="shilling">3</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>E.4.3. Th.</cell>
+                  <cell>Vice-Can.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>44.</cell>
+                  <cell><bibl corresp="#regC-bib-Willis1720">Browne <hi rend="underlined:true"
+                           >Willis</hi>&apos;s Survey of the Church<lb/> of S. Asaph. Lond. 1720.
+                        8°</bibl>.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="7" unit="shilling">7</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>8°.D.54. Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>45.</cell>
+                  <cell> _____ <bibl corresp="#regC-bib-Willis1719">Of Landaff.
+                     1719.8°</bibl></cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="6" unit="shilling">6</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>8°. D.53. Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>46.</cell>
+                  <cell> _____ <bibl corresp="#regC-bib-Willis1717">Of S. David&apos;s. 1717.
+                        8°</bibl></cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="6" unit="shilling">6</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>8°.D.52. Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>47.<hi rend="superscript:true">48.</hi></cell>
+                  <cell>_____ <bibl corresp="#regC-bib-Willis1718">History of Abbies. 2 Voll.
+                        1718</bibl>. </cell>
+                  <cell><measure quantity="1" unit="pound">1</measure></cell>
+                  <cell><measure quantity="8" unit="shilling">8</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>8° D. 50,51. Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>49.</cell>
+                  <cell><bibl corresp="#regC-bib-Vitringa1714"><hi rend="underlined:true"
+                           >Vitringa</hi> in Isaiam. 2 Voll. Louv. 1719.20</bibl>.</cell>
+                  <cell><measure quantity="3" unit="pound">3</measure></cell>
+                  <cell><measure quantity="6" unit="shilling">6</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>M.5.11,12. Th.</cell>
+                  <cell>Vice-Can.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>51.</cell>
+                  <cell><bibl corresp="#regC-bib-Cyril1720">S. <hi rend="underlined:true"
+                           >Cyrilli</hi> Hierosol. Opera Gr. Lat. per<lb/> Monachos Benedictinos <hi
+                           rend="underlined:true">Par</hi>. 1720</bibl>.</cell>
+                  <cell><measure quantity="1" unit="pound">1</measure></cell>
+                  <cell><measure quantity="16" unit="shilling">16</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>J. 4.17.Th.</cell>
+                  <cell>Vice-Can.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>52.</cell>
+                  <cell><bibl corresp="#regC-bib-Struve1715"><hi rend="underlined:true">Struvii</hi>
+                        Introduct. in notitiam rei<lb/> litt. &amp; usum Bibliothec. Jenae.
+                        1715</bibl>.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="4" unit="shilling">4</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>8°. D.60. Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>53.</cell>
+                  <cell><bibl corresp="#regC-bib-Valier1719"><hi rend="underlined:true"
+                           >Valerius</hi> de cautione in libris edendis<lb/>
+                        <hi rend="underlined:true">Patav</hi>. 1719. 4°</bibl>.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="6" unit="shilling">6</measure></cell>
+                  <cell><measure quantity="6" unit="pence">6</measure></cell>
+                  <cell>A. A. 29.Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>54.</cell>
+                  <cell><bibl corresp="#regC-bib-Sannazaro1719">Sannazarii poemata. 4°.
+                     ibid.</bibl></cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="8" unit="shilling">8</measure></cell>
+                  <cell><measure quantity="6" unit="pence">6</measure></cell>
+                  <cell>A. A.28.Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>55.</cell>
+                  <cell><bibl>Bibliotheque anc. &amp; moderne. tom. XIII</bibl></cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="2" unit="shilling">2</measure></cell>
+                  <cell><measure quantity="6" unit="pence">6</measure></cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>56.</cell>
+                  <cell><bibl corresp="#regC-bib-Ernulf1720">Textus Roffensis</bibl> [charg'd in
+                        <ref target="#fol-9r">pag.5</ref>.]</cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell>8°. P.94. Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>57.</cell>
+                  <cell><bibl corresp="#regC-bib-Garofalo1718">Bl. <hi rend="underlined:true"
+                           >Caryophili</hi> Dissertationum misc.<lb/>pars 1.<hi
+                           rend="superscript:true">ma</hi> Romae. 1718. 4°</bibl></cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="12" unit="shilling">12</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>A. A.30. Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>58.</cell>
+                  <cell><bibl corresp="#regC-bib-Grollier1719">Recueil d&apos;Ouvrages curieaux
+                        &amp;c. par <lb/>M<hi rend="superscript:true">r</hi>. Grollier de <hi
+                           rend="underlined:true">Serviere</hi>. à Lyon. 1719. 4°</bibl>.</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="13" unit="shilling">13</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>A. A. 48. Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>Two Paper Books</cell>
+                  <cell><measure quantity="0" unit="pound">0</measure></cell>
+                  <cell><measure quantity="3" unit="shilling">3</measure></cell>
+                  <cell><measure quantity="8" unit="pence">8</measure></cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>59.60.</cell>
+                  <cell><bibl corresp="#regC-bib-Bruyn1718">Corneille le <hi rend="underlined:true"
+                           >Brun</hi> Voyages par la <lb/> Moscovie, en Perse, et aux
+                        Indes<lb/>Orientales. 2 Voll.</bibl>
+                     <hi rend="underlined:true">Amst</hi>. 1718. fol.</cell>
+                  <cell><measure quantity="3" unit="pound">3</measure></cell>
+                  <cell><measure quantity="3" unit="shilling">3</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>B.6.3,4. Art.</cell>
+                  <cell>Proc. Sen.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>61.</cell>
+                  <cell><bibl corresp="#regC-bib-Galilei1718">G. <hi rend="underlined:true"
+                           >Galilaei</hi> Opera, 3 Voll. <hi rend="underlined:true">Flor</hi>. 1718.
+                        4°</bibl>.</cell>
+                  <cell><measure quantity="1" unit="pound">1</measure></cell>
+                  <cell><measure quantity="10" unit="shilling">10</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>A. A.25. &amp;c Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>64.</cell>
+                  <cell><bibl>B. <hi rend="underlined:true">Averanii</hi> Opera, 3 Voll. <hi
+                           rend="underlined:true">Flor</hi>. 1717. fol.</bibl></cell>
+                  <cell><measure quantity="1" unit="pound">1</measure></cell>
+                  <cell><measure quantity="13" unit="shilling">13</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>A.1.26, &amp;c Art.</cell>
+                  <cell>Proc. Sen.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell>67.</cell>
+                  <cell>Histoire des plantes qui nassent en Pro-<lb/>vence &amp;c par M<hi
+                        rend="superscript:true">r</hi>. <hi rend="underlined:true">Garidel</hi>. <hi
+                        rend="underlined:true">Par</hi>. 1719. fol.</cell>
+                  <cell><measure quantity="1" unit="pound">1</measure></cell>
+                  <cell><measure quantity="12" unit="shilling">12</measure></cell>
+                  <cell><measure quantity="0" unit="pence">0</measure></cell>
+                  <cell>T.1.7. Med.</cell>
+                  <cell>Prof. Med.</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell/>
+                  <cell><measure quantity="19" unit="pound">19</measure></cell>
+                  <cell><measure quantity="0" unit="shilling">0</measure></cell>
+                  <cell><measure quantity="2" unit="pence">2</measure></cell>
+                  <cell/>
+                  <cell/>
+               </row>
+            </table></ab>
+         <pb xml:id="fol-12v" n="12" style="empty"/>
+         <pb xml:id="fol-13r" n="15"/>
+         <ab ana="prov:when"><date notAfter="1720-11-08" notBefore="1719-11-09"/><table>
+               <row>
+                  <cell rend="head">Books bought</cell>
+                  <cell cols="3" rend="head">Price</cell>
+                  <cell rend="head">Place</cell>
+                  <cell rend="head">Curator</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>£</cell>
+                  <cell>s</cell>
+                  <cell>d</cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row ana="prov:purchase">
+                  <cell><bibl>Mr. <hi rend="underlined:true">Wheatly</hi> on the Com̄on
+                        Prayer</bibl>
+                     <lb/>[This Book is charg&apos;d in pag. 5.]</cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell>D.3.12. Th.</cell>
+                  <cell>Vice-Can</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell><bibl><hi rend="underlined:true">Middleton</hi>&apos;s State of Trinity
+                        College<lb/> in Cambridge</bibl> [charg&apos;d in page 5]</cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell>8°.M.236. Th.</cell>
+                  <cell>Prof. Theol.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell><hi rend="underlined:true">Norrellius</hi>’s Books [charg&apos;d in page
+                     5]</cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell>8° M.23.Linc.</cell>
+                  <cell>Prof. Astron.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell><bibl><hi rend="underlined:true">Roper</hi>&apos;s Life of S<hi
+                           rend="superscript:true">r</hi>. Th. More</bibl> [charg&apos;d
+                     p.6.]</cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell>8° <del>M.</del>C.63.Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell><bibl corresp="#regC-bib-Quintilian1527"><hi rend="underlined:true"
+                           >Quintilian</hi></bibl> [charg&apos;d in p. 6.]</cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell>8° <del>M</del>C.64.Jur</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+            </table></ab>
+         <ab ana="prov:when"><date notAfter="1720"/>
+            <table>
+               <row>
+                  <cell>The Books that follow next in<lb/> this page were bought in <persName
+                        corresp="#regC-JHUD">D<hi rend="superscript:true">r</hi>.<lb/>
+                        Hudson</persName>&apos;s Time, but not placed<lb/> in the Library till
+                     now.</cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row ana="prov:purchase">
+                  <cell><bibl corresp="#regC-bib-Huet1718"><hi rend="underlined:true">Huetii</hi>
+                        comm. de rebus ad se pertinent<lb/>
+                        <hi rend="underlined:true">Amst</hi>. 1718</bibl></cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell>8° D.71.Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell><bibl><hi rend="underlined:true">Bibl</hi>. LXXII Interpr. Gr. cum notis,
+                        var.<lb/> lectt. &amp;c. ꝓ Lamb. Bos. Franeq. 1709. 4°</bibl></cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell>D.D.40.Th.</cell>
+                  <cell>Vice.Can.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell><bibl corresp="#regC-bib-LeClerc1716">Jo. <hi rend="underlined:true"
+                           >Clerici</hi> Historia Eccl. duorum primo-<lb/> rum Sæculorum <hi
+                           rend="underlined:true">Amst</hi>. 1716. 4°</bibl>.</cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell>FF.39.Th.</cell>
+                  <cell>Vice-Can.</cell>
+               </row>
+               <row ana="prov:purchase">
+                  <cell><bibl corresp="#regC-bib-Renaudot1709">Defense de la perpetuite de la
+                        Foy.<lb/> à <hi rend="underlined:true">Paris</hi> 1719 8°</bibl></cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell>8° Z.414.Th.</cell>
+                  <cell>Prof. Theol.</cell>
+               </row>
+            </table></ab>
+         <pb xml:id="fol-13v" n="16" style="empty"/>
+         <pb xml:id="fol-14r" n="17"/>
+         <ab ana="prov:when"><date notAfter="1720-11-08" notBefore="1719-11-09"/><table>
+               <row>
+                  <cell>Books given</cell>
+                  <cell>Benefactor</cell>
+                  <cell>Place</cell>
+                  <cell>Curator</cell>
+               </row>
+               <row ana="prov:donation">
+                  <cell><bibl><hi rend="underlined:true">S. Augustinus</hi> de Civ. Dei <hi
+                           rend="underlined:true">Ven</hi>. 1475. fol.</bibl></cell>
+                  <cell><persName ana="prov:donor">M<hi rend="superscript:true">r</hi>.
+                        Massey</persName></cell>
+                  <cell>C.5.10.Th.</cell>
+                  <cell>Vice-Can.</cell>
+               </row>
+               <row ana="prov:donation">
+                  <cell><bibl>Supplem. in Monument. Angl. 1728. 8°</bibl></cell>
+                  <cell><persName corresp="#regCJLEN" ana="prov:donor">M<hi rend="superscript:true"
+                           >r</hi>. Le Neve</persName></cell>
+                  <cell>8° D.36.Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:donation">
+                  <cell><bibl corresp="#regC-bib-Le_Neve1720">Lives &amp; Characters of the
+                        reform'd<lb/> Bishops. <hi rend="underlined:true">Lond.</hi> 1719.
+                     8°</bibl></cell>
+                  <cell><persName corresp="#regCJLEN" ana="prov:donor">Idem.</persName></cell>
+                  <cell>8° Z.412.Th.</cell>
+                  <cell>Prof. Theol.</cell>
+               </row>
+               <row ana="prov:donation">
+                  <cell><bibl>Opuscula B. <hi rend="underlined:true">Augustini</hi>, Ms. pergam.
+                        8°.</bibl></cell>
+                  <cell><persName ana="prov:donor">Dr. Brabourne</persName></cell>
+                  <cell>NE.F.9.19.</cell>
+                  <cell>Prof. Græc.</cell>
+               </row>
+               <row ana="prov:donation">
+                  <cell><bibl>S. <hi rend="underlined:true">Bonaventuræ</hi> meditationes de<lb/>
+                        Jesu Xto. Ms. chart. 8°</bibl></cell>
+                  <cell><persName ana="prov:donor">Idem.</persName></cell>
+                  <cell>NE.F.9. 20.</cell>
+                  <cell>Prof Græc.</cell>
+               </row>
+               <row ana="prov:donation">
+                  <cell><bibl>J. <hi rend="underlined:true">Leopold</hi> de Itinere suo Suecio.
+                        8°</bibl>.</cell>
+                  <cell/>
+                  <cell>8°. D.56.Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:donation">
+                  <cell><bibl>A volume of Tracts in 8°</bibl></cell>
+                  <cell/>
+                  <cell>8° D.55.Jur.</cell>
+                  <cell>Prof Jur.</cell>
+               </row>
+               <row ana="prov:donation">
+                  <cell><bibl><hi rend="underlined:true">Cebetis</hi> Thebani Tabula, Gr. L. ꝑ
+                        Johnson</bibl></cell>
+                  <cell/>
+                  <cell>8° D.72.Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:donation">
+                  <cell><bibl corresp="#regC-bib-Lindsay1720">History of the Regal Succession.
+                        8°</bibl></cell>
+                  <cell><persName ana="prov:donor" corresp="#regC-JLIN">M<hi rend="superscript:true"
+                           >r</hi>. Lindsay</persName></cell>
+                  <cell>8° D.57.Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:donation">
+                  <cell><bibl>J. <hi rend="underlined:true">Keil</hi> Epistola ad J. Bernoulli.
+                        4°</bibl>.</cell>
+                  <cell><persName ana="prov:donor">D<hi rend="superscript:true">r</hi>.
+                        Keil</persName></cell>
+                  <cell>A.A.49.Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:donation">
+                  <cell><bibl><hi rend="underlined:true">Ziegenbalgi</hi> Gram̄atica Malabar.
+                        4°</bibl></cell>
+                  <cell><persName ana="prov:donor">M<hi rend="superscript:true">r</hi>.
+                        Phillips</persName>.</cell>
+                  <cell>A.A.24.Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:donation">
+                  <cell><bibl corresp="#regC-bib-Trott1719">Clavis Linguæ Sanctæ fol.</bibl></cell>
+                  <cell><persName ana="prov:donor" corresp="#regC-NTRO">M<hi rend="superscript:true"
+                           >r</hi>. Trot</persName>.</cell>
+                  <cell>C.11.16. Th.</cell>
+                  <cell>Vice-Can.</cell>
+               </row>
+               <row ana="prov:donation">
+                  <cell><bibl>Musicus apparatus Academicus ꝑ</bibl></cell>
+                  <cell><persName ana="prov:donor">D<hi rend="superscript:true">r</hi>.
+                        Croft</persName>.</cell>
+                  <cell>C.1.17.Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:donation">
+                  <cell><bibl>Recuel de divers pieces fur la philo-<lb/> sophie 2.Voll. 8° ꝑ M<hi
+                           rend="superscript:true">r</hi>. <hi rend="underlined:true"
+                        >Maizeaux</hi></bibl></cell>
+                  <cell><persName ana="prov:donor">Maizeaux</persName></cell>
+                  <cell>8° D.58.59. Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:donation">
+                  <cell><bibl corresp="#regC-bib-Johnson1720">Collection of Ecclesiastical
+                        Laws.<lb/> and Canons &amp;c. 2 Voll. 8°. by yͤ Author</bibl>.</cell>
+                  <cell><persName ana="prov:donor" corresp="#regC-JJON">M<hi rend="superscript:true"
+                           >r</hi>. Johnson</persName></cell>
+                  <cell>8°X.68.69. Th.</cell>
+                  <cell>Prof. Theol.</cell>
+               </row>
+               <row ana="prov:donation">
+                  <cell><bibl corresp="#regC-bib-Lux1719">Poems on Several Occasions
+                     by</bibl></cell>
+                  <cell><persName ana="prov:donor" corresp="#regC-WLUX">M<hi rend="superscript:true"
+                           >r</hi>. Lux</persName>.</cell>
+                  <cell>8° M.236.Th.</cell>
+                  <cell>Prof. Theol.</cell>
+               </row>
+               <row ana="prov:donation">
+                  <cell><bibl corresp="#regC-bib-Dry1717">Merton Walks, a Poem 8°</bibl></cell>
+                  <cell/>
+                  <cell>8°. M. 23.<hi rend="underlined:true">Linc</hi>.</cell>
+                  <cell>Prof. Astron.</cell>
+               </row>
+               <row ana="prov:donation">
+                  <cell><bibl>Biblia Lat. Vet. Edit. 8°</bibl></cell>
+                  <cell/>
+                  <cell>8° O.30.Linc.</cell>
+                  <cell>Prof. Astron.</cell>
+               </row>
+               <row ana="prov:donation">
+                  <cell><bibl corresp="#regC-bib-Rawlinson1720">English Topographer by</bibl></cell>
+                  <cell><persName ana="prov:donor" corresp="#regC-RRAW">D<hi rend="superscript:true"
+                           >r</hi>. Rawlinson</persName></cell>
+                  <cell>8° D.49.Jur.</cell>
+                  <cell>Prof. Jur.</cell>
+               </row>
+               <row ana="prov:donation">
+                  <cell><bibl>Esperienze fisico-meccaniche sopra<lb/> vari Soggetti &amp;c. ꝑ
+                        Hauksbee. 4°</bibl>.</cell>
+                  <cell rows="3"><persName ana="prov:donor" corresp="#regC-TDER">S<hi
+                           rend="superscript:true">r</hi>. Thomas<lb/><hi rend="underlined:true"
+                           >Dereham</hi>, of<lb/>Dereham Ab-<lb/> bey in the<lb/> County
+                        of<lb/>Norfolk</persName></cell>
+                  <cell rows="3">C.17.1,2,3</cell>
+                  <cell rows="3">Prof. Astron.</cell>
+               </row>
+               <row ana="prov:donation">
+                  <cell><persName ana="prov:donor" corresp="#regC-TDER"/><bibl>Loriuolo da polso de
+                        Medici &amp;c. ꝑ.<lb/> Floyer. 4°</bibl>.</cell>
+               </row>
+               <row ana="prov:donation">
+                  <cell><persName ana="prov:donor" corresp="#regC-TDER"/><bibl>Dimostrazione della
+                        Essenza, ed<lb/> attributi d'Iddio. 4°. ꝑ Dereham</bibl></cell>
+
+               </row>
+               <row ana="prov:donation">
+                  <cell><bibl corresp="#regC-bib-Smit1717b">Dissertatio de Amuleto
+                     quodam</bibl></cell>
+                  <cell rows="2"><persName ana="prov:donor" corresp="#regC-FSMI">D.
+                     Smit</persName>.</cell>
+                  <cell rows="2">4° B 26.61.Linc.</cell>
+                  <cell rows="2">Prof. Astron.</cell>
+               </row>
+               <row ana="prov:donation">
+                  <cell><persName ana="prov:donor" corresp="#regC-FSMI"/><bibl
+                        corresp="#regC-bib-Smit1717">Exercitatio de Paschate auctore</bibl></cell>
+               </row>
+               <row ana="prov:donation">
+                  <cell><bibl corresp="#regC-bib-Colbatch1695">Lumen Chirurgicum</bibl></cell>
+                  <cell rows="2"><persName ana="prov:donor" corresp="#regC-JCOL">by D<hi
+                           rend="superscript:true">r</hi>. Colbatch</persName></cell>
+                  <cell rows="2">8° M.22.Linc.</cell>
+                  <cell rows="2">Prof. Astron.</cell>
+               </row>
+               <row ana="prov:donation">
+                  <cell><persName ana="prov:donor" corresp="#regC-JCOL"/><bibl>Treatise of the
+                        Gout</bibl></cell>
+
+               </row>
+               <row ana="prov:donation">
+                  <cell><bibl>Liber Precum Lat. Ms.</bibl></cell>
+                  <cell><persName ana="prov:donor">M<hi rend="superscript:true">r</hi>. Mid.
+                        Massey</persName></cell>
+                  <cell>NE.F. 1.13.</cell>
+                  <cell>Prof. Græc.</cell>
+               </row>
+            </table></ab>
+         <pb xml:id="fol-14v" n="18" style="empty"/>
+         <pb xml:id="fol-15r" n="19"/>
+         <table>
+            <row>
+               <cell rend="head">Books bought or given.</cell>
+               <cell/>
+               <cell rend="head">Place</cell>
+               <cell rend="head">Curator</cell>
+            </row>
+            <row>
+               <cell>The Books given by <persName>Browne<lb/> Willis Esqr.</persName> are inserted
+                  in<lb/> the Vellam Register of Bene-<lb/> factors under his Name; and<lb/> in the
+                  Catalogue of Mss. pag.<lb/> 140. Super C. Art.</cell>
+               <cell/>
+               <cell>Super C. Art.</cell>
+               <cell>Prof. Græc.</cell>
+            </row>
+            <row>
+               <cell>The Books sent this year by the<lb/> Company of Stationers, com-<lb/> ing too
+                  late to be bound up,<lb/> are not yet placed in the<lb/> Library; for which reason
+                  they<lb/> cannot be accounted for<lb/> till next Year. v. pag. <ref
+                     target="#fol-29r">47</ref>. <ref target="#fol-32r">49</ref>.</cell>
+               <cell/>
+               <cell/>
+               <cell/>
+            </row>
+            <row>
+               <cell>In looking over <persName corresp="#regC-HCLE">Hen. Clements</persName>'s
+                  late<lb/> Bills, I find he has charg'd<lb/> to the Library (<gap reason="deleted"
+                  /></cell>
+               <cell><gap reason="deleted"/></cell>
+               <cell/>
+               <cell/>
+            </row>
+            <row ana="prov:purchase">
+               <cell><date when="1719-06-22">June 22. 1719.</date><lb/>
+                  <bibl><hi rend="underlined:true">Justini</hi> Dialogus cum Tryphone<lb/> ex
+                     Editione Sam. Jebb. <hi rend="underlined:true">Lond</hi>. 1719. 8°</bibl>.<lb/>
+                  (which Book is in yͤ Library)</cell>
+               <cell><measure quantity="0" unit="pound">0</measure>:<measure quantity="7"
+                     unit="shilling">7</measure>:<measure quantity="0" unit="pence"
+                  >0</measure></cell>
+               <cell>8° F.94.Jur.</cell>
+               <cell>Prof. Jur.</cell>
+            </row>
+            <row>
+               <cell>But since <persName>M<hi rend="superscript:true">r</hi>. Jebb</persName> had
+                  presented<lb/> one before to <persName corresp="#regC-JHUD">D<hi
+                        rend="superscript:true">r</hi>. Hudson</persName> for yͤ Library<lb/>
+                  <gap reason="deleted"/>, 'tis presumed that<lb/>
+                  <persName>the Executrix of D<hi rend="superscript:true">r</hi>. Hudson</persName>
+                  must<lb/> be answerable for <hi>them</hi>: as like-<lb/> wise for <bibl>Fl. <hi
+                        rend="underlined:true">Josephi</hi> Opera Gr.<lb/>
+                     <hi rend="underlined:true">Bas</hi>. 1544 cum notis Mss. Arch.C.
+                  68</bibl>.<lb/> which she sold to <persName>Ant. Peisley</persName> among
+                  others.<lb/> 'Tis now in the possession of <persName>M<hi rend="superscript:true"
+                        >r</hi>. Wasse, of Aynhoe</persName>.</cell>
+               <cell cols="3">Mem. <persName>M<hi rend="superscript:true">r</hi>. Wasse</persName>
+                  restored it the year following.</cell>
+            </row>
+         </table>
+         <pb xml:id="fol-15v" n="20" style="empty"/>
+         <pb xml:id="fol-16r" n="21"/>
+         <ab ana="prov:when"><date notAfter="1720-11-08" notBefore="1719-11-09"/><table>
+               <row>
+                  <cell/>
+                  <cell rend="head">Books remov'd</cell>
+                  <cell rend="head">Former<lb/> Number</cell>
+                  <cell rend="head">Present<lb/> Number</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>1,2.</cell>
+                  <cell><bibl>Archimedes</bibl></cell>
+                  <cell>A. 1, 26,27. Art.</cell>
+                  <cell>Arch. C.112,113.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>3.</cell>
+                  <cell><bibl>Archimedes</bibl></cell>
+                  <cell>A.1,28. Art.</cell>
+                  <cell>B.4.2. Art.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>4.</cell>
+                  <cell><bibl corresp="#regC-bib-Azaria-uncatalogued">R. Azaria</bibl>.</cell>
+                  <cell>M.5.11. Th.</cell>
+                  <cell>F.F. 27. Th.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>5.</cell>
+                  <cell><bibl corresp="#regC-bib-Boxhorn1632">Boxhornius</bibl></cell>
+                  <cell>B.4.2. Art.</cell>
+                  <cell>A .A. 31. Jur.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>6.</cell>
+                  <cell><bibl corresp="#regC-bib-Ceva1515">Ceva</bibl></cell>
+                  <cell>C.5.10. Th.</cell>
+                  <cell>D.D. 44. Th.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>7.</cell>
+                  <cell><bibl corresp="#regC-bib-Driverus1551">Driverus</bibl></cell>
+                  <cell>T. 1. 7. Med.</cell>
+                  <cell>4.<hi rend="superscript:true">to</hi> F. 15. Med.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell/>
+                  <cell><bibl corresp="#regC-bib-Guido1543">Jo. Guido</bibl></cell>
+                  <cell>ibid.</cell>
+                  <cell>ibid.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell/>
+                  <cell><bibl corresp="#regC-bib-Sclanus1583">Sclanus</bibl></cell>
+                  <cell>ibid.</cell>
+                  <cell>ibid.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>8.</cell>
+                  <cell><bibl corresp="#regC-bib-Espence1565">Espencæus</bibl></cell>
+                  <cell>E.4,3 Th.</cell>
+                  <cell>F.F 29. Th.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>9.</cell>
+                  <cell><bibl corresp="#regC-bib-Flacius1562">Flacius</bibl>.</cell>
+                  <cell>D.3,12. Th.</cell>
+                  <cell>F.F. 23. Th.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>10.</cell>
+                  <cell><bibl>Greenham</bibl></cell>
+                  <cell>Arch. A.73.</cell>
+                  <cell>Arch. D. <del>68</del>.70.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>11.</cell>
+                  <cell><bibl corresp="#regC-bib-Bie1627">Hemelarius</bibl></cell>
+                  <cell>C.2.1. Art.</cell>
+                  <cell>A.A.33.Jur.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>12.</cell>
+                  <cell><bibl corresp="#regC-bib-Herrera1600">Herrera</bibl></cell>
+                  <cell>L.4.17.Th.</cell>
+                  <cell>H.5,11 Th.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>13.</cell>
+                  <cell><bibl corresp="#regC-bib-Kircher1665">Kircherus</bibl></cell>
+                  <cell>B.6.3 Art.</cell>
+                  <cell>A. A. 47. Jur.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>14.</cell>
+                  <cell><bibl corresp="#regC-bib-Labata1615a">Labata</bibl></cell>
+                  <cell>L.3.13. Th.</cell>
+                  <cell>D.D. 49. Th.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>15.</cell>
+                  <cell><bibl corresp="#regC-bib-Labata1615b">Idem</bibl></cell>
+                  <cell>L.3. 14. Th.</cell>
+                  <cell>D.D. 50. Th.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>16.</cell>
+                  <cell><bibl corresp="#regC-bibLippeloo1601a">Lippeloo</bibl></cell>
+                  <cell>L.4.4. Th.</cell>
+                  <cell>D.D. 46. Th.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>17.</cell>
+                  <cell><bibl corresp="#regC-bibLippeloo1601b">Lippeloo</bibl></cell>
+                  <cell>L.4.5.Th.</cell>
+                  <cell>D.D. 47. Th.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>18.</cell>
+                  <cell><bibl corresp="#regC-bib-Leyser1604">Lyserus</bibl></cell>
+                  <cell>L.4.6.Th.</cell>
+                  <cell>D.D. 48. Th.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>19.</cell>
+                  <cell><bibl>Missale</bibl></cell>
+                  <cell>A.1.11. Th.</cell>
+                  <cell>Arch. A.73.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>20.</cell>
+                  <cell><bibl corresp="#regC-bib-Pellegrino1651">Camillo Pellegrino</bibl></cell>
+                  <cell>B.6.4. Art.</cell>
+                  <cell>A. A. 46. Jur.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>21.</cell>
+                  <cell><bibl corresp="#regC-bib-Oraeus1623">Rhonæus</bibl>.</cell>
+                  <cell>R. 7.11.Th.</cell>
+                  <cell>D.D. 42. Th.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>22.</cell>
+                  <cell><bibl corresp="#regC-bib-Ribera1623">Ribera</bibl></cell>
+                  <cell>R.7.12. Th.</cell>
+                  <cell>D.D. 43. Th.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell/>
+                  <cell><bibl corresp="#regC-bib-Daye1632">Day</bibl></cell>
+                  <cell>ibid.</cell>
+                  <cell>ibid.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell/>
+                  <cell><bibl corresp="#regC-bib-Gardiner1631">Gardyner</bibl></cell>
+                  <cell>ibid.</cell>
+                  <cell>ibid.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell/>
+                  <cell><bibl corresp="#regC-bib-Blanchot1631">Blanchot</bibl></cell>
+                  <cell>ibid.</cell>
+                  <cell>ibid.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>23.</cell>
+                  <cell><bibl>R. <hi rend="underlined:true">Samuel</hi> &amp;. Jacob</bibl></cell>
+                  <cell>M.5.12. Th.</cell>
+                  <cell>F.F. 28. Th.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>24.</cell>
+                  <cell><bibl>Schotanus</bibl></cell>
+                  <cell>H.5.11. Th.</cell>
+                  <cell>F.F. 24. Th.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>25.</cell>
+                  <cell><bibl>Speidelius</bibl></cell>
+                  <cell>S. 2.10. Jur.</cell>
+                  <cell>A.A. 38. Jur.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>26.</cell>
+                  <cell><bibl>Vattier</bibl>.</cell>
+                  <cell>B.5.1. Art.</cell>
+                  <cell>A.A. 32. Jur.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>27.</cell>
+                  <cell><bibl>Forentius</bibl>
+                     <hi rend="underlined:true">Volusenus</hi>.</cell>
+                  <cell>A. 8.17. Art.</cell>
+                  <cell>A.A. 45. Jur.</cell>
+               </row>
+            </table></ab>
+         <pb xml:id="fol-16v" n="22" style="empty"/>
+         <pb xml:id="fol-17r" n="23"/>
+         <ab ana="prov:when"><date notAfter="1720-11-08" notBefore="1719-11-09"/><table>
+               <row>
+                  <cell/>
+                  <cell rend="head">Books remov'd</cell>
+                  <cell rend="head">Former<lb/> Number</cell>
+                  <cell rend="head">Present<lb/> Number</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>28.</cell>
+                  <cell><bibl>Nieuhoff</bibl></cell>
+                  <cell>Arch. A. 147.</cell>
+                  <cell>F.2. 7. Art.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>29.</cell>
+                  <cell><bibl>Finkius</bibl></cell>
+                  <cell>F.2.7. Art.</cell>
+                  <cell>A.A. 52. Jur.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>30.</cell>
+                  <cell><bibl>Cicero de Officiis</bibl></cell>
+                  <cell>Arch. C. 93.</cell>
+                  <cell>Arch. A. 147.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>31.</cell>
+                  <cell><bibl>Maranta</bibl></cell>
+                  <cell>4° W. 49. Jur.</cell>
+                  <cell>CC. 4. Jur.</cell>
+               </row>
+               <row ana="prov:move-changeId">
+                  <cell>32.</cell>
+                  <cell><bibl>Idem</bibl></cell>
+                  <cell>4° W. 50.Jur.</cell>
+                  <cell>CC. 5. Jur</cell>
+               </row>
+            </table></ab>
+         <pb xml:id="fol-17v" n="24" style="empty"/>
+         <pb xml:id="fol-18r" n="25"/>
+         <table>
+            <row>
+               <cell rend="head">Ballance of the whole Account for the Year <date when="1720"
+                     >1720</date>.</cell>
+               <cell/>
+               <cell/>
+               <cell/>
+            </row>
+            <row>
+               <cell/>
+               <cell>L</cell>
+               <cell>s</cell>
+               <cell>d</cell>
+            </row>
+            <row>
+               <cell>Summ Total of the Bills, Expences &amp;c. <ref target="#fol-8v"
+                  >p.4</ref></cell>
+               <cell><measure quantity="79" unit="pound">79</measure></cell>
+               <cell><measure quantity="19" unit="shilling">19</measure></cell>
+               <cell><measure quantity="2" unit="pence">2</measure></cell>
+            </row>
+            <row>
+               <cell rend="head">Amount of the several pages wherein are<lb/> written the particular
+                  Disbursements.</cell>
+               <cell/>
+               <cell/>
+               <cell/>
+            </row>
+            <row>
+               <cell>Of page <ref target="#fol-9r">5</ref></cell>
+               <cell><measure quantity="14" unit="pound">14</measure></cell>
+               <cell><measure quantity="9" unit="shilling">9</measure></cell>
+               <cell><measure quantity="6" unit="pence">6</measure></cell>
+            </row>
+            <row>
+               <cell>___<ref target="#fol-9v">6</ref></cell>
+               <cell><measure quantity="4" unit="pound">4</measure></cell>
+               <cell><measure quantity="16" unit="shilling">16</measure></cell>
+               <cell><measure quantity="6" unit="pence">6</measure></cell>
+            </row>
+            <row>
+               <cell>___<ref target="#fol-10r">7</ref></cell>
+               <cell><measure quantity="4" unit="pound">4</measure></cell>
+               <cell><measure quantity="9" unit="shilling">9</measure></cell>
+               <cell><measure quantity="0" unit="pence">0</measure></cell>
+            </row>
+            <row>
+               <cell>___<ref target="#fol-11r">9</ref></cell>
+               <cell><measure quantity="19" unit="pound">19</measure></cell>
+               <cell><measure quantity="1" unit="shilling">1</measure></cell>
+               <cell><measure quantity="0" unit="pence">0</measure></cell>
+            </row>
+            <row>
+               <cell>___<ref target="#fol-12r">11</ref></cell>
+               <cell><measure quantity="19" unit="pound">19</measure></cell>
+               <cell><measure quantity="0" unit="shilling">0</measure></cell>
+               <cell><measure quantity="2" unit="pence">2</measure></cell>
+            </row>
+            <row>
+               <cell>___13<note>One leaf with pages 13 and 14 is missing; pencil foliation is
+                     continuous, indicating that the leaf was already missing when foliation was
+                     added.</note></cell>
+               <cell><measure quantity="16" unit="pound">16</measure></cell>
+               <cell><measure quantity="5" unit="shilling">5</measure></cell>
+               <cell><measure quantity="6" unit="pence">6</measure></cell>
+            </row>
+            <row>
+               <cell>___<ref target="#fol-13r">15</ref></cell>
+               <cell><measure quantity="0" unit="pound">0</measure></cell>
+               <cell><measure quantity="0" unit="shilling">0</measure></cell>
+               <cell><measure quantity="0" unit="pence">0</measure></cell>
+            </row>
+            <row>
+               <cell>___<ref target="#fol-14r">17</ref></cell>
+               <cell><measure quantity="0" unit="pound">0</measure></cell>
+               <cell><measure quantity="0" unit="shilling">0</measure></cell>
+               <cell><measure quantity="0" unit="pence">0</measure></cell>
+            </row>
+            <row>
+               <cell>Total of Disbursements</cell>
+               <cell><measure quantity="78" unit="pound">78</measure></cell>
+               <cell><measure quantity="1" unit="shilling">1</measure></cell>
+               <cell><measure quantity="8" unit="pence">8</measure></cell>
+            </row>
+            <row>
+               <cell>Due to ballance. v. <ref target="#fol-9v">pag. 6</ref></cell>
+               <cell><measure quantity="1" unit="pound">1</measure></cell>
+               <cell><measure quantity="17" unit="shilling">17</measure></cell>
+               <cell><measure quantity="6" unit="pence">6</measure></cell>
+            </row>
+         </table>
+         <p><persName corresp="#regC-RSHI">Rob. Shippen Vice-Can.</persName><lb/><persName
+               corresp="#regC-TTER">Tho: Terry Gr. Ling. P<hi rend="superscript:true">r</hi>
+               Regius.</persName><lb/>
+            <persName corresp="#regC-RCLA">Rob. Clavering Ling. Hebr. P<hi rend="superscript:true"
+                  >r</hi>. Regius</persName><lb/>
+            <persName corresp="#regC-JLAS">Josh. Lasher Med. Prof. Deput.</persName></p>
+
+      </body>
+   </text>
+</TEI>
