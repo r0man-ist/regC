@@ -103,7 +103,7 @@
                     style="position: sticky;  top: 0;background: silver;z-index: 100;">
                     <div class="container-fluid">
                         <div class="navbar-header">
-                            <a class="navbar-brand" href="regC.html">RegC</a>
+                            <a class="navbar-brand" href="index.html">RegC</a>
                         </div>
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                             data-bs-target="#navbarSupportedContent">
@@ -193,7 +193,7 @@
                         style="position: sticky;  top: 0;background: silver;z-index: 100;">
                         <div class="container-fluid">
                             <div class="navbar-header">
-                                <a class="navbar-brand" href="regC.html">RegC</a>
+                                <a class="navbar-brand" href="index.html">RegC</a>
                             </div>
                             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#navbarSupportedContent">
@@ -241,7 +241,7 @@
                         style="position: sticky;  top: 0;background: silver;z-index: 100;">
                         <div class="container-fluid">
                             <div class="navbar-header">
-                                <a class="navbar-brand" href="regC.html">RegC</a>
+                                <a class="navbar-brand" href="index.html">RegC</a>
                             </div>
                             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#navbarSupportedContent">
