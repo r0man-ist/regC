@@ -203,7 +203,7 @@
                 >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990234206960107026</idno>
         </objectIdentifier>
     </object>
-    <object xml:id="reg-C-bib-Bernardinus1623" ana="copy-identified">
+    <object xml:id="regC-bib-Bernardinus1623" ana="copy-identified">
         <objectIdentifier>
             <institution>Boldeian Library</institution>
             <idno type="shelfmark">FF 34 Th.</idno>
@@ -1197,7 +1197,7 @@
             </monogr>
         </biblStruct>
     </object>
-    <object xml:id="reg-C-bib-Maccovius1654" ana="copy-identified">
+    <object xml:id="regC-bib-Maccovius1654" ana="copy-identified">
         <objectIdentifier>
             <institution>Boldeian Library</institution>
             <idno type="shelfmark">FF 38 Th.</idno>
@@ -1951,7 +1951,207 @@
             </monogr>
         </biblStruct>
     </object>
+    <object xml:id="regC-bib-Samuel-uncatalogued" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">FF 28 Th.</idno>
+            <idno type="ALMA-ID">990234206960107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990234206960107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <title>[ICP uncatalogued Hebrew printed books]</title>
+                <imprint>
+                    <date>1500</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Schotanus1637a" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">FF 24 Th. (1)</idno>
+            <idno type="ALMA-ID">990146325830107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990146325830107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Schotanus, Meinardus Henricus.</author>
+                <title>Analysis et commentaria in Epistolam Pauli ad Philippenses, cum
+                    observationibus earumque usibus.</title>
+                <imprint>
+                    <pubPlace>Franeker&#230;</pubPlace>
+                    <date>1637</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Schotanus1637b" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">FF 24 Th. (2)</idno>
+            <idno type="ALMA-ID">990146326290107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990146326290107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Schotanus, Meinardus Henricus.</author>
+                <title>Conciones in Epistolam primam Petri.</title>
+                <imprint>
+                    <pubPlace>Franeker&#230;</pubPlace>
+                    <date>1637</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Speidel1629" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">AA 38 Jur.</idno>
+            <idno type="ALMA-ID">990147083530107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990147083530107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Speidel, Johannes Jacobus.</author>
+                <title>Sylloge qu&#230;stionum juridicarum et politicarum.</title>
+                <imprint>
+                    <pubPlace>Tubing&#230;</pubPlace>
+                    <date>1629</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Volusenus1543" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">AA 45 Jur.</idno>
+            <idno type="ALMA-ID">990143992740107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990143992740107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Volusenus, Florentius.</author>
+                <title>De animi tranquillitate dialogus.</title>
+                <imprint>
+                    <pubPlace>Lugd.</pubPlace>
+                    <date>1543</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Finkius1583" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">AA 52(1) Jur.</idno>
+            <idno type="ALMA-ID">990145622910107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990145622910107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Finkius, Thomas.</author>
+                <title>Thom&#230; Finkii ... Geometri&#230; rotundi libri xiii.</title>
+                <imprint>
+                    <pubPlace>Basil.</pubPlace>
+                    <date>1583</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+          <object xml:id="regC-bib-Finkius1591" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">AA 52(2) Jur.</idno>
+            <idno type="ALMA-ID">990145623340107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990145623340107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Finkius, Thomas.</author>
+                <title>Thom&#230; Finckii Horoscopographia, siue, De inueniendo stellarum situ
+                    astrologia.</title>
+                <imprint>
+                    <pubPlace>Slesuici</pubPlace>
+                    <date>1591</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Maranta1599" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">CC 4(1) Jur.</idno>
+            <idno type="ALMA-ID">990140657090107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990140657090107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Maranta, Robertus.</author>
+                <title>Consilia, siue Responsa. Vn&#224; cum duobus tractatibus. i. De alienatione
+                    prohibita, tam &#224; lege, qu&#224;m ab homine. ii. De remedijs
+                    possessorijs.</title>
+                <imprint>
+                    <pubPlace>Colon. Agripp.</pubPlace>
+                    <date>1599</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Maranta1598" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">CC 5(1) Jur.</idno>
+            <idno type="ALMA-ID">990140657800107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990140657800107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Maranta, Robertus.</author>
+                <title>Praxis, siue de ordine iudiciorum tractatus, qui vulg&#242; Speculum aureum,
+                    et Lumen aduocatorum nuncupatur, additionibus P. Follerij locupletatus.
+                    Accesserunt pr&#230;tere&#224; decem disputationes qu&#230;stionum legalium,
+                    vn&#224; cum repetitione l. Is potest. ff. de acquirend h&#230;red &amp; l. Si
+                    actor. ff. de procuratorib. His in noua hac ed. accesserunt Practica iudiciaria
+                    canonica &amp; ciuilis, &amp;c. I. de Arnono: &amp; Differenti&#230; iuris
+                    C&#230;sarei, pontificij, &amp; regni Sicili&#230;: eiusdem autoris.</title>
+                <imprint>
+                    <pubPlace>Colon. Agripp.</pubPlace>
+                    <date>1598</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Maranta1601" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Boldeian Library</institution>
+            <idno type="shelfmark">CC 5(2) Jur.</idno>
+            <idno type="ALMA-ID">990140656510107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990140656510107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Maranta, Robertus.</author>
+                <title>Do. Roberti Marant&#230; ... singularia, et iuris notabilia, cum
+                    declarationibus ad varias leges, &amp; paragraphos.</title>
+                <imprint>
+                    <pubPlace>Ven.</pubPlace>
+                    <date>1601</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
 </listObject>
+
 
 
 
@@ -2489,7 +2689,7 @@
                </row>
                <row ana="prov:purchase">
                   <cell>3. </cell>
-                  <cell><bibl corresp="#reg-C-bib-Bernardinus1623">Bernard. de S. <hi
+                  <cell><bibl corresp="#regC-bib-Bernardinus1623">Bernard. de S. <hi
                            rend="underlined:true">Antonio</hi> Epitome<lb/> redemptionū Captivorum a
                         FF.<lb/>S. Trinitatis. <hi rend="underlined:true">Ulissip</hi>. 1623.
                         4°.</bibl></cell>
@@ -3686,19 +3886,19 @@
                </row>
                <row ana="prov:move-changeId">
                   <cell>23.</cell>
-                  <cell><bibl>R. <hi rend="underlined:true">Samuel</hi> &amp;. Jacob</bibl></cell>
+                   <cell><bibl corresp="#regC-bib-Samuel-uncatalogued">R. <hi rend="underlined:true">Samuel</hi> &amp;. Jacob</bibl></cell>
                   <cell>M.5.12. Th.</cell>
                   <cell>F.F. 28. Th.</cell>
                </row>
                <row ana="prov:move-changeId">
                   <cell>24.</cell>
-                  <cell><bibl>Schotanus</bibl></cell>
+                   <cell><bibl corresp="#regC-bib-Schotanus1637a"><bibl corresp="#regC-bib-Schotanus1637b"></bibl>Schotanus</bibl></cell>
                   <cell>H.5.11. Th.</cell>
                   <cell>F.F. 24. Th.</cell>
                </row>
                <row ana="prov:move-changeId">
                   <cell>25.</cell>
-                  <cell><bibl>Speidelius</bibl></cell>
+                   <cell><bibl corresp="#regC-bib-Speidel1629">Speidelius</bibl></cell>
                   <cell>S. 2.10. Jur.</cell>
                   <cell>A.A. 38. Jur.</cell>
                </row>
@@ -3710,7 +3910,7 @@
                </row>
                <row ana="prov:move-changeId">
                   <cell>27.</cell>
-                  <cell><bibl>Forentius</bibl>
+                   <cell><bibl corresp="#regC-bib-Volusenus1543">Forentius</bibl>
                      <hi rend="underlined:true">Volusenus</hi>.</cell>
                   <cell>A. 8.17. Art.</cell>
                   <cell>A.A. 45. Jur.</cell>
@@ -3733,7 +3933,7 @@
                </row>
                <row ana="prov:move-changeId">
                   <cell>29.</cell>
-                  <cell><bibl>Finkius</bibl></cell>
+                   <cell><bibl corresp="#regC-bib-Finkius1583">Finkius</bibl><bibl corresp="#regC-bib-Finkius1591"></bibl></cell>
                   <cell>F.2.7. Art.</cell>
                   <cell>A.A. 52. Jur.</cell>
                </row>
@@ -3745,13 +3945,13 @@
                </row>
                <row ana="prov:move-changeId">
                   <cell>31.</cell>
-                  <cell><bibl>Maranta</bibl></cell>
+                   <cell><bibl corresp="#regC-bib-Maranta1599">Maranta</bibl></cell>
                   <cell>4° W. 49. Jur.</cell>
                   <cell>CC. 4. Jur.</cell>
                </row>
                <row ana="prov:move-changeId">
                   <cell>32.</cell>
-                  <cell><bibl>Idem</bibl></cell>
+                   <cell><bibl corresp="regC-bib-Maranta1598">Idem</bibl><bibl corresp="#regC-bib-Maranta1601"></bibl></cell>
                   <cell>4° W. 50.Jur.</cell>
                   <cell>CC. 5. Jur</cell>
                </row>

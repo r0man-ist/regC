@@ -319,7 +319,7 @@
                         </div>
                     </div>
                 </div>
-                <xsl:variable name="target" select="t:cell/t:bibl/@corresp"/>
+                <xsl:variable name="target" select="t:cell/t:bibl[1]/@corresp"/>
                 <button type="button" class="btn btn-light" onclick="openModal('{$target}')"
                     >Details</button>
             </td>
@@ -328,19 +328,19 @@
         <tr>
             <xsl:apply-templates select="t:cell"/>
             <xsl:choose>
-                <xsl:when test="@ana = 'prov:purchase'">
+                <xsl:when test="@ana = 'prov:purchase' and ./t:cell/t:bibl/@corresp">
                     <xsl:copy-of select="$call-modal"/>
                 </xsl:when>
-                <xsl:when test="@ana = 'prov:subscription'">
+                <xsl:when test="@ana = 'prov:subscription' and ./t:cell/t:bibl/@corresp">
                     <xsl:copy-of select="$call-modal"/>
                 </xsl:when>
-                <xsl:when test="@ana = 'prov:sold'">
+                <xsl:when test="@ana = 'prov:sold' and ./t:cell/t:bibl/@corresp">
                     <xsl:copy-of select="$call-modal"/>
                 </xsl:when>
-                <xsl:when test="@ana = 'prov:move-changeId'">
+                <xsl:when test="@ana = 'prov:move-changeId' and ./t:cell/t:bibl/@corresp">
                     <xsl:copy-of select="$call-modal"/>
                 </xsl:when>
-                <xsl:when test="@ana = 'prov:donation'">
+                <xsl:when test="@ana = 'prov:donation' and ./t:cell/t:bibl/@corresp">
                     <xsl:copy-of select="$call-modal"/>
                 </xsl:when>
             </xsl:choose>
