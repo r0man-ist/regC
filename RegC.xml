@@ -138,7 +138,7 @@
             </person>
         </listPerson>
         <listObject>
-            <object xml:id="regC-bib-ActaEruditorum1719" ana="copy-identified">
+            <object xml:id="regC-bib-ActaEruditorum1719" ana="copy-identified" status="draft">
                 <objectIdentifier>
                     <institution>Boldeian Library</institution>
                     <idno type="shelfmark">(Vet.) Per. 3977 d.161</idno>
@@ -2522,7 +2522,7 @@
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
                     </row>
                     <row ana="prov:purchase">
-                        <cell>To <bibl>M<hi rend="superscript:true">r</hi>. Wheatly for his Book on
+                        <cell>To <bibl corresp="#regC-bib-Wheatly1720">M<hi rend="superscript:true">r</hi>. Wheatly for his Book on
                                 the Common Prayer, fol.</bibl></cell>
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="12" unit="shilling">12</measure></cell>
@@ -2586,7 +2586,7 @@
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
                     </row>
                     <row ana="prov:purchase">
-                        <cell>For <bibl>Middleton’s State of Trinity College in
+                        <cell>For <bibl corresp="#regC-bib-Middleton1720">Middleton’s State of Trinity College in
                             Cambrige</bibl></cell>
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="0" unit="shilling">0</measure></cell>
@@ -2701,7 +2701,8 @@
                     </row>
                 </table></ab>
             <pb xml:id="fol-10r" n="7"/>
-            <ab ana="prov:when"><date notAfter="1720-11-08" notBefore="1719-11-09"></date><persName ana="prov:seller" corresp="#regC-SFLE"></persName><table>
+            <ab ana="prov:when"><date notAfter="1720-11-08" notBefore="1719-11-09"/><persName
+                    ana="prov:seller" corresp="#regC-SFLE"/><table>
                     <row>
                         <cell/>
                         <cell rend="head">Books bought</cell>
@@ -2731,7 +2732,7 @@
                     </row>
                     <row ana="prov:purchase">
                         <cell>2.</cell>
-                        <cell><bibl>Jos <hi rend="underlined:true">Ripamontii</hi> rerum
+                        <cell><bibl corresp="#regC-bib-Ripamonti1648">Jos <hi rend="underlined:true">Ripamontii</hi> rerum
                                 Hispanarum<lb/> libri octo. fol.</bibl></cell>
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="15" unit="shilling">15</measure></cell>
@@ -3373,7 +3374,7 @@
                     </row>
                     <row ana="prov:purchase">
                         <cell>64.</cell>
-                        <cell><bibl>B. <hi rend="underlined:true">Averanii</hi> Opera, 3 Voll. <hi
+                        <cell><bibl corresp="#regC-bib-Averani1717">B. <hi rend="underlined:true">Averanii</hi> Opera, 3 Voll. <hi
                                     rend="underlined:true">Flor</hi>. 1717. fol.</bibl></cell>
                         <cell><measure quantity="1" unit="pound">1</measure></cell>
                         <cell><measure quantity="13" unit="shilling">13</measure></cell>
@@ -3421,7 +3422,7 @@
                         <cell/>
                     </row>
                     <row ana="prov:purchase">
-                        <cell><bibl>Mr. <hi rend="underlined:true">Wheatly</hi> on the Com̄on
+                        <cell><bibl corresp="#regC-bib-Wheatly1720">Mr. <hi rend="underlined:true">Wheatly</hi> on the Com̄on
                                 Prayer</bibl>
                             <lb/>[This Book is charg&apos;d in pag. 5.]</cell>
                         <cell/>
@@ -3774,19 +3775,21 @@
                     <cell>Prof. Jur.</cell>
                 </row>
                 <row>
-                    <cell>But since <persName>M<hi rend="superscript:true">r</hi>. Jebb</persName>
-                        had presented<lb/> one before to <persName corresp="#regC-JHUD">D<hi
-                                rend="superscript:true">r</hi>. Hudson</persName> for yͤ Library<lb/>
+                    <cell>But since <persName corresp="#regC-SJEB">M<hi rend="superscript:true"
+                                >r</hi>. Jebb</persName> had presented<lb/> one before to <persName
+                            corresp="#regC-JHUD">D<hi rend="superscript:true">r</hi>.
+                            Hudson</persName> for yͤ Library<lb/>
                         <gap reason="deleted"/>, 'tis presumed that<lb/>
                         <persName>the Executrix of D<hi rend="superscript:true">r</hi>.
                             Hudson</persName> must<lb/> be answerable for <hi>them</hi>: as
                         like-<lb/> wise for <bibl>Fl. <hi rend="underlined:true">Josephi</hi> Opera Gr.<lb/>
                             <hi rend="underlined:true">Bas</hi>. 1544 cum notis Mss. Arch.C.
-                            68</bibl>.<lb/> which she sold to <persName>Ant. Peisley</persName>
-                        among others.<lb/> 'Tis now in the possession of <persName>M<hi
-                                rend="superscript:true">r</hi>. Wasse, of Aynhoe</persName>.</cell>
-                    <cell cols="3">Mem. <persName>M<hi rend="superscript:true">r</hi>.
-                            Wasse</persName> restored it the year following.</cell>
+                            68</bibl>.<lb/> which she sold to <persName corresp="#regC-APEI">Ant.
+                            Peisley</persName> among others.<lb/> 'Tis now in the possession of
+                            <persName corresp="#regC-JWAS">M<hi rend="superscript:true">r</hi>.
+                            Wasse, of Aynhoe</persName>.</cell>
+                    <cell cols="3">Mem. <persName corresp="#regC-JWAS">M<hi rend="superscript:true"
+                                >r</hi>. Wasse</persName> restored it the year following.</cell>
                 </row>
             </table>
             <pb xml:id="fol-15v" n="20" style="empty"/>
@@ -4131,6 +4134,113 @@
                 <persName corresp="#regC-RCLA">Rob. Clavering Ling. Hebr. P<hi
                         rend="superscript:true">r</hi>. Regius</persName><lb/>
                 <persName corresp="#regC-JLAS">Josh. Lasher Med. Prof. Deput.</persName></p>
+
+            <pb xml:id="fol-18v" n="26" style="empty"/>
+            <pb xml:id="fol-19r" n="29" style="empty"/>
+            <pb xml:id="fol-19v" n="30"/>
+            <table>
+                <row>
+                    <cell>No Duplicates sold this year</cell>
+                    <cell>£</cell>
+                    <cell>s</cell>
+                    <cell>d</cell>
+                </row>
+                <row>
+                    <cell>Receiv&apos;d by <persName corresp="#regC-JBOW">the Library
+                            Keeper</persName> of <persName corresp="#regC-RSHI">M<hi
+                                rend="superscript:true">r</hi>.<lb/> Vice Chancellor</persName> at
+                        several times</cell>
+                    <cell><measure quantity="36" unit="pound">36</measure></cell>
+                    <cell><measure quantity="15" unit="shilling">15</measure></cell>
+                    <cell><measure quantity="0" unit="pence">00</measure></cell>
+                </row>
+                <row>
+                    <cell>Transfer&apos;d from last year&apos;s Account. v. <ref target="#fol-18r"
+                            >pag. 25</ref></cell>
+                    <cell><measure quantity="1" unit="pound">01</measure></cell>
+                    <cell><measure quantity="17" unit="shilling">17</measure></cell>
+                    <cell><measure quantity="6" unit="pence">06</measure></cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell><measure quantity="38" unit="pound">38</measure></cell>
+                    <cell><measure quantity="12" unit="shilling">12</measure></cell>
+                    <cell><measure quantity="6" unit="pence">06</measure></cell>
+                </row>
+                <row>
+                    <cell>Amount of the Several pages wherein<lb/> are written the particular
+                        Disbursments</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>of <ref target="#fol-20r">pag. 31.</ref></cell>
+                    <cell><measure quantity="27" unit="pound">27</measure></cell>
+                    <cell><measure quantity="02" unit="shilling">02</measure></cell>
+                    <cell><measure quantity="6" unit="pence">6</measure></cell>
+                </row>
+                <row>
+                    <cell>of <ref target="#fol-21r">pag. 33</ref></cell>
+                    <cell><measure quantity="10" unit="pound">10</measure></cell>
+                    <cell><measure quantity="16" unit="shilling">16</measure></cell>
+                    <cell><measure quantity="6" unit="pence">6</measure></cell>
+                </row>
+                <row>
+                    <cell>of <ref target="#fol-22r">pag. 35</ref></cell>
+                    <cell><measure quantity="8" unit="pound">08</measure></cell>
+                    <cell><measure quantity="9" unit="shilling">09</measure></cell>
+                    <cell><measure quantity="0" unit="pence">0</measure></cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell><measure quantity="46" unit="pound">46</measure></cell>
+                    <cell><measure quantity="8" unit="shilling">08</measure></cell>
+                    <cell><measure quantity="0" unit="pence">00</measure></cell>
+                </row>
+                <row>
+                    <cell>money recd</cell>
+                    <cell><measure quantity="38" unit="pound">38</measure></cell>
+                    <cell><measure quantity="12" unit="shilling">12</measure></cell>
+                    <cell><measure quantity="6" unit="pence">06</measure></cell>
+                </row>
+                <row>
+                    <cell>Remains due to <persName corresp="#regC-JBOW">the Library
+                            Keeper</persName></cell>
+                    <cell><measure quantity="7" unit="pound">7</measure></cell>
+                    <cell><measure quantity="15" unit="shilling">15</measure></cell>
+                    <cell><measure quantity="6" unit="pence">6</measure></cell>
+                </row>
+            </table>
+            <p><persName corresp="#regC-RSHI">Rob. Shippen Vice-Can:</persName><lb/>
+                <persName corresp="#regC-TTER">Tho: Terry Gr. Ling: P<hi rend="superscript:true"
+                        >r</hi>. Regius</persName><lb/>
+                <persName corresp="#regC-RCLA">Rob. Clavering Ling. Hebr. P<hi
+                        rend="superscript:true">r</hi>.<lb/> Regius</persName><persName
+                    corresp="#regC-JLAS">Josh Lasher Med. Pofess. Deput.</persName></p>
+            <pb xml:id="fol-20r" n="31"/>
+            <table><row cols="6">Books bought by the Library Keeper at several times and places, between <date
+                    when="1720-11-08">Nov<hi rend="superscript:true">r</hi>. 8 1720</date> &amp;
+                <date when="1721-11-01">Nov. 1. 1721</date></row><row><cell></cell><cell cols="3">Price</cell><cell>Place in<lb/> the Library</cell><cell>Curator</cell><row><cell></cell><cell>£</cell><cell>s.</cell><cell>d.</cell><cell></cell><cell></cell></row> 
+                </row><row><cell>Subscription Money [first Pay-<lb/> ment] for Drake&apos;s intended<lb/> Edition of
+                Matth. Parker, paid<lb/> to Mr. Jebb</cell>001500</row><row><cell>Idem, first Payment for the Life of D<hi
+                    rend="superscript:true">r</hi>. Barwick, to the same</cell><cell><measure quantity="0" unit="pound">00</measure></cell><cell><measure quantity="2" unit="shilling">02</measure></cell><cell><measure quantity="6" unit="pence">6</measure></cell></row><row><cell>First Paym<hi
+                    rend="superscript:true">t</hi>. to M<hi rend="superscript:true">r</hi>. Hearne
+                for Joh.<lb></lb>Fordun’s Scoti-chronicon</cell><cell><measure quantity="1" unit="pound">01</measure></cell><cell><measure quantity="1" unit="shilling">01</measure></cell><cell><measure quantity="0" unit="pence">00</measure></cell></row><row>Second Paym<hi rend="superscript:true"
+                    >t</hi>. to M<hi rend="superscript:true">r</hi>. Hearne for Rob. de Avesbury (v.
+                pag. 5) 000500 8° C. 76. Jur. Prof. Jur.</row><row>Second Paym<hi rend="superscript:true"
+                    >t</hi>. for Du-bois’s Moral Reflections. (v. pag. 5 hujus Comput. ) 000200 8°
+                C. 81. Jur. Prof. Jur.</row><row>First Paym<hi rend="superscript:true">t</hi>. for M<hi
+                    rend="superscript:true">r</hi>. Leslies Works in small Paper 010100</row><row>Second
+                    Pay<hi rend="superscript:true">mt</hi>. to M<hi rend="superscript:true">r</hi>.
+                Taylor of Univ. Coll010100</row><row>Dictionnaire de Trevoux 5 Voll. <hi
+                    rend="underlined:true">Par</hi>. 1720 F. 2. 6.7 &amp;c Jur. 070000 F.2.6,7,8
+                Jur. Prof. Jur.</row><row>Ouvres de Boileau Despreaux 2 Voll. á Amst. 1718. (Magna chart)
+                .101000 M. 3.6,7. Jur. Prof. Jur.</row><row>Les hommes illustres p Perrault. <hi
+                    rend="underlined:true">Par.</hi> 1696. 040000 Arch. A. 183 Pr. Heb.</row>
+                <row>L&apos;Hitoire du Vieux et de Noveau Testament par Mr. le Maitre de Sacy á <hi
+                    rend="underlined:true">Par.</hi> 1718 010500 A.17.15 Th. Vice-Can 270206</row></table>
+
 
         </body>
     </text>
