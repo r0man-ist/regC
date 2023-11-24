@@ -4273,7 +4273,7 @@
                 </row>
                 <row ana="prov:subscription">
                     <cell>Second Paym<hi rend="superscript:true">t</hi>. to M<hi
-                            rend="superscript:true">r</hi>. Hearne for<lb/>Rob. de Avesbury (v. <ref
+                        rend="superscript:true">r</hi>. Hearne for<lb/><bibl corresp="#regC-bib-Avesbury1720">Rob. de Avesbury</bibl> (v. <ref
                             target="#fol-9r">pag. 5</ref>)</cell>
                     <cell><measure quantity="0" unit="pound">00</measure></cell>
                     <cell><measure quantity="5" unit="shilling">05</measure></cell>
@@ -4283,7 +4283,7 @@
                 </row>
                 <row>
                     <cell ana="prov:subscription">Second Paym<hi rend="superscript:true">t</hi>. for
-                        Du-bois’s Moral<lb/> Reflections. (v. <ref target="#fol-9r">pag. 5</ref>
+                        <bibl corresp="#regC-bib-Avesbury1720">Du-bois’s Moral<lb/> Reflections</bibl>. (v. <ref target="#fol-9r">pag. 5</ref>
                         hujus Comput.)</cell>
                     <cell><measure quantity="0" unit="pound">00</measure></cell>
                     <cell><measure quantity="2" unit="shilling">02</measure></cell>
@@ -4329,8 +4329,8 @@
                     <cell>Prof. Jur.</cell>
                 </row>
                 <row ana="prov:purchase">
-                    <cell>Les hommes illustres ꝓ Perrault.<lb/>
-                        <hi rend="underlined:true">Par.</hi> 1696.</cell>
+                    <cell><bibl>Les hommes illustres ꝓ Perrault.<lb/>
+                        <hi rend="underlined:true">Par.</hi> 1696.</bibl></cell>
                     <cell><measure quantity="4" unit="pound">04</measure></cell>
                     <cell><measure quantity="0" unit="shilling">00</measure></cell>
                     <cell><measure quantity="0" unit="pence">00</measure></cell>
@@ -4374,98 +4374,98 @@
                         <cell/>
                         <cell/>
                     </row>
-                    <row>
-                        <cell>Bibliotheque, Historique de la<lb/> France par Jac le Long Par.
-                            1719</cell>
+                    <row ana="prov:purchase">
+                        <cell><bibl corresp="#regC-bib-LeLong1719">Bibliotheque, Historique de la<lb/> France par Jac le Long Par.
+                            1719</bibl></cell>
                         <cell><measure quantity="1" unit="pound">01</measure></cell>
                         <cell><measure quantity="10" unit="shilling">10</measure></cell>
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
                         <cell>H.1.14 Jur.</cell>
                         <cell>Prof. Jur.</cell>
                     </row>
-                    <row>
-                        <cell>Louis Feuillée Journal des Obser-<lb/> vations Physiques,
-                            Mathema-<lb/> tiques &amp;c. a Par. 1714. 2Voll.</cell>
+                    <row ana="prov:purchase">
+                        <cell><bibl corresp="#regC-bib-Feuilée1714">Louis Feuillée Journal des Obser-<lb/> vations Physiques,
+                            Mathema-<lb/> tiques &amp;c. a Par. 1714. 2Voll.</bibl></cell>
                         <cell><measure quantity="1" unit="pound">01</measure></cell>
                         <cell><measure quantity="5" unit="shilling">05</measure></cell>
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
                         <cell>P.1.8,9. Med.</cell>
                         <cell>Prof. Med.</cell>
                     </row>
-                    <row>
-                        <cell>Traite d'Architecture ꝓ Sebast.<lb/> le Clerc á Par. 1714 2
-                            Voll.</cell>
+                    <row ana="prov:purchase">
+                        <cell><bibl corresp="#regC-bib-LeClerc1714">Traite d'Architecture ꝓ Sebast.<lb/> le Clerc á Par. 1714 2
+                            Voll.</bibl></cell>
                         <cell><measure quantity="1" unit="pound">01</measure></cell>
                         <cell><measure quantity="4" unit="shilling">04</measure></cell>
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
                         <cell>C.17.12,13 Linc.</cell>
                         <cell>Prof. Astr.</cell>
                     </row>
-                    <row>
-                        <cell>Traité d'Architecture ꝓ M<hi rend="superscript:true">r</hi>. de
-                            Cor-<lb/> demoy. <hi rend="underlined:true">Par</hi>. 1714.</cell>
+                    <row ana="prov:purchase">
+                        <cell><bibl corresp="#regC-bib-Cordemoy1714">Traité d'Architecture ꝓ M<hi rend="superscript:true">r</hi>. de
+                            Cor-<lb/> demoy. <hi rend="underlined:true">Par</hi>. 1714.</bibl></cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="15" unit="shilling">15</measure></cell>
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
                         <cell>C.17.14.Linc.</cell>
                         <cell>Prof. Astr.</cell>
                     </row>
-                    <row>
-                        <cell>Renaudotii Hist. Patriarch. Alexand.<lb/> Par. 1713</cell>
+                    <row ana="prov:purchase">
+                        <cell><bibl corresp="#reC-bib-Renaudot1713">Renaudotii Hist. Patriarch. Alexand.<lb/> Par. 1713</bibl></cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="15" unit="shilling">15</measure></cell>
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
                         <cell>C.17.15.Linc.</cell>
                         <cell>Prof. Astr.</cell>
                     </row>
-                    <row>
-                        <cell>Section Conique de l'Hospital.<lb/> á Par. 1720</cell>
+                    <row ana="prov:purchase">
+                        <cell><bibl corresp="#regC-bib-Hospital1720">Section Conique de l'Hospital.<lb/> á Par. 1720</bibl></cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="18" unit="shilling">18</measure></cell>
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
                         <cell>4°CC.24.Jur.</cell>
                         <cell/>
                     </row>
-                    <row>
-                        <cell>Justini Oꝑa in usum Delph. <hi rend="underlined:true">Par</hi>.
-                            1677</cell>
+                    <row ana="prov:purchase">
+                        <cell><bibl corresp="#regC-bib-Justinus1677">Justini Oꝑa in usum Delph. <hi rend="underlined:true">Par</hi>.
+                            1677</bibl></cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="12" unit="shilling">12</measure></cell>
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
                         <cell>4°C.17.11.Linc.</cell>
                         <cell>Prof. Astr.</cell>
                     </row>
-                    <row>
-                        <cell>Lucretius in usum Delph. <hi rend="underlined:true">Par</hi>.
-                            1680</cell>
+                    <row ana="prov:purchase">
+                        <cell><bibl corresp="#regC-bib-Lucretius1680">Lucretius in usum Delph. <hi rend="underlined:true">Par</hi>.
+                            1680</bibl></cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="15" unit="shilling">15</measure></cell>
                         <cell><measure quantity="00" unit="pence">00</measure></cell>
                         <cell>P. 1.10.Med.</cell>
                         <cell>Pr. Med.</cell>
                     </row>
-                    <row>
-                        <cell>Juvenalis &amp; Persius in usum<lb/> Delph. Par. 1684</cell>
+                    <row ana="prov:purchase">
+                        <cell><bibl corresp="#regC-bib-Juvenal1684">Juvenalis &amp; Persius in usum<lb/> Delph. Par. 1684</bibl></cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="16" unit="shilling">16</measure></cell>
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
                         <cell>4°C.17.10 Linc.</cell>
                         <cell>Pr. Astr.</cell>
                     </row>
-                    <row>
-                        <cell>Veterum Ill. Philosoph. Potear. Rhet.<lb/> et Oratorum Imagines ꝓ Pet.<lb/>
+                    <row ana="prov:purchase">
+                        <cell><bibl corresp="#regC-bib-Bellori1685">Veterum Ill. Philosoph. Potear. Rhet.<lb/> et Oratorum Imagines ꝓ Pet.<lb/>
                             <hi rend="underlined:true">Bellorium</hi>
-                            <hi rend="underlined:true">Rom</hi>. 1685</cell>
+                            <hi rend="underlined:true">Rom</hi>. 1685</bibl></cell>
                         <cell><measure quantity="2" unit="pound">02</measure></cell>
                         <cell><measure quantity="5" unit="shilling">05</measure></cell>
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
                         <cell>Arch. A.143.</cell>
                         <cell>Prof. Heb.</cell>
                     </row>
-                    <row>
-                        <cell>Behaviour of a Ch. of England Man<lb/> under a Catholique King. <hi
+                    <row ana="prov:purchase">
+                        <cell><bibl corresp="#regC-bib-Behaviour1687">Behaviour of a Ch. of England Man<lb/> under a Catholique King. <hi
                                 rend="underlined:true">Lond</hi>.<lb/> Lond. 1687. 8° E. 30
-                            Jur.</cell>
+                            Jur.</bibl></cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="1" unit="shilling">01</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
@@ -4508,7 +4508,7 @@
                     <row>
                         <cell><date when="1721-08-11">Aug. 11. </date>Paid <persName>Mr.
                                 Combes</persName> at the printing House for<lb/> a Parcel of Royal
-                            Paper to transcribe the Cata-<lb/> logue, as ⅌ receipt</cell>
+                            Paper to transcribe the Cata-<lb/> logue, as ꝓ receipt</cell>
                         <cell><measure quantity="3" unit="pound">03</measure></cell>
                         <cell><measure quantity="10" unit="shilling">10</measure></cell>
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
@@ -4530,7 +4530,7 @@
                     </row>
                     <row>
                         <cell>Paid for the carriage of M<hi rend="superscript:true">r</hi>. Pope's
-                            Homer sent with a Letter <date when="1721-09-26">Sep<hi
+                            Homer sent with<lb/> a Letter <date when="1721-09-26">Sep<hi
                                     rend="superscript:true">r</hi>. 26</date></cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="1" unit="shilling">01</measure></cell>
@@ -4558,7 +4558,7 @@
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
                     </row>
                     <row>
-                        <cell>For the carriage of M<hi rend="superscript:true">r.</hi> Leslies
+                        <cell>For the carriage of M<hi rend="superscript:true">r</hi>. Leslies
                             Works, to <persName>M<hi rend="superscript:true">r</hi>.
                                 Taylor</persName></cell>
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
@@ -4597,16 +4597,16 @@
                         <cell/>
                         <cell/>
                     </row>
-                    <row>
-                        <cell>Pet. <hi rend="underlined:true">Burmanni</hi> Oratio. Lugd. B.
-                            1720.</cell>
+                    <row ana="prov:purchase">
+                        <cell><bibl corresp="#regC-bib-Burman1720">Pet. <hi rend="underlined:true">Burmanni</hi> Oratio. Lugd. B.
+                            1720</bibl>.</cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="1" unit="shilling">01</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
                         <cell>A.A. 49. Jur.</cell>
                         <cell/>
                     </row>
-                    <row>
+                    <row ana="prov:purchase">
                         <cell>Historia Bibliothecæ Fabricianæ<lb/>
                             <hi rend="underlined:true">Wolfenbut</hi>. 1718,1719 20-21.</cell>
                         <cell/>
@@ -4615,7 +4615,7 @@
                         <cell/>
                         <cell/>
                     </row>
-                    <row>
+                    <row ana="prov:purchase">
                         <cell>Vol. I. pd. for last year</cell>
                         <cell/>
                         <cell/>
@@ -4623,7 +4623,7 @@
                         <cell>A.A.21. Jur.</cell>
                         <cell/>
                     </row>
-                    <row>
+                    <row ana="prov:purchase">
                         <cell>Vol. II, III,IV</cell>
                         <cell><measure quantity="1" unit="pound">01</measure></cell>
                         <cell><measure quantity="2" unit="shilling">02</measure></cell>
@@ -4631,16 +4631,16 @@
                         <cell>A.A.63,64,65. Jur.</cell>
                         <cell/>
                     </row>
-                    <row>
-                        <cell>Maittaire Dissertatio Eplario de An-<lb/> tiquis Quintiliani
-                            Editionib. ad<lb/> Joh. Clericum</cell>
+                    <row ana="prov:purchase">
+                        <cell><bibl corresp="#regC-bib-Maittaire1719">Maittaire Dissertatio Eplario de An-<lb/> tiquis Quintiliani
+                            Editionib. ad<lb/> Joh. Clericum</bibl></cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="0" unit="shilling">00</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
                         <cell>A.A. 49. Jur.</cell>
                         <cell/>
                     </row>
-                    <row>
+                    <row ana="prov:purchase">
                         <cell>Gale's Reflections on Wall. <hi rend="underlined:true">Lond</hi>.
                             1711.</cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
@@ -4649,7 +4649,7 @@
                         <cell>8° Z.417.Th.</cell>
                         <cell>Pr. Th.</cell>
                     </row>
-                    <row>
+                    <row ana="prov:purchase">
                         <cell>Wall's Defence. <hi rend="underlined:true">Lond</hi>. 1720</cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="5" unit="shilling">05</measure></cell>
@@ -4657,21 +4657,21 @@
                         <cell>...418...</cell>
                         <cell>Pr. Th.</cell>
                     </row>
-                    <row>
+                    <row ana="prov:purchase">
                         <cell>Fabricii Biblioth. Gr. Vol. IX,X</cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="17" unit="shilling">17</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
                         <cell>B.B.29,30.Jur.</cell><cell/>
                     </row>
-                    <row>
+                    <row ana="prov:purchase">
                         <cell>Acta Eruditorum, 1712, 1720, cum<lb/> Suppl. (3 Voll)</cell>
                         <cell><measure quantity="1" unit="pound">01</measure></cell>
                         <cell><measure quantity="10" unit="shilling">10</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
-                        <cell>CC. Th.</cell><cell/>
+                        <cell>CC.   Th.</cell><cell/>
                     </row>
-                    <row>
+                    <row ana="prov:purchase">
                         <cell>Scheuchzeri Agrostographia. <hi rend="underlined:true"
                             >Figur.</hi><lb/> 1719. 4°</cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
@@ -4680,16 +4680,16 @@
                         <cell>B.B.52.Med.</cell>
                         <cell/>
                     </row>
-                    <row>
-                        <cell>Scheurigiis Spermatologia. <hi rend="underlined:true"
-                            >Franc</hi>.1720.</cell>
+                    <row ana="prov:purchase">
+                        <cell><bibl corresp="#regC-bib-Schurig1720">Scheurigiis Spermatologia. <hi rend="underlined:true"
+                            >Franc</hi>.1720</bibl>.</cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="8" unit="shilling">08</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
-                        <cell>A.A.55. Jur.</cell><cell/>
+                        <cell>A.A.55. Jur.</cell>
                         <cell/>
                     </row>
-                    <row>
+                    <row ana="prov:purchase">
                         <cell>D<hi rend="superscript:true">r</hi>. Nottingham's Answer to
                             Whiston</cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
@@ -4698,7 +4698,7 @@
                         <cell/>
                         <cell/>
                     </row>
-                    <row>
+                    <row ana="prov:purchase">
                         <cell>Biblioth. anc. &amp; moderne Tom. XIV.</cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="2" unit="shilling">02</measure></cell>
@@ -4706,7 +4706,7 @@
                         <cell/>
                         <cell/>
                     </row>
-                    <row>
+                    <row ana="prov:purchase">
                         <cell>Journal des Sçavans Tom. 67,68</cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="8" unit="shilling">08</measure></cell>
@@ -4714,60 +4714,60 @@
                         <cell>DD. Jur.</cell>
                         <cell/>
                     </row>
-                    <row>
-                        <cell>Voyage du S<hi rend="superscript:true">r</hi>. Paul Lucas 3 Voll. á
-                                <hi rend="underlined:true">Rouven</hi>.<lb/>1719.</cell>
+                    <row ana="prov:purchase">
+                        <cell><bibl corresp="#regC-bib-Lucas1719">Voyage du S<hi rend="superscript:true">r</hi>. Paul Lucas 3 Voll. á
+                                <hi rend="underlined:true">Rouven</hi>.<lb/>1719.</bibl></cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="12" unit="shilling">12</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
                         <cell>8° A.177.-8-9-Linc.</cell>
                         <cell>Pr. Astr.</cell>
                     </row>
-                    <row>
-                        <cell><hi rend="underlined:true">Lamy</hi> de Tabernaculo et Templo. <hi
-                                rend="underlined:true">Par</hi>. 1720. C.4.11.Jur.</cell>
+                    <row ana="prov:purchase">
+                        <cell><bibl corresp="#regC-bib-Lamy1720"><hi rend="underlined:true">Lamy</hi> de Tabernaculo et Templo. <hi
+                                rend="underlined:true">Par</hi>. 1720. C.4.11.Jur.</bibl></cell>
                         <cell><measure quantity="2" unit="pound">02</measure></cell>
                         <cell><measure quantity="0" unit="shilling">00</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
                         <cell>C.4.11. Jur.</cell>
                         <cell>Pr. Jur.</cell>
                     </row>
-                    <row>
-                        <cell><hi rend="underlined:true">Vertot</hi> Histoire des Bretons. Par.
-                            1720.</cell>
+                    <row ana="prov:purchase">
+                        <cell><bibl corresp="#regC-bib-Vertot1720c"><hi rend="underlined:true">Vertot</hi> Histoire des Bretons. Par.
+                            1720.</bibl></cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="8" unit="shilling">08</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
                         <cell>8° A.172,173.Linc.</cell>
                         <cell>Pr. Astr.</cell>
                     </row>
-                    <row>
-                        <cell>___ Histoire de la Rep. Romaine. ibid.</cell>
+                    <row ana="prov:purchase">
+                        <cell><bibl corresp="#regC-bib-Vertot1720b">___ Histoire de la Rep. Romaine. ibid.</bibl></cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="14" unit="shilling">14</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
                         <cell>8° A.174 5-6.Linc.</cell>
                         <cell>Pr. Astr.</cell>
                     </row>
-                    <row>
-                        <cell>Treatise of Painting by Leon. <hi rend="underlined:true">Vinci</hi>.
-                            1721.</cell>
+                    <row ana="prov:purchase">
+                        <cell><bibl corresp="#regC-bib-Leonardo1721">Treatise of Painting by Leon. <hi rend="underlined:true">Vinci</hi>.
+                            1721.</bibl></cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="5" unit="shilling">05</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
                         <cell>8° C.74.Jur.</cell>
                         <cell>Pr. Jur.</cell>
                     </row>
-                    <row>
-                        <cell>Matth. Devarius de particulis Linguæ<lb/> Græca. <hi
-                                rend="underlined:true">Amst</hi>. 1720.</cell>
+                    <row ana="prov:purchase">
+                        <cell><bibl corresp="#regC-bib-Devarius1700">Matth. Devarius de particulis Linguæ<lb/> Græca. <hi
+                                rend="underlined:true">Amst</hi>. 1720</bibl>.</cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="3" unit="shilling">03</measure></cell>
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
                         <cell>8° Z.41.Jur.</cell>
                         <cell>Pr. Jur.</cell>
                     </row>
-                    <row>
+                    <row ana="prov:purchase">
                         <cell/>
                         <cell><measure quantity="9" unit="pound">09</measure></cell>
                         <cell><measure quantity="18" unit="shilling">18</measure></cell>
