@@ -4224,8 +4224,8 @@
             <pb xml:id="fol-20r" n="31"/>
             <table>
                 <row>
-                    <cell cols="6" rend="head">Books bought by the Library Keeper at several times and
-                        places, between <date when="1720-11-08">Nov<hi rend="superscript:true"
+                    <cell cols="6" rend="head">Books bought by the Library Keeper at several times
+                        and places, between <date when="1720-11-08">Nov<hi rend="superscript:true"
                                 >r</hi>. 8 1720</date> &amp; <date when="1721-11-01">Nov. 1.
                             1721</date></cell>
                 </row>
@@ -4353,13 +4353,430 @@
                     <cell><measure quantity="2" unit="shilling">02</measure></cell>
                     <cell><measure quantity="6" unit="pence">06</measure></cell>
                     <cell/>
-                                       <cell/>
+                    <cell/>
                 </row>
             </table>
             <pb xml:id="fol-20v" n="32" style="empty"/>
             <pb xml:id="fol-21r" n="33"/>
-
-
+            <ab ana="prov:when">1721.<date notAfter="1721-11-01" notBefore="1720-11-08"/>
+                <table>
+                    <row>
+                        <cell>Books bought by the Library Keeper</cell>
+                        <cell cols="3">Price</cell>
+                        <cell>Place</cell>
+                        <cell>Curator</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>L</cell>
+                        <cell>s</cell>
+                        <cell>d</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Bibliotheque, Historique de la<lb/> France par Jac le Long Par.
+                            1719</cell>
+                        <cell><measure quantity="1" unit="pound">01</measure></cell>
+                        <cell><measure quantity="10" unit="shilling">10</measure></cell>
+                        <cell><measure quantity="0" unit="pence">00</measure></cell>
+                        <cell>H.1.14 Jur.</cell>
+                        <cell>Prof. Jur.</cell>
+                    </row>
+                    <row>
+                        <cell>Louis Feuillée Journal des Obser-<lb/> vations Physiques,
+                            Mathema-<lb/> tiques &amp;c. a Par. 1714. 2Voll.</cell>
+                        <cell><measure quantity="1" unit="pound">01</measure></cell>
+                        <cell><measure quantity="5" unit="shilling">05</measure></cell>
+                        <cell><measure quantity="0" unit="pence">00</measure></cell>
+                        <cell>P.1.8,9. Med.</cell>
+                        <cell>Prof. Med.</cell>
+                    </row>
+                    <row>
+                        <cell>Traite d'Architecture ꝓ Sebast.<lb/> le Clerc á Par. 1714 2
+                            Voll.</cell>
+                        <cell><measure quantity="1" unit="pound">01</measure></cell>
+                        <cell><measure quantity="4" unit="shilling">04</measure></cell>
+                        <cell><measure quantity="0" unit="pence">00</measure></cell>
+                        <cell>C.17.12,13 Linc.</cell>
+                        <cell>Prof. Astr.</cell>
+                    </row>
+                    <row>
+                        <cell>Traité d'Architecture ꝓ M<hi rend="superscript:true">r</hi>. de
+                            Cor-<lb/> demoy. <hi rend="underlined:true">Par</hi>. 1714.</cell>
+                        <cell><measure quantity="0" unit="pound">00</measure></cell>
+                        <cell><measure quantity="15" unit="shilling">15</measure></cell>
+                        <cell><measure quantity="0" unit="pence">00</measure></cell>
+                        <cell>C.17.14.Linc.</cell>
+                        <cell>Prof. Astr.</cell>
+                    </row>
+                    <row>
+                        <cell>Renaudotii Hist. Patriarch. Alexand.<lb/> Par. 1713</cell>
+                        <cell><measure quantity="0" unit="pound">00</measure></cell>
+                        <cell><measure quantity="15" unit="shilling">15</measure></cell>
+                        <cell><measure quantity="0" unit="pence">00</measure></cell>
+                        <cell>C.17.15.Linc.</cell>
+                        <cell>Prof. Astr.</cell>
+                    </row>
+                    <row>
+                        <cell>Section Conique de l'Hospital.<lb/> á Par. 1720</cell>
+                        <cell><measure quantity="0" unit="pound">00</measure></cell>
+                        <cell><measure quantity="18" unit="shilling">18</measure></cell>
+                        <cell><measure quantity="0" unit="pence">00</measure></cell>
+                        <cell>4°CC.24.Jur.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Justini Oꝑa in usum Delph. <hi rend="underlined:true">Par</hi>.
+                            1677</cell>
+                        <cell><measure quantity="0" unit="pound">00</measure></cell>
+                        <cell><measure quantity="12" unit="shilling">12</measure></cell>
+                        <cell><measure quantity="0" unit="pence">00</measure></cell>
+                        <cell>4°C.17.11.Linc.</cell>
+                        <cell>Prof. Astr.</cell>
+                    </row>
+                    <row>
+                        <cell>Lucretius in usum Delph. <hi rend="underlined:true">Par</hi>.
+                            1680</cell>
+                        <cell><measure quantity="0" unit="pound">00</measure></cell>
+                        <cell><measure quantity="15" unit="shilling">15</measure></cell>
+                        <cell><measure quantity="00" unit="pence">00</measure></cell>
+                        <cell>P. 1.10.Med.</cell>
+                        <cell>Pr. Med.</cell>
+                    </row>
+                    <row>
+                        <cell>Juvenalis &amp; Persius in usum<lb/> Delph. Par. 1684</cell>
+                        <cell><measure quantity="0" unit="pound">00</measure></cell>
+                        <cell><measure quantity="16" unit="shilling">16</measure></cell>
+                        <cell><measure quantity="0" unit="pence">00</measure></cell>
+                        <cell>4°C.17.10 Linc.</cell>
+                        <cell>Pr. Astr.</cell>
+                    </row>
+                    <row>
+                        <cell>Veterum Ill. Philosoph. Potear. Rhet.<lb/> et Oratorum Imagines ꝓ Pet.<lb/>
+                            <hi rend="underlined:true">Bellorium</hi>
+                            <hi rend="underlined:true">Rom</hi>. 1685</cell>
+                        <cell><measure quantity="2" unit="pound">02</measure></cell>
+                        <cell><measure quantity="5" unit="shilling">05</measure></cell>
+                        <cell><measure quantity="0" unit="pence">00</measure></cell>
+                        <cell>Arch. A.143.</cell>
+                        <cell>Prof. Heb.</cell>
+                    </row>
+                    <row>
+                        <cell>Behaviour of a Ch. of England Man<lb/> under a Catholique King. <hi
+                                rend="underlined:true">Lond</hi>.<lb/> Lond. 1687. 8° E. 30
+                            Jur.</cell>
+                        <cell><measure quantity="0" unit="pound">00</measure></cell>
+                        <cell><measure quantity="1" unit="shilling">01</measure></cell>
+                        <cell><measure quantity="6" unit="pence">6</measure></cell>
+                        <cell>8°E.30.Jur.</cell>
+                        <cell>Prof. Jur.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell><measure quantity="10" unit="pound">10</measure></cell>
+                        <cell><measure quantity="16" unit="shilling">16</measure></cell>
+                        <cell><measure quantity="6" unit="pence">06</measure></cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </ab>
+            <pb xml:id="fol-21v" n="34" style="empty"/>
+            <pb xml:id="fol-22r" n="35"/>
+            <ab ana="prov:when="><date notAfter="1721-11-01" notBefore="1720-11-08">1721</date>
+                <table>
+                    <row>
+                        <cell>Extraordinary Expences &amp;c.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>£</cell>
+                        <cell>s</cell>
+                        <cell>d</cell>
+                    </row>
+                    <row>
+                        <cell><date when="1721-02-04">Feb. 4.</date> Paid the Sweeper for twenty one
+                            days work<lb/> in cleaning the Books above Stairs</cell>
+                        <cell><measure quantity="1" unit="pound">01</measure></cell>
+                        <cell><measure quantity="1" unit="shilling">01</measure></cell>
+                        <cell><measure quantity="0" unit="pence">00</measure></cell>
+                    </row>
+                    <row>
+                        <cell><date when="1721-08-11">Aug. 11. </date>Paid <persName>Mr.
+                                Combes</persName> at the printing House for<lb/> a Parcel of Royal
+                            Paper to transcribe the Cata-<lb/> logue, as ⅌ receipt</cell>
+                        <cell><measure quantity="3" unit="pound">03</measure></cell>
+                        <cell><measure quantity="10" unit="shilling">10</measure></cell>
+                        <cell><measure quantity="0" unit="pence">00</measure></cell>
+                    </row>
+                    <row>
+                        <cell><date when="1721-08-14">Aug. 14.</date> Paid S<hi
+                                rend="superscript:true">r</hi>. Bilstone for making a new Book<lb/>
+                            for the Professor of Divinity</cell>
+                        <cell><measure quantity="3" unit="pound">03</measure></cell>
+                        <cell><measure quantity="0" unit="shilling">00</measure></cell>
+                        <cell><measure quantity="0" unit="pence">00</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Paid for the carriage of Books bought at London<lb/> in <date
+                                when="1721-09">September</date></cell>
+                        <cell><measure quantity="0" unit="pound">00</measure></cell>
+                        <cell><measure quantity="4" unit="shilling">04</measure></cell>
+                        <cell><measure quantity="6" unit="pence">06</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Paid for the carriage of M<hi rend="superscript:true">r</hi>. Pope's
+                            Homer sent with a Letter <date when="1721-09-26">Sep<hi
+                                    rend="superscript:true">r</hi>. 26</date></cell>
+                        <cell><measure quantity="0" unit="pound">00</measure></cell>
+                        <cell><measure quantity="1" unit="shilling">01</measure></cell>
+                        <cell><measure quantity="6" unit="pence">06</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Paid for the Carriage of two Parcels of Books sent<lb/> by the <name
+                                type="org">Comp. of Stationers</name>, and Letters</cell>
+                        <cell><measure quantity="0" unit="pound">00</measure></cell>
+                        <cell><measure quantity="9" unit="shilling">09</measure></cell>
+                        <cell><measure quantity="0" unit="pence">00</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Paid for the carriage of Books sent at different time<lb/> by other
+                            benefactors, &amp; Letters</cell>
+                        <cell><measure quantity="0" unit="pound">00</measure></cell>
+                        <cell><measure quantity="2" unit="shilling">02</measure></cell>
+                        <cell><measure quantity="6" unit="pence">6</measure></cell>
+                    </row>
+                    <row>
+                        <cell>For inserting the Names of Benefactors into the<lb/> Vellam
+                            Register</cell>
+                        <cell><measure quantity="0" unit="pound">00</measure></cell>
+                        <cell><measure quantity="0" unit="shilling">00</measure></cell>
+                        <cell><measure quantity="0" unit="pence">00</measure></cell>
+                    </row>
+                    <row>
+                        <cell>For the carriage of M<hi rend="superscript:true">r.</hi> Leslies
+                            Works, to <persName>M<hi rend="superscript:true">r</hi>.
+                                Taylor</persName></cell>
+                        <cell><measure quantity="0" unit="pound">0</measure></cell>
+                        <cell><measure quantity="0" unit="shilling">00</measure></cell>
+                        <cell><measure quantity="6" unit="pence">6</measure></cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell><measure quantity="8" unit="pound">08</measure></cell>
+                        <cell><measure quantity="9" unit="shilling">09</measure></cell>
+                        <cell><measure quantity="0" unit="pence">00</measure></cell>
+                    </row>
+                </table>
+            </ab>
+            <pb xml:id="fol-22v" n="36" style="empty"/>
+            <pb xml:id="fol-23r" n="37"/>
+            <ab ana="prov:when">
+                <date notAfter="1721-11-01" notBefore="1720-11-08">1721</date>
+                <table>
+                    <row>
+                        <cell cols="6">Bought of <persName ana="prov:from" corresp="#regC-HCLE">M<hi
+                                    rend="superscript:true">r</hi>. Clements</persName> Bookseller
+                            in Oxford.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell cols="3">Price</cell>
+                        <cell>Place</cell>
+                        <cell>Curator</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>L</cell>
+                        <cell>s</cell>
+                        <cell>d</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Pet. <hi rend="underlined:true">Burmanni</hi> Oratio. Lugd. B.
+                            1720.</cell>
+                        <cell><measure quantity="0" unit="pound">00</measure></cell>
+                        <cell><measure quantity="1" unit="shilling">01</measure></cell>
+                        <cell><measure quantity="6" unit="pence">6</measure></cell>
+                        <cell>A.A. 49. Jur.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Historia Bibliothecæ Fabricianæ<lb/>
+                            <hi rend="underlined:true">Wolfenbut</hi>. 1718,1719 20-21.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Vol. I. pd. for last year</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>A.A.21. Jur.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Vol. II, III,IV</cell>
+                        <cell><measure quantity="1" unit="pound">01</measure></cell>
+                        <cell><measure quantity="2" unit="shilling">02</measure></cell>
+                        <cell><measure quantity="6" unit="pence">6</measure></cell>
+                        <cell>A.A.63,64,65. Jur.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Maittaire Dissertatio Eplario de An-<lb/> tiquis Quintiliani
+                            Editionib. ad<lb/> Joh. Clericum</cell>
+                        <cell><measure quantity="0" unit="pound">00</measure></cell>
+                        <cell><measure quantity="0" unit="shilling">00</measure></cell>
+                        <cell><measure quantity="6" unit="pence">6</measure></cell>
+                        <cell>A.A. 49. Jur.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Gale's Reflections on Wall. <hi rend="underlined:true">Lond</hi>.
+                            1711.</cell>
+                        <cell><measure quantity="0" unit="pound">00</measure></cell>
+                        <cell><measure quantity="5" unit="shilling">05</measure></cell>
+                        <cell><measure quantity="6" unit="pence">6</measure></cell>
+                        <cell>8° Z.417.Th.</cell>
+                        <cell>Pr. Th.</cell>
+                    </row>
+                    <row>
+                        <cell>Wall's Defence. <hi rend="underlined:true">Lond</hi>. 1720</cell>
+                        <cell><measure quantity="0" unit="pound">00</measure></cell>
+                        <cell><measure quantity="5" unit="shilling">05</measure></cell>
+                        <cell><measure quantity="6" unit="pence">6</measure></cell>
+                        <cell>...418...</cell>
+                        <cell>Pr. Th.</cell>
+                    </row>
+                    <row>
+                        <cell>Fabricii Biblioth. Gr. Vol. IX,X</cell>
+                        <cell><measure quantity="0" unit="pound">00</measure></cell>
+                        <cell><measure quantity="17" unit="shilling">17</measure></cell>
+                        <cell><measure quantity="0" unit="pence">0</measure></cell>
+                        <cell>B.B.29,30.Jur.</cell><cell/>
+                    </row>
+                    <row>
+                        <cell>Acta Eruditorum, 1712, 1720, cum<lb/> Suppl. (3 Voll)</cell>
+                        <cell><measure quantity="1" unit="pound">01</measure></cell>
+                        <cell><measure quantity="10" unit="shilling">10</measure></cell>
+                        <cell><measure quantity="6" unit="pence">6</measure></cell>
+                        <cell>CC. Th.</cell><cell/>
+                    </row>
+                    <row>
+                        <cell>Scheuchzeri Agrostographia. <hi rend="underlined:true"
+                            >Figur.</hi><lb/> 1719. 4°</cell>
+                        <cell><measure quantity="0" unit="pound">00</measure></cell>
+                        <cell><measure quantity="11" unit="shilling">11</measure></cell>
+                        <cell><measure quantity="0" unit="pence">0</measure></cell>
+                        <cell>B.B.52.Med.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Scheurigiis Spermatologia. <hi rend="underlined:true"
+                            >Franc</hi>.1720.</cell>
+                        <cell><measure quantity="0" unit="pound">00</measure></cell>
+                        <cell><measure quantity="8" unit="shilling">08</measure></cell>
+                        <cell><measure quantity="6" unit="pence">6</measure></cell>
+                        <cell>A.A.55. Jur.</cell><cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>D<hi rend="superscript:true">r</hi>. Nottingham's Answer to
+                            Whiston</cell>
+                        <cell><measure quantity="0" unit="pound">00</measure></cell>
+                        <cell><measure quantity="2" unit="shilling">02</measure></cell>
+                        <cell><measure quantity="6" unit="pence">6</measure></cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Biblioth. anc. &amp; moderne Tom. XIV.</cell>
+                        <cell><measure quantity="0" unit="pound">00</measure></cell>
+                        <cell><measure quantity="2" unit="shilling">02</measure></cell>
+                        <cell><measure quantity="6" unit="pence">6</measure></cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Journal des Sçavans Tom. 67,68</cell>
+                        <cell><measure quantity="0" unit="pound">00</measure></cell>
+                        <cell><measure quantity="8" unit="shilling">08</measure></cell>
+                        <cell><measure quantity="0" unit="pence">0</measure></cell>
+                        <cell>DD. Jur.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Voyage du S<hi rend="superscript:true">r</hi>. Paul Lucas 3 Voll. á
+                                <hi rend="underlined:true">Rouven</hi>.<lb/>1719.</cell>
+                        <cell><measure quantity="0" unit="pound">00</measure></cell>
+                        <cell><measure quantity="12" unit="shilling">12</measure></cell>
+                        <cell><measure quantity="0" unit="pence">0</measure></cell>
+                        <cell>8° A.177.-8-9-Linc.</cell>
+                        <cell>Pr. Astr.</cell>
+                    </row>
+                    <row>
+                        <cell><hi rend="underlined:true">Lamy</hi> de Tabernaculo et Templo. <hi
+                                rend="underlined:true">Par</hi>. 1720. C.4.11.Jur.</cell>
+                        <cell><measure quantity="2" unit="pound">02</measure></cell>
+                        <cell><measure quantity="0" unit="shilling">00</measure></cell>
+                        <cell><measure quantity="0" unit="pence">0</measure></cell>
+                        <cell>C.4.11. Jur.</cell>
+                        <cell>Pr. Jur.</cell>
+                    </row>
+                    <row>
+                        <cell><hi rend="underlined:true">Vertot</hi> Histoire des Bretons. Par.
+                            1720.</cell>
+                        <cell><measure quantity="0" unit="pound">00</measure></cell>
+                        <cell><measure quantity="8" unit="shilling">08</measure></cell>
+                        <cell><measure quantity="0" unit="pence">0</measure></cell>
+                        <cell>8° A.172,173.Linc.</cell>
+                        <cell>Pr. Astr.</cell>
+                    </row>
+                    <row>
+                        <cell>___ Histoire de la Rep. Romaine. ibid.</cell>
+                        <cell><measure quantity="0" unit="pound">00</measure></cell>
+                        <cell><measure quantity="14" unit="shilling">14</measure></cell>
+                        <cell><measure quantity="0" unit="pence">0</measure></cell>
+                        <cell>8° A.174 5-6.Linc.</cell>
+                        <cell>Pr. Astr.</cell>
+                    </row>
+                    <row>
+                        <cell>Treatise of Painting by Leon. <hi rend="underlined:true">Vinci</hi>.
+                            1721.</cell>
+                        <cell><measure quantity="0" unit="pound">00</measure></cell>
+                        <cell><measure quantity="5" unit="shilling">05</measure></cell>
+                        <cell><measure quantity="6" unit="pence">6</measure></cell>
+                        <cell>8° C.74.Jur.</cell>
+                        <cell>Pr. Jur.</cell>
+                    </row>
+                    <row>
+                        <cell>Matth. Devarius de particulis Linguæ<lb/> Græca. <hi
+                                rend="underlined:true">Amst</hi>. 1720.</cell>
+                        <cell><measure quantity="0" unit="pound">00</measure></cell>
+                        <cell><measure quantity="3" unit="shilling">03</measure></cell>
+                        <cell><measure quantity="0" unit="pence">00</measure></cell>
+                        <cell>8° Z.41.Jur.</cell>
+                        <cell>Pr. Jur.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell><measure quantity="9" unit="pound">09</measure></cell>
+                        <cell><measure quantity="18" unit="shilling">18</measure></cell>
+                        <cell><measure quantity="0" unit="pence">00</measure></cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </ab>
         </body>
     </text>
 </TEI>
