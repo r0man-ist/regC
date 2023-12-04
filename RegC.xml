@@ -2942,7 +2942,7 @@
                     </row>
                 </table></ab>
             <pb xml:id="fol-9r" n="5"/>
-            <ab ana="prov:when"><date notBefore="1720"/><table>
+            <ab ana="prov:when"><date notBefore="1719-11-09" notAfter="1720-11-08"/><table>
                     <row>
                         <cell rend="head">Money laid out for the use of the Bodleian Libray<lb/>
                             from the <date when="1719-11-09">ninth of Nov<hi rend="superscript:true"
