@@ -314,9 +314,9 @@
                         </div>
                     </div>
                 </div>
-                <xsl:variable name="target" select="t:cell/t:bibl[1]/@corresp"/>
+                <xsl:for-each select="t:cell/t:bibl"><xsl:variable name="target" select="./@corresp"/>
                 <button type="button" class="btn btn-light" onclick="openModal('{$target}')"
-                    >Details</button>
+                    >Details</button></xsl:for-each>
             </td>
         </xsl:variable>
 
@@ -396,7 +396,7 @@
 
     <!-- notes -->
     <xsl:template match="t:note">
-        <span title="{.}" style="color:red">*</span>
+        <span title="{normalize-space(.)}" style="color:red">*</span>
     </xsl:template>
     <!-- choice for abbreviations -->
     <xsl:template match="t:choice">
