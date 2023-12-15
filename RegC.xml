@@ -30,7 +30,9 @@
                 and stops at the appropriate positions) is provided in a 'choice'-element.</p>
             <p>The tables in the source are reproduced as tables, but brackets indicating alignments
                 of rows or dots filling the line are not reproduced (where appropriate, cells
-                spanning multiple colums or rows are marked as such.</p>
+                spanning multiple colums or rows are marked as such. Where a value from an earlier
+                cell is repeated in a following cell by a dotted line, this is copied as such, but
+                otherwise dotted lines filling cells are not transcribed.</p>
             <p>Long "ſ" is transcribed as "s".</p>
         </encodingDesc>
     </teiHeader>
@@ -3292,9 +3294,9 @@
                     </row>
                     <row ana="prov:purchase">
                         <cell>4.</cell>
-                        <cell><bibl corresp="#regC-bib-Maccovius1654">Jo. <hi
-                                    rend="underlined:true">Maccovius</hi> redivivus, opera<lb/> Nic.
-                                Arnoldi. Franck. 1654. 4°</bibl>.</cell>
+                        <cell><bibl corresp="#regC-bib-Maccovius1654">Jo. <hi rend="underlined:true"
+                                    >Maccovius</hi> redivivus, opera<lb/> Nic. Arnoldi. Franck.
+                                1654. 4°</bibl>.</cell>
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="3" unit="shilling">3</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
@@ -5655,13 +5657,13 @@
                         <cell>Present number</cell>
                     </row>
                     <row ana="prov:move-changeId">
-                        <cell><bibl>Alstedius</bibl></cell>
+                        <cell><bibl corresp="#regC-bib-Alsted1623">Alstedius</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>A.17.15. Th.</orig>
                                     <reg>A 17.15 Th.</reg>
                                 </choice></ab></cell>
                         <cell><ab type="shelfmark"><choice>
-                                    <orig>FF. 55. Th. 4°.</orig>
+                                    <orig>FF. 55. Th. 4°.<note>This copy is at FF 56 Th. today and "F.F. 55. Th." was corrected to "F.F. 56 Th." on the title page; more likely correcting a mistake rather than actualy moving the book on the shelf.</note></orig>
                                     <reg>FF 55 Th.</reg>
                                 </choice></ab></cell>
                     </row>
@@ -5693,7 +5695,7 @@
                                 </choice></ab></cell>
                     </row>
                     <row ana="prov:move-changeId">
-                        <cell><bibl>Benavidius (Marc M.)</bibl></cell>
+                        <cell><bibl corresp="#regC-bib-Benavides1588">Benavidius (Marc M.)</bibl><bibl corresp="#regC-bib-Riminaldus1570"></bibl><bibl corresp="#regC-bib-Zanchus1580"></bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>M.3. 6. Jur.</orig>
                                     <reg>M 3.6 Jur.</reg>
@@ -5728,18 +5730,18 @@
                                 </choice></ab></cell>
                     </row>
                     <row ana="prov:move-changeId">
-                        <cell><bibl>Calovius</bibl></cell>
+                        <cell><bibl corresp="#regC-bib-Calov1646">Calovius</bibl><bibl corresp="#regC-bib-Calov1600"></bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>B.6.12,13. Th. Seld.</orig>
                                     <reg>B 6.12,13 Th. Seld.</reg>
                                 </choice></ab></cell>
                         <cell><ab type="shelfmark"><choice>
-                                    <orig>F.F. 56,57. Th.</orig>
+                            <orig>F.F. 56,57. Th.<note>The copies are at FF 57 Th. and FF 58 Th. today and the stated shelf marks were corrected on the title pages; more likely correcting a mistake rather than actualy moving the books on the shelf.</note></orig>
                                     <reg>FF 56,57 Th.</reg>
                                 </choice></ab></cell>
                     </row>
                     <row ana="prov:move-changeId">
-                        <cell><bibl>Calvinus</bibl></cell>
+                        <cell><bibl corresp="#regC-bib-Calvinus1611">Calvinus</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>L.4.12. Jur.</orig>
                                     <reg>L 4.12 Jur.</reg>
@@ -5761,7 +5763,7 @@
                                 </choice></ab></cell>
                     </row>
                     <row ana="prov:move-changeId">
-                        <cell><bibl>Calvinus</bibl></cell>
+                        <cell><bibl corresp="#regC-bib-Calvinus1612">Calvinus</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>C.4.10. Jur.</orig>
                                     <reg>C 4.10 Jur.</reg>
@@ -5772,7 +5774,7 @@
                                 </choice></ab></cell>
                     </row>
                     <row ana="prov:move-changeId">
-                        <cell><bibl>Carocius</bibl></cell>
+                        <cell><bibl corresp="#regC-bib-Carocius1621">Carocius</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>C.4.11. Jur.</orig>
                                     <reg>C 4.11 Jur.</reg>
@@ -5816,7 +5818,11 @@
                                 </choice></ab></cell>
                     </row>
                     <row ana="prov:move-changeId">
-                        <cell><bibl>Faber (Ant.)</bibl></cell>
+                        <cell><bibl corresp="#regC-bib-Favre1598">Faber (Ant.)</bibl><bibl
+                                corresp="#regC-bib-Favre1596"/><bibl corresp="#regC-bib-Favre1596b"
+                                /><bibl corresp="#regC-bib-Favre1596c"/><bibl
+                                corresp="#regC-bib-Favre1596d"/><bibl corresp="#regC-bib-Favre1596e"
+                                /><bibl corresp="#regC-bib-Favre1596f"/><bibl corresp="#regC-bib-Favre1607"></bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>F.2. 6,7,&amp;c Jur.</orig>
                                     <reg>F 2.6,7,&amp;c Jur.</reg>
@@ -5827,7 +5833,7 @@
                                 </choice></ab></cell>
                     </row>
                     <row ana="prov:move-changeId">
-                        <cell><bibl>Francia</bibl></cell>
+                        <cell><bibl corresp="#regC-bib-France1597">Francia</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>E.1.1,2. Jur.</orig>
                                     <reg>E 1.1,2 Jur.</reg>
@@ -5838,7 +5844,7 @@
                                 </choice></ab></cell>
                     </row>
                     <row ana="prov:move-changeId">
-                        <cell>2 <bibl>Jus</bibl></cell>
+                        <cell>2 <bibl corresp="#regC-bib-Compendium1499">Jus</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>C.10. 9. Jur.</orig>
                                     <reg>C 10.9 Jur.</reg>
@@ -5860,7 +5866,7 @@
                                 </choice></ab></cell>
                     </row>
                     <row ana="prov:move-changeId">
-                        <cell><bibl>Hunnius (Ulric.)</bibl></cell>
+                        <cell><bibl corresp="#regC-bib-Hunnius1620">Hunnius (Ulric.)</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>H.1.14. Jur.</orig>
                                     <reg>H 1.14 Jur.</reg>
@@ -5871,7 +5877,8 @@
                                 </choice></ab></cell>
                     </row>
                     <row ana="prov:move-changeId">
-                        <cell><bibl>Maynard</bibl></cell>
+                        <cell><bibl corresp="#regC-bib-Maynard1606">Maynard</bibl><bibl
+                                corresp="#regC-bib-Brisson1606"/></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>M. 3.5. Jur.</orig>
                                     <reg>M 3.5 Jur.</reg>
@@ -5887,14 +5894,14 @@
                         <cell/>
                     </row>
                     <row ana="prov:move-changeId">
-                        <cell><bibl>Megalius</bibl>.</cell>
+                        <cell><bibl corresp="#regC-bib-Megalius1619">Megalius</bibl>.</cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>M.3.7,8,9. Jur.</orig>
                                     <reg>M 3.7,8,9 Jur.</reg>
                                 </choice></ab></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>CC. 20 &amp;c. Jur.</orig>
-                                    <reg>CC 20 &amp;c. Jur.</reg>
+                                    <reg>CC 20-22 Jur.</reg>
                                 </choice></ab></cell>
                     </row>
                     <row ana="prov:move-changeId">
@@ -5974,7 +5981,12 @@
                                 </choice></ab></cell>
                     </row>
                     <row ana="prov:move-changeId">
-                        <cell><bibl>Pharmacopæia Amst.</bibl></cell>
+                        <cell><bibl corresp="#regC-bib-Pharmacopoea1636">Pharmacopæia Amst.</bibl>
+                            <bibl corresp="#regC-bib-Potier1637"/>
+                            <bibl corresp="#regC-bib-Lombardus1566"/>
+                            <bibl corresp="#regC-bib-Plempius1638"/>
+                            <bibl corresp="#regC-bib-Santorelli1633"/>
+                        </cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>W. 1. 7.8. Med.</orig>
                                     <reg>W 1.7.8 Med.</reg>
@@ -6070,94 +6082,606 @@
                     </row>
                 </table>
             </ab>
-            <pb facs="#facs_22" n="22" xml:id="img_0022"/>
-            <ab facs="#facs_22_r"> 1721 Books given to the Library. Benefactor Place Curator
-                Discourse on Ch. Governm<hi rend="superscript:true">t</hi>. <hi
-                    rend="underlined:true">Lond.</hi> 1711. by D<hi rend="superscript:true">r</hi>.
-                Potter. 8° U. 155. Th. Pr. Th. Antiquities of Greece 2 Voll. <hi
-                    rend="underlined:true">Lond.</hi> 1706. Idem 8° C. 69,70. Jur. Pr. Jur. Sermon
-                before yͤ H. of Lords. <hi rend="underlined:true">Lond.</hi> 1715. Idem. _Two
-                Charges, with the Defence. Idem 8° M. 19. <hi rend="underlined:true">Linc</hi>. Pr.
-                Astr. Antiquitates Britanno Belgica 4 Voll &amp; Guil. Musgrave Ifcce Dun Dr.
-                Musgrave 8 C. 65. 604 Jur 1711, 1716 1719 The Books given by Dr. Clarke and others,
-                upwards the value of 40 Sh. are inferted in the Vellam Register of Benefactors, (v.
-                pag. 128, 129. istus Regigh excepting those sent from the Company of Stationers,
-                which here follow Dr. Keil's Astronomy Lond. 1721 Stationers. 8. C. 87. Jur Fr. Jer.
-                Supplement to the Introduction of 8. C.80. Jur Lilly's Grammar Exon. 1719. Gibson's
-                Farrier's Dispensatory 1721 8. C. 77. Jur. Anatomy of a Horse 1720 8. C. 78. Jur
-                Royers Arithmetick Lond 1721 8.C. 79. Jur Five Treatises on the Plague at Mar-
-                feilles 8 P.52. Meo A Letter to a Young Gentleman in 80. 0. 36. Linc. Or. 1sp. holy
-                Orders Lond 1721 Hoadley's Sermon on 30. Jan 1721 ibid. Mr. Stanhopes Epistle to the
-                Prince of Wales, with other Pamphlets 1654 Panegyrical Epistle to Mr. SnowB. 1. 19.
-                Art. Proe. sen </ab>
-            <pb facs="#facs_24" n="24" xml:id="img_0024"/>
-            <ab facs="#facs_24_tr_1"> 1721 Books given. Benefactor. Place. Curator. Two Discourses
-                about S. Sea Stock. <hi rend="underlined:true">Lond</hi>. 1720 Stationers B.
-                1.19.Art. Proc. Sen. <hi rend="underlined:true">Wood</hi>'s Institute of the Laws of
-                England 2 Voll. <hi rend="underlined:true">Lond.</hi> 1720 <hi>8° C. 72</hi>
-                <hi>D<hi rend="superscript:true"/></hi>r Two Pamphlets relating to D<hi
-                    rend="superscript:true">r</hi>. Ben- net &amp; D<hi rend="superscript:true"
-                    >r</hi>. Clarke <hi rend="underlined:true">Lond</hi>. 1719. 8° C. 82. Jur.
-                Collection of Poems. 1720. 8° C. 84. Jur. Inquiry into the manner of making Peers.
-                Lond. 1719. Discourse concerning Treasons, ibid. 8° C. 83. Jur M<hi
-                    rend="superscript:true">r</hi>. Hendleys Tryal. ibid. Life of D<hi
-                    rend="superscript:true">r</hi>. Owen. ibid. Clarkson’s Sermon on his Funeral
-                Rudiments of Honour &amp;c. <hi rend="underlined:true">Lond.</hi> 1720. 8° Z.42.
-                Jur. M<hi rend="superscript:true">rs</hi>. Manley's Novells. <hi
-                    rend="underlined:true">Lond</hi>. 1720. 8° C. 86. Jur. Crusoes Reflections. <hi
-                    rend="underlined:true">Lond.</hi> 1720 8° C. 85. Jur. Four volumes of Novells.
-                1720 8° A. 171 &amp;c. Linc. Ectypa Picturarum in Tholo Ecclesia D. Pauli <hi
-                    rend="underlined:true">Lond</hi>. 1720 Arch. B. 119. Prof. Heb. Collection of
-                Pamphlets 8° E. 31. Jur. The rest are <hi>be</hi> inserted in pag. 53. <hi
-                    rend="underlined:true">the next year's account</hi>
+            <pb xml:id="fol-28v" n="46" style="empty"/>
+            <pb xml:id="fol-29r" n="47"/>
+            <ab ana="prov:when">
+                <date notBefore="1720-11-08" notAfter="1721-11-01">1721.</date>
+                <table>
+                    <row>
+                        <cell>Books given to the Library.</cell>
+                        <cell>Benefactor.</cell>
+                        <cell>Place.</cell>
+                        <cell>Curator.</cell>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>Discourse on Ch. Governm<hi rend="superscript:true">t</hi>. <hi
+                                    rend="underlined:true">Lond.</hi> 1711</bibl>. by</cell>
+                        <cell><persName ana="prov:donor">D<hi rend="superscript:true">r</hi>.
+                                Potter.</persName></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° U. 155. <hi rend="underlined:true">Th</hi>.</orig>
+                                    <reg>8° U 155 Th.</reg>
+                                </choice></ab></cell>
+                        <cell>Pr. Th.</cell>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell>_<bibl>Antiquities of Greece. 2 Voll. <hi rend="underlined:true"
+                                    >Lond.</hi> 1706</bibl>.</cell>
+                        <cell><persName ana="prov:donor">Idem.</persName></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° C. 69,70. Jur.</orig>
+                                    <reg>8° C 69,70 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell>Pr. Jur.</cell>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell>_<bibl>Sermon before yͤ H. of Lords. <hi rend="underlined:true"
+                                    >Lond.</hi> 1715</bibl>.</cell>
+                        <cell><persName ana="prov:donor">Idem.</persName></cell>
+                        <cell cols="2"/>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>_Two Charges, with the Defence</bibl></cell>
+                        <cell><persName ana="prov:donor">Idem</persName></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° M. 19. <hi rend="underlined:true">Linc</hi>.</orig>
+                                    <reg>8° M 19 Linc.</reg>
+                                </choice></ab></cell>
+                        <cell>Pr. Astr.</cell>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>Antiquitates Britanno-Belgicæ<lb/> 4 Voll. ꝓ Guil. <hi
+                                    rend="underlined:true">Musgrave</hi>
+                                <hi rend="underlined:true">Isceæ Dun</hi>.<lb/>1711, 1716,
+                                1719.</bibl></cell>
+                        <cell><persName ana="prov:donor">D<hi rend="superscript:true">r</hi>.
+                                Musgrave</persName></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° C. 65. 66 &amp;c. Jur</orig>
+                                    <reg>8° C 65,66 &amp;c. Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>The Books given by D<hi rend="superscript:true">r</hi>. Clarke<lb/>and
+                            others, upwards the value<lb/> of 40 Sh. are inferted in the<lb/> Vellam
+                            Register of Benefactors,<lb/>excepting those sent from
+                                the<lb/><orgName>Company of Stationers</orgName>, which<lb/> here
+                            follow.</cell>
+                        <cell>v. pag. 128, 129. istius Registri</cell>
+                        <cell cols="2"/>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Dr. Keil's Astronomy Lond. 1721.</bibl></cell>
+                        <cell>Stationers.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° C. 87. Jur</orig>
+                                    <reg>8° C 87 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell>Pr. Jur.</cell>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Supplement to the Introduction of<lb/>Lilly's Grammar <hi
+                                    rend="underlined:true">Exon</hi>. 1719.</bibl></cell>
+                        <cell>...........</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° C.80. Jur.</orig>
+                                    <reg>8° C 80 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Gibson's Farrier's Dispensatory. 1721.</bibl></cell>
+                        <cell>...........</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° C. 77. Jur.</orig>
+                                    <reg>8° C 77 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell>_<bibl>Anatomy of a Horse. 1720</bibl></cell>
+                        <cell>...........</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° C. 78. Jur</orig>
+                                    <reg>8° C 78 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Royer's Arithmetick. <hi rend="underlined:true">Lond</hi>.
+                                1721</bibl>.</cell>
+                        <cell>...........</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8°C. 79. Jur</orig>
+                                    <reg>8° C 79 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Five Treatises on the Plague at Mar-<lb/>seilles</bibl></cell>
+                        <cell>...........</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° P.52. <hi rend="underlined:true">Med</hi>.</orig>
+                                    <reg>8° P 52 Med.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>A Letter to a young Gentleman in<lb/> holy Orders. Lond.
+                                1721</bibl></cell>
+                        <cell>...........</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° 0. 36. Linc.</orig>
+                                    <reg>8° 0 36 Linc.</reg>
+                                </choice></ab></cell>
+                        <cell>Pr. Astr.</cell>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Hoadley's Sermon on 30. Jan. 1721. <hi rend="underlined:true"
+                                    >ibid</hi>.</bibl></cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>M<hi rend="superscript:true">r</hi>. Stanhopes Epistle to the
+                                Prince of<lb/> Wales, with other Pamphlets. <hi
+                                    rend="underlined:true">ibid</hi>.</bibl></cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Panegyrical Epistle to Mr. Snow. <del>ibid.</del></bibl></cell>
+                        <cell>...........</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>B. 1. 19. Art.</orig>
+                                    <reg>B 1.19 Art.</reg>
+                                </choice></ab></cell>
+                        <cell>Proc. Sen.</cell>
+                    </row>
+                </table>
             </ab>
-            <pb facs="#facs_25" n="25" xml:id="img_0025"/>
-            <ab facs="#facs_25_r"> 1721. Books given Benefactor Place Curator. Biblioth.
-                Bultelliana. 2 Voll. <hi rend="underlined:true">Par</hi>. 1711. M<hi
-                    rend="superscript:true">r</hi>. Maizeaux 8° E. 23,24. <hi rend="underlined:true"
-                    >Jur</hi>. Biblioth. Baluziana. 2 Voll. <hi rend="underlined:true">Par</hi>.
-                1719. Idem 8° E. 25.26. Jur. Dissertation sur le Martyre de la Legion Thebéene par
-                Jean Dubur- dieu. á <hi rend="underlined:true">Amst</hi>. 1705. 8° E. 27. <hi
-                    rend="underlined:true">Jur</hi>. Idem. 8° E. 27. Jur. Θηρολογία βίβλɩκα per
-                Godofr. <hi rend="underlined:true">Mul</hi>- <hi rend="underlined:true">lerum</hi>
-                <hi rend="underlined:true">Witteb</hi>. 1676. Idem. 8° E. 29. Jur. La vie de M<hi
-                    rend="superscript:true">r</hi>. Boileau á <hi rend="underlined:true">Amst</hi>.
-                1712. par M<hi rend="superscript:true">r</hi>. Maizeaux 8° E. 28. Jur. Bp̄ of
-                Chester [D<hi rend="superscript:true">r</hi>. Gastrels'] Case w<hi
-                    rend="superscript:true">th</hi> relati- on to the Warden of Manchester. 1721.
-                Auctor. C.1. 18. Jur Archibald Hutcheson's Discourse of the National Funds, Stocks
-                &amp;c. 1721. Auctor. C. 10. 9. Jur. Doctor Mead's Discourse upon the Plague. <hi
-                    rend="underlined:true">Lond.</hi> 1720. Auctor 8° N. 81. Med. D<hi
-                    rend="superscript:true">r</hi>. Bradford's Sermons at Boyle's Lectures. <hi
-                    rend="underlined:true">Lond.</hi> 1720 Mr. Wats of S<hi rend="superscript:true"
-                    >t</hi>. Johns F.F. 58. Th. Car. le <hi rend="underlined:true">Noble</hi>
-                Observationes de venis lacteis &amp;c. <hi rend="underlined:true">Par</hi>. 1655.
-                    D<hi rend="superscript:true">r</hi>. Sloane 8° O. 35. Linc. Several other Small
-                Tracts bound up with it, from the Stationers. The rest of the Books in this page
-                were given by Ant. Peisley, Bookseller in Oxford. Demosthenis &amp; Aschinis Oratt.
-                περί παραπρrεσ βείας. Gr. Lat. <hi rend="underlined:true">Oxon</hi>. 1721. (ꝓ H.
-                Brooke) 8° E. 33 Jur. 1. Εἰκὼν Σωκρατική _2.Essay on yͤ Conflagration 8° E.32. Jur.
-                3. _Poem on the Bp̄ of Durham's Death. 1721. B. 1. 19. Art. [These three Things were
-                written by M<hi rend="superscript:true">r</hi>. Catherall of Oriel.] M<hi
-                    rend="superscript:true">r</hi>. Rogers’s [late of C.C.C.] his Act Sermon. 1721.
-                Digby Cotes’s Sermons. <hi rend="underlined:true">Oxon</hi>. 1721 8° A. 182. Linc. </ab>
-            <pb facs="#facs_26" n="26" xml:id="img_0026"/>
-            <ab facs="#facs_26_tr_1"> 1721. Benefactors Place Curator Books given The Works of M<hi
-                    rend="superscript:true">r</hi>. Joseph <hi rend="underlined:true">Addi</hi>- <hi
-                    rend="underlined:true">son.</hi> 4 Voll. 4° <hi rend="underlined:true"
-                >Lond</hi>. 1721 Stationers CC. 29.&amp;c.. Jur. Miscellanies by Tamworth <hi
-                    rend="underlined:true">Reresby</hi>. Lond. 1721. 4°. CC. 33. Jur. Poems by Allan
-                Ramsay. <hi rend="underlined:true">Edinb</hi>. 1721. CC. 34. Jur. Persian Letters by
-                Ozell. 1722. 2 Voll. 8° A.180,181.<hi rend="underlined:true">Linc</hi>. Pr. Astr. Dr
-                    <hi rend="underlined:true">Quincy</hi>'s Dispensatory. 1721 8° A.183.<hi
-                    rend="underlined:true">Linc</hi>. Boyer's Compleat French Master. 1721. 8° E.
-                35. <hi rend="underlined:true">Jur</hi>. D<hi rend="superscript:true">r</hi>.
-                Young's Revenge a Tragedy. 1721. 8° E. 36. <hi rend="underlined:true">Jur.</hi>
-                Collier's Essay's 2 parts 1722. 8° E. 37. <hi rend="underlined:true">Jur.</hi> D<hi
-                    rend="superscript:true">r</hi> Keil's Introductio ad veram Astron. 1721. 8° E.
-                38. <hi rend="underlined:true">Jur</hi>. </ab>
-
-
+            <pb xml:id="fol-29v" n="48" style="empty"/>
+            <pb xml:id="fol-30r"/>
+            <note>Fol. 30 is a slip of paper inserted between pages 48 and 49 containing a note of
+                two shelfmarks.</note>
+            <pb xml:id="fol-30v" style="empty"/>
+            <pb xml:id="fol-31r"/>
+            <note>Fol. 31 is a slip of paper inserted between pages 48 and 49 containing a sales
+                note daring from October 1764.</note>
+            <pb xml:id="fol-31v" style="empty"/>
+            <pb xml:id="fol-32r" n="49"/>
+            <ab ana="prov:when">
+                <date notBefore="1720-11-08" notAfter="1721-11-01">1721.</date>
+                <table>
+                    <row>
+                        <cell>Books given.</cell>
+                        <cell>Benefactor.</cell>
+                        <cell>Place.</cell>
+                        <cell>Curator.</cell>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Two Discourses about S. Sea Stock.<lb/><hi
+                                    rend="underlined:true">Lond</hi>. 1720</bibl></cell>
+                        <cell>Stationers</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>B. 1.19.Art.</orig>
+                                    <reg>B 1.19 Art.</reg>
+                                </choice></ab></cell>
+                        <cell>Proc. Sen.</cell>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl><hi rend="underlined:true">Wood</hi>'s Institute of the Laws of
+                                England<lb/>2 Voll. <hi rend="underlined:true">Lond.</hi>
+                                1720</bibl>
+                            <del>8° C. 72</del></cell>
+                        <cell><del>D<hi rend="superscript:true">r</hi>. Wood</del></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° C. 72.73. Jur.</orig>
+                                    <reg>8° C 72,73 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Two Pamphlets relating to D<hi rend="superscript:true">r</hi>.
+                                Ben-<lb/> net &amp; D<hi rend="superscript:true">r</hi>. Clarke <hi
+                                    rend="underlined:true">Lond</hi>. 1719.</bibl></cell>
+                        <cell>...........</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° C. 82. Jur.</orig>
+                                    <reg>8° C 82 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Collection of Poems. 1720.</bibl></cell>
+                        <cell>...........</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° C. 84. Jur.</orig>
+                                    <reg>8° C 84 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Inquiry into the manner of making<lb/>Peers. Lond.
+                            1719.</bibl></cell>
+                        <cell>...........</cell>
+                        <cell rows="5"><ab type="shelfmark"><choice>
+                                    <orig>8° C. 83. Jur</orig>
+                                    <reg>8° C 83 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Discourse concerning Treasons, ibid.</bibl></cell>
+                        <cell>...........</cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>M<hi rend="superscript:true">r</hi>. Hendleys Tryal.
+                                ibid.</bibl></cell>
+                        <cell>...........</cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Life of D<hi rend="superscript:true">r</hi>. Owen.
+                            ibid.</bibl></cell>
+                        <cell>...........</cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Clarkson’s Sermon on his Funeral</bibl></cell>
+                        <cell>...........</cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Rudiments of Honour &amp;c. <hi rend="underlined:true"
+                                    >Lond.</hi> 1720.</bibl></cell>
+                        <cell>...........</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° Z.42. Jur.</orig>
+                                    <reg>8° Z 42 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>M<hi rend="superscript:true">rs</hi>. Manley's Novells. <hi
+                                    rend="underlined:true">Lond</hi>. 1720.</bibl></cell>
+                        <cell>...........</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° C. 86. Jur.</orig>
+                                    <reg>8° C 86 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Crusoes Reflections. <hi rend="underlined:true">Lond.</hi>
+                                1720</bibl></cell>
+                        <cell>...........</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° C. 85. Jur.</orig>
+                                    <reg>8° C 85 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Four volumes of Novells. 1720</bibl></cell>
+                        <cell>...........</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° A. 171 &amp;c. Linc.</orig>
+                                    <reg>8° A 171 &amp;c. Linc.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Ectypa Picturarum in Tholo Ecclesia<lb/>D. Pauli <hi
+                                    rend="underlined:true">Lond</hi>. 1720</bibl></cell>
+                        <cell>...........</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>Arch. B. 119.</orig>
+                                    <reg>Arch. B 119</reg>
+                                </choice></ab></cell>
+                        <cell>Prof. Heb.</cell>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Collection of Pamphlets</bibl></cell>
+                        <cell>...........</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° E. 31. Jur.</orig>
+                                    <reg>8° E 31 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>The rest are <del>be</del> inserted in pag. <ref target="#fol-34r"
+                                >53</ref>.<lb/><del>the next year's account</del></cell>
+                    </row>
+                </table>
+            </ab>
+            <pb xml:id="fol-32v" n="50" style="empty"/>
+            <pb xml:id="fol-33r" n="51"/>
+            <ab ana="prov:when">
+                <date notBefore="1720-11-08" notAfter="1721-11-01">1721.</date>
+                <table>
+                    <row>
+                        <cell>Books given</cell>
+                        <cell>Benefactor</cell>
+                        <cell>Place</cell>
+                        <cell>Curator.</cell>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>Biblioth. Bultelliana. 2 Voll. <hi rend="underlined:true"
+                                    >Par</hi>. 1711.</bibl></cell>
+                        <cell><persName type="donor">M<hi rend="superscript:true">r</hi>.
+                                Maizeaux</persName></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° E. 23,24. <hi rend="underlined:true">Jur</hi>.</orig>
+                                    <reg>8° E 23,24 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>Biblioth. Baluziana. 2 Voll. <hi rend="underlined:true"
+                                >Par</hi>. 1719.</bibl></cell>
+                        <cell><persName type="donor">Idem</persName></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° E. 25.26. Jur.</orig>
+                                    <reg>8° E 25,26 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>Dissertation sur le Martyre de la<lb/>Legion Thebéene par Jean
+                                Dubur-<lb/>dieu. á <hi rend="underlined:true">Amst</hi>.
+                                1705.</bibl> 8° E. 27. <hi rend="underlined:true">Jur</hi>.</cell>
+                        <cell><persName type="donor">Idem.</persName></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° E. 27. Jur.</orig>
+                                    <reg>8° E 27 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>Θηρολογία βίβλɩκα per Godofr. <hi rend="underlined:true"
+                                    >Mul</hi>-<lb/><hi rend="underlined:true">lerum</hi>
+                                <hi rend="underlined:true">Witteb</hi>. 1676.</bibl></cell>
+                        <cell><persName type="donor">Idem.</persName></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° E. 29. Jur.</orig>
+                                    <reg>8° E 29 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>La vie de M<hi rend="superscript:true">r</hi>. Boileau á <hi
+                                    rend="underlined:true">Amst</hi>. 1712</bibl>. par</cell>
+                        <cell><persName type="donor">M<hi rend="superscript:true">r</hi>.
+                                Maizeaux</persName></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° E. 28. Jur.</orig>
+                                    <reg>8° E 28 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>Bp̄ of Chester [D<hi rend="superscript:true">r</hi>. Gastrels']
+                                Case w<hi rend="superscript:true">th</hi> relati-<lb/>on to the
+                                Warden of Manchester. 1721.</bibl></cell>
+                        <cell><persName type="donor">Auctor.</persName></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>C.1. 18. Jur</orig>
+                                    <reg>C 1.18 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>Archibald Hutcheson's Discourse of the<lb/>National Funds,
+                                Stocks &amp;c. 1721.</bibl></cell>
+                        <cell><persName type="donor">Auctor.</persName></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>C. 10. 9. Jur.</orig>
+                                    <reg>C 10.9 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>Doctor Mead's Discourse upon the<lb/>Plague. <hi
+                                    rend="underlined:true">Lond.</hi> 1720.</bibl></cell>
+                        <cell><persName type="donor">Auctor</persName></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° N. 81. Med.</orig>
+                                    <reg>8° N 81 Med.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>D<hi rend="superscript:true">r</hi>. Bradford's Sermons at
+                                Boyle's<lb/>Lectures. <hi rend="underlined:true">Lond.</hi>
+                                1720</bibl></cell>
+                        <cell><persName type="donor">Mr. Wats of<lb/>S<hi rend="superscript:true"
+                                    >t</hi>. Johns</persName></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>F.F. 58. Th.</orig>
+                                    <reg>FF 58 Th.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>Car. le <hi rend="underlined:true">Noble</hi> Observationes de
+                                venis<lb/>lacteis &amp;c. <hi rend="underlined:true">Par</hi>.
+                                1655.</bibl></cell>
+                        <cell><persName type="donor">D<hi rend="superscript:true">r</hi>.
+                                Sloane</persName></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° O. 35. Linc.</orig>
+                                    <reg>8° O 35 Linc.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell cols="4">Several other Small Tracts bound up with it, from the
+                            Stationers.</cell>
+                    </row>
+                    <row>
+                        <cell cols="4">The rest of the Books in this page were given
+                                by<lb/><persName type="donor">Ant. Peisley</persName>, Bookseller in
+                            Oxford.</cell>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell cols="2"><bibl>Demosthenis &amp; Aschinis Oratt. περί
+                                παραπρrεσ<lb/>βείας. Gr. Lat. <hi rend="underlined:true">Oxon</hi>.
+                                1721. (ꝓ H. Brooke)</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° E. 33 Jur.</orig>
+                                    <reg>8° E 33 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell cols="2"><bibl>1. Εἰκὼν Σωκρατική</bibl>
+                            <bibl>_2.Essay on yͤ Conflagration</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° E.32. Jur.</orig>
+                                    <reg>8° E 32 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell>3. _<bibl>Poem on the Bp̄ of Durham's Death. 1721</bibl>.</cell>
+                        <cell/>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>B. 1. 19. Art.</orig>
+                                    <reg>B 1.19 Art.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell cols="2">[These three Things were written by<lb/>M<hi
+                                rend="superscript:true">r</hi>. Catherall of Oriel.]</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell cols="2">M<hi rend="superscript:true">r</hi>. Rogers’s [late of
+                            C.C.C.] his Act Sermon. 1721.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>Digby Cotes’s Sermons. <hi rend="underlined:true">Oxon</hi>.
+                                1721</bibl></cell>
+                        <cell>...........</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° A. 182. Linc.</orig>
+                                    <reg>8° A 182 Linc.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                </table>
+            </ab>
+            <pb xml:id="fol-33v" n="52" style="empty"/>
+            <pb xml:id="fol-34r" n="53"/>
+            <ab ana="prov:when">
+                <date notBefore="1720-11-08" notAfter="1721-11-01">1721.</date><table>
+                    <row>
+                        <cell>Books given</cell>
+                        <cell>Benefactors</cell>
+                        <cell>Place</cell>
+                        <cell>Curator</cell>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>The Works of M<hi rend="superscript:true">r</hi>. Joseph <hi
+                                    rend="underlined:true">Addi</hi>-<lb/><hi rend="underlined:true"
+                                    >son.</hi> 4 Voll. 4° <hi rend="underlined:true">Lond</hi>.
+                                1721</bibl></cell>
+                        <cell>Stationers</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>CC. 29.&amp;c. Jur.</orig>
+                                    <reg>CC 29 &amp;c. Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Miscellanies by Tamworth <hi rend="underlined:true"
+                                >Reresby</hi>.<lb/>Lond. 1721. 4°.</bibl></cell>
+                        <cell>...........</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>CC. 33. Jur.</orig>
+                                    <reg>CC 33 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Poems by Allan Ramsay. <hi rend="underlined:true">Edinb</hi>.
+                                1721.</bibl></cell>
+                        <cell>...........</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>CC. 34. Jur.</orig>
+                                    <reg>CC 34 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Persian Letters by Ozell. 1722. 2 Voll.</bibl></cell>
+                        <cell>...........</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° A.180,181. <hi rend="underlined:true">Linc</hi>.</orig>
+                                    <reg>8° A 180,181 Linc.</reg>
+                                </choice></ab></cell>
+                        <cell>Pr. Astr.</cell>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Dr <hi rend="underlined:true">Quincy</hi>'s Dispensatory.
+                                1721</bibl></cell>
+                        <cell>...........</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° A.183.<hi rend="underlined:true">Linc</hi>.</orig>
+                                    <reg>8° A 183 Linc.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Boyer's Compleat French Master. 1721.</bibl></cell>
+                        <cell>...........</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° E. 35. <hi rend="underlined:true">Jur</hi>.</orig>
+                                    <reg>8° E 35 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>D<hi rend="superscript:true">r</hi>. Young's Revenge a Tragedy.
+                                1721.</bibl></cell>
+                        <cell>...........</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° E. 36. <hi rend="underlined:true">Jur.</hi></orig>
+                                    <reg>8° E 36 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Collier's Essay's 2 parts 1722.</bibl></cell>
+                        <cell>...........</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° E. 37. <hi rend="underlined:true">Jur.</hi></orig>
+                                    <reg>8° E 37 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>D<hi rend="superscript:true">r</hi> Keil's Introductio ad veram
+                                Astron. 1721.</bibl></cell>
+                        <cell>...........</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° E. 38. <hi rend="underlined:true">Jur</hi>.</orig>
+                                    <reg>8° E 38 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                </table></ab>
         </body>
     </text>
 </TEI>
