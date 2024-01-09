@@ -4200,7 +4200,10 @@
                         <cell><bibl corresp="#regC-bib-Dry1717">Merton Walks, a Poem
                             8°</bibl></cell>
                         <cell/>
-                        <cell>8°. M. 23.<hi rend="underlined:true">Linc</hi>.</cell>
+                       <cell><ab type="shelfmark"><choice>
+                           <orig>8°. M. 23.<hi rend="underlined:true">Linc</hi>.</orig>
+                           <reg>8° M 23 Linc.</reg>
+                       </choice></ab></cell>
                         <cell>Prof. Astron.</cell>
                     </row>
                     <row ana="prov:donation">
@@ -5233,8 +5236,8 @@
                         <cell/>
                     </row>
                     <row ana="prov:purchase">
-                        <cell>Scheuchzeri Agrostographia. <hi rend="underlined:true"
-                            >Figur.</hi><lb/> 1719. 4°</cell>
+                        <cell><bibl corresp="#regC-bib-Scheuchzer1719">Scheuchzeri Agrostographia. <hi rend="underlined:true"
+                            >Figur.</hi><lb/> 1719. 4°</bibl></cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="11" unit="shilling">11</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
@@ -5416,17 +5419,20 @@
                         <cell>Pr. Med.</cell>
                     </row>
                     <row>
-                        <cell cols="2"><bibl>Jac. Mangeti Bibliotheca Chirurgi-<lb/> ca, 4 Voll. <hi
+                        <cell cols="2"><bibl corresp="regC-bib-Manget1721">Jac. Mangeti Bibliotheca Chirurgi-<lb/> ca, 4 Voll. <hi
                                     rend="underlined:true">Gen</hi>. 1721.</bibl></cell>
                         <cell><measure quantity="2" unit="pound">02</measure></cell>
                         <cell><measure quantity="10" unit="shilling">10</measure></cell>
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
-                        <cell>P. 1. 17,18, &amp;c. Med.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>P. 1. 17,18, &amp;c. Med.</orig>
+                            <reg>P 1.17-20 Med.</reg>
+                        </choice></ab></cell>
                         <cell>Pr. Med.</cell>
                     </row>
-                    <row>
-                        <cell cols="2">Cicero de Officiis ꝓ Rachelium <hi rend="underlined:true"
-                                >Amst</hi>.<lb/> 1688</cell>
+                    <row ana="prov:purchase">
+                        <cell cols="2"><bibl corresp="#regC-bib-Cicero1686">Cicero de Officiis ꝓ Rachelium <hi rend="underlined:true"
+                                >Amst</hi>.<lb/> 1688</bibl></cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="3" unit="shilling">03</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
@@ -5434,7 +5440,7 @@
                         <cell>Pr. Jur.</cell>
                     </row>
                     <row ana="prov:purchase">
-                        <cell cols="2"><bibl>Dan. Maichelii Introductio ad Histor.<lb/> litter. <hi
+                        <cell cols="2"><bibl corresp="#regC-bib-Maichel1721">Dan. Maichelii Introductio ad Histor.<lb/> litter. <hi
                                     rend="underlined:true">Cantab.</hi> 1721.</bibl></cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="3" unit="shilling">03</measure></cell>
@@ -5446,7 +5452,7 @@
                         <cell>Pr. Jur.</cell>
                     </row>
                     <row ana="prov:purchase">
-                        <cell cols="2"><bibl><hi rend="underlined:true">Hodges</hi> of the Plague,
+                        <cell cols="2"><bibl corresp="#regC-bib-Hodges1720"><hi rend="underlined:true">Hodges</hi> of the Plague,
                                 by Quincy <hi rend="underlined:true">Lond</hi>. 1720.</bibl></cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="3" unit="shilling">03</measure></cell>
@@ -5458,7 +5464,7 @@
                         <cell>Pr. Med.</cell>
                     </row>
                     <row ana="prov:purchase">
-                        <cell cols="2"><bibl>Tho. Ward of Ordinaton. Lond. 1719.</bibl></cell>
+                        <cell cols="2"><bibl corresp="#regC-bib-Ward1719">Tho. Ward of Ordinaton. Lond. 1719.</bibl></cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="1" unit="shilling">01</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
@@ -5494,7 +5500,7 @@
                         <cell/>
                     </row>
                     <row ana="prov:purchase">
-                        <cell cols="2"><bibl>Compend. Tabb. Botan¯. ibid. 1718.</bibl></cell>
+                        <cell cols="2"><bibl corresp="#regC-bib-Pontedera1718">Compend. Tabb. Botan¯. ibid. 1718.</bibl></cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="7" unit="shilling">07</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
