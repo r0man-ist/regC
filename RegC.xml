@@ -3210,9 +3210,9 @@
                     </row>
                     <row>
                         <cell>Sum of this page</cell>
-                        <cell><measure quantity="4" unit="pound">4</measure></cell>
-                        <cell><measure quantity="16" unit="shilling">16</measure></cell>
-                        <cell><measure quantity="6" unit="pence">6</measure></cell>
+                        <cell rend="border-top"><measure quantity="4" unit="pound">4</measure></cell>
+                        <cell rend="border-top"><measure quantity="16" unit="shilling">16</measure></cell>
+                        <cell rend="border-top"><measure quantity="6" unit="pence">6</measure></cell>
                     </row>
                     <row>
                         <cell>From the other Side</cell>
@@ -3222,9 +3222,9 @@
                     </row>
                     <row>
                         <cell/>
-                        <cell><measure quantity="19" unit="pound">19</measure></cell>
-                        <cell><measure quantity="6" unit="shilling">6</measure></cell>
-                        <cell><measure quantity="0" unit="pence">0</measure></cell>
+                        <cell rend="border-top"><measure quantity="19" unit="pound">19</measure></cell>
+                        <cell rend="border-top"><measure quantity="6" unit="shilling">6</measure></cell>
+                        <cell rend="border-top"><measure quantity="0" unit="pence">0</measure></cell>
                     </row>
                     <row>
                         <cell>Recd from the Vice Chancellor</cell>
@@ -3234,9 +3234,9 @@
                     </row>
                     <row>
                         <cell>Remains in hand due to ballance</cell>
-                        <cell><measure quantity="1" unit="pound">1</measure></cell>
-                        <cell><measure quantity="17" unit="shilling">17</measure></cell>
-                        <cell><measure quantity="6" unit="pence">6</measure></cell>
+                        <cell rend="border-top"><measure quantity="1" unit="pound">1</measure></cell>
+                        <cell rend="border-top"><measure quantity="17" unit="shilling">17</measure></cell>
+                        <cell rend="border-top"><measure quantity="6" unit="pence">6</measure></cell>
                     </row>
                 </table></ab>
             <pb xml:id="fol-10r" n="7"/>
@@ -3457,9 +3457,9 @@
                                     <abbr>JB</abbr>
                                     <expan>Joseph Bowles</expan>
                                 </choice></persName>.</cell>
-                        <cell><measure quantity="4" unit="pound">4</measure></cell>
-                        <cell><measure quantity="9" unit="shilling">9</measure></cell>
-                        <cell><measure quantity="0" unit="pence">0</measure></cell>
+                        <cell rend="border-top"><measure quantity="4" unit="pound">4</measure></cell>
+                        <cell rend="border-top"><measure quantity="9" unit="shilling">9</measure></cell>
+                        <cell rend="border-top"><measure quantity="0" unit="pence">0</measure></cell>
                         <cell/>
                         <cell/>
                     </row>
@@ -3706,9 +3706,9 @@
                     <row>
                         <cell/>
                         <cell/>
-                        <cell><measure quantity="19" unit="pound">19</measure></cell>
-                        <cell><measure quantity="1" unit="shilling">1</measure></cell>
-                        <cell><measure quantity="0" unit="pence">0</measure></cell>
+                        <cell rend="border-top"><measure quantity="19" unit="pound">19</measure></cell>
+                        <cell rend="border-top"><measure quantity="1" unit="shilling">1</measure></cell>
+                        <cell rend="border-top"><measure quantity="0" unit="pence">0</measure></cell>
                         <cell/>
                         <cell/>
                     </row>
@@ -3938,9 +3938,9 @@
                     <row>
                         <cell/>
                         <cell/>
-                        <cell><measure quantity="19" unit="pound">19</measure></cell>
-                        <cell><measure quantity="0" unit="shilling">0</measure></cell>
-                        <cell><measure quantity="2" unit="pence">2</measure></cell>
+                        <cell rend="border-top"><measure quantity="19" unit="pound">19</measure></cell>
+                        <cell rend="border-top"><measure quantity="0" unit="shilling">0</measure></cell>
+                        <cell rend="border-top"><measure quantity="2" unit="pence">2</measure></cell>
                         <cell/>
                         <cell/>
                     </row>
@@ -4661,15 +4661,15 @@
                 </row>
                 <row>
                     <cell>Total of Disbursements</cell>
-                    <cell><measure quantity="78" unit="pound">78</measure></cell>
-                    <cell><measure quantity="1" unit="shilling">1</measure></cell>
-                    <cell><measure quantity="8" unit="pence">8</measure></cell>
+                    <cell rend="border-top"><measure quantity="78" unit="pound">78</measure></cell>
+                    <cell rend="border-top"><measure quantity="1" unit="shilling">1</measure></cell>
+                    <cell rend="border-top"><measure quantity="8" unit="pence">8</measure></cell>
                 </row>
                 <row>
                     <cell>Due to ballance. v. <ref target="#fol-9v">pag. 6</ref></cell>
-                    <cell><measure quantity="1" unit="pound">1</measure></cell>
-                    <cell><measure quantity="17" unit="shilling">17</measure></cell>
-                    <cell><measure quantity="6" unit="pence">6</measure></cell>
+                    <cell rend="border-top"><measure quantity="1" unit="pound">1</measure></cell>
+                    <cell rend="border-top"><measure quantity="17" unit="shilling">17</measure></cell>
+                    <cell rend="border-top"><measure quantity="6" unit="pence">6</measure></cell>
                 </row>
             </table>
             <p><persName corresp="#regC-RSHI">Rob. Shippen Vice-Can.</persName><lb/><persName
@@ -4707,9 +4707,9 @@
                 </row>
                 <row>
                     <cell/>
-                    <cell><measure quantity="38" unit="pound">38</measure></cell>
-                    <cell><measure quantity="12" unit="shilling">12</measure></cell>
-                    <cell><measure quantity="6" unit="pence">06</measure></cell>
+                    <cell rend="border-top"><measure quantity="38" unit="pound">38</measure></cell>
+                    <cell rend="border-top"><measure quantity="12" unit="shilling">12</measure></cell>
+                    <cell rend="border-top"><measure quantity="6" unit="pence">06</measure></cell>
                 </row>
                 <row>
                     <cell>Amount of the Several pages wherein<lb/> are written the particular
@@ -4738,9 +4738,9 @@
                 </row>
                 <row>
                     <cell/>
-                    <cell><measure quantity="46" unit="pound">46</measure></cell>
-                    <cell><measure quantity="8" unit="shilling">08</measure></cell>
-                    <cell><measure quantity="0" unit="pence">00</measure></cell>
+                    <cell rend="border-top"><measure quantity="46" unit="pound">46</measure></cell>
+                    <cell rend="border-top"><measure quantity="8" unit="shilling">08</measure></cell>
+                    <cell rend="border-top"><measure quantity="0" unit="pence">00</measure></cell>
                 </row>
                 <row>
                     <cell>money recd</cell>
@@ -4751,9 +4751,9 @@
                 <row>
                     <cell>Remains due to <persName corresp="#regC-JBOW">the Library
                             Keeper</persName></cell>
-                    <cell><measure quantity="7" unit="pound">7</measure></cell>
-                    <cell><measure quantity="15" unit="shilling">15</measure></cell>
-                    <cell><measure quantity="6" unit="pence">6</measure></cell>
+                    <cell rend="border-top"><measure quantity="7" unit="pound">7</measure></cell>
+                    <cell rend="border-top"><measure quantity="15" unit="shilling">15</measure></cell>
+                    <cell rend="border-top"><measure quantity="6" unit="pence">6</measure></cell>
                 </row>
             </table>
             <p><persName corresp="#regC-RSHI">Rob. Shippen Vice-Can:</persName><lb/>
@@ -4904,9 +4904,9 @@
                 </row>
                 <row>
                     <cell/>
-                    <cell><measure quantity="27" unit="pound">27</measure></cell>
-                    <cell><measure quantity="2" unit="shilling">02</measure></cell>
-                    <cell><measure quantity="6" unit="pence">06</measure></cell>
+                    <cell rend="border-top"><measure quantity="27" unit="pound">27</measure></cell>
+                    <cell rend="border-top"><measure quantity="2" unit="shilling">02</measure></cell>
+                    <cell rend="border-top"><measure quantity="6" unit="pence">06</measure></cell>
                     <cell/>
                     <cell/>
                 </row>
@@ -5035,9 +5035,9 @@
                     </row>
                     <row>
                         <cell/>
-                        <cell><measure quantity="10" unit="pound">10</measure></cell>
-                        <cell><measure quantity="16" unit="shilling">16</measure></cell>
-                        <cell><measure quantity="6" unit="pence">06</measure></cell>
+                        <cell rend="border-top"><measure quantity="10" unit="pound">10</measure></cell>
+                        <cell rend="border-top"><measure quantity="16" unit="shilling">16</measure></cell>
+                        <cell rend="border-top"><measure quantity="6" unit="pence">06</measure></cell>
                         <cell/>
                         <cell/>
                     </row>
@@ -5128,9 +5128,9 @@
                     </row>
                     <row>
                         <cell/>
-                        <cell><measure quantity="8" unit="pound">08</measure></cell>
-                        <cell><measure quantity="9" unit="shilling">09</measure></cell>
-                        <cell><measure quantity="0" unit="pence">00</measure></cell>
+                        <cell rend="border-top"><measure quantity="8" unit="pound">08</measure></cell>
+                        <cell rend="border-top"><measure quantity="9" unit="shilling">09</measure></cell>
+                        <cell rend="border-top"><measure quantity="0" unit="pence">00</measure></cell>
                     </row>
                 </table>
             </ab>
@@ -5337,9 +5337,9 @@
                     </row>
                     <row ana="prov:purchase">
                         <cell/>
-                        <cell><measure quantity="9" unit="pound">09</measure></cell>
-                        <cell><measure quantity="18" unit="shilling">18</measure></cell>
-                        <cell><measure quantity="0" unit="pence">00</measure></cell>
+                        <cell rend="border-top"><measure quantity="9" unit="pound">09</measure></cell>
+                        <cell rend="border-top"><measure quantity="18" unit="shilling">18</measure></cell>
+                        <cell rend="border-top"><measure quantity="0" unit="pence">00</measure></cell>
                         <cell/>
                         <cell/>
                     </row>
@@ -5418,8 +5418,8 @@
                         <cell>P. 5.6. Med.</cell>
                         <cell>Pr. Med.</cell>
                     </row>
-                    <row>
-                        <cell cols="2"><bibl corresp="regC-bib-Manget1721">Jac. Mangeti Bibliotheca Chirurgi-<lb/> ca, 4 Voll. <hi
+                    <row ana="prov:purchase">
+                        <cell cols="2"><bibl corresp="#regC-bib-Manget1721">Jac. Mangeti Bibliotheca Chirurgi-<lb/> ca, 4 Voll. <hi
                                     rend="underlined:true">Gen</hi>. 1721.</bibl></cell>
                         <cell><measure quantity="2" unit="pound">02</measure></cell>
                         <cell><measure quantity="10" unit="shilling">10</measure></cell>
@@ -5500,7 +5500,7 @@
                         <cell/>
                     </row>
                     <row ana="prov:purchase">
-                        <cell cols="2"><bibl corresp="#regC-bib-Pontedera1718">Compend. Tabb. Botan¯. ibid. 1718.</bibl></cell>
+                        <cell cols="2"><bibl corresp="#regC-bib-Pontedera1718">Compend. Tabb. Botan̄. ibid. 1718.</bibl></cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="7" unit="shilling">07</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
@@ -5533,9 +5533,9 @@
                         <cell>1. Pd M<hi rend="superscript:true">r</hi>. Collier at Stationer’s
                             Hall</cell>
                         <cell>1:0:0</cell>
-                        <cell rows="3"><measure quantity="1" unit="pound">01</measure></cell>
-                        <cell rows="3"><measure quantity="7" unit="shilling">07</measure></cell>
-                        <cell rows="3"><measure quantity="6" unit="pence">6</measure></cell>
+                        <cell rows="4"><measure quantity="1" unit="pound">01</measure></cell>
+                        <cell rows="4"><measure quantity="7" unit="shilling">07</measure></cell>
+                        <cell rows="4"><measure quantity="6" unit="pence">6</measure></cell>
                         <cell cols="2"/>
                     </row>
                     <row>
@@ -5552,13 +5552,13 @@
                     <row>
                         <cell/>
                         <cell>1:7:6</cell>
-                        <cell cols="5"/>
+                        <cell cols="4"/>
                     </row>
                     <row>
                         <cell cols="2"/>
-                        <cell><measure quantity="13" unit="pound">13</measure></cell>
-                        <cell><measure quantity="3" unit="shilling">03</measure></cell>
-                        <cell><measure quantity="6" unit="pence">06</measure></cell>
+                        <cell rend="border-top"><measure quantity="13" unit="pound">13</measure></cell>
+                        <cell rend="border-top"><measure quantity="3" unit="shilling">03</measure></cell>
+                        <cell rend="border-top"><measure quantity="6" unit="pence">06</measure></cell>
                         <cell cols="2"/>
                     </row>
                     <row>
@@ -5570,9 +5570,9 @@
                     </row>
                     <row>
                         <cell cols="2"/>
-                        <cell><measure quantity="23" unit="pound">23</measure></cell>
-                        <cell><measure quantity="1" unit="shilling">01</measure></cell>
-                        <cell><measure quantity="6" unit="pence">06</measure></cell>
+                        <cell rend="border-top"><measure quantity="23" unit="pound">23</measure></cell>
+                        <cell rend="border-top"><measure quantity="1" unit="shilling">01</measure></cell>
+                        <cell rend="border-top"><measure quantity="6" unit="pence">06</measure></cell>
                         <cell cols="2"/>
                     </row>
                 </table>
