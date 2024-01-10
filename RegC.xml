@@ -6611,19 +6611,19 @@
                         <cell>Curator</cell>
                     </row>
                     <row ana="prov:deposit">
-                        <cell><bibl>The Works of M<hi rend="superscript:true">r</hi>. Joseph <hi
+                        <cell><bibl corresp="#regC-bib-Addison1721">The Works of M<hi rend="superscript:true">r</hi>. Joseph <hi
                                     rend="underlined:true">Addi</hi>-<lb/><hi rend="underlined:true"
                                     >son.</hi> 4 Voll. 4° <hi rend="underlined:true">Lond</hi>.
                                 1721</bibl></cell>
                         <cell>Stationers</cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>CC. 29.&amp;c. Jur.</orig>
-                                    <reg>CC 29 &amp;c. Jur.</reg>
+                                    <reg>CC 29-32 Jur.</reg>
                                 </choice></ab></cell>
                         <cell/>
                     </row>
                     <row ana="prov:deposit">
-                        <cell><bibl>Miscellanies by Tamworth <hi rend="underlined:true"
+                        <cell><bibl corresp="#regC-bib-Reresby1721">Miscellanies by Tamworth <hi rend="underlined:true"
                                 >Reresby</hi>.<lb/>Lond. 1721. 4°.</bibl></cell>
                         <cell>...........</cell>
                         <cell><ab type="shelfmark"><choice>
@@ -6633,7 +6633,7 @@
                         <cell/>
                     </row>
                     <row ana="prov:deposit">
-                        <cell><bibl>Poems by Allan Ramsay. <hi rend="underlined:true">Edinb</hi>.
+                        <cell><bibl corresp="#regC-bib-Ramsay1721">Poems by Allan Ramsay. <hi rend="underlined:true">Edinb</hi>.
                                 1721.</bibl></cell>
                         <cell>...........</cell>
                         <cell><ab type="shelfmark"><choice>
@@ -6643,7 +6643,7 @@
                         <cell/>
                     </row>
                     <row ana="prov:deposit">
-                        <cell><bibl>Persian Letters by Ozell. 1722. 2 Voll.</bibl></cell>
+                        <cell><bibl corresp="#regC-bib-Montesquieu1722">Persian Letters by Ozell. 1722. 2 Voll.</bibl></cell>
                         <cell>...........</cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>8° A.180,181. <hi rend="underlined:true">Linc</hi>.</orig>
@@ -6652,7 +6652,7 @@
                         <cell>Pr. Astr.</cell>
                     </row>
                     <row ana="prov:deposit">
-                        <cell><bibl>Dr <hi rend="underlined:true">Quincy</hi>'s Dispensatory.
+                        <cell><bibl corresp="#regC-bib-RoyalCollege1721">Dr <hi rend="underlined:true">Quincy</hi>'s Dispensatory.
                                 1721</bibl></cell>
                         <cell>...........</cell>
                         <cell><ab type="shelfmark"><choice>
@@ -6662,7 +6662,7 @@
                         <cell/>
                     </row>
                     <row ana="prov:deposit">
-                        <cell><bibl>Boyer's Compleat French Master. 1721.</bibl></cell>
+                        <cell><bibl corresp="#regC-bib-Boyer1721">Boyer's Compleat French Master. 1721.</bibl></cell>
                         <cell>...........</cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>8° E. 35. <hi rend="underlined:true">Jur</hi>.</orig>
@@ -6671,7 +6671,7 @@
                         <cell/>
                     </row>
                     <row ana="prov:deposit">
-                        <cell><bibl>D<hi rend="superscript:true">r</hi>. Young's Revenge a Tragedy.
+                        <cell><bibl corresp="#regC-bib-Young1721">D<hi rend="superscript:true">r</hi>. Young's Revenge a Tragedy.
                                 1721.</bibl></cell>
                         <cell>...........</cell>
                         <cell><ab type="shelfmark"><choice>
@@ -6681,7 +6681,7 @@
                         <cell/>
                     </row>
                     <row ana="prov:deposit">
-                        <cell><bibl>Collier's Essay's 2 parts 1722.</bibl></cell>
+                        <cell><bibl corresp="#regC-bib-Collier1722">Collier's Essay's 2 parts 1722.</bibl></cell>
                         <cell>...........</cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>8° E. 37. <hi rend="underlined:true">Jur.</hi></orig>
@@ -6690,7 +6690,7 @@
                         <cell/>
                     </row>
                     <row ana="prov:deposit">
-                        <cell><bibl>D<hi rend="superscript:true">r</hi> Keil's Introductio ad veram
+                        <cell><bibl corresp="#regC-bib-Keill1721">D<hi rend="superscript:true">r</hi> Keil's Introductio ad veram
                                 Astron. 1721.</bibl></cell>
                         <cell>...........</cell>
                         <cell><ab type="shelfmark"><choice>

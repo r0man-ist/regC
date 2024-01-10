@@ -338,6 +338,9 @@
                 <xsl:when test="@ana = 'prov:donation' and ./t:cell/t:bibl/@corresp">
                     <xsl:copy-of select="$call-modal"/>
                 </xsl:when>
+                <xsl:when test="@ana = 'prov:deposit' and ./t:cell/t:bibl/@corresp">
+                    <xsl:copy-of select="$call-modal"/>
+                </xsl:when>
             </xsl:choose>
         </tr>
     </xsl:template>
