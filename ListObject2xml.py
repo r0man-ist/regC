@@ -17,7 +17,7 @@ for _, row in df.iterrows():
     objectIdentifier_element = ET.SubElement(object_element, 'objectIdentifier')
 
     institution_element = ET.SubElement(objectIdentifier_element, 'institution')
-    institution_element.text = "Boldeian Library"
+    institution_element.text = "Bodleian Library"
 
 
     # Check if each field is empty before creating an XML element
