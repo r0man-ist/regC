@@ -152,6 +152,11 @@
                 <persName>Wasse, Joseph</persName>
                 <idno type="VIAF">5863902</idno>
             </person>
+            <person xml:id="regC-PMAI">
+                <persName>Des Maizeaux, Pierre</persName>
+                <idno type="VIAF">100174106</idno>
+                <idno type="WikiData">Q3384717</idno>
+            </person>
         </listPerson>
 
         <listObject>
@@ -5111,7 +5116,7 @@
                         <cell><bibl>Recuel de divers pieces sur la philo-<lb/> sophie 2.Voll. 8° ꝑ
                                     M<hi rend="superscript:true">r</hi>. <hi rend="underlined:true"
                                     >Maizeaux</hi></bibl></cell>
-                        <cell><persName ana="prov:donor">Maizeaux</persName></cell>
+                        <cell><persName corresp="#regC-PMAI" ana="prov:donor">Maizeaux</persName></cell>
                         <cell>8° D.58.59. Jur.</cell>
                         <cell>Prof. Jur.</cell>
                     </row>
@@ -7369,7 +7374,7 @@
                     <row ana="prov:donation">
                         <cell><bibl>Biblioth. Bultelliana. 2 Voll. <hi rend="underlined:true"
                                     >Par</hi>. 1711.</bibl></cell>
-                        <cell><persName type="donor">M<hi rend="superscript:true">r</hi>.
+                        <cell><persName corresp="#regC-PMAI" type="donor">M<hi rend="superscript:true">r</hi>.
                                 Maizeaux</persName></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>8° E. 23,24. <hi rend="underlined:true">Jur</hi>.</orig>
@@ -7380,7 +7385,7 @@
                     <row ana="prov:donation">
                         <cell><bibl>Biblioth. Baluziana. 2 Voll. <hi rend="underlined:true"
                                 >Par</hi>. 1719.</bibl></cell>
-                        <cell><persName type="donor">Idem</persName></cell>
+                        <cell><persName corresp="#regC-PMAI" type="donor">Idem</persName></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>8° E. 25.26. Jur.</orig>
                                     <reg>8° E 25,26 Jur.</reg>
@@ -7391,7 +7396,7 @@
                         <cell><bibl>Dissertation sur le Martyre de la<lb/>Legion Thebéene par Jean
                                 Dubur-<lb/>dieu. á <hi rend="underlined:true">Amst</hi>.
                                 1705.</bibl> 8° E. 27. <hi rend="underlined:true">Jur</hi>.</cell>
-                        <cell><persName type="donor">Idem.</persName></cell>
+                        <cell><persName corresp="#regC-PMAI" type="donor">Idem.</persName></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>8° E. 27. Jur.</orig>
                                     <reg>8° E 27 Jur.</reg>
@@ -7402,7 +7407,7 @@
                         <cell><bibl>Θηρολογία βίβλɩκα per Godofr. <hi rend="underlined:true"
                                     >Mul</hi>-<lb/><hi rend="underlined:true">lerum</hi>
                                 <hi rend="underlined:true">Witteb</hi>. 1676.</bibl></cell>
-                        <cell><persName type="donor">Idem.</persName></cell>
+                        <cell><persName corresp="#regC-PMAI" type="donor">Idem.</persName></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>8° E. 29. Jur.</orig>
                                     <reg>8° E 29 Jur.</reg>
@@ -7412,7 +7417,7 @@
                     <row ana="prov:donation">
                         <cell><bibl>La vie de M<hi rend="superscript:true">r</hi>. Boileau á <hi
                                     rend="underlined:true">Amst</hi>. 1712</bibl>. par</cell>
-                        <cell><persName type="donor">M<hi rend="superscript:true">r</hi>.
+                        <cell><persName corresp="#regC-PMAI" type="donor">M<hi rend="superscript:true">r</hi>.
                                 Maizeaux</persName></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>8° E. 28. Jur.</orig>
@@ -7481,7 +7486,7 @@
                     </row>
                     <row>
                         <cell cols="4">The rest of the Books in this page were given
-                                by<lb/><persName type="donor">Ant. Peisley</persName>, Bookseller in
+                            by<lb/><persName corresp="#regC-APEI" type="donor">Ant. Peisley</persName>, Bookseller in
                             Oxford.</cell>
                     </row>
                     <row ana="prov:donation">
