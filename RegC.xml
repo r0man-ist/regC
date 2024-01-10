@@ -3577,7 +3577,88 @@
             </monogr>
         </biblStruct>
     </object>
+    <object xml:id="regC-bib-Cotes1721" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8&#176; A 182 Linc.</idno>
+            <idno type="ALMA-ID">990147529870107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990147529870107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Cotes, Digby.</author>
+                <title>Fifteen sermons preech'd on several occasions.</title>
+                <imprint>
+                    <pubPlace>Oxf.</pubPlace>
+                    <date>1721</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Catherall1717" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8&#176; E 32 Jur.</idno>
+            <idno type="ALMA-ID">990134901410107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990134901410107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Catherall, Samuel, 1661?-1723, author.</author>
+                <title>Eik&#333;n S&#333;kratik&#275;. Or, a portraiture of Socrates, extracted out
+                    of Plato. : In blank verse. /</title>
+                <imprint>
+                    <pubPlace>Oxford: :</pubPlace>
+                    <date>1717</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Catherall1720" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8&#176; E 32 Jur.</idno>
+            <idno type="ALMA-ID">990135040930107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135040930107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Catherall, Samuel, 1661?-1723, author.</author>
+                <title>An essay on the conflagration in blank verse. / By Samuel Catherall M.A.
+                    Fellow of Oriel College in Oxford..</title>
+                <imprint>
+                    <pubPlace>Oxford, :</pubPlace>
+                    <date>1720</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Makin1657" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">AA 32(1) Jur.</idno>
+            <idno type="ALMA-ID">990145462340107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990145462340107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Mak&#238;n, Jirjis b. Ab&#238; al-Y&#226;sir al-&#703;Am&#238;d.</author>
+                <title>L'histoire mahometane, ou Les quarante-neuf chalifes du Macine, tr. [from
+                    Al-Mak&#238;n]. Auec vn sommaire de l'histoire des Mussulmans ou Sarrazins en
+                    Espagne, extr. de R. Ximenes. Le tout par P. Vattier. Ie &#233;d.</title>
+                <imprint>
+                    <pubPlace>Par.</pubPlace>
+                    <date>1657</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
 </listObject>
+
 
     </standOff>
     <text>
@@ -5379,7 +5460,7 @@
                     </row>
                     <row ana="prov:move-changeId">
                         <cell>26.</cell>
-                        <cell><bibl>Vattier</bibl>.</cell>
+                        <cell><bibl corresp="#regC-bib-Makin1657">Vattier</bibl>.</cell>
                         <cell>B.5.1. Art.</cell>
                         <cell>A.A. 32. Jur.</cell>
                     </row>
@@ -7414,8 +7495,8 @@
                         <cell/>
                     </row>
                     <row ana="prov:donation">
-                        <cell cols="2"><bibl>1. Εἰκὼν Σωκρατική</bibl>
-                            <bibl>_2.Essay on yͤ Conflagration</bibl></cell>
+                        <cell cols="2"><bibl corresp="#regC-bib-Catherall1717">1. Εἰκὼν Σωκρατική</bibl>
+                            <bibl corresp="#regC-bib-Catherall1720">_2.Essay on yͤ Conflagration</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>8° E.32. Jur.</orig>
                                     <reg>8° E 32 Jur.</reg>
@@ -7444,7 +7525,7 @@
                         <cell/>
                     </row>
                     <row ana="prov:donation">
-                        <cell><bibl>Digby Cotes’s Sermons. <hi rend="underlined:true">Oxon</hi>.
+                        <cell><bibl corresp="#regC-bib-Cotes1721">Digby Cotes’s Sermons. <hi rend="underlined:true">Oxon</hi>.
                                 1721</bibl></cell>
                         <cell>...........</cell>
                         <cell><ab type="shelfmark"><choice>
