@@ -4792,7 +4792,10 @@
                         <cell><measure quantity="1" unit="pound">1</measure></cell>
                         <cell><measure quantity="0" unit="shilling">0</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>fol. B. 5. 1. Art</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>fol. B. 5. 1. Art</orig>
+                            <reg>fol. B 5.1 Art.</reg>
+                        </choice></ab></cell>
                         <cell>Proc. Sen.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -4803,7 +4806,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="15" unit="shilling">15</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>C. 2. 1. Art.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>C. 2. 1. Art.</orig>
+                            <reg>C 2.1 Art.</reg>
+                        </choice></ab></cell>
                         <cell>Proc. Sen.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -4815,7 +4821,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="1" unit="shilling">1</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
-                        <cell>F.F. 34. Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>F.F. 34. Th.</orig>
+                            <reg>FF 34 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Vice.-Can.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -4826,7 +4835,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="3" unit="shilling">3</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
-                        <cell>FF. 38. <hi rend="underlined:true">Th</hi>.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>FF. 38. <hi rend="underlined:true">Th</hi>.</orig>
+                            <reg>FF 38 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Vice.-Can.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -4837,7 +4849,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="1" unit="shilling">1</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
-                        <cell>FF. 31. Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>FF. 31. Th.</orig>
+                            <reg>FF 31 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Vice-Can.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -4848,7 +4863,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="7" unit="shilling">7</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
-                        <cell>A. A. 37. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>A. A. 37. Jur.</orig>
+                            <reg>AA 37 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -4860,7 +4878,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="4" unit="shilling">4</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>A.A. 35. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>A.A. 35. Jur.</orig>
+                            <reg>AA 35 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -4870,7 +4891,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="2" unit="shilling">2</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
-                        <cell>F.F. 32. Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>F.F. 32. Th.</orig>
+                            <reg>FF 32 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Th. Vice-Can.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -4881,7 +4905,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="2" unit="shilling">2</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
-                        <cell>F.F. 37. Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>F.F. 37. Th.</orig>
+                            <reg>FF 37 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Vice-Can.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -4892,7 +4919,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="3" unit="shilling">3</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>B. 26. 60. Linc.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>B. 26. 60. Linc.</orig>
+                            <reg>B 26.60 Linc.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Astron.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -4902,7 +4932,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="1" unit="shilling">1</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>F.F. 36. Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>F.F. 36. Th.</orig>
+                            <reg>FF 36 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Vice-Can.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -4913,7 +4946,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="6" unit="shilling">6</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>FF. 35. Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>FF. 35. Th.</orig>
+                            <reg>FF 35 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Vice-Can.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -4924,7 +4960,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="2" unit="shilling">2</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>A.A. 36. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>A.A. 36. Jur.</orig>
+                            <reg>AA 36 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -4935,7 +4974,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="4" unit="shilling">4</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
-                        <cell>F.F. 33. Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>F.F. 33. Th.</orig>
+                            <reg>FF 33 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Vice.-Can.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -4946,7 +4988,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="2" unit="shilling">2</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
-                        <cell>A.A. 34. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>A.A. 34. Jur.</orig>
+                            <reg>AA 34 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur </cell>
                     </row>
                     <row ana="prov:purchase">
@@ -4957,7 +5002,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="2" unit="shilling">2</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>FF. 30. Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>FF. 30. Th.</orig>
+                            <reg>FF 30 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Vice-Can</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5024,7 +5072,10 @@
                         <cell><measure quantity="1" unit="pound">1</measure></cell>
                         <cell><measure quantity="14" unit="shilling">14</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>C.C. 1,2 Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>C.C. 1,2 Jur.</orig>
+                            <reg>CC 1,2 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5044,7 +5095,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="0" unit="shilling">0</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
-                        <cell>ibid.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>ibid.</orig>
+                            <reg>8° M. 19. Linc.</reg>
+                        </choice></ab></cell>
                         <cell rows="2">Given afterwards by<lb/>the Bishop, as appears<lb/>in the
                                 <ref target="#fol-29r"> next year&apos;s<lb/> Account</ref>.</cell>
                     </row>
@@ -5054,7 +5108,10 @@
                         <cell/>
                         <cell/>
                         <cell/>
-                        <cell>ibid.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>ibid.</orig>
+                            <reg>8° M. 19. Linc.</reg>
+                        </choice></ab></cell>
 
                     </row>
                     <row ana="prov:purchase">
@@ -5065,7 +5122,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="3" unit="shilling">3</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>ibid.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>ibid.</orig>
+                            <reg>8° M. 19. Linc.</reg>
+                        </choice></ab></cell>
                         <cell/>
                     </row>
                     <row ana="prov:purchase">
@@ -5076,7 +5136,10 @@
                         <cell><measure quantity="1" unit="pound">1</measure></cell>
                         <cell><measure quantity="4" unit="shilling">4</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>C. 4. 15. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>C. 4. 15. Jur.</orig>
+                            <reg>C 4.15 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5088,7 +5151,10 @@
                         <cell><measure quantity="1" unit="pound">1</measure></cell>
                         <cell><measure quantity="18" unit="shilling">18</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>T. 10.1. Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>T. 10.1. Th.</orig>
+                            <reg>T 10.1 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Vice-Can.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5099,7 +5165,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="11" unit="shilling">11</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>8°. A. 90. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8°. A. 90. Jur.</orig>
+                            <reg>8° A 90 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5110,7 +5179,10 @@
                         <cell><measure quantity="2" unit="pound">2</measure></cell>
                         <cell><measure quantity="18" unit="shilling">18</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>R. 7.11,12. Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>R. 7.11,12. Th.</orig>
+                            <reg>R 7.11,12 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Vice-Can.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5120,7 +5192,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="8" unit="shilling">8</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>DD. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>DD. Jur.</orig>
+                            <reg>DD Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5140,7 +5215,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="6" unit="shilling">6</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>FF. 13. Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>FF. 13. Th.</orig>
+                            <reg>FF 13 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Vice-Can.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5152,7 +5230,10 @@
                         <cell><measure quantity="2" unit="pound">2</measure></cell>
                         <cell><measure quantity="10" unit="shilling">10</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>L. 4. 4,5,6. Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>L. 4. 4,5,6. Th.</orig>
+                            <reg>L 4.4,5,6 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Vice-Can.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5163,7 +5244,10 @@
                         <cell><measure quantity="2" unit="pound">2</measure></cell>
                         <cell><measure quantity="5" unit="shilling">5</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>L. 3. 12,13. Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>L. 3. 12,13. Th.</orig>
+                            <reg>L 3.12,13 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Vice-Can.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5175,7 +5259,10 @@
                         <cell><measure quantity="2" unit="pound">2</measure></cell>
                         <cell><measure quantity="16" unit="shilling">16</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>S.12. 14,15. Th.<note>Todays shelfmark is S. 2.14,15 Th.; in the
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>S.12. 14,15. Th.</orig>
+                            <reg>S 2.14,15 Th.</reg>
+                        </choice></ab><note>Todays shelfmark is S. 2.14,15 Th.; in the
                                 copies, "12" is crossed out and corrected to "2". It is more likely
                                 that a clerical mistake was made and later corrected than that the
                                 book was actually moved from one shelfmark to another.</note></cell>
@@ -5188,7 +5275,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="10" unit="shilling">10</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>CC. Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>CC. Th.</orig>
+                            <reg>CC Th.</reg>
+                        </choice></ab></cell>
                         <cell>Vice-Can.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5199,7 +5289,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="12" unit="shilling">12</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
-                        <cell>8° D. 48. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8° D. 48. Jur.</orig>
+                            <reg>8° D 48 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5210,7 +5303,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="3" unit="shilling">3</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
-                        <cell>8° D. 70. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8° D. 70. Jur.</orig>
+                            <reg>8° D 70 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5221,7 +5317,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="6" unit="shilling">6</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>S. 3. 18. Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>S. 3. 18. Th.</orig>
+                            <reg>S 3.18 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Vice-Can.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5232,7 +5331,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="10" unit="shilling">10</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>A.A. 40,41. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>A.A. 40,41. Jur.</orig>
+                            <reg>AA 40,41 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row>
@@ -5275,7 +5377,10 @@
                         <cell><measure quantity="1" unit="pound">1</measure></cell>
                         <cell><measure quantity="3" unit="shilling">3</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>E.4.3. Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>E.4.3. Th.</orig>
+                            <reg>E 4.3 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Vice-Can.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5286,7 +5391,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="7" unit="shilling">7</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>8°.D.54. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8°.D.54. Jur.</orig>
+                            <reg>8° D 54 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5296,7 +5404,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="6" unit="shilling">6</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>8°. D.53. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8°. D.53. Jur.</orig>
+                            <reg>8° D 53 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5306,7 +5417,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="6" unit="shilling">6</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>8°.D.52. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8°.D.52. Jur.</orig>
+                            <reg>8° D 52 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5316,7 +5430,10 @@
                         <cell><measure quantity="1" unit="pound">1</measure></cell>
                         <cell><measure quantity="8" unit="shilling">8</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>8° D. 50,51. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8° D. 50,51. Jur.</orig>
+                            <reg>8° D 50,51 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5326,7 +5443,10 @@
                         <cell><measure quantity="3" unit="pound">3</measure></cell>
                         <cell><measure quantity="6" unit="shilling">6</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>M.5.11,12. Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>M.5.11,12. Th.</orig>
+                            <reg>M 5.11,12 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Vice-Can.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5338,7 +5458,10 @@
                         <cell><measure quantity="1" unit="pound">1</measure></cell>
                         <cell><measure quantity="16" unit="shilling">16</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>J. 4.17.Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>J. 4.17.Th.</orig>
+                            <reg>J 4.17 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Vice-Can.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5349,7 +5472,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="4" unit="shilling">4</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>8°. D.60. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8°. D.60. Jur.</orig>
+                            <reg>8° D 60 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5360,7 +5486,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="6" unit="shilling">6</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
-                        <cell>A. A. 29.Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>A. A. 29.Jur.</orig>
+                            <reg>AA 29 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5370,7 +5499,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="8" unit="shilling">8</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
-                        <cell>A. A.28.Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>A. A.28.Jur.</orig>
+                            <reg>AA 28 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5389,7 +5521,10 @@
                         <cell/>
                         <cell/>
                         <cell/>
-                        <cell>8°. P.94. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8°. P.94. Jur.</orig>
+                            <reg>8° P 94 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5400,7 +5535,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="12" unit="shilling">12</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>A. A.30. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>A. A.30. Jur.</orig>
+                            <reg>AA 30 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5412,7 +5550,10 @@
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="13" unit="shilling">13</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>A. A. 48. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>A. A. 48. Jur.</orig>
+                            <reg>AA 48 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row>
@@ -5433,7 +5574,10 @@
                         <cell><measure quantity="3" unit="pound">3</measure></cell>
                         <cell><measure quantity="3" unit="shilling">3</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>B.6.3,4. Art.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>B.6.3,4. Art.</orig>
+                            <reg>B 6.3,4 Art.</reg>
+                        </choice></ab></cell>
                         <cell>Proc. Sen.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5444,7 +5588,10 @@
                         <cell><measure quantity="1" unit="pound">1</measure></cell>
                         <cell><measure quantity="10" unit="shilling">10</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>A. A.25. &amp;c Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>A. A.25. &amp;c Jur.</orig>
+                            <reg>AA 25&amp;c Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5455,7 +5602,10 @@
                         <cell><measure quantity="1" unit="pound">1</measure></cell>
                         <cell><measure quantity="13" unit="shilling">13</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>A.1.26, &amp;c Art.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>A.1.26, &amp;c Art.</orig>
+                            <reg>A 1.26, &amp;c Art.</reg>
+                        </choice></ab></cell>
                         <cell>Proc. Sen.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5467,7 +5617,10 @@
                         <cell><measure quantity="1" unit="pound">1</measure></cell>
                         <cell><measure quantity="12" unit="shilling">12</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>T.1.7. Med.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>T.1.7. Med.</orig>
+                            <reg>T 1.7 Med.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Med.</cell>
                     </row>
                     <row>
@@ -5507,7 +5660,10 @@
                         <cell/>
                         <cell/>
                         <cell/>
-                        <cell>D.3.12. Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>D.3.12. Th.</orig>
+                            <reg>D 3.12 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Vice-Can</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5517,7 +5673,10 @@
                         <cell/>
                         <cell/>
                         <cell/>
-                        <cell>8°.M.236. Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8°.M.236. Th.</orig>
+                            <reg>8° M 236 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Theol.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5526,7 +5685,10 @@
                         <cell/>
                         <cell/>
                         <cell/>
-                        <cell>8° M.23.Linc.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8° M.23.Linc.</orig>
+                            <reg>8° M 23 Linc.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Astron.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5536,7 +5698,10 @@
                         <cell/>
                         <cell/>
                         <cell/>
-                        <cell>8° <del>M.</del>C.63.Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8° <del>M.</del>C.63.Jur.</orig>
+                            <reg>8° C 63 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5545,7 +5710,10 @@
                         <cell/>
                         <cell/>
                         <cell/>
-                        <cell>8° <del>M</del>C.64.Jur</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8° <del>M</del>C.64.Jur</orig>
+                            <reg>8° C 64 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                 </table></ab>
@@ -5569,7 +5737,10 @@
                         <cell/>
                         <cell/>
                         <cell/>
-                        <cell>8° D.71.Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8° D.71.Jur.</orig>
+                            <reg>8° D 71 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5579,7 +5750,10 @@
                         <cell/>
                         <cell/>
                         <cell/>
-                        <cell>D.D.40.Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>D.D.40.Th.</orig>
+                            <reg>DD 40 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Vice.Can.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5589,7 +5763,10 @@
                         <cell/>
                         <cell/>
                         <cell/>
-                        <cell>FF.39.Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>FF.39.Th.</orig>
+                            <reg>FF 39 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Vice-Can.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -5599,7 +5776,10 @@
                         <cell/>
                         <cell/>
                         <cell/>
-                        <cell>8° Z.414.Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8° Z.414.Th.</orig>
+                            <reg>8° Z 414 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Theol.</cell>
                     </row>
                 </table></ab>
@@ -5617,14 +5797,20 @@
                                     rend="underlined:true">Ven</hi>. 1475. fol.</bibl></cell>
                         <cell><persName ana="prov:donor">M<hi rend="superscript:true">r</hi>.
                                 Massey</persName></cell>
-                        <cell>C.5.10.Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>C.5.10.Th.</orig>
+                            <reg>C 5.10 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Vice-Can.</cell>
                     </row>
                     <row ana="prov:donation">
                         <cell><bibl>Supplem. in Monument. Angl. 1728. 8°</bibl></cell>
                         <cell><persName corresp="#regC-JLEN" ana="prov:donor">M<hi
                                     rend="superscript:true">r</hi>. Le Neve</persName></cell>
-                        <cell>8° D.36.Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8° D.36.Jur.</orig>
+                            <reg>8° D 36 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:donation">
@@ -5633,41 +5819,59 @@
                                 8°</bibl></cell>
                         <cell><persName corresp="#regC-JLEN" ana="prov:donor"
                             >Idem.</persName></cell>
-                        <cell>8° Z.412.Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8° Z.412.Th.</orig>
+                            <reg>8° Z 412 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Theol.</cell>
                     </row>
                     <row ana="prov:donation">
                         <cell><bibl>Opuscula B. <hi rend="underlined:true">Augustini</hi>, Ms.
                                 pergam. 8°.</bibl></cell>
                         <cell><persName ana="prov:donor">Dr. Brabourne</persName></cell>
-                        <cell>NE.F.9.19.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>NE.F.9.19.</orig>
+                            <reg>NE F 9.19</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Græc.</cell>
                     </row>
                     <row ana="prov:donation">
                         <cell><bibl>S. <hi rend="underlined:true">Bonaventuræ</hi> meditationes
                                 de<lb/> Jesu Xto. Ms. chart. 8°</bibl></cell>
                         <cell><persName ana="prov:donor">Idem.</persName></cell>
-                        <cell>NE.F.9. 20.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>NE.F.9. 20.</orig>
+                            <reg>NE F 9.20</reg>
+                        </choice></ab></cell>
                         <cell>Prof Græc.</cell>
                     </row>
                     <row ana="prov:donation">
                         <cell><bibl>J. <hi rend="underlined:true">Leopold</hi> de Itinere suo
                                 Suecio. 8°</bibl>.</cell>
                         <cell/>
-                        <cell>8°. D.56.Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8°. D.56.Jur.</orig>
+                            <reg>8° D 56 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:donation">
                         <cell><bibl>A volume of Tracts in 8°</bibl></cell>
                         <cell/>
-                        <cell>8° D.55.Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8° D.55.Jur.</orig>
+                            <reg>8° D 55 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof Jur.</cell>
                     </row>
                     <row ana="prov:donation">
                         <cell><bibl><hi rend="underlined:true">Cebetis</hi> Thebani Tabula, Gr. L. ꝑ
                                 Johnson</bibl></cell>
                         <cell/>
-                        <cell>8° D.72.Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8° D.72.Jur.</orig>
+                            <reg>8° D 72 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:donation">
@@ -5675,7 +5879,10 @@
                                 8°</bibl></cell>
                         <cell><persName ana="prov:donor" corresp="#regC-JLIN">M<hi
                                     rend="superscript:true">r</hi>. Lindsay</persName></cell>
-                        <cell>8° D.57.Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8° D.57.Jur.</orig>
+                            <reg>8° D 57 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:donation">
@@ -5683,7 +5890,10 @@
                                 Bernoulli. 4°</bibl>.</cell>
                         <cell><persName ana="prov:donor">D<hi rend="superscript:true">r</hi>.
                                 Keil</persName></cell>
-                        <cell>A.A.49.Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>A.A.49.Jur.</orig>
+                            <reg>AA 49 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:donation">
@@ -5691,7 +5901,10 @@
                                 4°</bibl></cell>
                         <cell><persName ana="prov:donor">M<hi rend="superscript:true">r</hi>.
                                 Phillips</persName>.</cell>
-                        <cell>A.A.24.Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>A.A.24.Jur.</orig>
+                            <reg>AA 24 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:donation">
@@ -5699,14 +5912,20 @@
                             fol.</bibl></cell>
                         <cell><persName ana="prov:donor" corresp="#regC-NTRO">M<hi
                                     rend="superscript:true">r</hi>. Trot</persName>.</cell>
-                        <cell>C.11.16. Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>C.11.16. Th.</orig>
+                            <reg>C 11.16 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Vice-Can.</cell>
                     </row>
                     <row ana="prov:donation">
                         <cell><bibl>Musicus apparatus Academicus ꝑ</bibl></cell>
                         <cell><persName ana="prov:donor">D<hi rend="superscript:true">r</hi>.
                                 Croft</persName>.</cell>
-                        <cell>C.1.17.Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>C.1.17.Jur.</orig>
+                            <reg>C 1.17 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:donation">
@@ -5715,7 +5934,10 @@
                                     >Maizeaux</hi></bibl></cell>
                         <cell><persName corresp="#regC-PMAI" ana="prov:donor"
                             >Maizeaux</persName></cell>
-                        <cell>8° D.58.59. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8° D.58.59. Jur.</orig>
+                            <reg>8° D 58.59 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:donation">
@@ -5724,7 +5946,10 @@
                             Author</bibl>.</cell>
                         <cell><persName ana="prov:donor" corresp="#regC-JJON">M<hi
                                     rend="superscript:true">r</hi>. Johnson</persName></cell>
-                        <cell>8°X.68.69. Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8°X.68.69. Th.</orig>
+                            <reg>8° X.68,69 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Theol.</cell>
                     </row>
                     <row ana="prov:donation">
@@ -5732,7 +5957,10 @@
                             by</bibl></cell>
                         <cell><persName ana="prov:donor" corresp="#regC-WLUX">M<hi
                                     rend="superscript:true">r</hi>. Lux</persName>.</cell>
-                        <cell>8° M.236.Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8° M.236.Th.</orig>
+                            <reg>8° M 236 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Theol.</cell>
                     </row>
                     <row ana="prov:donation">
@@ -5748,7 +5976,10 @@
                     <row ana="prov:donation">
                         <cell><bibl>Biblia Lat. Vet. Edit. 8°</bibl></cell>
                         <cell/>
-                        <cell>8° O.30.Linc.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8° O.30.Linc.</orig>
+                            <reg>8° O 30 Linc.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Astron.</cell>
                     </row>
                     <row ana="prov:donation">
@@ -5756,7 +5987,10 @@
                             by</bibl></cell>
                         <cell><persName ana="prov:donor" corresp="#regC-RRAW">D<hi
                                     rend="superscript:true">r</hi>. Rawlinson</persName></cell>
-                        <cell>8° D.49.Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8° D.49.Jur.</orig>
+                            <reg>8° D 49 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:donation">
@@ -5766,7 +6000,10 @@
                                     rend="superscript:true">r</hi>. Thomas<lb/><hi
                                     rend="underlined:true">Dereham</hi>, of<lb/>Dereham Ab-<lb/> bey
                                 in the<lb/> County of<lb/>Norfolk</persName></cell>
-                        <cell rows="3">C.17.1,2,3</cell>
+                        <cell rows="3"><ab type="shelfmark"><choice>
+                            <orig>C.17.1,2,3</orig>
+                            <reg>C 17.1,2,3</reg>
+                        </choice></ab></cell>
                         <cell rows="3">Prof. Astron.</cell>
                     </row>
                     <row ana="prov:donation">
@@ -5784,7 +6021,10 @@
                                 quodam</bibl></cell>
                         <cell rows="2"><persName ana="prov:donor" corresp="#regC-FSMI">D.
                                 Smit</persName>.</cell>
-                        <cell rows="2">4° B 26.61.Linc.</cell>
+                        <cell rows="2"><ab type="shelfmark"><choice>
+                            <orig>4° B 26.61.Linc.</orig>
+                            <reg>4° B 26.61 Linc.</reg>
+                        </choice></ab></cell>
                         <cell rows="2">Prof. Astron.</cell>
                     </row>
                     <row ana="prov:donation">
@@ -5796,7 +6036,10 @@
                         <cell><bibl corresp="#regC-bib-Colbatch1695">Lumen Chirurgicum</bibl></cell>
                         <cell rows="2"><persName ana="prov:donor" corresp="#regC-JCOL">by D<hi
                                     rend="superscript:true">r</hi>. Colbatch</persName></cell>
-                        <cell rows="2">8° M.22.Linc.</cell>
+                        <cell rows="2"><ab type="shelfmark"><choice>
+                            <orig>8° M.22.Linc.</orig>
+                            <reg>8° M 22 Linc.</reg>
+                        </choice></ab></cell>
                         <cell rows="2">Prof. Astron.</cell>
                     </row>
                     <row ana="prov:donation">
@@ -5808,7 +6051,10 @@
                         <cell><bibl>Liber Precum Lat. Ms.</bibl></cell>
                         <cell><persName ana="prov:donor">M<hi rend="superscript:true">r</hi>. Mid.
                                 Massey</persName></cell>
-                        <cell>NE.F. 1.13.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>NE.F. 1.13.</orig>
+                            <reg>NE F 1.13</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Græc.</cell>
                     </row>
                 </table></ab>
@@ -5826,7 +6072,10 @@
                         inserted in<lb/> the Vellam Register of Bene-<lb/> factors under his Name;
                         and<lb/> in the Catalogue of Mss. pag.<lb/> 140. Super C. Art.</cell>
                     <cell/>
-                    <cell>Super C. Art.</cell>
+                    <cell><ab type="shelfmark"><choice>
+                        <orig>Super C. Art.</orig>
+                        <reg>Super C Art.</reg>
+                    </choice></ab></cell>
                     <cell>Prof. Græc.</cell>
                 </row>
                 <row>
@@ -5854,7 +6103,10 @@
                     <cell><measure quantity="0" unit="pound">0</measure>:<measure quantity="7"
                             unit="shilling">7</measure>:<measure quantity="0" unit="pence"
                             >0</measure></cell>
-                    <cell>8° F.94.Jur.</cell>
+                    <cell><ab type="shelfmark"><choice>
+                        <orig>8° F.94.Jur.</orig>
+                        <reg>8° F 94 Jur.</reg>
+                    </choice></ab></cell>
                     <cell>Prof. Jur.</cell>
                 </row>
                 <row>
@@ -6698,7 +6950,10 @@
                         <cell><measure quantity="1" unit="pound">01</measure></cell>
                         <cell><measure quantity="10" unit="shilling">10</measure></cell>
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
-                        <cell>H.1.14 Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>H.1.14 Jur.</orig>
+                            <reg>H 1.14 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -6708,7 +6963,10 @@
                         <cell><measure quantity="1" unit="pound">01</measure></cell>
                         <cell><measure quantity="5" unit="shilling">05</measure></cell>
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
-                        <cell>P.1.8,9. Med.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>P.1.8,9. Med.</orig>
+                            <reg>P 1.8,9 Med.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Med.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -6717,7 +6975,10 @@
                         <cell><measure quantity="1" unit="pound">01</measure></cell>
                         <cell><measure quantity="4" unit="shilling">04</measure></cell>
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
-                        <cell>C.17.12,13 Linc.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>C.17.12,13 Linc.</orig>
+                            <reg>C 17.12,13 Linc.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Astr.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -6727,7 +6988,10 @@
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="15" unit="shilling">15</measure></cell>
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
-                        <cell>C.17.14.Linc.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>C.17.14.Linc.</orig>
+                            <reg>C 17.14 Linc.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Astr.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -6736,7 +7000,10 @@
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="15" unit="shilling">15</measure></cell>
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
-                        <cell>C.17.15.Linc.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>C.17.15.Linc.</orig>
+                            <reg>C 17.15 Linc.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Astr.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -6745,7 +7012,10 @@
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="18" unit="shilling">18</measure></cell>
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
-                        <cell>4°CC.24.Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>4°CC.24.Jur.</orig>
+                            <reg>4° CC 24 Jur.</reg>
+                        </choice></ab></cell>
                         <cell/>
                     </row>
                     <row ana="prov:purchase">
@@ -6754,7 +7024,10 @@
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="12" unit="shilling">12</measure></cell>
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
-                        <cell>4°C.17.11.Linc.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>4°C.17.11.Linc.</orig>
+                            <reg>4° C 17.11 Linc.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Astr.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -6763,7 +7036,10 @@
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="15" unit="shilling">15</measure></cell>
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
-                        <cell>P. 1.10.Med.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>P. 1.10.Med.</orig>
+                            <reg>P 1.10 Med.</reg>
+                        </choice></ab></cell>
                         <cell>Pr. Med.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -6772,7 +7048,10 @@
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="16" unit="shilling">16</measure></cell>
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
-                        <cell>4°C.17.10 Linc.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>4°C.17.10 Linc.</orig>
+                            <reg>4° C 17.10 Linc.</reg>
+                        </choice></ab></cell>
                         <cell>Pr. Astr.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -6783,7 +7062,10 @@
                         <cell><measure quantity="2" unit="pound">02</measure></cell>
                         <cell><measure quantity="5" unit="shilling">05</measure></cell>
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
-                        <cell>Arch. A.143.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>Arch. A.143.</orig>
+                            <reg>Arch. A 143</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Heb.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -6793,7 +7075,10 @@
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="1" unit="shilling">01</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
-                        <cell>8°E.30.Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8°E.30.Jur.</orig>
+                            <reg>8° E 30 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row>
@@ -6950,7 +7235,10 @@
                         <cell/>
                         <cell/>
                         <cell/>
-                        <cell>A.A.21. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>A.A.21. Jur.</orig>
+                            <reg>AA 21 Jur.</reg>
+                        </choice></ab></cell>
                         <cell/>
                     </row>
                     <row ana="prov:purchase">
@@ -6958,7 +7246,10 @@
                         <cell><measure quantity="1" unit="pound">01</measure></cell>
                         <cell><measure quantity="2" unit="shilling">02</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
-                        <cell>A.A.63,64,65. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>A.A.63,64,65. Jur.</orig>
+                            <reg>AA 63,64,65 Jur.</reg>
+                        </choice></ab></cell>
                         <cell/>
                     </row>
                     <row ana="prov:purchase">
@@ -6968,7 +7259,10 @@
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="0" unit="shilling">00</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
-                        <cell>A.A. 49. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>A.A. 49. Jur.</orig>
+                            <reg>AA 49 Jur.</reg>
+                        </choice></ab></cell>
                         <cell/>
                     </row>
                     <row ana="prov:purchase">
@@ -6977,7 +7271,10 @@
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="5" unit="shilling">05</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
-                        <cell>8° Z.417.Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8° Z.417.Th.</orig>
+                            <reg>8° Z 417 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Pr. Th.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -6985,7 +7282,10 @@
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="5" unit="shilling">05</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
-                        <cell>...418...</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>...418...</orig>
+                            <reg>8° Z 418 Th.</reg>
+                        </choice></ab></cell>
                         <cell>Pr. Th.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -6993,7 +7293,10 @@
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="17" unit="shilling">17</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>B.B.29,30.Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>B.B.29,30.Jur.</orig>
+                            <reg>BB 29,30 Jur.</reg>
+                        </choice></ab></cell>
                         <cell/>
                     </row>
                     <row ana="prov:purchase">
@@ -7001,7 +7304,10 @@
                         <cell><measure quantity="1" unit="pound">01</measure></cell>
                         <cell><measure quantity="10" unit="shilling">10</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
-                        <cell>CC. Th.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>CC. Th.</orig>
+                            <reg>CC Th.</reg>
+                        </choice></ab></cell>
                         <cell/>
                     </row>
                     <row ana="prov:purchase">
@@ -7011,7 +7317,10 @@
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="11" unit="shilling">11</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>B.B.52.Med.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>B.B.52.Med.</orig>
+                            <reg>BB 52 Med.</reg>
+                        </choice></ab></cell>
                         <cell/>
                     </row>
                     <row ana="prov:purchase">
@@ -7020,7 +7329,10 @@
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="8" unit="shilling">08</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
-                        <cell>A.A.55. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>A.A.55. Jur.</orig>
+                            <reg>AA 55 Jur.</reg>
+                        </choice></ab></cell>
                         <cell/>
                     </row>
                     <row ana="prov:purchase">
@@ -7045,7 +7357,10 @@
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="8" unit="shilling">08</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>DD. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>DD. Jur.</orig>
+                            <reg>DD Jur.</reg>
+                        </choice></ab></cell>
                         <cell/>
                     </row>
                     <row ana="prov:purchase">
@@ -7055,7 +7370,10 @@
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="12" unit="shilling">12</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>8° A.177.-8-9-Linc.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8° A.177.-8-9-Linc.</orig>
+                            <reg>8° A 177,178,179 Linc.</reg>
+                        </choice></ab></cell>
                         <cell>Pr. Astr.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -7065,7 +7383,10 @@
                         <cell><measure quantity="2" unit="pound">02</measure></cell>
                         <cell><measure quantity="0" unit="shilling">00</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>C.4.11. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>C.4.11. Jur.</orig>
+                            <reg>C 4.11 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Pr. Jur.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -7074,7 +7395,10 @@
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="8" unit="shilling">08</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>8° A.172,173.Linc.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8° A.172,173.Linc.</orig>
+                            <reg>8° A 172,173 Linc.</reg>
+                        </choice></ab></cell>
                         <cell>Pr. Astr.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -7083,7 +7407,10 @@
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="14" unit="shilling">14</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
-                        <cell>8° A.174 5-6.Linc.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8° A.174 5-6.Linc.</orig>
+                            <reg>8° A 174,175,176 Linc.</reg>
+                        </choice></ab></cell>
                         <cell>Pr. Astr.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -7092,7 +7419,10 @@
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="5" unit="shilling">05</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
-                        <cell>8° C.74.Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8° C.74.Jur.</orig>
+                            <reg>8° C 74 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Pr. Jur.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -7102,7 +7432,10 @@
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="3" unit="shilling">03</measure></cell>
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
-                        <cell>8° Z.41.Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8° Z.41.Jur.</orig>
+                            <reg>8° Z 41 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Pr. Jur.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -7149,7 +7482,10 @@
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="1" unit="shilling">01</measure></cell>
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
-                        <cell rows="5">C.C.52.Art.</cell>
+                        <cell rows="5"><ab type="shelfmark"><choice>
+                            <orig>C.C.52.Art.</orig>
+                            <reg>CC 52 Art.</reg>
+                        </choice></ab></cell>
                         <cell/>
                     </row>
                     <row ana="prov:purchase">
@@ -7188,7 +7524,10 @@
                         <cell><measure quantity="1" unit="pound">01</measure></cell>
                         <cell><measure quantity="0" unit="shilling">00</measure></cell>
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
-                        <cell>P. 5.6. Med.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>P. 5.6. Med.</orig>
+                            <reg>P 5.6 Med.</reg>
+                        </choice></ab></cell>
                         <cell>Pr. Med.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -7211,7 +7550,10 @@
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="3" unit="shilling">03</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
-                        <cell>8° E.34. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8° E.34. Jur.</orig>
+                            <reg>8° E 34 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Pr. Jur.</cell>
                     </row>
                     <row ana="prov:purchase">
@@ -8238,7 +8580,7 @@
                     <row ana="prov:donation">
                         <cell><bibl corresp="#regC-bib-Martin1711">Biblioth. Bultelliana. 2 Voll.
                                     <hi rend="underlined:true">Par</hi>. 1711.</bibl></cell>
-                        <cell><persName corresp="#regC-PMAI" type="donor">M<hi
+                        <cell><persName corresp="#regC-PMAI" ana="prov:donor">M<hi
                                     rend="superscript:true">r</hi>. Maizeaux</persName></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>8° E. 23,24. <hi rend="underlined:true">Jur</hi>.</orig>
@@ -8249,7 +8591,7 @@
                     <row ana="prov:donation">
                         <cell><bibl corresp="regC-bib-Baluze1719">Biblioth. Baluziana. 2 Voll. <hi
                                     rend="underlined:true">Par</hi>. 1719.</bibl></cell>
-                        <cell><persName corresp="#regC-PMAI" type="donor">Idem</persName></cell>
+                        <cell><persName corresp="#regC-PMAI" ana="prov:donor">Idem</persName></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>8° E. 25.26. Jur.</orig>
                                     <reg>8° E 25,26 Jur.</reg>
@@ -8261,7 +8603,7 @@
                                 de la<lb/>Legion Thebéene par Jean Dubur-<lb/>dieu. á <hi
                                     rend="underlined:true">Amst</hi>. 1705.</bibl> 8° E. 27. <hi
                                 rend="underlined:true">Jur</hi>.</cell>
-                        <cell><persName corresp="#regC-PMAI" type="donor">Idem.</persName></cell>
+                        <cell><persName corresp="#regC-PMAI" ana="prov:donor">Idem.</persName></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>8° E. 27. Jur.</orig>
                                     <reg>8° E 27 Jur.</reg>
@@ -8273,7 +8615,7 @@
                                     rend="underlined:true">Mul</hi>-<lb/><hi rend="underlined:true"
                                     >lerum</hi>
                                 <hi rend="underlined:true">Witteb</hi>. 1676.</bibl></cell>
-                        <cell><persName corresp="#regC-PMAI" type="donor">Idem.</persName></cell>
+                        <cell><persName corresp="#regC-PMAI" ana="prov:donor">Idem.</persName></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>8° E. 29. Jur.</orig>
                                     <reg>8° E 29 Jur.</reg>
@@ -8284,7 +8626,7 @@
                         <cell><bibl corresp="#regC-bib-Desmaizeau1712">La vie de M<hi
                                     rend="superscript:true">r</hi>. Boileau á <hi
                                     rend="underlined:true">Amst</hi>. 1712</bibl>. par</cell>
-                        <cell><persName corresp="#regC-PMAI" type="donor">M<hi
+                        <cell><persName corresp="#regC-PMAI" ana="prov:donor">M<hi
                                     rend="superscript:true">r</hi>. Maizeaux</persName></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>8° E. 28. Jur.</orig>
@@ -8296,7 +8638,7 @@
                         <cell><bibl>Bp̄ of Chester [D<hi rend="superscript:true">r</hi>. Gastrels']
                                 Case w<hi rend="superscript:true">th</hi> relati-<lb/>on to the
                                 Warden of Manchester. 1721.</bibl></cell>
-                        <cell><persName type="donor">Auctor.</persName></cell>
+                        <cell><persName ana="prov:donor">Auctor.</persName></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>C.1. 18. Jur</orig>
                                     <reg>C 1.18 Jur.</reg>
@@ -8307,7 +8649,7 @@
                         <cell><bibl corresp="#regC-bib-Hutcheson1721
                             ">Archibald Hutcheson's Discourse of
                                 the<lb/>National Funds, Stocks &amp;c. 1721.</bibl></cell>
-                        <cell><persName corresp="regC-AHUT" type="donor">Auctor.</persName></cell>
+                        <cell><persName corresp="regC-AHUT" ana="prov:donor">Auctor.</persName></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>C. 10. 9. Jur.</orig>
                                     <reg>C 10.9 Jur.</reg>
@@ -8318,7 +8660,7 @@
                         <cell><bibl corresp="#regC-bib-Mead1720">Doctor Mead's Discourse upon
                                 the<lb/>Plague. <hi rend="underlined:true">Lond.</hi>
                             1720.</bibl></cell>
-                        <cell><persName corresp="#regC-RMEA" type="donor">Auctor</persName></cell>
+                        <cell><persName corresp="#regC-RMEA" ana="prov:donor">Auctor</persName></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>8° N. 81. Med.</orig>
                                     <reg>8° N 81 Med.</reg>
@@ -8329,7 +8671,7 @@
                         <cell><bibl corresp="#regC-bib-Bradford1700">D<hi rend="superscript:true"
                                     >r</hi>. Bradford's Sermons at Boyle's<lb/>Lectures. <hi
                                     rend="underlined:true">Lond.</hi> 1720</bibl></cell>
-                        <cell><persName type="donor">Mr. Wats of<lb/>S<hi rend="superscript:true"
+                        <cell><persName ana="prov:donor">Mr. Wats of<lb/>S<hi rend="superscript:true"
                                     >t</hi>. Johns</persName></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>F.F. 58. Th.<note>The copy is at FF 59 Th. today and the
@@ -8345,7 +8687,7 @@
                                     rend="underlined:true">Noble</hi> Observationes de
                                 venis<lb/>lacteis &amp;c. <hi rend="underlined:true">Par</hi>.
                                 1655.</bibl></cell>
-                        <cell><persName corresp="#regC-HSLO" type="donor">D<hi
+                        <cell><persName corresp="#regC-HSLO" ana="prov:donor">D<hi
                                     rend="superscript:true">r</hi>. Sloane</persName></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>8° O. 35. Linc.</orig>
@@ -8359,13 +8701,13 @@
                     </row>
                     <row>
                         <cell cols="4">The rest of the Books in this page were given
-                                by<lb/><persName corresp="#regC-APEI" type="donor">Ant.
+                                by<lb/><persName corresp="#regC-APEI" ana="prov:donor">Ant.
                                 Peisley</persName>, Bookseller in Oxford.</cell>
                     </row>
                     <row ana="prov:donation">
                         <cell cols="2"><bibl>Demosthenis &amp; Aschinis Oratt. περί
                                 παραπρrεσ<lb/>βείας. Gr. Lat. <hi rend="underlined:true">Oxon</hi>.
-                                1721. (ꝓ H. Brooke)</bibl></cell>
+                            1721. (ꝓ H. Brooke)</bibl><persName corresp="#regC-APEI" ana="prov:donor"/></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>8° E. 33 Jur.</orig>
                                     <reg>8° E 33 Jur.</reg>
@@ -8376,7 +8718,7 @@
                         <cell cols="2"><bibl corresp="#regC-bib-Catherall1717">1. Εἰκὼν
                                 Σωκρατική</bibl>
                             <bibl corresp="#regC-bib-Catherall1720">_2.Essay on yͤ
-                                Conflagration</bibl></cell>
+                                Conflagration</bibl><persName corresp="#regC-APEI" ana="prov:donor"/></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>8° E.32. Jur.</orig>
                                     <reg>8° E 32 Jur.</reg>
@@ -8384,7 +8726,7 @@
                         <cell/>
                     </row>
                     <row ana="prov:donation">
-                        <cell>3. _<bibl>Poem on the Bp̄ of Durham's Death. 1721</bibl>.</cell>
+                        <cell>3. _<bibl>Poem on the Bp̄ of Durham's Death. 1721</bibl><persName corresp="#regC-APEI" ana="prov:donor"/>.</cell>
                         <cell/>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>B. 1. 19. Art.</orig>
@@ -8400,13 +8742,13 @@
                     </row>
                     <row ana="prov:donation">
                         <cell cols="2">M<hi rend="superscript:true">r</hi>. Rogers’s [late of
-                            C.C.C.] his Act Sermon. 1721.</cell>
+                            C.C.C.] his Act Sermon. 1721.<persName corresp="#regC-APEI" ana="prov:donor"/></cell>
                         <cell/>
                         <cell/>
                     </row>
                     <row ana="prov:donation">
                         <cell><bibl corresp="#regC-bib-Cotes1721">Digby Cotes’s Sermons. <hi
-                                    rend="underlined:true">Oxon</hi>. 1721</bibl></cell>
+                            rend="underlined:true">Oxon</hi>. 1721</bibl><persName corresp="#regC-APEI" ana="prov:donor"/></cell>
                         <cell>...........</cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>8° A. 182. Linc.</orig>
