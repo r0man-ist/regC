@@ -4160,7 +4160,7 @@
                         <title>An introduction to the true astronomy: or, Astronomical lectures, :
                             read in the astronomical school of the University of Oxford. /</title>
                         <imprint>
-                            <pubPlace>London: :</pubPlace>
+                            <pubPlace>London</pubPlace>
                             <date>1721</date>
                         </imprint>
                     </monogr>
@@ -4340,13 +4340,13 @@
 
             <pb xml:id="fol-8r" n="3" style="empty"/>
             <pb xml:id="fol-8v" n="4"/>
-            <ab ana="prov:when"><date when="1720"/>
+            <ab ana="prov:when"><date when="1720-07-21"/>
                 <table>
                     <row>
                         <cell rend="head">Duplicates sold out of the Bodleian Library <lb/><date
-                                notBefore="1719-11-09" notAfter="1720-11-08">between the ninth of
-                                    Nov.<hi rend="superscript:true">r</hi> 1719 &amp; the eighth of
-                                    Nov.<hi rend="superscript:true">r</hi> 1720</date></cell>
+                                when="1719-11-09">between the ninth of
+                            Nov.<hi rend="superscript:true">r</hi> 1719 &amp; <date when="1720-11-08">the eighth of
+                                    Nov.<hi rend="superscript:true">r</hi> 1720</date></date></cell>
                         <cell/>
                         <cell/>
                         <cell/>
@@ -5717,7 +5717,8 @@
                         <cell>Prof. Jur.</cell>
                     </row>
                 </table></ab>
-            <ab ana="prov:when"><date notAfter="1720"/>
+            <ab ana="prov:when" type="prov:purchase"><date notBefore="1701" notAfter="1719-11-09"/>
+                <ab ana="prov:when" type="prov:ID-Assignment"><date notBefore="1719-11-09" notAfter="1720-11-08"/>
                 <table>
                     <row>
                         <cell>The Books that follow next in<lb/> this page were bought in <persName
@@ -5782,7 +5783,7 @@
                         </choice></ab></cell>
                         <cell>Prof. Theol.</cell>
                     </row>
-                </table></ab>
+                </table></ab></ab>
             <pb xml:id="fol-13v" n="16" style="empty"/>
             <pb xml:id="fol-14r" n="17"/>
             <ab ana="prov:when"><date notAfter="1720-11-08" notBefore="1719-11-09"/><table>
@@ -6096,7 +6097,7 @@
                     <cell/>
                 </row>
                 <row ana="prov:purchase">
-                    <cell><date when="1719-06-22">June 22. 1719.</date><lb/>
+                    <cell><date type="prov:purchase" when="1719-06-22">June 22. 1719.</date><date type="prov:ID-Assignment" notAfter="1720-11-08" notBefore="1719-11-09"></date><lb/>
                         <bibl><hi rend="underlined:true">Justini</hi> Dialogus cum Tryphone<lb/> ex
                             Editione Sam. Jebb. <hi rend="underlined:true">Lond</hi>. 1719.
                             8°</bibl>.<lb/> (which Book is in yͤ Library)</cell>
@@ -6774,7 +6775,7 @@
                         rend="superscript:true">r</hi>.<lb/> Regius</persName><persName
                     corresp="#regC-JLAS">Josh Lasher Med. Pofess. Deput.</persName></p>
             <pb xml:id="fol-20r" n="31"/>
-            <table>
+            <ab ana="prov:when"><date notAfter="1721-11-01" notBefore="1720-11-08"></date><table>
                 <row>
                     <cell cols="6" rend="head">Books bought by the Library Keeper at several times
                         and places, between <date when="1720-11-08">Nov<hi rend="superscript:true"
@@ -6924,7 +6925,7 @@
                     <cell/>
                     <cell/>
                 </row>
-            </table>
+            </table></ab>
             <pb xml:id="fol-20v" n="32" style="empty"/>
             <pb xml:id="fol-21r" n="33"/>
             <ab ana="prov:when">1721.<date notAfter="1721-11-01" notBefore="1720-11-08"/>
@@ -8033,8 +8034,7 @@
                                 </choice></ab></cell>
                     </row>
                     <row ana="prov:move-changeId">
-                        <cell><bibl corresp="#regC-bib-Maynard1606">Maynard</bibl><bibl
-                                corresp="#regC-bib-Brisson1606"/></cell>
+                        <cell><bibl corresp="#regC-bib-Maynard1606">Maynard</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>M. 3.5. Jur.</orig>
                                     <reg>M 3.5 Jur.</reg>
@@ -8045,9 +8045,15 @@
                                 </choice></ab></cell>
                     </row>
                     <row ana="prov:move-changeId">
-                        <cell><bibl>Brissonius</bibl></cell>
-                        <cell>ibid.</cell>
-                        <cell/>
+                        <cell><bibl corresp="#regC-bib-Brisson1606">Brissonius</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>ibid.</orig>
+                            <reg>M 3.5 Jur.</reg>
+                        </choice></ab></cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig></orig>
+                            <reg>CC 19 Jur.</reg>
+                        </choice></ab></cell>
                     </row>
                     <row ana="prov:move-changeId">
                         <cell><bibl corresp="#regC-bib-Megalius1619">Megalius</bibl>.</cell>
