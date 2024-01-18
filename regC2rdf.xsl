@@ -31,7 +31,7 @@
                             <!-- buyer -->
                             <crm:P22_transferred_title_to>
                                 <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
-                                    <foaf:name>Bodleian Library</foaf:name>
+                                    <rdfs:label>Bodleian Library</rdfs:label>
                                 </crm:E74_Group>
                             </crm:P22_transferred_title_to>
                             <!-- seller -->
@@ -49,11 +49,11 @@
                                                 select="concat('ADRESS_AUTHORITY', //t:listPerson/t:person[@xml:id = substring-after($seller-ID, '#')]/t:idno[@type = 'CERL'])"
                                             />
                                         </xsl:attribute>
-                                        <foaf:name>
+                                        <rdfs:label>
                                             <xsl:value-of
                                                 select="//t:listPerson/t:person[@xml:id = substring-after($seller-ID, '#')]/t:persName"
                                             />
-                                        </foaf:name>
+                                        </rdfs:label>
                                     </crm:E42_Actor>
                                 </crm:P23_transferred_title_from>
                             </xsl:if>
@@ -290,12 +290,12 @@
                             <!-- acquirer -->
                             <crm:P22_transferred_title_to>
                                 <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
-                                    <foaf:name>Bodleian Library</foaf:name>
+                                    <rdfs:label>Bodleian Library</rdfs:label>
                                 </crm:E74_Group>
                             </crm:P22_transferred_title_to>
                             <crm:P23_transferred_title_from>
                                 <crm:E74_Group rdf:about="https://viaf.org/viaf/122574378">
-                                    <foaf:name>Stationers' Company London</foaf:name>
+                                    <rdfs:label>Stationers' Company London</rdfs:label>
                                 </crm:E74_Group>
                             </crm:P23_transferred_title_from>
                             <!-- check if there are associated items -->
@@ -438,7 +438,7 @@
                             <!-- acquirer -->
                             <crm:P22_transferred_title_to>
                                 <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
-                                    <foaf:name>Bodleian Library</foaf:name>
+                                    <rdfs:label>Bodleian Library</rdfs:label>
                                 </crm:E74_Group>
                             </crm:P22_transferred_title_to>
                             <!-- donor -->
@@ -455,11 +455,11 @@
                                                 select="concat('ADRESS_AUTHORITY', //t:listPerson/t:person[@xml:id = substring-after($donor-ID, '#')]/t:idno[@type = 'CERL'])"
                                             />
                                         </xsl:attribute>
-                                        <foaf:name>
+                                        <rdfs:label>
                                             <xsl:value-of
                                                 select="//t:listPerson/t:person[@xml:id = substring-after($donor-ID, '#')]/t:persName"
                                             />
-                                        </foaf:name>
+                                        </rdfs:label>
                                     </prov:Donor>
                                 </crm:P23_transferred_title_from>
                             </xsl:if>
