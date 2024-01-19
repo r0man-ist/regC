@@ -183,7 +183,7 @@
                   <dcterms:title>M. Fabij Quintiliani ... oratoriarū institutionū libri. xij. [With] M. Fabij Quintiliani ... xix. declamationes argustissimæ.</dcterms:title>
                   <dcterms:creator>Quintilian.</dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° C 64 Jur.</crm:P48_has_preferred_identifier>
-                  <prov:instance_of rdf:resource="test"/>
+                  <dcterms:isVersionOf rdf:resource="test"/>
                </prov:Item>
             </crm:P24_transferred_title_of>
             <crm:P119_had_sales_price>
@@ -1790,7 +1790,7 @@
                   <dcterms:title>M. Fabij Quintiliani ... oratoriarū institutionū libri. xij. [With] M. Fabij Quintiliani ... xix. declamationes argustissimæ.</dcterms:title>
                   <dcterms:creator>Quintilian.</dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° C 64 Jur.</crm:P48_has_preferred_identifier>
-                  <prov:instance_of rdf:resource="test"/>
+                  <dcterms:isVersionOf rdf:resource="test"/>
                </prov:Item>
             </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
@@ -6176,7 +6176,7 @@
             </crm:P23_transferred_title_from>
             <crm:P24_transferred_title_of>
                <prov:Item rdf:about="https:r0man-ist.github.io/regC/#Dep1-I1">
-                  <dcterms:title>An introduction to the true astronomy: or, Astronomical lectures, : read in the astronomical school of the University of Oxford. /</dcterms:title>
+                  <dcterms:title>An introduction to the true astronomy: or, Astronomical lectures, : Chester read in the astronomical school of the University of Oxford. /</dcterms:title>
                   <dcterms:creator>Keill, John, 1671-1721, author.</dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° C 87 Jur.</crm:P48_has_preferred_identifier>
                </prov:Item>
@@ -6476,6 +6476,36 @@
                   <rdfs:label>Stationers' Company London</rdfs:label>
                </crm:E74_Group>
             </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC/#Dep14-I1">
+                  <dcterms:title/>
+                  <dcterms:creator/>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC/#Dep14-I2">
+                  <dcterms:title/>
+                  <dcterms:creator/>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC/#Dep14-I3">
+                  <dcterms:title/>
+                  <dcterms:creator/>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC/#Dep14-I4">
+                  <dcterms:title/>
+                  <dcterms:creator/>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC/#Dep14-I5">
+                  <dcterms:title/>
+                  <dcterms:creator/>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1720-11-08T00:00:00</crm:P82a_begin_of_the_begin>
@@ -6604,6 +6634,18 @@
                   <rdfs:label>Stationers' Company London</rdfs:label>
                </crm:E74_Group>
             </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC/#Dep19-I1">
+                  <dcterms:title/>
+                  <dcterms:creator/>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC/#Dep19-I2">
+                  <dcterms:title/>
+                  <dcterms:creator/>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1720-11-08T00:00:00</crm:P82a_begin_of_the_begin>
@@ -7189,10 +7231,154 @@
          </crm:E15_Identifier_Assignment>
       </crm:P70_documents>
       <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC/#Dep-ID14">
+            <crm:P37_assigned rdf:resource="https:r0man-ist.github.io/regC/#Dep14-I2"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep14-I2-ID">
+                  <crm:P90_has_value>8° C 84 Jur.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1720-11-08T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC/#Dep-ID14">
+            <crm:P37_assigned rdf:resource="https:r0man-ist.github.io/regC/#Dep14-I3"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep14-I3-ID">
+                  <crm:P90_has_value>8° C 84 Jur.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1720-11-08T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC/#Dep-ID14">
+            <crm:P37_assigned rdf:resource="https:r0man-ist.github.io/regC/#Dep14-I4"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep14-I4-ID">
+                  <crm:P90_has_value>8° C 84 Jur.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1720-11-08T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC/#Dep-ID14">
+            <crm:P37_assigned rdf:resource="https:r0man-ist.github.io/regC/#Dep14-I5"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep14-I5-ID">
+                  <crm:P90_has_value>8° C 84 Jur.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1720-11-08T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC/#Dep-ID15">
             <crm:P37_assigned rdf:resource="https:r0man-ist.github.io/regC/#Dep15-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep15-I1-ID">
+                  <crm:P90_has_value>8° C 83 Jur.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1720-11-08T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC/#Dep-ID16">
+            <crm:P37_assigned rdf:resource="https:r0man-ist.github.io/regC/#Dep16-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep16-I1-ID">
+                  <crm:P90_has_value>8° C 83 Jur.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1720-11-08T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC/#Dep-ID17">
+            <crm:P37_assigned rdf:resource="https:r0man-ist.github.io/regC/#Dep17-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep17-I1-ID">
+                  <crm:P90_has_value>8° C 83 Jur.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1720-11-08T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC/#Dep-ID18">
+            <crm:P37_assigned rdf:resource="https:r0man-ist.github.io/regC/#Dep18-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep18-I1-ID">
+                  <crm:P90_has_value>8° C 83 Jur.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1720-11-08T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC/#Dep-ID19">
+            <crm:P37_assigned rdf:resource="https:r0man-ist.github.io/regC/#Dep19-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep19-I1-ID">
+                  <crm:P90_has_value>8° C 83 Jur.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1720-11-08T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC/#Dep-ID19">
+            <crm:P37_assigned rdf:resource="https:r0man-ist.github.io/regC/#Dep19-I2"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep19-I2-ID">
                   <crm:P90_has_value>8° C 83 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
@@ -30360,8 +30546,9 @@
             </crm:P23_transferred_title_from>
             <crm:P24_transferred_title_of>
                <prov:Item rdf:about="https:r0man-ist.github.io/regC/#D34-I1">
-                  <dcterms:title/>
+                  <dcterms:title>Bibliotheca Baluziana; seu Catalogus librorum bibliothecæ S. Baluzii. [Followed by] Fragmentum de vita ... D. Baluzii.</dcterms:title>
                   <dcterms:creator/>
+                  <crm:P48_has_preferred_identifier>8° E 25,26 Jur.</crm:P48_has_preferred_identifier>
                </prov:Item>
             </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
@@ -33153,6 +33340,12 @@
                   <rdfs:label/>
                </prov:Donor>
             </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC/#D38-I1">
+                  <dcterms:title/>
+                  <dcterms:creator/>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1720-11-08T00:00:00</crm:P82a_begin_of_the_begin>
@@ -33842,7 +34035,7 @@
             </crm:P22_transferred_title_to>
             <crm:P23_transferred_title_from>
                <prov:Donor rdf:about="ADRESS_AUTHORITY">
-                  <rdfs:label/>
+                  <rdfs:label>Hutcheson, Archibald</rdfs:label>
                </prov:Donor>
             </crm:P23_transferred_title_from>
             <crm:P24_transferred_title_of>

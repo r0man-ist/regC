@@ -314,7 +314,7 @@
                         </div>
                     </div>
                 </div>
-                <xsl:for-each select="t:cell/t:bibl"><xsl:variable name="target" select="./@corresp"/>
+                <xsl:for-each select="t:cell/t:bibl[@corresp]"><xsl:variable name="target" select="./@corresp"/>
                 <button type="button" class="btn btn-light" onclick="openModal('{$target}')"
                     >Details</button></xsl:for-each>
             </td>
