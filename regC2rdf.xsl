@@ -84,12 +84,11 @@
                                                                     select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author/@ref"
                                                                 />
                                                             </xsl:attribute>
-                                                        </crm:E21_Person>
-                                                        <rdfs:label>
-                                                            <xsl:value-of
-                                                                select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                            />
-                                                        </rdfs:label>
+                                                            <rdfs:label>
+                                                                <xsl:value-of
+                                                                    select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
+                                                                />
+                                                            </rdfs:label></crm:E21_Person>
                                                     </xsl:when>
                                                     <xsl:otherwise>
                                                         <xsl:value-of
@@ -336,26 +335,25 @@
                                             </dcterms:title>
                                             <dcterms:creator>
                                                 <xsl:choose>
-                                                  <xsl:when
-                                                  test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
-                                                  <crm:E21_Person>
-                                                  <xsl:attribute name="rdf:about">
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author/@ref"
-                                                  />
-                                                  </xsl:attribute>
-                                                  </crm:E21_Person>
-                                                  <rdfs:label>
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                  />
-                                                  </rdfs:label>
-                                                  </xsl:when>
-                                                  <xsl:otherwise>
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                  />
-                                                  </xsl:otherwise>
+                                                    <xsl:when
+                                                        test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
+                                                        <crm:E21_Person>
+                                                            <xsl:attribute name="rdf:about">
+                                                                <xsl:value-of
+                                                                    select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author/@ref"
+                                                                />
+                                                            </xsl:attribute>
+                                                            <rdfs:label>
+                                                                <xsl:value-of
+                                                                    select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
+                                                                />
+                                                            </rdfs:label></crm:E21_Person>
+                                                    </xsl:when>
+                                                    <xsl:otherwise>
+                                                        <xsl:value-of
+                                                            select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
+                                                        />
+                                                    </xsl:otherwise>
                                                 </xsl:choose>
                                             </dcterms:creator>
                                             <!-- current shelfmark -->
@@ -528,12 +526,11 @@
                                                                     select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author/@ref"
                                                                 />
                                                             </xsl:attribute>
-                                                        </crm:E21_Person>
-                                                        <rdfs:label>
-                                                            <xsl:value-of
-                                                                select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                            />
-                                                        </rdfs:label>
+                                                            <rdfs:label>
+                                                                <xsl:value-of
+                                                                    select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
+                                                                />
+                                                            </rdfs:label></crm:E21_Person>
                                                     </xsl:when>
                                                     <xsl:otherwise>
                                                         <xsl:value-of
@@ -711,12 +708,11 @@
                                                                     select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author/@ref"
                                                                 />
                                                             </xsl:attribute>
-                                                        </crm:E21_Person>
-                                                        <rdfs:label>
-                                                            <xsl:value-of
-                                                                select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                            />
-                                                        </rdfs:label>
+                                                            <rdfs:label>
+                                                                <xsl:value-of
+                                                                    select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
+                                                                />
+                                                            </rdfs:label></crm:E21_Person>
                                                     </xsl:when>
                                                     <xsl:otherwise>
                                                         <xsl:value-of
@@ -833,12 +829,11 @@
                                                                     select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author/@ref"
                                                                 />
                                                             </xsl:attribute>
-                                                        </crm:E21_Person>
-                                                        <rdfs:label>
-                                                            <xsl:value-of
-                                                                select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                            />
-                                                        </rdfs:label>
+                                                            <rdfs:label>
+                                                                <xsl:value-of
+                                                                    select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
+                                                                />
+                                                            </rdfs:label></crm:E21_Person>
                                                     </xsl:when>
                                                     <xsl:otherwise>
                                                         <xsl:value-of
