@@ -35,18 +35,36 @@
                             </crm:P22_transferred_title_to>
                             <!-- seller -->
                             <!-- check if there is a seller -->
-                            <xsl:if test="./ancestor::t:ab/t:persName[@ana = 'prov:seller']">
+                            <xsl:if
+                                test="./ancestor::t:ab[@ana = 'prov']/t:persName[@ana = 'prov:seller']">
                                 <!-- get xml:id for seller -->
                                 <xsl:variable name="seller-ID"
-                                    select="./ancestor::t:ab/t:persName[@ana = 'prov:seller']/@corresp"/>
+                                    select="./ancestor::t:ab[@ana = 'prov']/t:persName[@ana = 'prov:seller']/@corresp"/>
 
                                 <crm:P23_transferred_title_from>
                                     <crm:E39_Actor>
                                         <xsl:attribute name="rdf:about">
-                                            <!-- TODO: Alternative for Authority files!!! -->
-                                            <xsl:value-of
-                                                select="concat('ADRESS_AUTHORITY', //t:listPerson/t:person[@xml:id = substring-after($seller-ID, '#')]/t:idno[@type = 'CERL'])"
-                                            />
+                                            <!-- Authority statements in Order VIAF > Wikidata> CERL -->
+                                            <xsl:choose>
+                                                <xsl:when
+                                                  test="//t:listPerson/t:person[@xml:id = substring-after($seller-ID, '#')]/t:idno[@type = 'VIAF']">
+                                                  <xsl:value-of
+                                                  select="concat('https://viaf.org/viaf/', //t:listPerson/t:person[@xml:id = substring-after($seller-ID, '#')]/t:idno[@type = 'VIAF'])"
+                                                  />
+                                                </xsl:when>
+                                                <xsl:when
+                                                  test="//t:listPerson/t:person[@xml:id = substring-after($seller-ID, '#')]/t:idno[@type = 'WikiData']">
+                                                  <xsl:value-of
+                                                  select="concat('https://www.wikidata.org/wiki/', //t:listPerson/t:person[@xml:id = substring-after($seller-ID, '#')]/t:idno[@type = 'WikiData'])"
+                                                  />
+                                                </xsl:when>
+                                                <xsl:when
+                                                  test="//t:listPerson/t:person[@xml:id = substring-after($seller-ID, '#')]/t:idno[@type = 'CERL']">
+                                                  <xsl:value-of
+                                                  select="concat('https://data.cerl.org/thesaurus/', //t:listPerson/t:person[@xml:id = substring-after($seller-ID, '#')]/t:idno[@type = 'CERL'])"
+                                                  />
+                                                </xsl:when>
+                                            </xsl:choose>
                                         </xsl:attribute>
                                         <rdfs:label>
                                             <xsl:value-of
@@ -76,25 +94,26 @@
                                             <!-- Creator -->
                                             <dcterms:creator>
                                                 <xsl:choose>
-                                                    <xsl:when
-                                                        test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
-                                                        <crm:E21_Person>
-                                                            <xsl:attribute name="rdf:about">
-                                                                <xsl:value-of
-                                                                    select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author/@ref"
-                                                                />
-                                                            </xsl:attribute>
-                                                            <rdfs:label>
-                                                                <xsl:value-of
-                                                                    select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                                />
-                                                            </rdfs:label></crm:E21_Person>
-                                                    </xsl:when>
-                                                    <xsl:otherwise>
-                                                        <xsl:value-of
-                                                            select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                        />
-                                                    </xsl:otherwise>
+                                                  <xsl:when
+                                                  test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
+                                                  <crm:E21_Person>
+                                                  <xsl:attribute name="rdf:about">
+                                                  <xsl:value-of
+                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author/@ref"
+                                                  />
+                                                  </xsl:attribute>
+                                                  <rdfs:label>
+                                                  <xsl:value-of
+                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
+                                                  />
+                                                  </rdfs:label>
+                                                  </crm:E21_Person>
+                                                  </xsl:when>
+                                                  <xsl:otherwise>
+                                                  <xsl:value-of
+                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
+                                                  />
+                                                  </xsl:otherwise>
                                                 </xsl:choose>
                                             </dcterms:creator>
                                             <!-- current shelfmark -->
@@ -108,11 +127,11 @@
                                             </xsl:if>
                                             <!-- Check if authority-statement for work exists -->
                                             <xsl:if
-                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:ref">
-                                                <dcterms:isVersionOf rdf:resource="testwork-URI">
+                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:title[@ref]">
+                                                <dcterms:isVersionOf>
                                                   <xsl:attribute name="rdf:resource">
                                                   <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:ref"
+                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:title/@ref"
                                                   />
                                                   </xsl:attribute>
                                                 </dcterms:isVersionOf>
@@ -143,13 +162,13 @@
                                     <crm:P82a_begin_of_the_begin
                                         rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                                         <xsl:value-of
-                                            select="concat(./ancestor::t:ab[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/t:date/@notBefore, 'T00:00:00')"
+                                            select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/@notBefore, 'T00:00:00')"
                                         />
                                     </crm:P82a_begin_of_the_begin>
                                     <crm:P82b_end_of_the_end
                                         rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                                         <xsl:value-of
-                                            select="concat(./ancestor::t:ab[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/t:date/@notAfter, 'T23:59:59')"
+                                            select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/@notAfter, 'T23:59:59')"
                                         />
                                     </crm:P82b_end_of_the_end>
                                 </crm:E61_Time_Primitive>
@@ -199,13 +218,13 @@
                                             <crm:P82a_begin_of_the_begin
                                                 rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                                                 <xsl:value-of
-                                                  select="concat(./ancestor::t:ab[@ana = 'prov:when' and not(@type = 'prov:purchase')]/t:date/@notBefore | @when | ./preceding-sibling::t:date[@type = 'prov:ID-Assignment']/@notBefore | @when, 'T00:00:00')"
+                                                  select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:purchase')]/@notBefore | @when | ./preceding-sibling::t:date[@type = 'prov:ID-Assignment']/@notBefore | @when, 'T00:00:00')"
                                                 />
                                             </crm:P82a_begin_of_the_begin>
                                             <crm:P82b_end_of_the_end
                                                 rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                                                 <xsl:value-of
-                                                  select="concat(./ancestor::t:ab[@ana = 'prov:when' and not(@type = 'prov:purchase')]/t:date/@notAfter | @when | ./preceding-sibling::t:date[@type = 'prov:ID-Assignment']/@notAfter | @when, 'T23:59:59')"
+                                                  select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:purchase')]/@notAfter | @when | ./preceding-sibling::t:date[@type = 'prov:ID-Assignment']/@notAfter | @when, 'T23:59:59')"
                                                 />
                                             </crm:P82b_end_of_the_end>
                                         </crm:E61_Time_Primitive>
@@ -277,13 +296,13 @@
                                     <crm:P82a_begin_of_the_begin
                                         rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                                         <xsl:value-of
-                                            select="concat(./ancestor::t:ab[@ana = 'prov:when']/t:date/@notBefore, 'T00:00:00')"
+                                            select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notBefore, 'T00:00:00')"
                                         />
                                     </crm:P82a_begin_of_the_begin>
                                     <crm:P82b_end_of_the_end
                                         rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                                         <xsl:value-of
-                                            select="concat(./ancestor::t:ab[@ana = 'prov:when']/t:date/@notAfter, 'T23:59:59')"
+                                            select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notAfter, 'T23:59:59')"
                                         />
                                     </crm:P82b_end_of_the_end>
                                 </crm:E61_Time_Primitive>
@@ -335,25 +354,26 @@
                                             </dcterms:title>
                                             <dcterms:creator>
                                                 <xsl:choose>
-                                                    <xsl:when
-                                                        test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
-                                                        <crm:E21_Person>
-                                                            <xsl:attribute name="rdf:about">
-                                                                <xsl:value-of
-                                                                    select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author/@ref"
-                                                                />
-                                                            </xsl:attribute>
-                                                            <rdfs:label>
-                                                                <xsl:value-of
-                                                                    select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                                />
-                                                            </rdfs:label></crm:E21_Person>
-                                                    </xsl:when>
-                                                    <xsl:otherwise>
-                                                        <xsl:value-of
-                                                            select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                        />
-                                                    </xsl:otherwise>
+                                                  <xsl:when
+                                                  test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
+                                                  <crm:E21_Person>
+                                                  <xsl:attribute name="rdf:about">
+                                                  <xsl:value-of
+                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author/@ref"
+                                                  />
+                                                  </xsl:attribute>
+                                                  <rdfs:label>
+                                                  <xsl:value-of
+                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
+                                                  />
+                                                  </rdfs:label>
+                                                  </crm:E21_Person>
+                                                  </xsl:when>
+                                                  <xsl:otherwise>
+                                                  <xsl:value-of
+                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
+                                                  />
+                                                  </xsl:otherwise>
                                                 </xsl:choose>
                                             </dcterms:creator>
                                             <!-- current shelfmark -->
@@ -385,13 +405,13 @@
                                     <crm:P82a_begin_of_the_begin
                                         rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                                         <xsl:value-of
-                                            select="concat(./ancestor::t:ab[@ana = 'prov:when']/t:date/@notBefore, 'T00:00:00')"
+                                            select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notBefore, 'T00:00:00')"
                                         />
                                     </crm:P82a_begin_of_the_begin>
                                     <crm:P82b_end_of_the_end
                                         rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                                         <xsl:value-of
-                                            select="concat(./ancestor::t:ab[@ana = 'prov:when']/t:date/@notAfter, 'T23:59:59')"
+                                            select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notAfter, 'T23:59:59')"
                                         />
                                     </crm:P82b_end_of_the_end>
                                 </crm:E61_Time_Primitive>
@@ -439,13 +459,13 @@
                                             <crm:P82a_begin_of_the_begin
                                                 rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                                                 <xsl:value-of
-                                                  select="concat(./ancestor::t:ab[@ana = 'prov:when']/t:date/@notBefore, 'T00:00:00')"
+                                                  select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notBefore, 'T00:00:00')"
                                                 />
                                             </crm:P82a_begin_of_the_begin>
                                             <crm:P82b_end_of_the_end
                                                 rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                                                 <xsl:value-of
-                                                  select="concat(./ancestor::t:ab[@ana = 'prov:when']/t:date/@notAfter, 'T23:59:59')"
+                                                  select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notAfter, 'T23:59:59')"
                                                 />
                                             </crm:P82b_end_of_the_end>
                                         </crm:E61_Time_Primitive>
@@ -478,27 +498,58 @@
                                 </crm:E74_Group>
                             </crm:P22_transferred_title_to>
                             <!-- donor -->
-                            <!-- check if there is a donor -->
-                            <xsl:if test="./descendant::t:persName[@ana = 'prov:donor']">
-                                <!-- get xml:id for donor -->
-                                <xsl:variable name="donor-ID"
-                                    select="./descendant::t:persName[@ana = 'prov:donor']/@corresp"/>
+                            <!-- check if there is an identified donor; else just put out blank node and label-->
+                            <xsl:choose>
+                                <xsl:when
+                                    test="./descendant::t:persName[@ana = 'prov:donor' and not(@corresp)]">
+                                    <crm:P23_transferred_title_from>
+                                        <prov:Donor>
+                                            <rdfs:label>
+                                                <xsl:value-of select="./t:persName[@ana = 'prov:donor']"/>
+                                            </rdfs:label>
+                                        </prov:Donor>
+                                    </crm:P23_transferred_title_from>
+                                </xsl:when>
+                                <xsl:when
+                                    test="./descendant::t:persName[@ana = 'prov:donor' and @corresp]">
+                                    <!-- get xml:id for donor -->
+                                    <xsl:variable name="donor-ID"
+                                        select="./descendant::t:persName[@ana = 'prov:donor']/@corresp"/>
 
-                                <crm:P23_transferred_title_from>
-                                    <prov:Donor>
-                                        <xsl:attribute name="rdf:about">
-                                            <xsl:value-of
-                                                select="concat('ADRESS_AUTHORITY', //t:listPerson/t:person[@xml:id = substring-after($donor-ID, '#')]/t:idno[@type = 'CERL'])"
-                                            />
-                                        </xsl:attribute>
-                                        <rdfs:label>
-                                            <xsl:value-of
-                                                select="//t:listPerson/t:person[@xml:id = substring-after($donor-ID, '#')]/t:persName"
-                                            />
-                                        </rdfs:label>
-                                    </prov:Donor>
-                                </crm:P23_transferred_title_from>
-                            </xsl:if>
+                                    <crm:P23_transferred_title_from>
+                                        <prov:Donor>
+                                            <xsl:attribute name="rdf:about">
+                                                <!-- Alternative for Name Authority with priority to VIAF > WIKIDATA > CERL -->
+                                                <xsl:choose>
+                                                  <xsl:when
+                                                  test="//t:listPerson/t:person[@xml:id = substring-after($donor-ID, '#')]/t:idno[@type = 'VIAF']">
+                                                  <xsl:value-of
+                                                  select="concat('https://viaf.org/viaf/', //t:listPerson/t:person[@xml:id = substring-after($donor-ID, '#')]/t:idno[@type = 'VIAF'])"
+                                                  />
+                                                  </xsl:when>
+                                                  <xsl:when
+                                                  test="//t:listPerson/t:person[@xml:id = substring-after($donor-ID, '#')]/t:idno[@type = 'WikiData']">
+                                                  <xsl:value-of
+                                                  select="concat('https://www.wikidata.org/wiki/', //t:listPerson/t:person[@xml:id = substring-after($donor-ID, '#')]/t:idno[@type = 'WikiData'])"
+                                                  />
+                                                  </xsl:when>
+                                                  <xsl:when
+                                                  test="//t:listPerson/t:person[@xml:id = substring-after($donor-ID, '#')]/t:idno[@type = 'CERL']">
+                                                  <xsl:value-of
+                                                  select="concat('https://data.cerl.org/thesaurus/', //t:listPerson/t:person[@xml:id = substring-after($donor-ID, '#')]/t:idno[@type = 'CERL'])"
+                                                  />
+                                                  </xsl:when>
+                                                </xsl:choose>
+                                            </xsl:attribute>
+                                            <rdfs:label>
+                                                <xsl:value-of
+                                                  select="//t:listPerson/t:person[@xml:id = substring-after($donor-ID, '#')]/t:persName"
+                                                />
+                                            </rdfs:label>
+                                        </prov:Donor>
+                                    </crm:P23_transferred_title_from>
+                                </xsl:when>
+                            </xsl:choose>
                             <!-- check if there are associated items -->
                             <xsl:if test="./descendant::t:bibl[@corresp]">
                                 <xsl:for-each select="./descendant::t:bibl">
@@ -518,25 +569,26 @@
                                             </dcterms:title>
                                             <dcterms:creator>
                                                 <xsl:choose>
-                                                    <xsl:when
-                                                        test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
-                                                        <crm:E21_Person>
-                                                            <xsl:attribute name="rdf:about">
-                                                                <xsl:value-of
-                                                                    select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author/@ref"
-                                                                />
-                                                            </xsl:attribute>
-                                                            <rdfs:label>
-                                                                <xsl:value-of
-                                                                    select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                                />
-                                                            </rdfs:label></crm:E21_Person>
-                                                    </xsl:when>
-                                                    <xsl:otherwise>
-                                                        <xsl:value-of
-                                                            select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                        />
-                                                    </xsl:otherwise>
+                                                  <xsl:when
+                                                  test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
+                                                  <crm:E21_Person>
+                                                  <xsl:attribute name="rdf:about">
+                                                  <xsl:value-of
+                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author/@ref"
+                                                  />
+                                                  </xsl:attribute>
+                                                  <rdfs:label>
+                                                  <xsl:value-of
+                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
+                                                  />
+                                                  </rdfs:label>
+                                                  </crm:E21_Person>
+                                                  </xsl:when>
+                                                  <xsl:otherwise>
+                                                  <xsl:value-of
+                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
+                                                  />
+                                                  </xsl:otherwise>
                                                 </xsl:choose>
                                             </dcterms:creator>
                                             <!-- current shelfmark -->
@@ -568,22 +620,22 @@
                                     <crm:P82a_begin_of_the_begin
                                         rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                                         <xsl:value-of
-                                            select="concat(./ancestor::t:ab[@ana = 'prov:when']/t:date/@notBefore, 'T00:00:00')"
+                                            select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notBefore, 'T00:00:00')"
                                         />
                                     </crm:P82a_begin_of_the_begin>
                                     <crm:P82b_end_of_the_end
                                         rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                                         <xsl:value-of
-                                            select="concat(./ancestor::t:ab[@ana = 'prov:when']/t:date/@notAfter, 'T23:59:59')"
+                                            select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notAfter, 'T23:59:59')"
                                         />
                                     </crm:P82b_end_of_the_end>
                                 </crm:E61_Time_Primitive>
                             </crm:P4_has_time_span>
                         </prov:Donation>
-                    </crm:P70_documents>
+                    </crm:P70_documents></xsl:for-each>
                     <!-- ID-Assignment -->
                     <xsl:for-each select="//t:row[@ana = 'prov:donation']">
-                        <xsl:variable name="count_deposit" select="position()"/>
+                        <xsl:variable name="count_donation" select="position()"/>
                         <xsl:if test="./descendant::t:ab[@type = 'shelfmark']">
                             <xsl:for-each select="./descendant::t:bibl">
                                 <xsl:variable name="count_item" select="position()"/>
@@ -621,13 +673,13 @@
                                                 <crm:P82a_begin_of_the_begin
                                                   rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                                                   <xsl:value-of
-                                                  select="concat(./ancestor::t:ab[@ana = 'prov:when']/t:date/@notBefore, 'T00:00:00')"
+                                                  select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notBefore, 'T00:00:00')"
                                                   />
                                                 </crm:P82a_begin_of_the_begin>
                                                 <crm:P82b_end_of_the_end
                                                   rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                                                   <xsl:value-of
-                                                  select="concat(./ancestor::t:ab[@ana = 'prov:when']/t:date/@notAfter, 'T23:59:59')"
+                                                  select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notAfter, 'T23:59:59')"
                                                   />
                                                 </crm:P82b_end_of_the_end>
                                             </crm:E61_Time_Primitive>
@@ -637,7 +689,7 @@
                             </xsl:for-each>
                         </xsl:if>
                     </xsl:for-each>
-                </xsl:for-each>
+                
                 <!-- End loop Donation -->
 
                 <!-- sale -->
@@ -661,21 +713,38 @@
                             <!-- buyer -->
                             <!-- check if there is a buyer -->
                             <xsl:if test="./ancestor::t:ab/t:persName[@ana = 'prov:buyer']">
-                                <!-- get xml:id for seller -->
-                                <xsl:variable name="seller-ID"
+                                <!-- get xml:id for buyer -->
+                                <xsl:variable name="buyer-ID"
                                     select="./ancestor::t:ab/t:persName[@ana = 'prov:buyer']/@corresp"/>
 
                                 <crm:P22_transferred_title_to>
                                     <crm:E39_Actor>
                                         <xsl:attribute name="rdf:about">
-                                            <!-- TODO: Alternative for Authority files!!! -->
-                                            <xsl:value-of
-                                                select="concat('ADRESS_AUTHORITY', //t:listPerson/t:person[@xml:id = substring-after($seller-ID, '#')]/t:idno[@type = 'CERL'])"
-                                            />
+                                            <!-- Alternative for Name Authority with priority to VIAF > WIKIDATA > CERL -->
+                                            <xsl:choose>
+                                                <xsl:when
+                                                  test="//t:listPerson/t:person[@xml:id = substring-after($buyer-ID, '#')]/t:idno[@type = 'VIAF']">
+                                                  <xsl:value-of
+                                                  select="concat('https://viaf.org/viaf/', //t:listPerson/t:person[@xml:id = substring-after($buyer-ID, '#')]/t:idno[@type = 'VIAF'])"
+                                                  />
+                                                </xsl:when>
+                                                <xsl:when
+                                                  test="//t:listPerson/t:person[@xml:id = substring-after($buyer-ID, '#')]/t:idno[@type = 'WikiData']">
+                                                  <xsl:value-of
+                                                  select="concat('https://www.wikidata.org/wiki/', //t:listPerson/t:person[@xml:id = substring-after($buyer-ID, '#')]/t:idno[@type = 'WikiData'])"
+                                                  />
+                                                </xsl:when>
+                                                <xsl:when
+                                                  test="//t:listPerson/t:person[@xml:id = substring-after($buyer-ID, '#')]/t:idno[@type = 'CERL']">
+                                                  <xsl:value-of
+                                                  select="concat('https://data.cerl.org/thesaurus/', //t:listPerson/t:person[@xml:id = substring-after($buyer-ID, '#')]/t:idno[@type = 'CERL'])"
+                                                  />
+                                                </xsl:when>
+                                            </xsl:choose>
                                         </xsl:attribute>
                                         <rdfs:label>
                                             <xsl:value-of
-                                                select="//t:listPerson/t:person[@xml:id = substring-after($seller-ID, '#')]/t:persName"
+                                                select="//t:listPerson/t:person[@xml:id = substring-after($buyer-ID, '#')]/t:persName"
                                             />
                                         </rdfs:label>
                                     </crm:E39_Actor>
@@ -700,25 +769,26 @@
                                             </dcterms:title>
                                             <dcterms:creator>
                                                 <xsl:choose>
-                                                    <xsl:when
-                                                        test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
-                                                        <crm:E21_Person>
-                                                            <xsl:attribute name="rdf:about">
-                                                                <xsl:value-of
-                                                                    select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author/@ref"
-                                                                />
-                                                            </xsl:attribute>
-                                                            <rdfs:label>
-                                                                <xsl:value-of
-                                                                    select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                                />
-                                                            </rdfs:label></crm:E21_Person>
-                                                    </xsl:when>
-                                                    <xsl:otherwise>
-                                                        <xsl:value-of
-                                                            select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                        />
-                                                    </xsl:otherwise>
+                                                  <xsl:when
+                                                  test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
+                                                  <crm:E21_Person>
+                                                  <xsl:attribute name="rdf:about">
+                                                  <xsl:value-of
+                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author/@ref"
+                                                  />
+                                                  </xsl:attribute>
+                                                  <rdfs:label>
+                                                  <xsl:value-of
+                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
+                                                  />
+                                                  </rdfs:label>
+                                                  </crm:E21_Person>
+                                                  </xsl:when>
+                                                  <xsl:otherwise>
+                                                  <xsl:value-of
+                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
+                                                  />
+                                                  </xsl:otherwise>
                                                 </xsl:choose>
                                             </dcterms:creator>
                                             <!-- current shelfmark -->
@@ -767,13 +837,13 @@
                                     <crm:P82a_begin_of_the_begin
                                         rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                                         <xsl:value-of
-                                            select="concat(./ancestor::t:ab[@ana = 'prov:when']/t:date/@when, 'T00:00:00')"
+                                            select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@when, 'T00:00:00')"
                                         />
                                     </crm:P82a_begin_of_the_begin>
                                     <crm:P82b_end_of_the_end
                                         rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                                         <xsl:value-of
-                                            select="concat(./ancestor::t:ab[@ana = 'prov:when']/t:date/@when, 'T23:59:59')"
+                                            select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@when, 'T23:59:59')"
                                         />
                                     </crm:P82b_end_of_the_end>
                                 </crm:E61_Time_Primitive>
@@ -821,25 +891,26 @@
                                             </dcterms:title>
                                             <dcterms:creator>
                                                 <xsl:choose>
-                                                    <xsl:when
-                                                        test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
-                                                        <crm:E21_Person>
-                                                            <xsl:attribute name="rdf:about">
-                                                                <xsl:value-of
-                                                                    select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author/@ref"
-                                                                />
-                                                            </xsl:attribute>
-                                                            <rdfs:label>
-                                                                <xsl:value-of
-                                                                    select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                                />
-                                                            </rdfs:label></crm:E21_Person>
-                                                    </xsl:when>
-                                                    <xsl:otherwise>
-                                                        <xsl:value-of
-                                                            select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                        />
-                                                    </xsl:otherwise>
+                                                  <xsl:when
+                                                  test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
+                                                  <crm:E21_Person>
+                                                  <xsl:attribute name="rdf:about">
+                                                  <xsl:value-of
+                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author/@ref"
+                                                  />
+                                                  </xsl:attribute>
+                                                  <rdfs:label>
+                                                  <xsl:value-of
+                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
+                                                  />
+                                                  </rdfs:label>
+                                                  </crm:E21_Person>
+                                                  </xsl:when>
+                                                  <xsl:otherwise>
+                                                  <xsl:value-of
+                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
+                                                  />
+                                                  </xsl:otherwise>
                                                 </xsl:choose>
                                             </dcterms:creator>
                                             <!-- current shelfmark -->
@@ -888,13 +959,13 @@
                                     <crm:P82a_begin_of_the_begin
                                         rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                                         <xsl:value-of
-                                            select="concat(./ancestor::t:ab[@ana = 'prov:when']/t:date/@notBefore, 'T00:00:00')"
+                                            select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notBefore, 'T00:00:00')"
                                         />
                                     </crm:P82a_begin_of_the_begin>
                                     <crm:P82b_end_of_the_end
                                         rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                                         <xsl:value-of
-                                            select="concat(./ancestor::t:ab[@ana = 'prov:when']/t:date/@notAfter, 'T23:59:59')"
+                                            select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notAfter, 'T23:59:59')"
                                         />
                                     </crm:P82b_end_of_the_end>
                                 </crm:E61_Time_Primitive>

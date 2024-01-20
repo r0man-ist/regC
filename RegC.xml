@@ -4399,7 +4399,29 @@
             </monogr>
         </biblStruct>
     </object>
+    <object xml:id="regC-bib-Boys1716" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">C 2.13 Th.</idno>
+            <idno type="ALMA-ID">990145904340107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990145904340107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/63858703">Boyd, James, ?-1725</author>
+                <title>A practical exposition upon the thirty-nine articles of the Church of
+                    England. To which is added, a sermon.</title>
+                <imprint>
+                    <pubPlace>Lond.</pubPlace>
+                    <date>1716</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
 </listObject>
+
+
 
 
 
@@ -4506,7 +4528,7 @@
 
             <pb xml:id="fol-8r" n="3" style="empty"/>
             <pb xml:id="fol-8v" n="4"/>
-            <ab ana="prov:when"><date when="1720-07-21"/>
+            <ab ana="prov"><date ana="prov:when" when="1720-07-21"/>
                 <table>
                     <row>
                         <cell rend="head">Duplicates sold out of the Bodleian Library <lb/><date
@@ -4660,7 +4682,7 @@
                     </row>
                 </table></ab>
             <pb xml:id="fol-9r" n="5"/>
-            <ab ana="prov:when"><date notBefore="1719-11-09" notAfter="1720-11-08"/><table>
+            <ab ana="prov"><date ana="prov:when" notBefore="1719-11-09" notAfter="1720-11-08"/><table>
                     <row>
                         <cell rend="head">Money laid out for the use of the Bodleian Libray<lb/>
                             from the <date when="1719-11-09">ninth of Nov<hi rend="superscript:true"
@@ -4837,7 +4859,7 @@
                     </row>
                 </table></ab>
             <pb xml:id="fol-9v" n="6"/>
-            <ab ana="prov:when"><date notAfter="1720-11-08" notBefore="1719-11-09"/><table>
+            <ab ana="prov"><date ana="prov:when" notAfter="1720-11-08" notBefore="1719-11-09"/><table>
                     <row>
                         <cell rend="head">Money laid out &amp;c.</cell>
                         <cell/>
@@ -4933,8 +4955,8 @@
                     </row>
                 </table></ab>
             <pb xml:id="fol-10r" n="7"/>
-            <ab ana="prov:when"><date notAfter="1720-11-08" notBefore="1719-11-09"/><persName
-                    ana="prov:seller" corresp="#regC-SFLE"/><table>
+            <ab ana="prov"><date ana="prov:when" notAfter="1720-11-08" notBefore="1719-11-09"
+                    /><persName ana="prov:seller" corresp="#regC-SFLE"/><table>
                     <row>
                         <cell/>
                         <cell rend="head">Books bought</cell>
@@ -5193,11 +5215,10 @@
                         <cell/>
                         <cell>NB. The above mention&apos;d Books<lb/> [in this 7<hi
                                 rend="superscript:true">th</hi>. page] were bespoke of<lb/>
-                            <persName ana="prov:seller" corresp="#regC-SFLE">Stephen
-                                Fletcher</persName>, Bookseller, by <persName corresp="#regC-JHUD"
-                                >Doctor<lb/> Hudson</persName>, sometime before the last vi‐<lb/>
-                            sitation, but not paid for, nor placed<lb/> in the Library till now.
-                                <persName corresp="#regC-JBOW"><choice>
+                            <persName corresp="#regC-SFLE">Stephen Fletcher</persName>, Bookseller,
+                            by <persName corresp="#regC-JHUD">Doctor<lb/> Hudson</persName>,
+                            sometime before the last vi‐<lb/> sitation, but not paid for, nor
+                            placed<lb/> in the Library till now. <persName corresp="#regC-JBOW"><choice>
                                     <abbr>JB</abbr>
                                     <expan>Joseph Bowles</expan>
                                 </choice></persName>.</cell>
@@ -5213,7 +5234,7 @@
                 </table></ab>
             <pb xml:id="fol-10v" n="8" style="empty"/>
             <pb xml:id="fol-11r" n="9"/>
-            <ab ana="prov:when"><date notAfter="1720-11-08" notBefore="1719-11-09"/>
+            <ab ana="prov"><date ana="prov:when" notAfter="1720-11-08" notBefore="1719-11-09"/>
                 <table>
                     <row>
                         <cell/>
@@ -5519,7 +5540,7 @@
                 </table></ab>
             <pb xml:id="fol-11v" n="10" style="empty"/>
             <pb xml:id="fol-12r" n="11"/>
-            <ab ana="prov:when"><date notAfter="1720-11-08" notBefore="1719-11-09"/><table>
+            <ab ana="prov"><date ana="prov:when" notAfter="1720-11-08" notBefore="1719-11-09"/><table>
                     <row>
                         <cell/>
                         <cell rend="head">Books bought</cell>
@@ -5805,7 +5826,7 @@
                 </table></ab>
             <pb xml:id="fol-12v" n="12" style="empty"/>
             <pb xml:id="fol-13r" n="15"/>
-            <ab ana="prov:when"><date notAfter="1720-11-08" notBefore="1719-11-09"/><table>
+            <ab ana="prov"><date ana="prov:when" notAfter="1720-11-08" notBefore="1719-11-09"/><table>
                     <row>
                         <cell rend="head">Books bought</cell>
                         <cell cols="3" rend="head">Price</cell>
@@ -5884,9 +5905,10 @@
                         <cell>Prof. Jur.</cell>
                     </row>
                 </table></ab>
-            <ab ana="prov:when" type="prov:purchase"><date notBefore="1701" notAfter="1719-11-09"/>
-                <ab ana="prov:when" type="prov:ID-Assignment"><date notBefore="1719-11-09"
-                        notAfter="1720-11-08"/>
+            <ab ana="prov"><date type="prov:purchase" ana="prov:when" notBefore="1701"
+                    notAfter="1719-11-09"/>
+                <ab ana="prov"><date type="prov:ID-Assignment" ana="prov:when"
+                        notBefore="1719-11-09" notAfter="1720-11-08"/>
                     <table>
                         <row>
                             <cell>The Books that follow next in<lb/> this page were bought in
@@ -5955,12 +5977,12 @@
                     </table></ab></ab>
             <pb xml:id="fol-13v" n="16" style="empty"/>
             <pb xml:id="fol-14r" n="17"/>
-            <ab ana="prov:when"><date notAfter="1720-11-08" notBefore="1719-11-09"/><table>
+            <ab ana="prov"><date ana="prov:when" notAfter="1720-11-08" notBefore="1719-11-09"/><table>
                     <row>
-                        <cell>Books given</cell>
-                        <cell>Benefactor</cell>
-                        <cell>Place</cell>
-                        <cell>Curator</cell>
+                        <cell rend="head">Books given</cell>
+                        <cell rend="head">Benefactor</cell>
+                        <cell rend="head">Place</cell>
+                        <cell rend="head">Curator</cell>
                     </row>
                     <row ana="prov:donation">
                         <cell><bibl><hi rend="underlined:true">S. Augustinus</hi> de Civ. Dei <hi
@@ -6266,11 +6288,13 @@
                     <cell/>
                 </row>
                 <row ana="prov:purchase">
-                    <cell><date type="prov:purchase" when="1719-06-22">June 22. 1719.</date><date
-                            type="prov:ID-Assignment" notAfter="1720-11-08" notBefore="1719-11-09"/><lb/>
-                        <bibl><hi rend="underlined:true">Justini</hi> Dialogus cum Tryphone<lb/> ex
-                            Editione Sam. Jebb. <hi rend="underlined:true">Lond</hi>. 1719.
-                            8°</bibl>.<lb/> (which Book is in yͤ Library)</cell>
+                    <cell><ab ana="prov"><date type="prov:purchase" when="1719-06-22">June 22.
+                                1719.</date><date type="prov:ID-Assignment" notAfter="1720-11-08"
+                                notBefore="1719-11-09"/><persName ana="prov:seller"
+                                corresp="#regC-HCLE"/><lb/>
+                            <bibl><hi rend="underlined:true">Justini</hi> Dialogus cum Tryphone<lb/>
+                                ex Editione Sam. Jebb. <hi rend="underlined:true">Lond</hi>. 1719.
+                                8°</bibl>.<lb/> (which Book is in yͤ Library)</ab></cell>
                     <cell><measure quantity="0" unit="pound">0</measure>:<measure quantity="7"
                             unit="shilling">7</measure>:<measure quantity="0" unit="pence"
                             >0</measure></cell>
@@ -6300,7 +6324,7 @@
             </table>
             <pb xml:id="fol-15v" n="20" style="empty"/>
             <pb xml:id="fol-16r" n="21"/>
-            <ab ana="prov:when"><date notAfter="1720-11-08" notBefore="1719-11-09"/><table>
+            <ab ana="prov"><date ana="prov:when" notAfter="1720-11-08" notBefore="1719-11-09"/><table>
                     <row>
                         <cell/>
                         <cell rend="head">Books remov'd</cell>
@@ -6686,7 +6710,7 @@
                 </table></ab>
             <pb xml:id="fol-16v" n="22" style="empty"/>
             <pb xml:id="fol-17r" n="23"/>
-            <ab ana="prov:when"><date notAfter="1720-11-08" notBefore="1719-11-09"/><table>
+            <ab ana="prov"><date ana="prov:when" notAfter="1720-11-08" notBefore="1719-11-09"/><table>
                     <row>
                         <cell/>
                         <cell rend="head">Books remov'd</cell>
@@ -6945,7 +6969,7 @@
                         rend="superscript:true">r</hi>.<lb/> Regius</persName><persName
                     corresp="#regC-JLAS">Josh Lasher Med. Pofess. Deput.</persName></p>
             <pb xml:id="fol-20r" n="31"/>
-            <ab ana="prov:when"><date notAfter="1721-11-01" notBefore="1720-11-08"/><table>
+            <ab ana="prov"><date ana="prov:when" notAfter="1721-11-01" notBefore="1720-11-08"/><table>
                     <row>
                         <cell cols="6" rend="head">Books bought by the Library Keeper at several
                             times and places, between <date when="1720-11-08">Nov<hi
@@ -7101,14 +7125,15 @@
                 </table></ab>
             <pb xml:id="fol-20v" n="32" style="empty"/>
             <pb xml:id="fol-21r" n="33"/>
-            <ab ana="prov:when">1721.<date notAfter="1721-11-01" notBefore="1720-11-08"/>
+            <ab ana="prov"><date ana="prov:when" notAfter="1721-11-01" notBefore="1720-11-08"
+                    >1721.</date>
                 <table>
                     <row>
-                        <cell>Books bought by the <persName corresp="#regC-JBOW">Library
+                        <cell rend="head">Books bought by the <persName corresp="#regC-JBOW">Library
                                 Keeper</persName></cell>
-                        <cell cols="3">Price</cell>
-                        <cell>Place</cell>
-                        <cell>Curator</cell>
+                        <cell cols="3" rend="head">Price</cell>
+                        <cell rend="head">Place</cell>
+                        <cell rend="head">Curator</cell>
                     </row>
                     <row>
                         <cell/>
@@ -7270,10 +7295,11 @@
             </ab>
             <pb xml:id="fol-21v" n="34" style="empty"/>
             <pb xml:id="fol-22r" n="35"/>
-            <ab ana="prov:when="><date notAfter="1721-11-01" notBefore="1720-11-08">1721</date>
+            <ab ana="prov"><date ana="prov:when" notAfter="1721-11-01" notBefore="1720-11-08"
+                    >1721</date>
                 <table>
                     <row>
-                        <cell>Extraordinary Expences &amp;c.</cell>
+                        <cell rend="head">Extraordinary Expences &amp;c.</cell>
                         <cell/>
                         <cell/>
                         <cell/>
@@ -7364,11 +7390,12 @@
             </ab>
             <pb xml:id="fol-22v" n="36" style="empty"/>
             <pb xml:id="fol-23r" n="37"/>
-            <ab ana="prov:when">
-                <date notAfter="1721-11-01" notBefore="1720-11-08">1721</date>
+            <ab ana="prov">
+                <date ana="prov:when" notAfter="1721-11-01" notBefore="1720-11-08">1721</date>
+                <persName ana="prov:seller" corresp="#regC-HCLE"/>
                 <table>
                     <row>
-                        <cell cols="6">Bought of <persName ana="prov:from" corresp="#regC-HCLE">M<hi
+                        <cell rend="head" cols="6">Bought of <persName corresp="#regC-HCLE">M<hi
                                     rend="superscript:true">r</hi>. Clements</persName> Bookseller
                             in Oxford.</cell>
                     </row>
@@ -7629,8 +7656,9 @@
             <note>fol. 24 is a small piece of cardboard glued to fol. 25r</note>
             <pb xml:id="fol-24v"/>
             <pb xml:id="fol-25r" n="39"/>
-            <ab ana="prov:when">
-                <date notBefore="1720-11-08" notAfter="1721-11-01">1721.</date>
+            <ab ana="prov">
+                <date ana="prov:when" notBefore="1720-11-08" notAfter="1721-11-01">1721.</date>
+                <persName ana="prov:seller" corresp="#regC-HCLE"/>
                 <table>
                     <row>
                         <cell cols="2"/>
@@ -7639,8 +7667,8 @@
                         <cell>Curator</cell>
                     </row>
                     <row>
-                        <cell cols="2">Bought of M<hi rend="superscript:true">r</hi>.
-                            Clements</cell>
+                        <cell rend="head" cols="2">Bought of <persName corresp="#regC-HCLE">M<hi
+                                    rend="superscript:true">r</hi>. Clements</persName></cell>
                         <cell>L</cell>
                         <cell>s</cell>
                         <cell>d</cell>
@@ -7880,10 +7908,14 @@
             </ab>
             <pb xml:id="fol-25v" n="40" style="empty"/>
             <pb xml:id="fol-26r" n="41"/>
-            <ab ana="prov:when">
-                <date notBefore="1720-11-08" notAfter="1721-11-01">1721.</date>
+            <ab ana="prov">
+                <date ana="prov:when"> notBefore="1720-11-08" notAfter="1721-11-01">1721.</date>
+                <persName ana="prov:seller" corresp="#regC-SFLE"/>
                 <table>
-                    <head>Bought of Stephen Fletcher Bookseller in Oxford</head>
+                    <row>
+                        <cell rend="head" cols="6">Bought of <persName corresp="#regC-SFLE">Stephen
+                                Fletcher</persName> Bookseller in Oxford</cell>
+                    </row>
                     <row>
                         <cell/>
                         <cell cols="3">Price</cell>
@@ -7911,8 +7943,8 @@
                         <cell>Prof. Med.</cell>
                     </row>
                     <row ana="prov:purchase">
-                        <cell><bibl>Exposition on the XXXIX Articles<lb/> by James <hi
-                                    rend="underlined:true">Boys.</hi>
+                        <cell><bibl corresp="#regC-bib-Boys1716">Exposition on the XXXIX
+                                Articles<lb/> by James <hi rend="underlined:true">Boys.</hi>
                                 <hi rend="underlined:true">Lond.</hi> 1716.</bibl></cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="10" unit="shilling">10</measure></cell>
@@ -7967,13 +7999,13 @@
             </ab>
             <pb xml:id="fol-26v" n="42" style="empty"/>
             <pb xml:id="fol-27r" n="43"/>
-            <ab ana="prov:when">
-                <date notBefore="1720-11-08" notAfter="1721-11-01">1721.</date>
+            <ab ana="prov">
+                <date ana="prov:when" notBefore="1720-11-08" notAfter="1721-11-01">1721.</date>
                 <table>
                     <row>
-                        <cell>Books remov'd</cell>
-                        <cell>Former number</cell>
-                        <cell>Present number</cell>
+                        <cell rend="head">Books remov'd</cell>
+                        <cell rend="head">Former number</cell>
+                        <cell rend="head">Present number</cell>
                     </row>
                     <row ana="prov:move-changeId">
                         <cell><bibl corresp="#regC-bib-Alsted1623">Alstedius</bibl></cell>
@@ -8285,13 +8317,13 @@
             </ab>
             <pb xml:id="fol-27v" n="44" style="empty"/>
             <pb xml:id="fol-28r" n="45"/>
-            <ab ana="prov:when">
-                <date notBefore="1720-11-08" notAfter="1721-11-01">1721.</date>
+            <ab ana="prov">
+                <date ana="prov:when" notBefore="1720-11-08" notAfter="1721-11-01">1721.</date>
                 <table>
                     <row>
-                        <cell>Books remov'd</cell>
-                        <cell>Former Number</cell>
-                        <cell>Present Number</cell>
+                        <cell rend="head">Books remov'd</cell>
+                        <cell rend="head">Former Number</cell>
+                        <cell rend="head">Present Number</cell>
                     </row>
                     <row ana="prov:move-changeId">
                         <cell><bibl>Paracelsus</bibl></cell>
@@ -8419,14 +8451,14 @@
             </ab>
             <pb xml:id="fol-28v" n="46" style="empty"/>
             <pb xml:id="fol-29r" n="47"/>
-            <ab ana="prov:when">
-                <date notBefore="1720-11-08" notAfter="1721-11-01">1721.</date>
+            <ab ana="prov">
+                <date ana="prov:when" notBefore="1720-11-08" notAfter="1721-11-01">1721.</date>
                 <table>
                     <row>
-                        <cell>Books given to the Library.</cell>
-                        <cell>Benefactor.</cell>
-                        <cell>Place.</cell>
-                        <cell>Curator.</cell>
+                        <cell rend="head">Books given to the Library.</cell>
+                        <cell rend="head">Benefactor.</cell>
+                        <cell rend="head">Place.</cell>
+                        <cell rend="head">Curator.</cell>
                     </row>
                     <row ana="prov:donation">
                         <cell><bibl>Discourse on Ch. Governm<hi rend="superscript:true">t</hi>. <hi
@@ -8595,14 +8627,14 @@
                 note daring from October 1764.</note>
             <pb xml:id="fol-31v" style="empty"/>
             <pb xml:id="fol-32r" n="49"/>
-            <ab ana="prov:when">
-                <date notBefore="1720-11-08" notAfter="1721-11-01">1721.</date>
+            <ab ana="prov">
+                <date ana="prov:when" notBefore="1720-11-08" notAfter="1721-11-01">1721.</date>
                 <table>
                     <row>
-                        <cell>Books given.</cell>
-                        <cell>Benefactor.</cell>
-                        <cell>Place.</cell>
-                        <cell>Curator.</cell>
+                        <cell rend="head">Books given.</cell>
+                        <cell rend="head">Benefactor.</cell>
+                        <cell rend="head">Place.</cell>
+                        <cell rend="head">Curator.</cell>
                     </row>
                     <row ana="prov:deposit">
                         <cell><bibl>Two Discourses about S. Sea Stock.<lb/><hi
@@ -8688,8 +8720,11 @@
                                 </choice></ab></cell>
                     </row>
                     <row ana="prov:deposit">
-                        <cell><bibl>Clarkson’s Sermon on his Funeral<note>This is part of the preceeding (separate title-page but continuous pagination). Another item is bound up with the preceeding four and presumably also a deposit (see Details).</note></bibl><bibl
-                            corresp="#regC-bib-Owen1720"/></cell>
+                        <cell><bibl>Clarkson’s Sermon on his Funeral<note>This is part of the
+                                    preceeding (separate title-page but continuous pagination).
+                                    Another item is bound up with the preceeding four and presumably
+                                    also a deposit (see Details).</note></bibl><bibl
+                                corresp="#regC-bib-Owen1720"/></cell>
                         <cell>...........</cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig/>
@@ -8763,14 +8798,14 @@
             </ab>
             <pb xml:id="fol-32v" n="50" style="empty"/>
             <pb xml:id="fol-33r" n="51"/>
-            <ab ana="prov:when">
-                <date notBefore="1720-11-08" notAfter="1721-11-01">1721.</date>
+            <ab ana="prov">
+                <date ana="prov:when" notBefore="1720-11-08" notAfter="1721-11-01">1721.</date>
                 <table>
                     <row>
-                        <cell>Books given</cell>
-                        <cell>Benefactor</cell>
-                        <cell>Place</cell>
-                        <cell>Curator.</cell>
+                        <cell rend="head">Books given</cell>
+                        <cell rend="head">Benefactor</cell>
+                        <cell rend="head">Place</cell>
+                        <cell rend="head">Curator.</cell>
                     </row>
                     <row ana="prov:donation">
                         <cell><bibl corresp="#regC-bib-Martin1711">Biblioth. Bultelliana. 2 Voll.
@@ -8965,13 +9000,13 @@
             </ab>
             <pb xml:id="fol-33v" n="52" style="empty"/>
             <pb xml:id="fol-34r" n="53"/>
-            <ab ana="prov:when">
-                <date notBefore="1720-11-08" notAfter="1721-11-01">1721.</date><table>
+            <ab ana="prov">
+                <date ana="prov:when" notBefore="1720-11-08" notAfter="1721-11-01">1721.</date><table>
                     <row>
-                        <cell>Books given</cell>
-                        <cell>Benefactors</cell>
-                        <cell>Place</cell>
-                        <cell>Curator</cell>
+                        <cell rend="head">Books given</cell>
+                        <cell rend="head">Benefactors</cell>
+                        <cell rend="head">Place</cell>
+                        <cell rend="head">Curator</cell>
                     </row>
                     <row ana="prov:deposit">
                         <cell><bibl corresp="#regC-bib-Addison1721">The Works of M<hi
