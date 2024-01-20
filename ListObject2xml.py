@@ -2,7 +2,7 @@ import pandas as pd
 import xml.etree.ElementTree as ET
 
 # Read data from the CSV file with a comma delimiter
-df = pd.read_csv('standOff_List-Objects.csv', delimiter=',', dtype=str)
+df = pd.read_csv('standOff_List-Objects.csv', delimiter=',', dtype=str, encoding='utf-8')
 
 # Create the root element for the XML
 root = ET.Element('listObject')
@@ -66,4 +66,4 @@ for _, row in df.iterrows():
 
 # Create the XML file
 tree = ET.ElementTree(root)
-tree.write('standOff_List-Objects.xml')
+tree.write('standOff_List-Objects.xml', encoding='utf-8')

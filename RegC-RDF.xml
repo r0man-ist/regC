@@ -13,6 +13,11 @@
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E39_Actor rdf:about="https://viaf.org/viaf/9926861">
+                  <rdfs:label>Keill, John</rdfs:label>
+               </crm:E39_Actor>
+            </crm:P23_transferred_title_from>
             <crm:P24_transferred_title_of>
                <prov:Item rdf:about="https:r0man-ist.github.io/regC/#P1-I1">
                   <dcterms:title>Voyages de Corneille Le Brun par la Moscovie, en Perse, et aux Indes Orientales. : Ouvrage enrichi de plus de 320 tailles douces ... On y a ajoûté la route qu'a suivie Mr. Isbrants, ambassadeur de Moscovie, en traversant la Russie &amp; la Tartarie, pour se rendre à la Chine. Et quelques remarques contre Mrs. Chardin &amp; Kempfer. Avec une lettre écrite à l'auteur, sur ce sujet.</dcterms:title>
@@ -24,16 +29,10 @@
                   </dcterms:creator>
                </prov:Item>
             </crm:P24_transferred_title_of>
-            <crm:P119_had_sales_price>
-               <crm:E97_Monetary_Amount>
-                  <crm:P180_has_currency>Pound</crm:P180_has_currency>
-                  <crm:P90_has_value>3-3-0</crm:P90_has_value>
-               </crm:E97_Monetary_Amount>
-            </crm:P119_had_sales_price>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
-                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00</crm:P82a_begin_of_the_begin>
-                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T23:59:59</crm:P82b_end_of_the_end>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1719-11-09T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1720-11-08T23:59:59</crm:P82b_end_of_the_end>
                </crm:E61_Time_Primitive>
             </crm:P4_has_time_span>
          </crm:E96_Purchase>
@@ -247,8 +246,7 @@
                   <dcterms:title>Commentarii siue annales rerum Flandricarum libri septendecim</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/73876517">
-                        <rdfs:label>Meyer, Jacques &#x98;de&#x9c;
-                    1491-1552</rdfs:label>
+                        <rdfs:label>Meyer, Jacques de 1491-1552</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                </prov:Item>
@@ -351,7 +349,7 @@
             </crm:P23_transferred_title_from>
             <crm:P24_transferred_title_of>
                <prov:Item rdf:about="https:r0man-ist.github.io/regC/#P10-I1">
-                  <dcterms:title>Johannes Maccovius redivivus: sive, manuscripta ejus typis exscripta, continens, Theologiam polemicam, Prōton pseudos pontificiorum [&amp;c.], Casus conscientiae ad normam doctrinæ Socinianæ, anti-Socinum, cum appendice de atheis, procurante N. Arnoldo.</dcterms:title>
+                  <dcterms:title>Johannes Maccovius redivivus: sive, manuscripta ejus typis exscripta, continens, Theologiam polemicam, Proton pseudos pontificiorum [&amp;c.], Casus conscientiae ad normam doctrinæ Socinianæ, anti-Socinum, cum appendice de atheis, procurante N. Arnoldo.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/155083">
                         <rdfs:label>Makowski, Jan, 1588-1644</rdfs:label>
@@ -467,8 +465,7 @@
                   <dcterms:title>Examen circuli quadraturae hactenus editarum celeberrimae, : quam Apollonius alter, magno illo Pergaeo non minor geometra, R. P. Gregorius a Sancto Vincentio Societatis Iesu exposuit.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/151967378">
-                        <rdfs:label>Léotaud, Vincent
-                    1595-1672</rdfs:label>
+                        <rdfs:label>Léotaud, Vincent 1595-1672</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                </prov:Item>
@@ -504,8 +501,8 @@
                   <dcterms:title>Theses theologicæ de sponsa Christi.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/59956795">
-                        <rdfs:label>Linden, Henricus Antonides &#x98;van
-                    der&#x9c; 1546-1614</rdfs:label>
+                        <rdfs:label>Linden, Henricus Antonides van der
+                    1546-1614</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>FF 32 Th. (1)</crm:P48_has_preferred_identifier>
@@ -653,8 +650,7 @@
                   <dcterms:title>Nicolai Gürtleri ... Institutiones theologicæ.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/55020168">
-                        <rdfs:label>Gürtler, Nicolaus,
-                    1654-1711</rdfs:label>
+                        <rdfs:label>Gürtler, Nicolaus, 1654-1711</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>FF 35 Th.</crm:P48_has_preferred_identifier>
@@ -691,8 +687,7 @@
                   <dcterms:title>Horologiographia, post priorem æd. recogn. &amp; aucta.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/51698921">
-                        <rdfs:label>Münster, Sebastian,
-                    1489-1552</rdfs:label>
+                        <rdfs:label>Münster, Sebastian, 1489-1552</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>AA 36 Jur.</crm:P48_has_preferred_identifier>
@@ -1154,8 +1149,7 @@
                   <dcterms:title>Commentarius philologico theologicus in omnes Veteris et Novi Testamenti libros, tam canonicos quam apocryphos.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/77253890">
-                        <rdfs:label>Prückner, Andreas,
-                    1603-1667</rdfs:label>
+                        <rdfs:label>Prückner, Andreas, 1603-1667</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>L 4.4-6 Th.</crm:P48_has_preferred_identifier>
@@ -1374,8 +1368,7 @@
                   <dcterms:title>The history of the revolutions that happened in the government of the Roman republic, English'd by mr. Ozell and others.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/59113668">
-                        <rdfs:label>Vertot, abbé de,
-                    1655-1735.</rdfs:label>
+                        <rdfs:label>Vertot, abbé de, 1655-1735.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>AA 40,41 Jur.</crm:P48_has_preferred_identifier>
@@ -1602,7 +1595,7 @@
             </crm:P22_transferred_title_to>
             <crm:P24_transferred_title_of>
                <prov:Item rdf:about="https:r0man-ist.github.io/regC/#P50-I1">
-                  <dcterms:title>Tou en hagiois patros hēmōn Kurillou ... ta heuriskomena panta ... cum nova interpretatione studio A.A. Toultée.</dcterms:title>
+                  <dcterms:title>Tou en hagiois patros hēmon Kurillou ... ta heuriskomena panta ... cum nova interpretatione studio A.A. Toultée.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/13101243">
                         <rdfs:label>Cyril, Saint, Bishop of Jerusalem,
@@ -1811,8 +1804,7 @@
                   <dcterms:title>Recueil d'ouvrages curieux de mathématique et de mécanique, ou Description du cabinet de monsieur Grollier de Servière, par son petit fils.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/34662220">
-                        <rdfs:label>Grollier de Servière,
-                    Nicolas</rdfs:label>
+                        <rdfs:label>Grollier de Servière, Nicolas</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>AA 48 Jur.</crm:P48_has_preferred_identifier>
@@ -2121,8 +2113,7 @@
                   <dcterms:title>Défense [by E. Renaudot] de La perpétuité de la foy [of A. Arnauld] contre les calomnies et faussetez du livre [by J. Aymon] intitulé, Monumens authentiques de la religion des Grecs.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/102329089">
-                        <rdfs:label>Renaudot, Eusèbe,
-                    1646-1720.</rdfs:label>
+                        <rdfs:label>Renaudot, Eusèbe, 1646-1720.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° Z 414 Th.</crm:P48_has_preferred_identifier>
@@ -2143,11 +2134,13 @@
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E39_Actor rdf:about="https://data.cerl.org/thesaurus/cnp02330155">
+                  <rdfs:label>Clements, Henry</rdfs:label>
+               </crm:E39_Actor>
+            </crm:P23_transferred_title_from>
             <crm:P4_has_time_span>
-               <crm:E61_Time_Primitive>
-                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00</crm:P82a_begin_of_the_begin>
-                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T23:59:59</crm:P82b_end_of_the_end>
-               </crm:E61_Time_Primitive>
+               <crm:E61_Time_Primitive/>
             </crm:P4_has_time_span>
          </crm:E96_Purchase>
       </crm:P70_documents>
@@ -2385,8 +2378,7 @@
                   <dcterms:title>Historia patriarcharum Alexandrinorum Jacobitarum, a d. Marco usque ad finem sæculi xiii. [by E. Renaudot.].</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/102329089">
-                        <rdfs:label>Renaudot, Eusèbe,
-                    1646-1720.</rdfs:label>
+                        <rdfs:label>Renaudot, Eusèbe, 1646-1720.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>B 1.20 Linc.</crm:P48_has_preferred_identifier>
@@ -2419,8 +2411,8 @@
                   <dcterms:title>Traité analytique des sections coniques et de leur usage pour la résolution des equations dans les problêmes tant déterminez qu'indéterminez.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/66476884">
-                        <rdfs:label>L'Hospital,
-                    Guillaume-François-Antoine de, 1661-1704</rdfs:label>
+                        <rdfs:label>L'Hospital, Guillaume-François-Antoine
+                    de, 1661-1704</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 24 Jur.</crm:P48_has_preferred_identifier>
@@ -3039,8 +3031,7 @@
                   <dcterms:title>Histoire critique de l'établissement des Bretons dans les Gaules.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/59113668">
-                        <rdfs:label>Vertot, abbé de,
-                    1655-1735.</rdfs:label>
+                        <rdfs:label>Vertot, abbé de, 1655-1735.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° A 172,173, Linc.</crm:P48_has_preferred_identifier>
@@ -3078,8 +3069,7 @@
                   <dcterms:title>Histoire des révolutions arrivées dans le gouvernement de la république romaine.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/59113668">
-                        <rdfs:label>Vertot, abbé de,
-                    1655-1735.</rdfs:label>
+                        <rdfs:label>Vertot, abbé de, 1655-1735.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° A 174-176 Linc.</crm:P48_has_preferred_identifier>
@@ -3635,7 +3625,7 @@
                   <dcterms:title>A practical exposition upon the thirty-nine articles of the Church of England. To which is added, a sermon.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/63858703">
-                        <rdfs:label>Boyd, James, ?-1725</rdfs:label>
+                        <rdfs:label>Boys, James, ?-1725</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>C 2.13 Th.</crm:P48_has_preferred_identifier>
@@ -9430,7 +9420,7 @@
             </crm:P23_transferred_title_from>
             <crm:P24_transferred_title_of>
                <prov:Item rdf:about="https:r0man-ist.github.io/regC/#D44-I1">
-                  <dcterms:title>Eikōn Sōkratikē. Or, a portraiture of Socrates, extracted out of Plato. : In blank verse.</dcterms:title>
+                  <dcterms:title>Eikon Sokratikē. Or, a portraiture of Socrates, extracted out of Plato. : In blank verse.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/60475410">
                         <rdfs:label>Catherall, Samuel, 1661?-1723</rdfs:label>
@@ -10218,12 +10208,6 @@
                   </dcterms:creator>
                </prov:Item>
             </crm:P24_transferred_title_of>
-            <crm:P119_had_sales_price>
-               <crm:E97_Monetary_Amount>
-                  <crm:P180_has_currency>Pound</crm:P180_has_currency>
-                  <crm:P90_has_value>0-3-6</crm:P90_has_value>
-               </crm:E97_Monetary_Amount>
-            </crm:P119_had_sales_price>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1720-07-21T00:00:00</crm:P82a_begin_of_the_begin>
