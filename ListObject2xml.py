@@ -1,8 +1,8 @@
 import pandas as pd
 import xml.etree.ElementTree as ET
 
-# Read data from the CSV file with a semicolon delimiter
-df = pd.read_csv('standOff_List-Objects.csv', delimiter=';', dtype=str)
+# Read data from the CSV file with a comma delimiter
+df = pd.read_csv('standOff_List-Objects.csv', delimiter=',', dtype=str)
 
 # Create the root element for the XML
 root = ET.Element('listObject')
@@ -31,15 +31,25 @@ for _, row in df.iterrows():
         SOLOlink_element = ET.SubElement(objectIdentifier_element, 'idno', type='SOLOlink')
         SOLOlink_element.text = "https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma"+str((row['MMS Id']))    
 
-    if not (pd.isna(row['Author']) and pd.isna(row['Title']) and pd.isna(row['Publication Place']) and pd.isna(row['Date of Publication'])):
+    if not (pd.isna(row['AuthorReconcile']) and pd.isna(row['Title']) and pd.isna(row['Publication Place']) and pd.isna(row['Date of Publication'])):
         biblStruct_element = ET.SubElement(object_element, 'biblStruct')
         monogr_element = ET.SubElement(biblStruct_element, 'monogr')
-        if not pd.isna(row['Author']):
-            author_element = ET.SubElement(monogr_element, 'author')
-            author_element.text = (row['Author'])
-        if not pd.isna(row['Title']):
-            title_element = ET.SubElement(monogr_element, 'title')
-            title_element.text = (row['Title'])
+        if pd.isna(row['VIAF-ID']):
+            if not pd.isna(row['AuthorReconcile']):
+                author_element = ET.SubElement(monogr_element, 'author')
+                author_element.text = (row['AuthorReconcile'])
+        else:
+            if not pd.isna(row['AuthorReconcile']):
+                author_element = ET.SubElement(monogr_element, 'author', ref='https://viaf.org/viaf/'+(row['VIAF-ID']))
+                author_element.text = (row['AuthorReconcile'])
+        if pd.isna(row['VIAF-ID_WORK']): 
+            if not pd.isna(row['Title']):
+                title_element = ET.SubElement(monogr_element, 'title')
+                title_element.text = (row['Title'])
+        else:
+            if not pd.isna(row['Title']):
+                title_element = ET.SubElement(monogr_element, 'title', ref='https://viaf.org/viaf/'+str((row['VIAF-ID_WORK'])))
+                title_element.text = (row['Title'])
         imprint_element = ET.SubElement(monogr_element, 'imprint')    
         if not pd.isna(row['Publication Place']):
             place_element = ET.SubElement(imprint_element, 'pubPlace')
