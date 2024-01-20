@@ -177,6 +177,14 @@
                 <idno type="VIAF">79251462</idno>
                 <idno type="WikiData">Q8015973</idno>
             </person>
+            <person xml:id="regC-FGAS">
+                <persName>Gastrell, Francis</persName>
+                <idno type="VIAF">39506285</idno>
+            </person>
+            <person xml:id="regC-JKEI">
+                <persName>Keill, John</persName>
+                <idno type="VIAF">9926861</idno>
+            </person>
         </listPerson>
 
 
@@ -6080,7 +6088,7 @@
                     <row ana="prov:donation">
                         <cell><bibl>J. <hi rend="underlined:true">Keil</hi> Epistola ad J.
                                 Bernoulli. 4°</bibl>.</cell>
-                        <cell><persName ana="prov:donor">D<hi rend="superscript:true">r</hi>.
+                        <cell><persName ana="prov:donor" corresp="#regC-JKEI">D<hi rend="superscript:true">r</hi>.
                                 Keil</persName></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>A.A.49.Jur.</orig>
@@ -7909,7 +7917,7 @@
             <pb xml:id="fol-25v" n="40" style="empty"/>
             <pb xml:id="fol-26r" n="41"/>
             <ab ana="prov">
-                <date ana="prov:when"> notBefore="1720-11-08" notAfter="1721-11-01">1721.</date>
+                <date ana="prov:when" notBefore="1720-11-08" notAfter="1721-11-01">1721.</date>
                 <persName ana="prov:seller" corresp="#regC-SFLE"/>
                 <table>
                     <row>
@@ -8871,7 +8879,7 @@
                                     rend="superscript:true">r</hi>. Gastrels'] Case w<hi
                                     rend="superscript:true">th</hi> relati-<lb/>on to the Warden of
                                 Manchester. 1721.</bibl></cell>
-                        <cell><persName ana="prov:donor">Auctor.</persName></cell>
+                        <cell><persName ana="prov:donor" corresp="#regC-FGAS">Auctor.</persName></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>C.1. 18. Jur</orig>
                                     <reg>C 1.18 Jur.</reg>

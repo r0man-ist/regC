@@ -3612,8 +3612,8 @@
             </crm:P23_transferred_title_from>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
-                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00</crm:P82a_begin_of_the_begin>
-                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T23:59:59</crm:P82b_end_of_the_end>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1720-11-08T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-01T23:59:59</crm:P82b_end_of_the_end>
                </crm:E61_Time_Primitive>
             </crm:P4_has_time_span>
          </crm:E96_Purchase>
@@ -3649,8 +3649,8 @@
             </crm:P119_had_sales_price>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
-                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00</crm:P82a_begin_of_the_begin>
-                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T23:59:59</crm:P82b_end_of_the_end>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1720-11-08T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-01T23:59:59</crm:P82b_end_of_the_end>
                </crm:E61_Time_Primitive>
             </crm:P4_has_time_span>
          </crm:E96_Purchase>
@@ -3669,8 +3669,8 @@
             </crm:P23_transferred_title_from>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
-                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00</crm:P82a_begin_of_the_begin>
-                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T23:59:59</crm:P82b_end_of_the_end>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1720-11-08T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-01T23:59:59</crm:P82b_end_of_the_end>
                </crm:E61_Time_Primitive>
             </crm:P4_has_time_span>
          </crm:E96_Purchase>
@@ -3689,8 +3689,8 @@
             </crm:P23_transferred_title_from>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
-                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00</crm:P82a_begin_of_the_begin>
-                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T23:59:59</crm:P82b_end_of_the_end>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1720-11-08T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-01T23:59:59</crm:P82b_end_of_the_end>
                </crm:E61_Time_Primitive>
             </crm:P4_has_time_span>
          </crm:E96_Purchase>
@@ -3709,8 +3709,8 @@
             </crm:P23_transferred_title_from>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
-                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00</crm:P82a_begin_of_the_begin>
-                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T23:59:59</crm:P82b_end_of_the_end>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1720-11-08T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-01T23:59:59</crm:P82b_end_of_the_end>
                </crm:E61_Time_Primitive>
             </crm:P4_has_time_span>
          </crm:E96_Purchase>
@@ -5277,8 +5277,8 @@
             </crm:P37_assigned>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
-                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00</crm:P82a_begin_of_the_begin>
-                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T23:59:59</crm:P82b_end_of_the_end>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1720-11-08T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-01T23:59:59</crm:P82b_end_of_the_end>
                </crm:E61_Time_Primitive>
             </crm:P4_has_time_span>
          </crm:E15_Identifier_Assignment>
@@ -5293,8 +5293,8 @@
             </crm:P37_assigned>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
-                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00</crm:P82a_begin_of_the_begin>
-                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T23:59:59</crm:P82b_end_of_the_end>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1720-11-08T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-01T23:59:59</crm:P82b_end_of_the_end>
                </crm:E61_Time_Primitive>
             </crm:P4_has_time_span>
          </crm:E15_Identifier_Assignment>
@@ -5309,8 +5309,8 @@
             </crm:P37_assigned>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
-                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00</crm:P82a_begin_of_the_begin>
-                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T23:59:59</crm:P82b_end_of_the_end>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1720-11-08T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-01T23:59:59</crm:P82b_end_of_the_end>
                </crm:E61_Time_Primitive>
             </crm:P4_has_time_span>
          </crm:E15_Identifier_Assignment>
@@ -5325,8 +5325,8 @@
             </crm:P37_assigned>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
-                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00</crm:P82a_begin_of_the_begin>
-                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T23:59:59</crm:P82b_end_of_the_end>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1720-11-08T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-01T23:59:59</crm:P82b_end_of_the_end>
                </crm:E61_Time_Primitive>
             </crm:P4_has_time_span>
          </crm:E15_Identifier_Assignment>
@@ -8540,8 +8540,8 @@
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
             <crm:P23_transferred_title_from>
-               <prov:Donor>
-                  <rdfs:label/>
+               <prov:Donor rdf:about="https://viaf.org/viaf/9926861">
+                  <rdfs:label>Keill, John</rdfs:label>
                </prov:Donor>
             </crm:P23_transferred_title_from>
             <crm:P4_has_time_span>
@@ -9254,8 +9254,8 @@
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
             <crm:P23_transferred_title_from>
-               <prov:Donor>
-                  <rdfs:label/>
+               <prov:Donor rdf:about="https://viaf.org/viaf/39506285">
+                  <rdfs:label>Gastrell, Francis</rdfs:label>
                </prov:Donor>
             </crm:P23_transferred_title_from>
             <crm:P24_transferred_title_of>
