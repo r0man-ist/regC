@@ -813,7 +813,7 @@
         <biblStruct>
             <monogr>
                 <author ref="https://viaf.org/viaf/51842250">Guido, Jean, active 1540</author>
-                <title>Ioannis Guidonis ... de temporis, astrorum, anniq́ue partium integra atque
+                <title>Ioannis Guidonis ... de temporis, astrorum, annique partium integra atque
                     absoluta animaduersione, libri duo</title>
                 <imprint>
                     <pubPlace>Par.</pubPlace>
@@ -2800,7 +2800,7 @@
             <monogr>
                 <author ref="https://viaf.org/viaf/39528957">Favre, Antoine, 1557-1624</author>
                 <title ref="https://viaf.org/viaf/185867779">Antonii Fabri ... Coniecturarum iuris
-                    ciuilis libri sex. Lugd., 1598, 4⁰.</title>
+                    ciuilis libri sex. Lugd., 1598</title>
                 <imprint>
                     <pubPlace>Lugd.</pubPlace>
                     <date>1596</date>
@@ -3120,7 +3120,7 @@
         </objectIdentifier>
         <biblStruct>
             <monogr>
-                <author ref="https://viaf.org/viaf/57550237">Maynard, Géraud de 1537-1607</author>
+                <author ref="https://viaf.org/viaf/57550237">Maynard, Géraud de 1537-1607</author>
                 <title>La seconde partie des Notables et singulieres questions du droict escrit,
                     decidees et ingees par arrests memorables de la cour souueraine du parlement de
                     Tholose.</title>
@@ -4397,6 +4397,7 @@
         </biblStruct>
     </object>
 </listObject>
+
 
 
 

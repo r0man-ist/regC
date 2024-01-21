@@ -7,8 +7,10 @@
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:t="http://www.tei-c.org/ns/1.0">
     <xsl:output method="xml" indent="yes" encoding="UTF-8"/>
 
+    
 
     <xsl:template match="/">
+
 
 
         <rdf:RDF>
@@ -83,7 +85,7 @@
                                         <prov:Item>
                                             <xsl:attribute name="rdf:about">
                                                 <xsl:value-of
-                                                  select="concat('https:r0man-ist.github.io/regC/#P', $count_purchase, '-I', $count_item)"
+                                                  select="concat('https:r0man-ist.github.io/regC#P', $count_purchase, '-I', $count_item)"
                                                 />
                                             </xsl:attribute>
                                             <dcterms:title>
@@ -92,7 +94,8 @@
                                                 />
                                             </dcterms:title>
                                             <!-- Creator -->
-                                            <dcterms:creator>
+                                            
+                                            <xsl:if test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]"><dcterms:creator>
                                                 <xsl:choose>
                                                   <xsl:when
                                                   test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
@@ -115,7 +118,7 @@
                                                   />
                                                   </xsl:otherwise>
                                                 </xsl:choose>
-                                            </dcterms:creator>
+                                            </dcterms:creator></xsl:if>
                                             <!-- current shelfmark -->
                                             <xsl:if
                                                 test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:objectIdentifier/t:idno[@type = 'shelfmark']">
@@ -138,23 +141,24 @@
                                             </xsl:if>
                                         </prov:Item>
                                     </crm:P24_transferred_title_of>
+                                </xsl:for-each>
                                     <!-- Price -->
-                                    <xsl:if test="./../following-sibling::t:cell/t:measure">
+                                    <xsl:if test="./descendant::t:cell/t:measure">
                                         <crm:P119_had_sales_price>
                                             <crm:E97_Monetary_Amount>
                                                 <crm:P180_has_currency>Pound</crm:P180_has_currency>
                                                 <crm:P90_has_value>
                                                   <xsl:value-of
-                                                  select="./../following-sibling::t:cell/t:measure[@unit = 'pound']/@quantity"
+                                                      select="./descendant::t:cell/t:measure[@unit = 'pound']/@quantity"
                                                   />-<xsl:value-of
-                                                  select="./../following-sibling::t:cell/t:measure[@unit = 'shilling']/@quantity"
+                                                      select="./descendant::t:cell/t:measure[@unit = 'shilling']/@quantity"
                                                   />-<xsl:value-of
-                                                  select="./../following-sibling::t:cell/t:measure[@unit = 'pence']/@quantity"
+                                                      select="./descendant::t:cell/t:measure[@unit = 'pence']/@quantity"
                                                   /></crm:P90_has_value>
                                             </crm:E97_Monetary_Amount>
                                         </crm:P119_had_sales_price>
                                     </xsl:if>
-                                </xsl:for-each>
+                                
                             </xsl:if>
                             <!-- time -->
                             <crm:P4_has_time_span>
@@ -181,16 +185,16 @@
                                             test="./descendant::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]">
                                             <crm:P82a_begin_of_the_begin
                                                 rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                                                
+
                                                 <xsl:value-of
-                                                    select="concat(./descendant::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/@notBefore, 'T00:00:00')"
+                                                  select="concat(./descendant::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/@notBefore, 'T00:00:00')"
                                                 />
                                             </crm:P82a_begin_of_the_begin>
                                             <crm:P82b_end_of_the_end
                                                 rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                                                 <xsl:value-of
-                                                    select="concat(./descendant::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/@notAfter, 'T23:59:59')"/>
-                                                
+                                                  select="concat(./descendant::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/@notAfter, 'T23:59:59')"/>
+
                                             </crm:P82b_end_of_the_end>
                                         </xsl:when>
                                     </xsl:choose>
@@ -212,13 +216,13 @@
                                 <crm:E15_Identifier_Assignment>
                                     <xsl:attribute name="rdf:about">
                                         <xsl:value-of
-                                            select="concat('https:r0man-ist.github.io/regC/#P-ID', $count_purchase)"
+                                            select="concat('https:r0man-ist.github.io/regC#P-ID', $count_purchase)"
                                         />
                                     </xsl:attribute>
                                     <crm:P140_assigned_attribute_to>
                                         <xsl:attribute name="rdf:resource">
                                             <xsl:value-of
-                                                select="concat('https:r0man-ist.github.io/regC/#P', $count_purchase, '-I', $count_item)"
+                                                select="concat('https:r0man-ist.github.io/regC#P', $count_purchase, '-I', $count_item)"
                                             />
                                         </xsl:attribute>
                                     </crm:P140_assigned_attribute_to>
@@ -271,47 +275,105 @@
                                     select="concat('https:r0man-ist.github.io/regC#M', $count_move)"
                                 />
                             </xsl:attribute>
+                            <crm:P37_assigned>
+                                <crm:E42_Identifier>
+                                    <xsl:attribute name="rdf:about">
+                                        <xsl:value-of
+                                            select="concat('https:r0man-ist.github.io/regC#M', $count_move, '-ID1')"
+                                        />
+                                    </xsl:attribute>
+                                    <crm:P90_has_value>
+                                        <xsl:value-of
+                                            select="./../../descendant::t:ab[@type = 'shelfmark'][1]/t:choice/t:reg"
+                                        />
+                                    </crm:P90_has_value>
+                                </crm:E42_Identifier>
+                            </crm:P37_assigned>
+                            <crm:P38_deassigned>
+                                <crm:E42_Identifier>
+                                    <xsl:attribute name="rdf:about">
+                                        <xsl:value-of
+                                            select="concat('https:r0man-ist.github.io/regC#M', $count_move, '-ID1')"
+                                        />
+                                    </xsl:attribute>
+                                    <crm:P90_has_value>
+                                        <xsl:value-of
+                                            select="./../../descendant::t:ab[@type = 'shelfmark'][2]/t:choice/t:reg"
+                                        />
+                                    </crm:P90_has_value>
+                                </crm:E42_Identifier>
+                            </crm:P38_deassigned>
                             <xsl:if test="./descendant::t:bibl[@corresp]">
+                                
+                                
+                                
                                 <xsl:for-each select="./descendant::t:bibl">
                                     <xsl:variable name="count_item" select="position()"/>
                                     <xsl:variable name="item_ID" select="./@corresp"/>
 
-                                    <crm:P37_assigned>
-                                        <xsl:attribute name="rdf:resource">
-                                            <xsl:value-of
-                                                select="concat('https:r0man-ist.github.io/regC#M', $count_move, '-I', $count_item)"
-                                            />
-                                        </xsl:attribute>
-                                    </crm:P37_assigned>
+                                    <crm:P140_assigned_attribute_to>
+                                        
+                                        <prov:Item>
+                                            <xsl:attribute name="rdf:about">
+                                                <xsl:value-of
+                                                    select="concat('https:r0man-ist.github.io/regC#P', $count_move, '-I', $count_item)"
+                                                />
+                                            </xsl:attribute>
+                                            <dcterms:title>
+                                                <xsl:value-of
+                                                    select="normalize-space(//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:title)"
+                                                />
+                                            </dcterms:title>
+                                            <!-- Creator -->
+                                            
+                                            <xsl:if test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]"><dcterms:creator>
+                                                <xsl:choose>
+                                                    <xsl:when
+                                                        test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
+                                                        <crm:E21_Person>
+                                                            <xsl:attribute name="rdf:about">
+                                                                <xsl:value-of
+                                                                    select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author/@ref"
+                                                                />
+                                                            </xsl:attribute>
+                                                            <rdfs:label>
+                                                                <xsl:value-of
+                                                                    select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
+                                                                />
+                                                            </rdfs:label>
+                                                        </crm:E21_Person>
+                                                    </xsl:when>
+                                                    <xsl:otherwise>
+                                                        <xsl:value-of
+                                                            select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
+                                                        />
+                                                    </xsl:otherwise>
+                                                </xsl:choose>
+                                            </dcterms:creator></xsl:if>
+                                            <!-- current shelfmark -->
+                                            <xsl:if
+                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:objectIdentifier/t:idno[@type = 'shelfmark']">
+                                                <crm:P48_has_preferred_identifier>
+                                                    <xsl:value-of
+                                                        select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:objectIdentifier/t:idno[@type = 'shelfmark']"
+                                                    />
+                                                </crm:P48_has_preferred_identifier>
+                                            </xsl:if>
+                                            <!-- Check if authority-statement for work exists -->
+                                            <xsl:if
+                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:title[@ref]">
+                                                <dcterms:isVersionOf>
+                                                    <xsl:attribute name="rdf:resource">
+                                                        <xsl:value-of
+                                                            select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:title/@ref"
+                                                        />
+                                                    </xsl:attribute>
+                                                </dcterms:isVersionOf>
+                                            </xsl:if>
+                                        </prov:Item>
+                                    </crm:P140_assigned_attribute_to>
 
-                                    <crm:P37_assigned>
-                                        <crm:E42_Identifier>
-                                            <xsl:attribute name="rdf:about">
-                                                <xsl:value-of
-                                                  select="concat('https:r0man-ist.github.io/regC#M', $count_move, '-I', $count_item, '-ID1')"
-                                                />
-                                            </xsl:attribute>
-                                            <crm:P90_has_value>
-                                                <xsl:value-of
-                                                  select="./../../descendant::t:ab[@type = 'shelfmark'][1]/t:choice/t:reg"
-                                                />
-                                            </crm:P90_has_value>
-                                        </crm:E42_Identifier>
-                                    </crm:P37_assigned>
-                                    <crm:P38_deassigned>
-                                        <crm:E42_Identifier>
-                                            <xsl:attribute name="rdf:about">
-                                                <xsl:value-of
-                                                  select="concat('https:r0man-ist.github.io/regC#M', $count_move, '-I', $count_item, '-ID2')"
-                                                />
-                                            </xsl:attribute>
-                                            <crm:P90_has_value>
-                                                <xsl:value-of
-                                                  select="./../../descendant::t:ab[@type = 'shelfmark'][2]/t:choice/t:reg"
-                                                />
-                                            </crm:P90_has_value>
-                                        </crm:E42_Identifier>
-                                    </crm:P38_deassigned>
+                                    
                                 </xsl:for-each>
                             </xsl:if>
                             <crm:P4_has_time_span>
@@ -367,7 +429,7 @@
                                         <prov:Item>
                                             <xsl:attribute name="rdf:about">
                                                 <xsl:value-of
-                                                  select="concat('https:r0man-ist.github.io/regC/#Dep', $count_deposit, '-I', $count_item)"
+                                                  select="concat('https:r0man-ist.github.io/regC#Dep', $count_deposit, '-I', $count_item)"
                                                 />
                                             </xsl:attribute>
                                             <dcterms:title>
@@ -375,8 +437,10 @@
                                                   select="normalize-space(//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:title)"
                                                 />
                                             </dcterms:title>
-                                            <dcterms:creator>
-                                                <xsl:choose>
+                                            <xsl:if
+                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
+                                                <dcterms:creator>
+                                                  <xsl:choose>
                                                   <xsl:when
                                                   test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
                                                   <crm:E21_Person>
@@ -397,8 +461,9 @@
                                                   select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
                                                   />
                                                   </xsl:otherwise>
-                                                </xsl:choose>
-                                            </dcterms:creator>
+                                                  </xsl:choose>
+                                                </dcterms:creator>
+                                            </xsl:if>
                                             <!-- current shelfmark -->
                                             <xsl:if
                                                 test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:objectIdentifier/t:idno[@type = 'shelfmark']">
@@ -446,23 +511,25 @@
                 <xsl:for-each select="//t:row[@ana = 'prov:deposit']">
                     <xsl:variable name="count_deposit" select="position()"/>
                     <xsl:if test="./descendant::t:ab[@type = 'shelfmark']">
-                        <xsl:for-each select="./descendant::t:bibl">
-                            <xsl:variable name="count_item" select="position()"/>
-                            <xsl:variable name="item_ID" select="./@corresp"/>
-                            <crm:P70_documents>
-                                <crm:E15_Identifier_Assignment>
-                                    <xsl:attribute name="rdf:about">
-                                        <xsl:value-of
-                                            select="concat('https:r0man-ist.github.io/regC/#Dep-ID', $count_deposit)"
-                                        />
-                                    </xsl:attribute>
-                                    <crm:P37_assigned>
+                        <crm:P70_documents>
+                            <crm:E15_Identifier_Assignment>
+                                <xsl:attribute name="rdf:about">
+                                    <xsl:value-of
+                                        select="concat('https:r0man-ist.github.io/regC#Dep-ID', $count_deposit)"
+                                    />
+                                </xsl:attribute>
+                                <xsl:for-each select="./descendant::t:bibl">
+                                    <xsl:variable name="count_item" select="position()"/>
+                                    <xsl:variable name="item_ID" select="./@corresp"/>
+
+
+                                    <crm:P140_assigned_attribute_to>
                                         <xsl:attribute name="rdf:resource">
                                             <xsl:value-of
-                                                select="concat('https:r0man-ist.github.io/regC/#Dep', $count_deposit, '-I', $count_item)"
+                                                select="concat('https:r0man-ist.github.io/regC#Dep', $count_deposit, '-I', $count_item)"
                                             />
                                         </xsl:attribute>
-                                    </crm:P37_assigned>
+                                    </crm:P140_assigned_attribute_to>
                                     <crm:P37_assigned>
                                         <crm:E42_Identifier>
                                             <xsl:attribute name="rdf:about">
@@ -477,25 +544,25 @@
                                             </crm:P90_has_value>
                                         </crm:E42_Identifier>
                                     </crm:P37_assigned>
-                                    <crm:P4_has_time_span>
-                                        <crm:E61_Time_Primitive>
-                                            <crm:P82a_begin_of_the_begin
-                                                rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                                                <xsl:value-of
-                                                  select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notBefore, 'T00:00:00')"
-                                                />
-                                            </crm:P82a_begin_of_the_begin>
-                                            <crm:P82b_end_of_the_end
-                                                rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                                                <xsl:value-of
-                                                  select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notAfter, 'T23:59:59')"
-                                                />
-                                            </crm:P82b_end_of_the_end>
-                                        </crm:E61_Time_Primitive>
-                                    </crm:P4_has_time_span>
-                                </crm:E15_Identifier_Assignment>
-                            </crm:P70_documents>
-                        </xsl:for-each>
+                                </xsl:for-each>
+                                <crm:P4_has_time_span>
+                                    <crm:E61_Time_Primitive>
+                                        <crm:P82a_begin_of_the_begin
+                                            rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
+                                            <xsl:value-of
+                                                select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notBefore, 'T00:00:00')"
+                                            />
+                                        </crm:P82a_begin_of_the_begin>
+                                        <crm:P82b_end_of_the_end
+                                            rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
+                                            <xsl:value-of
+                                                select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notAfter, 'T23:59:59')"
+                                            />
+                                        </crm:P82b_end_of_the_end>
+                                    </crm:E61_Time_Primitive>
+                                </crm:P4_has_time_span>
+                            </crm:E15_Identifier_Assignment>
+                        </crm:P70_documents>
                     </xsl:if>
                 </xsl:for-each>
                 <!-- End loop Deposit -->
@@ -583,7 +650,7 @@
                                         <prov:Item>
                                             <xsl:attribute name="rdf:about">
                                                 <xsl:value-of
-                                                  select="concat('https:r0man-ist.github.io/regC/#D', $count_donation, '-I', $count_item)"
+                                                  select="concat('https:r0man-ist.github.io/regC#D', $count_donation, '-I', $count_item)"
                                                 />
                                             </xsl:attribute>
                                             <dcterms:title>
@@ -591,8 +658,10 @@
                                                   select="normalize-space(//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:title)"
                                                 />
                                             </dcterms:title>
-                                            <dcterms:creator>
-                                                <xsl:choose>
+                                            <xsl:if
+                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
+                                                <dcterms:creator>
+                                                  <xsl:choose>
                                                   <xsl:when
                                                   test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
                                                   <crm:E21_Person>
@@ -613,8 +682,9 @@
                                                   select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
                                                   />
                                                   </xsl:otherwise>
-                                                </xsl:choose>
-                                            </dcterms:creator>
+                                                  </xsl:choose>
+                                                </dcterms:creator>
+                                            </xsl:if>
                                             <!-- current shelfmark -->
                                             <xsl:if
                                                 test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:objectIdentifier/t:idno[@type = 'shelfmark']">
@@ -662,23 +732,25 @@
                 <xsl:for-each select="//t:row[@ana = 'prov:donation']">
                     <xsl:variable name="count_donation" select="position()"/>
                     <xsl:if test="./descendant::t:ab[@type = 'shelfmark']">
-                        <xsl:for-each select="./descendant::t:bibl">
-                            <xsl:variable name="count_item" select="position()"/>
-                            <xsl:variable name="item_ID" select="./@corresp"/>
-                            <crm:P70_documents>
-                                <crm:E15_Identifier_Assignment>
-                                    <xsl:attribute name="rdf:about">
-                                        <xsl:value-of
-                                            select="concat('https:r0man-ist.github.io/regC/#D-ID', $count_donation)"
-                                        />
-                                    </xsl:attribute>
-                                    <crm:P37_assigned>
+                        <crm:P70_documents>
+                            <crm:E15_Identifier_Assignment>
+                                <xsl:attribute name="rdf:about">
+                                    <xsl:value-of
+                                        select="concat('https:r0man-ist.github.io/regC#D-ID', $count_donation)"
+                                    />
+                                </xsl:attribute>
+                                <xsl:for-each select="./descendant::t:bibl">
+                                    <xsl:variable name="count_item" select="position()"/>
+                                    <xsl:variable name="item_ID" select="./@corresp"/>
+
+
+                                    <crm:P140_assigned_attribute_to>
                                         <xsl:attribute name="rdf:resource">
                                             <xsl:value-of
-                                                select="concat('https:r0man-ist.github.io/regC/#D', $count_donation, '-I', $count_item)"
+                                                select="concat('https:r0man-ist.github.io/regC#D', $count_donation, '-I', $count_item)"
                                             />
                                         </xsl:attribute>
-                                    </crm:P37_assigned>
+                                    </crm:P140_assigned_attribute_to>
                                     <crm:P37_assigned>
                                         <crm:E42_Identifier>
                                             <xsl:attribute name="rdf:about">
@@ -709,9 +781,9 @@
                                             </crm:P82b_end_of_the_end>
                                         </crm:E61_Time_Primitive>
                                     </crm:P4_has_time_span>
-                                </crm:E15_Identifier_Assignment>
-                            </crm:P70_documents>
-                        </xsl:for-each>
+                                </xsl:for-each>
+                            </crm:E15_Identifier_Assignment>
+                        </crm:P70_documents>
                     </xsl:if>
                 </xsl:for-each>
 
@@ -726,7 +798,7 @@
                             <!-- basic counter for IDs and URI -->
                             <xsl:attribute name="rdf:about">
                                 <xsl:value-of
-                                    select="concat('https:r0man-ist.github.io/regC#P', $count_sale)"
+                                    select="concat('https:r0man-ist.github.io/regC#S', $count_sale)"
                                 />
                             </xsl:attribute>
                             <!-- seller -->
@@ -784,7 +856,7 @@
                                         <prov:Item>
                                             <xsl:attribute name="rdf:about">
                                                 <xsl:value-of
-                                                  select="concat('https:r0man-ist.github.io/regC/#P', $count_sale, '-I', $count_item)"
+                                                  select="concat('https:r0man-ist.github.io/regC#S', $count_sale, '-I', $count_item)"
                                                 />
                                             </xsl:attribute>
                                             <dcterms:title>
@@ -792,8 +864,10 @@
                                                   select="normalize-space(//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:title)"
                                                 />
                                             </dcterms:title>
-                                            <dcterms:creator>
-                                                <xsl:choose>
+                                            <xsl:if
+                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
+                                                <dcterms:creator>
+                                                  <xsl:choose>
                                                   <xsl:when
                                                   test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
                                                   <crm:E21_Person>
@@ -814,8 +888,9 @@
                                                   select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
                                                   />
                                                   </xsl:otherwise>
-                                                </xsl:choose>
-                                            </dcterms:creator>
+                                                  </xsl:choose>
+                                                </dcterms:creator>
+                                            </xsl:if>
                                             <!-- current shelfmark -->
                                             <xsl:if
                                                 test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:objectIdentifier/t:idno[@type = 'shelfmark']">
@@ -865,32 +940,32 @@
                                             test="./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]">
                                             <crm:P82a_begin_of_the_begin
                                                 rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                                                
+
                                                 <xsl:value-of
-                                                    select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/@notBefore, 'T00:00:00')"
+                                                  select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/@notBefore, 'T00:00:00')"
                                                 />
                                             </crm:P82a_begin_of_the_begin>
                                             <crm:P82b_end_of_the_end
                                                 rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                                                 <xsl:value-of
-                                                    select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/@notAfter, 'T23:59:59')"/>
-                                                
+                                                  select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/@notAfter, 'T23:59:59')"/>
+
                                             </crm:P82b_end_of_the_end>
                                         </xsl:when>
                                         <xsl:when
                                             test="./descendant::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]">
                                             <crm:P82a_begin_of_the_begin
                                                 rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                                                
+
                                                 <xsl:value-of
-                                                    select="concat(./descendant::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/@notBefore, 'T00:00:00')"
+                                                  select="concat(./descendant::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/@notBefore, 'T00:00:00')"
                                                 />
                                             </crm:P82a_begin_of_the_begin>
                                             <crm:P82b_end_of_the_end
                                                 rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                                                 <xsl:value-of
-                                                    select="concat(./descendant::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/@notAfter, 'T23:59:59')"/>
-                                                
+                                                  select="concat(./descendant::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/@notAfter, 'T23:59:59')"/>
+
                                             </crm:P82b_end_of_the_end>
                                         </xsl:when>
                                     </xsl:choose>
@@ -910,7 +985,7 @@
                             <!-- basic counter for IDs and URI -->
                             <xsl:attribute name="rdf:about">
                                 <xsl:value-of
-                                    select="concat('https:r0man-ist.github.io/regC#P', $count_subscription)"
+                                    select="concat('https:r0man-ist.github.io/regC#Sub', $count_subscription)"
                                 />
                             </xsl:attribute>
                             <!-- subscriber -->
@@ -929,7 +1004,7 @@
                                         <prov:Item>
                                             <xsl:attribute name="rdf:about">
                                                 <xsl:value-of
-                                                  select="concat('https:r0man-ist.github.io/regC/#P', $count_subscription, '-I', $count_item)"
+                                                  select="concat('https:r0man-ist.github.io/regC#Sub', $count_subscription, '-I', $count_item)"
                                                 />
                                             </xsl:attribute>
                                             <dcterms:title>
@@ -937,8 +1012,10 @@
                                                   select="normalize-space(//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:title)"
                                                 />
                                             </dcterms:title>
-                                            <dcterms:creator>
-                                                <xsl:choose>
+                                            <xsl:if
+                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
+                                                <dcterms:creator>
+                                                  <xsl:choose>
                                                   <xsl:when
                                                   test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
                                                   <crm:E21_Person>
@@ -959,8 +1036,9 @@
                                                   select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
                                                   />
                                                   </xsl:otherwise>
-                                                </xsl:choose>
-                                            </dcterms:creator>
+                                                  </xsl:choose>
+                                                </dcterms:creator>
+                                            </xsl:if>
                                             <!-- current shelfmark -->
                                             <xsl:if
                                                 test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:objectIdentifier/t:idno[@type = 'shelfmark']">
