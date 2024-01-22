@@ -7007,18 +7007,24 @@
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="5" unit="shilling">05</measure></cell>
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
-                        <cell>8° C. 76. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8° C. 76. Jur.</orig>
+                            <reg>8° C 76 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row>
                         <cell ana="prov:subscription">Second Paym<hi rend="superscript:true">t</hi>.
-                            for <bibl corresp="#regC-bib-Avesbury1720">Du-bois’s Moral<lb/>
+                            for <bibl corresp="#regC-bib-Du-Bois1721">Du-bois’s Moral<lb/>
                                 Reflections</bibl>. (v. <ref target="#fol-9r">pag. 5</ref> hujus
                             Comput.)</cell>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="2" unit="shilling">02</measure></cell>
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
-                        <cell>8° C. 81. Jur.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                            <orig>8° C. 81. Jur.</orig>
+                            <reg>8° C 81 Jur.</reg>
+                        </choice></ab></cell>
                         <cell>Prof. Jur.</cell>
                     </row>
                     <row ana="prov:subscription">
