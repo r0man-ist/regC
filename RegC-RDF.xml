@@ -5362,7 +5362,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P3-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M3-I1">
                   <dcterms:title/>
                   <crm:P48_has_preferred_identifier>FF 27 Th.</crm:P48_has_preferred_identifier>
                </prov:Item>
@@ -5388,7 +5388,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P4-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M4-I1">
                   <dcterms:title>Marci Zuerii Boxhornii Theatrum, sive Hollandiæ comitatus et urbium nova descriptio.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/47066992">
@@ -5420,7 +5420,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P5-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M5-I1">
                   <dcterms:title>Bonifacij de Ceua ... Viatice excursioes ... nuper de nonullis hoīm vicijs sparsim edite.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/305230154">
@@ -5451,7 +5451,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P6-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M6-I1">
                   <dcterms:title>Hieremiæ Thriueri ... commentarij in vii. libros Aphorismorum Hippocratis</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/76432533">
@@ -5482,7 +5482,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P7-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M7-I1">
                   <dcterms:title>Ioannis Guidonis ... de temporis, astrorum, annique partium integra atque absoluta animaduersione, libri duo</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/51842250">
@@ -5513,7 +5513,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P8-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M8-I1">
                   <dcterms:title>Salui Sclani ... in librum primum Aphorismorum Hippocratis commentaria</dcterms:title>
                   <crm:P48_has_preferred_identifier>4° F 15(3) Med.</crm:P48_has_preferred_identifier>
                </prov:Item>
@@ -5539,7 +5539,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P9-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M9-I1">
                   <dcterms:title>Claudii Espencæi ... collectaneorum de continentia libri sex.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/27148970">
@@ -5570,7 +5570,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P10-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M10-I1">
                   <dcterms:title>Disputatio de originali peccato et libero arbitrio, inter M. Flacium Illyricum &amp; V. Strigelium publicè Vinariæ ... anno 1560 ... habita. Accesserunt eiusdem argumenti &amp; alia quaedam scripta [ed. S. Musæus].</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/89645361">
@@ -5622,7 +5622,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P12-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M12-I1">
                   <dcterms:title>Imperatorum Romanorum à Iulio Cæsare ad Heraclium usque numismata aurea ... Caroli ducis Croyi ... studio collecta, arte I. de Bye in æs incisa, opera I. Hemelarii comm. explicata.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/59117215">
@@ -5653,7 +5653,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P13-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M13-I1">
                   <dcterms:title>Disputationes theologicæ et commentaria in secundum librum Sententiarum Scoti, a 28 vsque ad 42.</dcterms:title>
                   <crm:P48_has_preferred_identifier>H 5.11 Th.</crm:P48_has_preferred_identifier>
                </prov:Item>
@@ -5679,7 +5679,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P14-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M14-I1">
                   <dcterms:title>Athanasii Kircheri e Societate Iesu Arithmologia siue De abditis numerorum mysterijs : qua origo, antiquitas &amp; fabrica numerorum exponitur; abditae eorundem proprietates demonstrantur; fontes superstitionum in amuletorum fabrica aperiuntur; denique post cabalistarum, arabum, gnosticorum, aliorumque magicas impietates detectas, vera &amp; licita numerorum mystica significatio ostenditur.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/31998409">
@@ -5711,7 +5711,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P15-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M15-I1">
                   <dcterms:title>Apparatus concionatorum, seu, Loci communes ad conciones ordine alphabetico digesti.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/13253612">
@@ -5742,7 +5742,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P16-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M16-I1">
                   <dcterms:title>Apparatus concionatorum, seu, Loci communes ad conciones ordine alphabetico digesti.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/13253612">
@@ -5773,7 +5773,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P17-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M17-I1">
                   <dcterms:title>Vitæ sanctorum, siue Res gestæ martyrum, confessorum atque sanctarum virginum, eorum præcipue quæ per L. Surium sex tomis comprehensæ sunt, restrictis verborum ambagibus digestæ.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/77377644">
@@ -5804,7 +5804,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P18-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M18-I1">
                   <dcterms:title>Vitæ sanctorum, siue Res gestæ martyrum, confessorum atque sanctarum virginum, eorum præcipue quæ per L. Surium sex tomis comprehensæ sunt, restrictis verborum ambagibus digestæ.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/77377644">
@@ -5835,7 +5835,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P19-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M19-I1">
                   <dcterms:title>Adamus: hoc est, Theologica expositio primæ partis Geneseos.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/57380713">
@@ -5886,7 +5886,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P21-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M21-I1">
                   <dcterms:title>Apparato alle antichità di Capua o vero Discorsi della Campania felice.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/69805815">
@@ -5917,7 +5917,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P22-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M22-I1">
                   <dcterms:title>Ideæ reformandi Antichristi ... tomus primus (-tertius) studio &amp; opera Eryci Rhonæi (quo continetur discursus I. à Münster de palingenesia et instauratione Ecclesiæ).</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/61785173">
@@ -5948,7 +5948,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P23-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M23-I1">
                   <dcterms:title>Francisci Riberæ ... in sanctum Iesu-Christi euangelium secundùm Ioannem commentarii.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/95299692">
@@ -5979,7 +5979,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P24-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M24-I1">
                   <dcterms:title>Concio ad clerum [on Luke xxii, 31] habita Oxonii ... 1609.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/32345104">
@@ -6010,7 +6010,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P25-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M25-I1">
                   <dcterms:title>Concio ad clerum habita in templo beatæ Mariæ Oxon: Feb: 14.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/20029111">
@@ -6041,7 +6041,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P26-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M26-I1">
                   <dcterms:title>Bibliotheca ss. patrum concionatoria, qua ... conciones, homiliæ, orationes ... summatim exposita ... exhibentur.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/121907809">
@@ -6072,7 +6072,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P27-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M27-I1">
                   <dcterms:title>[ICP uncatalogued Hebrew printed books]</dcterms:title>
                   <crm:P48_has_preferred_identifier>FF 28 Th.</crm:P48_has_preferred_identifier>
                </prov:Item>
@@ -6098,7 +6098,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P28-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M28-I1">
                   <dcterms:title>Analysis et commentaria in Epistolam Pauli ad Philippenses, cum observationibus earumque usibus.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/49654392">
@@ -6110,7 +6110,7 @@
                </prov:Item>
             </crm:P140_assigned_attribute_to>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P28-I2">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M28-I2">
                   <dcterms:title>Conciones in Epistolam primam Petri.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/49654392">
@@ -6142,7 +6142,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P29-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M29-I1">
                   <dcterms:title>Sylloge quæstionum juridicarum et politicarum.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/129152682525023310159">
@@ -6174,7 +6174,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P30-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M30-I1">
                   <dcterms:title>L'histoire mahometane, ou Les quarante-neuf chalifes du Macine, tr. [from Al-Makîn]. Auec vn sommaire de l'histoire des Mussulmans ou Sarrazins en Espagne, extr. de R. Ximenes. Le tout par P. Vattier. Ie éd.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/89205828">
@@ -6206,7 +6206,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P31-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M31-I1">
                   <dcterms:title>De animi tranquillitate dialogus.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/89562682">
@@ -6259,7 +6259,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P33-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M33-I1">
                   <dcterms:title>Thomæ Finkii ... Geometriæ rotundi libri xiii.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/35210347">
@@ -6270,7 +6270,7 @@
                </prov:Item>
             </crm:P140_assigned_attribute_to>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P33-I2">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M33-I2">
                   <dcterms:title>Thomæ Finckii Horoscopographia, siue, De inueniendo stellarum situ astrologia.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/35210347">
@@ -6321,7 +6321,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P35-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M35-I1">
                   <dcterms:title>Consilia, siue Responsa. Vnà cum duobus tractatibus. i. De alienatione prohibita, tam à lege, quàm ab homine. ii. De remedijs possessorijs.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/20024460">
@@ -6352,7 +6352,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P36-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M36-I1">
                   <dcterms:title>Praxis, siue de ordine iudiciorum tractatus, qui vulgò Speculum aureum, et Lumen aduocatorum nuncupatur, additionibus P. Follerij locupletatus. Accesserunt prætereà decem disputationes quæstionum legalium, vnà cum repetitione l. Is potest. ff. de acquirend hæred &amp; l. Si actor. ff. de procuratorib. His in noua hac ed. accesserunt Practica iudiciaria canonica &amp; ciuilis, &amp;c. I. de Arnono: &amp; Differentiæ iuris Cæsarei, pontificij, &amp; regni Siciliæ: eiusdem autoris.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/20024460">
@@ -6363,7 +6363,7 @@
                </prov:Item>
             </crm:P140_assigned_attribute_to>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P36-I2">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M36-I2">
                   <dcterms:title>Do. Roberti Marantæ ... singularia, et iuris notabilia, cum declarationibus ad varias leges, &amp; paragraphos.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/20024460">
@@ -6395,7 +6395,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P37-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M37-I1">
                   <dcterms:title>Methodus sacrosanctæ theologiæ octo libris tradita.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/64053449">
@@ -6487,7 +6487,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P41-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M41-I1">
                   <dcterms:title>Marci Mantuæ Benauidij ... Aequilibrium scholasticum, in primam, &amp; secundam partem Digestorum, &amp; Codicis, nouissimè editum.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/25505863">
@@ -6499,7 +6499,7 @@
                </prov:Item>
             </crm:P140_assigned_attribute_to>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P41-I2">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M41-I2">
                   <dcterms:title>Hippolyti Riminaldi ... commentaria elegantissima in primam Digesti veteris partem.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/10239962">
@@ -6510,7 +6510,7 @@
                </prov:Item>
             </crm:P140_assigned_attribute_to>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P41-I3">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M41-I3">
                   <dcterms:title>Repetitio [sect.] cum ita .l. hæredes mei.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/54139301">
@@ -6601,7 +6601,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P45-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M45-I1">
                   <dcterms:title>Criticus sacer, vel Commentarii apodictico-elenchtici super Augustanam confessionem, necnon de Scriptura sacra.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/49477662">
@@ -6612,7 +6612,7 @@
                </prov:Item>
             </crm:P140_assigned_attribute_to>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P45-I2">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M45-I2">
                   <dcterms:title>Theologia naturalis et revelata secundum tenorem Augustanæ confessionis.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/49477662">
@@ -6643,7 +6643,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P46-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M46-I1">
                   <dcterms:title>Medulla Lexici iuridici: siue succinctum ... iuris Cæsarei et canonici; ciuilis, et criminalis; theoretici, ac practici: &amp; in schola &amp; in foro vsitatorum ... vocabulorum penu: cui breuissimum accessit feudale lexicon.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/52029866">
@@ -6694,7 +6694,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P48-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M48-I1">
                   <dcterms:title>Paratitla Codicis Iustinianæi methodica, eminentissimorum huius ævi jureconsultorum quorundam suasu ex Cuiacio ... et optimis quibusque jureconsultis aliis, selecta, J. Calvini studio edita.</dcterms:title>
                   <crm:P48_has_preferred_identifier>CC 6 Jur.</crm:P48_has_preferred_identifier>
                </prov:Item>
@@ -6720,7 +6720,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P49-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M49-I1">
                   <dcterms:title>Tractatus de remediis contra præiudiciales sententias, vel damnosas executiones, quæ at aduocatis, causarúmque patronis iuxta praxim opponi solent, nunc primum in lucem ed., &amp; at A. Catalutio summariis &amp; multiplici indice illustratus.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/13246163">
@@ -6811,7 +6811,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P53-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M53-I1">
                   <dcterms:title>Antonii Fabri ... de erroribus pragmaticorum et interpretum iuris. Chiliadis pars prima.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/39528957">
@@ -6823,7 +6823,7 @@
                </prov:Item>
             </crm:P140_assigned_attribute_to>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P53-I2">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M53-I2">
                   <dcterms:title>Antonii Fabri ... Coniecturarum iuris ciuilis libri sex. Lugd., 1598</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/39528957">
@@ -6835,7 +6835,7 @@
                </prov:Item>
             </crm:P140_assigned_attribute_to>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P53-I3">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M53-I3">
                   <dcterms:title>Antonii Fabri ... Coniecturarum iuris ciuilis libri sex. Libri septimus, octauus, nonus, decimus.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/39528957">
@@ -6847,7 +6847,7 @@
                </prov:Item>
             </crm:P140_assigned_attribute_to>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P53-I4">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M53-I4">
                   <dcterms:title>Antonii Fabri ... Coniecturarum iuris ciuilis libri sex. Libri xj &amp; xij.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/39528957">
@@ -6859,7 +6859,7 @@
                </prov:Item>
             </crm:P140_assigned_attribute_to>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P53-I5">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M53-I5">
                   <dcterms:title>Antonii Fabri ... Coniecturarum iuris ciuilis libri sex. Libri xiij, xiiij, xv, xvj.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/39528957">
@@ -6871,7 +6871,7 @@
                </prov:Item>
             </crm:P140_assigned_attribute_to>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P53-I6">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M53-I6">
                   <dcterms:title>Antonii Fabri ... Coniecturarum iuris ciuilis libri sex. Libri xvii &amp; xviii.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/39528957">
@@ -6883,7 +6883,7 @@
                </prov:Item>
             </crm:P140_assigned_attribute_to>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P53-I7">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M53-I7">
                   <dcterms:title>Antonii Fabri ... Coniecturarum iuris ciuilis libri sex. Libri xix et xx.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/39528957">
@@ -6894,7 +6894,7 @@
                </prov:Item>
             </crm:P140_assigned_attribute_to>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P53-I8">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M53-I8">
                   <dcterms:title>Iurisprudentiæ Papinianeæ scientia.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/39528957">
@@ -6925,7 +6925,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P54-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M54-I1">
                   <dcterms:title>Edicts et ordonnances royaux, sur l'establissement de la iustice de la Cour des aides, tresoriers de France, esleux, controoleurs ... &amp; autres officiers: ensemble les reiglemens &amp; arrests de ladite cour.</dcterms:title>
                   <crm:P48_has_preferred_identifier>CC 15,16 Jur.</crm:P48_has_preferred_identifier>
                </prov:Item>
@@ -6951,7 +6951,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P55-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M55-I1">
                   <dcterms:title>Compendium iuris canonici.</dcterms:title>
                   <crm:P48_has_preferred_identifier>CC 9 Jur.</crm:P48_has_preferred_identifier>
                </prov:Item>
@@ -6997,7 +6997,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P57-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M57-I1">
                   <dcterms:title>Variarum resolutionum juris civilis, libri iv.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/39811604">
@@ -7029,7 +7029,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P58-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M58-I1">
                   <dcterms:title>La seconde partie des Notables et singulieres questions du droict escrit, decidees et ingees par arrests memorables de la cour souueraine du parlement de Tholose.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/57550237">
@@ -7060,7 +7060,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P59-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M59-I1">
                   <dcterms:title>Opera varia, emendatiora &amp; 3a amplius parte auctiora.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/19865">
@@ -7091,7 +7091,7 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P60-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M60-I1">
                   <dcterms:title>Prima (-Tertia) pars Institutions confessariorum et pœnitentium peregrinæ. In hac ed. ab autore expurgata &amp; aucta.</dcterms:title>
                   <crm:P48_has_preferred_identifier>CC 20-22 Jur.</crm:P48_has_preferred_identifier>
                </prov:Item>
@@ -7237,14 +7237,14 @@
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P67-I1">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M67-I1">
                   <dcterms:title>Pharmacopoea Amstelredamensis.</dcterms:title>
                   <crm:P48_has_preferred_identifier>CC 17(1) Jur.</crm:P48_has_preferred_identifier>
                   <dcterms:isVersionOf rdf:resource="https://viaf.org/viaf/54156131064058312719"/>
                </prov:Item>
             </crm:P140_assigned_attribute_to>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P67-I2">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M67-I2">
                   <dcterms:title>Fons chymicus id est: Vera auri et argenti conficiendi, ex naturalis philosophiæ venis scaturiens ratio.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/69868154">
@@ -7255,7 +7255,7 @@
                </prov:Item>
             </crm:P140_assigned_attribute_to>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P67-I3">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M67-I3">
                   <dcterms:title>Synopsis eorum, quæ de balneis aliis(que) miraculis Puteolanis scripta sunt. Adiectis balneis Aenariarum, necnon scholiis. Ab auctore denuò recogn. &amp; locupletatum.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/76660251">
@@ -7267,7 +7267,7 @@
                </prov:Item>
             </crm:P140_assigned_attribute_to>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P67-I4">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M67-I4">
                   <dcterms:title>Vopisci Fortunati Plempij ... De fundamentis medicinæ libri sex.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/76310659">
@@ -7279,7 +7279,7 @@
                </prov:Item>
             </crm:P140_assigned_attribute_to>
             <crm:P140_assigned_attribute_to>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P67-I5">
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#M67-I5">
                   <dcterms:title>Antonii Santorelli ... antepraxis medica.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/201200036">

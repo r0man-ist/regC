@@ -316,7 +316,7 @@
                                         <prov:Item>
                                             <xsl:attribute name="rdf:about">
                                                 <xsl:value-of
-                                                    select="concat('https:r0man-ist.github.io/regC#P', $count_move, '-I', $count_item)"
+                                                    select="concat('https:r0man-ist.github.io/regC#M', $count_move, '-I', $count_item)"
                                                 />
                                             </xsl:attribute>
                                             <dcterms:title>
