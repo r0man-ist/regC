@@ -16,12 +16,12 @@ WHERE {
     ?IDassignment crm:P140_assigned_attribute_to ?item .
     ?IDassignment crm:P37_assigned ?ID .
     ?ID crm:P90_has_value ?shelfmarkRegC .
-    FILTER (?shelfmarkRegC  != ?shelfmarkNew)
+    FILTER (?shelfmarkRegC != ?shelfmarkNew)
 }"""
 
 qres = g.query(query)
 
 print(len(qres))
 for row in qres:
-    print(f"{row.item} || {row.shelfmarkNew} || {row.shelfmarkRegC}")
+    print(f"{row.item} | {row.shelfmarkNew} | {row.shelfmarkRegC}")
 
