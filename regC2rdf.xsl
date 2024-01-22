@@ -121,7 +121,7 @@
                                             </dcterms:creator></xsl:if>
                                             <!-- current shelfmark -->
                                             <xsl:if
-                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:objectIdentifier/t:idno[@type = 'shelfmark']">
+                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#') and @ana='copy-identified']/t:objectIdentifier/t:idno[@type = 'shelfmark']">
                                                 <crm:P48_has_preferred_identifier>
                                                   <xsl:value-of
                                                   select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:objectIdentifier/t:idno[@type = 'shelfmark']"
@@ -352,7 +352,7 @@
                                             </dcterms:creator></xsl:if>
                                             <!-- current shelfmark -->
                                             <xsl:if
-                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:objectIdentifier/t:idno[@type = 'shelfmark']">
+                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#') and @ana='copy-identified']/t:objectIdentifier/t:idno[@type = 'shelfmark']">
                                                 <crm:P48_has_preferred_identifier>
                                                     <xsl:value-of
                                                         select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:objectIdentifier/t:idno[@type = 'shelfmark']"
@@ -466,7 +466,7 @@
                                             </xsl:if>
                                             <!-- current shelfmark -->
                                             <xsl:if
-                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:objectIdentifier/t:idno[@type = 'shelfmark']">
+                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#') and @ana='copy-identified']/t:objectIdentifier/t:idno[@type = 'shelfmark']">
                                                 <crm:P48_has_preferred_identifier>
                                                   <xsl:value-of
                                                   select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:objectIdentifier/t:idno[@type = 'shelfmark']"
@@ -687,7 +687,7 @@
                                             </xsl:if>
                                             <!-- current shelfmark -->
                                             <xsl:if
-                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:objectIdentifier/t:idno[@type = 'shelfmark']">
+                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#') and @ana='copy-identified']/t:objectIdentifier/t:idno[@type = 'shelfmark']">
                                                 <crm:P48_has_preferred_identifier>
                                                   <xsl:value-of
                                                   select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:objectIdentifier/t:idno[@type = 'shelfmark']"
@@ -893,7 +893,7 @@
                                             </xsl:if>
                                             <!-- current shelfmark -->
                                             <xsl:if
-                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:objectIdentifier/t:idno[@type = 'shelfmark']">
+                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#') and @ana='copy-identified']/t:objectIdentifier/t:idno[@type = 'shelfmark']">
                                                 <crm:P48_has_preferred_identifier>
                                                   <xsl:value-of
                                                   select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:objectIdentifier/t:idno[@type = 'shelfmark']"
@@ -1041,7 +1041,7 @@
                                             </xsl:if>
                                             <!-- current shelfmark -->
                                             <xsl:if
-                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:objectIdentifier/t:idno[@type = 'shelfmark']">
+                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#') and @ana='copy-identified']/t:objectIdentifier/t:idno[@type = 'shelfmark']">
                                                 <crm:P48_has_preferred_identifier>
                                                   <xsl:value-of
                                                   select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:objectIdentifier/t:idno[@type = 'shelfmark']"
