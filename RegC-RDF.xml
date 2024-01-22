@@ -5312,13 +5312,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M1">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M1-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M1-IDnew">
+                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M1-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M1-IDold">
+                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -5332,13 +5332,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M2">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M2-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M2-IDnew">
+                  <crm:P90_has_value>B 4.2 Art.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M2-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M2-IDold">
+                  <crm:P90_has_value>A 1.28 Art.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -5352,13 +5352,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M3">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M3-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M3-IDnew">
+                  <crm:P90_has_value>FF 27 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M3-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M3-IDold">
+                  <crm:P90_has_value> M 5.11 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -5378,13 +5378,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M4">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M4-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M4-IDnew">
+                  <crm:P90_has_value>AA 31 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M4-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M4-IDold">
+                  <crm:P90_has_value>B 4.2 Art.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -5410,13 +5410,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M5">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M5-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M5-IDnew">
+                  <crm:P90_has_value>DD 44 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M5-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M5-IDold">
+                  <crm:P90_has_value>C 5.10 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -5441,13 +5441,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M6">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M6-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M6-IDnew">
+                  <crm:P90_has_value>4° F 15 Med.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M6-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M6-IDold">
+                  <crm:P90_has_value>T 1.7 Med.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -5472,13 +5472,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M7">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M7-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M7-IDnew">
+                  <crm:P90_has_value>4° F 15 Med.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M7-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M7-IDold">
+                  <crm:P90_has_value>T 1.7 Med.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -5503,13 +5503,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M8">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M8-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M8-IDnew">
+                  <crm:P90_has_value>4° F 15 Med.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M8-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M8-IDold">
+                  <crm:P90_has_value>T 1.7 Med.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -5529,13 +5529,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M9">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M9-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M9-IDnew">
+                  <crm:P90_has_value>FF 29 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M9-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M9-IDold">
+                  <crm:P90_has_value>E 4.3 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -5560,13 +5560,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M10">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M10-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M10-IDnew">
+                  <crm:P90_has_value>FF 23 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M10-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M10-IDold">
+                  <crm:P90_has_value>D 3.12 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -5592,13 +5592,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M11">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M11-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M11-IDnew">
+                  <crm:P90_has_value>Arch. D 70</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M11-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M11-IDold">
+                  <crm:P90_has_value>Arch. A 73</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -5612,13 +5612,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M12">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M12-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M12-IDnew">
+                  <crm:P90_has_value>AA 33 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M12-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M12-IDold">
+                  <crm:P90_has_value>C 2.1 Art.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -5643,13 +5643,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M13">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M13-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M13-IDnew">
+                  <crm:P90_has_value>H 5.11 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M13-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M13-IDold">
+                  <crm:P90_has_value>L 4.17 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -5669,13 +5669,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M14">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M14-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M14-IDnew">
+                  <crm:P90_has_value>AA 47 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M14-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M14-IDold">
+                  <crm:P90_has_value>B 6.3 Art.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -5701,13 +5701,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M15">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M15-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M15-IDnew">
+                  <crm:P90_has_value>DD 49 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M15-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M15-IDold">
+                  <crm:P90_has_value>L 3.13 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -5732,13 +5732,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M16">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M16-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M16-IDnew">
+                  <crm:P90_has_value>DD 50 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M16-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M16-IDold">
+                  <crm:P90_has_value>L 3.14 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -5763,13 +5763,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M17">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M17-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M17-IDnew">
+                  <crm:P90_has_value>DD 46 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M17-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M17-IDold">
+                  <crm:P90_has_value>L 4.4 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -5794,13 +5794,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M18">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M18-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M18-IDnew">
+                  <crm:P90_has_value>DD 47 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M18-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M18-IDold">
+                  <crm:P90_has_value>L 4.5 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -5825,13 +5825,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M19">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M19-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M19-IDnew">
+                  <crm:P90_has_value>DD 48 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M19-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M19-IDold">
+                  <crm:P90_has_value>L 4.6 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -5856,13 +5856,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M20">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M20-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M20-IDnew">
+                  <crm:P90_has_value>Arch. A 73</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M20-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M20-IDold">
+                  <crm:P90_has_value>A 1.11 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -5876,13 +5876,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M21">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M21-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M21-IDnew">
+                  <crm:P90_has_value>AA 46 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M21-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M21-IDold">
+                  <crm:P90_has_value>B 6.4 Art.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -5907,13 +5907,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M22">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M22-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M22-IDnew">
+                  <crm:P90_has_value>DD 42 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M22-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M22-IDold">
+                  <crm:P90_has_value>R 7.11 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -5938,13 +5938,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M23">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M23-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M23-IDnew">
+                  <crm:P90_has_value>DD 43 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M23-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M23-IDold">
+                  <crm:P90_has_value>R 7.12 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -5969,13 +5969,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M24">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M24-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M24-IDnew">
+                  <crm:P90_has_value>DD 43 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M24-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M24-IDold">
+                  <crm:P90_has_value>R 7.12 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -6000,13 +6000,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M25">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M25-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M25-IDnew">
+                  <crm:P90_has_value>DD 43 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M25-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M25-IDold">
+                  <crm:P90_has_value>R 7.12 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -6031,13 +6031,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M26">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M26-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M26-IDnew">
+                  <crm:P90_has_value>DD 43 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M26-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M26-IDold">
+                  <crm:P90_has_value>R 7.12 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -6062,13 +6062,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M27">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M27-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M27-IDnew">
+                  <crm:P90_has_value>FF 28 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M27-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M27-IDold">
+                  <crm:P90_has_value>M 5.12 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -6088,13 +6088,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M28">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M28-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M28-IDnew">
+                  <crm:P90_has_value>FF 24 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M28-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M28-IDold">
+                  <crm:P90_has_value>H 5.11 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -6132,13 +6132,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M29">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M29-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M29-IDnew">
+                  <crm:P90_has_value>AA 38 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M29-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M29-IDold">
+                  <crm:P90_has_value>S 2.10 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -6164,13 +6164,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M30">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M30-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M30-IDnew">
+                  <crm:P90_has_value>AA 32 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M30-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M30-IDold">
+                  <crm:P90_has_value>B 5.1 Art.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -6196,13 +6196,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M31">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M31-ID1">
-                  <crm:P90_has_value>A 1.26,27 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M31-IDnew">
+                  <crm:P90_has_value>AA 45 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M31-ID1">
-                  <crm:P90_has_value>Arch. C 112,113</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M31-IDold">
+                  <crm:P90_has_value>A 8.17 Art.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -6229,13 +6229,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M32">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M32-ID1">
-                  <crm:P90_has_value>Arch. A 147</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M32-IDnew">
+                  <crm:P90_has_value>F 2.7 Art.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M32-ID1">
-                  <crm:P90_has_value>F 2.7 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M32-IDold">
+                  <crm:P90_has_value>Arch. A 147</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -6249,12 +6249,12 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M33">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M33-ID1">
-                  <crm:P90_has_value>Arch. A 147</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M33-IDnew">
+                  <crm:P90_has_value>AA 52 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M33-ID1">
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M33-IDold">
                   <crm:P90_has_value>F 2.7 Art.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
@@ -6291,13 +6291,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M34">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M34-ID1">
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M34-IDnew">
                   <crm:P90_has_value>Arch. A 147</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M34-ID1">
-                  <crm:P90_has_value>F 2.7 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M34-IDold">
+                  <crm:P90_has_value>Arch. C 93</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -6311,13 +6311,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M35">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M35-ID1">
-                  <crm:P90_has_value>Arch. A 147</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M35-IDnew">
+                  <crm:P90_has_value>CC 4 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M35-ID1">
-                  <crm:P90_has_value>F 2.7 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M35-IDold">
+                  <crm:P90_has_value>4° W 49 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -6342,13 +6342,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M36">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M36-ID1">
-                  <crm:P90_has_value>Arch. A 147</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M36-IDnew">
+                  <crm:P90_has_value>CC 5 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M36-ID1">
-                  <crm:P90_has_value>F 2.7 Art.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M36-IDold">
+                  <crm:P90_has_value>4° W 50 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -6385,13 +6385,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M37">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M37-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M37-IDnew">
+                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M37-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M37-IDold">
+                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -6417,13 +6417,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M38">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M38-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M38-IDnew">
+                  <crm:P90_has_value/>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M38-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M38-IDold">
+                  <crm:P90_has_value/>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -6437,13 +6437,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M39">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M39-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M39-IDnew">
+                  <crm:P90_has_value>B 1.9 Th. Seld.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M39-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M39-IDold">
+                  <crm:P90_has_value>Arch. A 156</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -6457,13 +6457,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M40">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M40-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M40-IDnew">
+                  <crm:P90_has_value>B 6.13 Th. Seld.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M40-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M40-IDold">
+                  <crm:P90_has_value>B 1.9 Th. Seld.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -6477,13 +6477,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M41">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M41-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M41-IDnew">
+                  <crm:P90_has_value>M 3.9 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M41-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M41-IDold">
+                  <crm:P90_has_value>M 3.6 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -6531,13 +6531,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M42">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M42-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M42-IDnew">
+                  <crm:P90_has_value/>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M42-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M42-IDold">
+                  <crm:P90_has_value/>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -6551,13 +6551,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M43">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M43-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M43-IDnew">
+                  <crm:P90_has_value/>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M43-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M43-IDold">
+                  <crm:P90_has_value>M 3.8 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -6571,13 +6571,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M44">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M44-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M44-IDnew">
+                  <crm:P90_has_value>J 4.4 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M44-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M44-IDold">
+                  <crm:P90_has_value>O 4.14 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -6591,13 +6591,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M45">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M45-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M45-IDnew">
+                  <crm:P90_has_value>FF 56,57 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M45-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M45-IDold">
+                  <crm:P90_has_value>B 6.12,13 Th. Seld.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -6633,13 +6633,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M46">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M46-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M46-IDnew">
+                  <crm:P90_has_value>CC 23 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M46-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M46-IDold">
+                  <crm:P90_has_value>L 4.12 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -6664,13 +6664,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M47">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M47-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M47-IDnew">
+                  <crm:P90_has_value>J 4.13 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M47-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M47-IDold">
+                  <crm:P90_has_value>J 4.15 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -6684,13 +6684,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M48">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M48-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M48-IDnew">
+                  <crm:P90_has_value>CC 6 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M48-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M48-IDold">
+                  <crm:P90_has_value>C 4.10 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -6710,13 +6710,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M49">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M49-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M49-IDnew">
+                  <crm:P90_has_value>CC 7 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M49-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M49-IDold">
+                  <crm:P90_has_value>C 4.11 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -6741,13 +6741,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M50">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M50-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M50-IDnew">
+                  <crm:P90_has_value>O 4.14 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M50-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M50-IDold">
+                  <crm:P90_has_value>J 4.8 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -6761,13 +6761,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M51">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M51-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M51-IDnew">
+                  <crm:P90_has_value>J 4.7 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M51-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M51-IDold">
+                  <crm:P90_has_value>J 4.17 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -6781,13 +6781,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M52">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M52-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M52-IDnew">
+                  <crm:P90_has_value>J 4.8 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M52-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M52-IDold">
+                  <crm:P90_has_value>J 4.10 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -6801,13 +6801,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M53">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M53-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M53-IDnew">
+                  <crm:P90_has_value>CC 10,11,12,&amp;c. Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M53-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M53-IDold">
+                  <crm:P90_has_value>F 2.6,7,&amp;c Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -6915,13 +6915,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M54">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M54-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M54-IDnew">
+                  <crm:P90_has_value>CC 15,16 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M54-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M54-IDold">
+                  <crm:P90_has_value>E 1.1,2 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -6941,13 +6941,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M55">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M55-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M55-IDnew">
+                  <crm:P90_has_value>CC 9 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M55-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M55-IDold">
+                  <crm:P90_has_value>C 10.9 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -6967,13 +6967,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M56">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M56-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M56-IDnew">
+                  <crm:P90_has_value>O 4.15 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M56-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M56-IDold">
+                  <crm:P90_has_value>J 4.4 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -6987,13 +6987,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M57">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M57-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M57-IDnew">
+                  <crm:P90_has_value>CC 8 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M57-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M57-IDold">
+                  <crm:P90_has_value>H 1.14 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -7019,13 +7019,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M58">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M58-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M58-IDnew">
+                  <crm:P90_has_value>CC 19 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M58-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M58-IDold">
+                  <crm:P90_has_value>M 3.5 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -7050,13 +7050,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M59">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M59-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M59-IDnew">
+                  <crm:P90_has_value>CC 19 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M59-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M59-IDold">
+                  <crm:P90_has_value>M 3.5 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -7081,13 +7081,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M60">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M60-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M60-IDnew">
+                  <crm:P90_has_value>CC 20-22 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M60-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M60-IDold">
+                  <crm:P90_has_value>M 3.7,8,9 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -7107,13 +7107,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M61">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M61-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M61-IDnew">
+                  <crm:P90_has_value>4° C 17.9 Linc.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M61-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M61-IDold">
+                  <crm:P90_has_value>M 2.12 Med.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -7127,13 +7127,14 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M62">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M62-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M62-IDnew">
+                  <crm:P90_has_value>4° CC 4,5 Jur.These books have been moved already in
+                                            the previous year; see fol. 17r</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M62-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M62-IDold">
+                  <crm:P90_has_value>4° W 49,50 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -7147,13 +7148,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M63">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M63-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M63-IDnew">
+                  <crm:P90_has_value/>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M63-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M63-IDold">
+                  <crm:P90_has_value>M 3.5 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -7167,13 +7168,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M64">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M64-ID1">
-                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M64-IDnew">
+                  <crm:P90_has_value>J 4.9,10 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M64-ID1">
-                  <crm:P90_has_value>FF 55 Th.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M64-IDold">
+                  <crm:P90_has_value>J 4.11,12 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -7187,13 +7188,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M65">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M65-ID1">
-                  <crm:P90_has_value>P 1.4,&amp;c.,10 Med.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M65-IDnew">
+                  <crm:P90_has_value>AA 56 &amp;c. Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M65-ID1">
-                  <crm:P90_has_value>AA 56 &amp;c. Jur.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M65-IDold">
+                  <crm:P90_has_value>P 1.4,&amp;c.,10 Med.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -7207,13 +7208,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M66">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M66-ID1">
-                  <crm:P90_has_value>P 1.4,&amp;c.,10 Med.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M66-IDnew">
+                  <crm:P90_has_value>J 4.11 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M66-ID1">
-                  <crm:P90_has_value>AA 56 &amp;c. Jur.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M66-IDold">
+                  <crm:P90_has_value>J 4.13 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -7227,13 +7228,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M67">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M67-ID1">
-                  <crm:P90_has_value>P 1.4,&amp;c.,10 Med.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M67-IDnew">
+                  <crm:P90_has_value>CC 17.18 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M67-ID1">
-                  <crm:P90_has_value>AA 56 &amp;c. Jur.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M67-IDold">
+                  <crm:P90_has_value>W 1.7.8 Med.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P140_assigned_attribute_to>
@@ -7301,13 +7302,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M68">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M68-ID1">
-                  <crm:P90_has_value>P 1.4,&amp;c.,10 Med.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M68-IDnew">
+                  <crm:P90_has_value/>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M68-ID1">
-                  <crm:P90_has_value>AA 56 &amp;c. Jur.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M68-IDold">
+                  <crm:P90_has_value/>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -7321,13 +7322,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M69">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M69-ID1">
-                  <crm:P90_has_value>P 1.4,&amp;c.,10 Med.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M69-IDnew">
+                  <crm:P90_has_value/>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M69-ID1">
-                  <crm:P90_has_value>AA 56 &amp;c. Jur.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M69-IDold">
+                  <crm:P90_has_value>L 4.12 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -7341,13 +7342,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M70">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M70-ID1">
-                  <crm:P90_has_value>P 1.4,&amp;c.,10 Med.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M70-IDnew">
+                  <crm:P90_has_value>J 4.15 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M70-ID1">
-                  <crm:P90_has_value>AA 56 &amp;c. Jur.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M70-IDold">
+                  <crm:P90_has_value>J 4.7 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -7361,13 +7362,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M71">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M71-ID1">
-                  <crm:P90_has_value>P 1.4,&amp;c.,10 Med.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M71-IDnew">
+                  <crm:P90_has_value>J 4.12 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M71-ID1">
-                  <crm:P90_has_value>AA 56 &amp;c. Jur.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M71-IDold">
+                  <crm:P90_has_value>J 4.14 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -7381,13 +7382,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M72">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M72-ID1">
-                  <crm:P90_has_value>P 1.4,&amp;c.,10 Med.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M72-IDnew">
+                  <crm:P90_has_value>B 6.12 Th. Seld.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M72-ID1">
-                  <crm:P90_has_value>AA 56 &amp;c. Jur.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M72-IDold">
+                  <crm:P90_has_value>B 1.10 Th. Seld.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -7401,13 +7402,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M73">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M73-ID1">
-                  <crm:P90_has_value>P 1.4,&amp;c.,10 Med.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M73-IDnew">
+                  <crm:P90_has_value>J 4.14 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M73-ID1">
-                  <crm:P90_has_value>AA 56 &amp;c. Jur.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M73-IDold">
+                  <crm:P90_has_value>J 4.16 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -7421,13 +7422,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M74">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M74-ID1">
-                  <crm:P90_has_value>P 1.4,&amp;c.,10 Med.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M74-IDnew">
+                  <crm:P90_has_value>O 3.20 Art.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M74-ID1">
-                  <crm:P90_has_value>AA 56 &amp;c. Jur.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M74-IDold">
+                  <crm:P90_has_value>K 1.22 Art.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -7441,13 +7442,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M75">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M75-ID1">
-                  <crm:P90_has_value>P 1.4,&amp;c.,10 Med.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M75-IDnew">
+                  <crm:P90_has_value/>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M75-ID1">
-                  <crm:P90_has_value>AA 56 &amp;c. Jur.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M75-IDold">
+                  <crm:P90_has_value/>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>
@@ -7461,13 +7462,13 @@
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#M76">
             <crm:P37_assigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M76-ID1">
-                  <crm:P90_has_value>P 1.4,&amp;c.,10 Med.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M76-IDnew">
+                  <crm:P90_has_value>Arch. A 186</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P38_deassigned>
-               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M76-ID1">
-                  <crm:P90_has_value>AA 56 &amp;c. Jur.</crm:P90_has_value>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#M76-IDold">
+                  <crm:P90_has_value>B 4.6 Th. Seld.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P38_deassigned>
             <crm:P4_has_time_span>

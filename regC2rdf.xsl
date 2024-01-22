@@ -279,12 +279,12 @@
                                 <crm:E42_Identifier>
                                     <xsl:attribute name="rdf:about">
                                         <xsl:value-of
-                                            select="concat('https:r0man-ist.github.io/regC#M', $count_move, '-ID1')"
+                                            select="concat('https:r0man-ist.github.io/regC#M', $count_move, '-IDnew')"
                                         />
                                     </xsl:attribute>
                                     <crm:P90_has_value>
                                         <xsl:value-of
-                                            select="./../../descendant::t:ab[@type = 'shelfmark'][1]/t:choice/t:reg"
+                                            select="./descendant::t:ab[@type = 'shelfmark'][2]/t:choice/t:reg"
                                         />
                                     </crm:P90_has_value>
                                 </crm:E42_Identifier>
@@ -293,12 +293,12 @@
                                 <crm:E42_Identifier>
                                     <xsl:attribute name="rdf:about">
                                         <xsl:value-of
-                                            select="concat('https:r0man-ist.github.io/regC#M', $count_move, '-ID1')"
+                                            select="concat('https:r0man-ist.github.io/regC#M', $count_move, '-IDold')"
                                         />
                                     </xsl:attribute>
                                     <crm:P90_has_value>
                                         <xsl:value-of
-                                            select="./../../descendant::t:ab[@type = 'shelfmark'][2]/t:choice/t:reg"
+                                            select="./descendant::t:ab[@type = 'shelfmark'][1]/t:choice/t:reg"
                                         />
                                     </crm:P90_has_value>
                                 </crm:E42_Identifier>
