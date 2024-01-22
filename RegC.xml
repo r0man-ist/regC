@@ -4396,7 +4396,131 @@
             </monogr>
         </biblStruct>
     </object>
+    <object xml:id="regC-bib-Potter1720a" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° M 19(1) Linc.</idno>
+            <idno type="ALMA-ID">990140125620107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990140125620107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/100189223">Potter, John, 1674-1747</author>
+                <title>The bishop of Oxford's charge to the clergy of his diocese, at his triennial
+                    visitation in July, 1719.</title>
+                <imprint>
+                    <pubPlace>Lond.</pubPlace>
+                    <date>1720</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Hare1720" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° M 19(2) Linc.</idno>
+            <idno type="ALMA-ID">990135068030107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135068030107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/46771136">Hare, Francis, 1671-1740</author>
+                <title>Church-authority vindicated, in a sermon preach'd at Putney, May 5, 1719. :
+                    At a visitation of the peculiars of the Most Reverend the Lord Archbishop of
+                    Canterbury, before the Right Worshipful Dr. Bettesworth, Dean of the arches, and
+                    commissary of those p</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1720</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Potter1720b" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° M 19(4) Linc.</idno>
+            <idno type="ALMA-ID">990135206490107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135206490107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/100189223">Potter, John, 1674-1747</author>
+                <title>A defence of the late charge deliver'd to the clergy of the diocese of
+                    Oxford, July 1719. : In a letter to the said clergy. /</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1720</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Hoadly1720" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° M 19(3) Linc.</idno>
+            <idno type="ALMA-ID">990135108760107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135108760107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/175145857877123020157">Hoadly, Benjamin,
+                    1676-1761</author>
+                <title>An answer to the Reverend Dr. Hare's sermon, intitul'd, Church-authority
+                    vindicated: : in which the texts of Scripture relating to this subject are
+                    examin'd; the doctrine of sincerity is explain'd and defended; and several other
+                    important points are consi</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1720</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Potter1720c" ana="not-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="ALMA-ID">990140125620107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990140125620107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/100189223">Potter, John, 1674-1747</author>
+                <title>The bishop of Oxford's charge to the clergy of his diocese, at his triennial
+                    visitation in July, 1719.</title>
+                <imprint>
+                    <pubPlace>Lond.</pubPlace>
+                    <date>1720</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Potter1720d" ana="not-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="ALMA-ID">990135206490107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135206490107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/100189223">Potter, John, 1674-1747</author>
+                <title>A defence of the late charge deliver'd to the clergy of the diocese of
+                    Oxford, July 1719. : In a letter to the said clergy. /</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1720</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
 </listObject>
+
 
 
 
@@ -5247,7 +5371,7 @@
                     </row>
                     <row ana="prov:purchase">
                         <cell>19.</cell>
-                        <cell><bibl>D<hi rend="superscript:true">r</hi>. Hare&apos;s Visitation
+                        <cell><bibl corresp="#regC-bib-Hare1720">D<hi rend="superscript:true">r</hi>. Hare&apos;s Visitation
                                 Sermon. <hi rend="underlined:true">Lond</hi>. 1720.</bibl></cell>
                         <cell>0</cell>
                         <cell>0</cell>
@@ -5257,7 +5381,7 @@
                     </row>
                     <row ana="prov:purchase">
                         <cell>20.</cell>
-                        <cell><bibl>[D<hi rend="superscript:true">r</hi>. Potter] Bp̄. of
+                        <cell><bibl corresp="#regC-bib-Potter1720a">[D<hi rend="superscript:true">r</hi>. Potter] Bp̄. of
                                 Oxford&apos;s Charge. 1720</bibl></cell>
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="0" unit="shilling">0</measure></cell>
@@ -5271,7 +5395,7 @@
                     </row>
                     <row ana="prov:purchase">
                         <cell>21.</cell>
-                        <cell>_______ <bibl>Defence of the Same.</bibl></cell>
+                        <cell>_______ <bibl corresp="#regC-bib-Potter1720b">Defence of the Same.</bibl></cell>
                         <cell/>
                         <cell/>
                         <cell/>
@@ -5283,7 +5407,7 @@
                     </row>
                     <row ana="prov:purchase">
                         <cell>22.</cell>
-                        <cell><bibl>[Mr. Hoadley] Bp̄. of Bangor&apos;s Answer to D<hi
+                        <cell><bibl corresp="#regC-bib-Hoadly1720">[Mr. Hoadley] Bp̄. of Bangor&apos;s Answer to D<hi
                                     rend="superscript:true">r</hi>. Hare. <hi rend="underlined:true"
                                     >Lond</hi>. 1720</bibl>.</cell>
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
@@ -8475,7 +8599,7 @@
                         <cell cols="2"/>
                     </row>
                     <row ana="prov:donation">
-                        <cell><bibl>_Two Charges, with the Defence</bibl></cell>
+                        <cell><bibl corresp="#regC-bib-Potter1720c">_Two Charges</bibl>, with the <bibl corresp="#regC-bib-Potter1720d">Defence</bibl></cell>
                         <cell><persName corresp="#regC-JPOT" ana="prov:donor">Idem</persName></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>8° M. 19. <hi rend="underlined:true">Linc</hi>.</orig>
