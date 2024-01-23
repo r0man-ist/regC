@@ -236,6 +236,7 @@
         <https:r0man-ist.github.io/regC#M8>,
         <https:r0man-ist.github.io/regC#M9>,
         <https:r0man-ist.github.io/regC#P-ID10>,
+        <https:r0man-ist.github.io/regC#P-ID100>,
         <https:r0man-ist.github.io/regC#P-ID101>,
         <https:r0man-ist.github.io/regC#P-ID102>,
         <https:r0man-ist.github.io/regC#P-ID103>,
@@ -304,8 +305,10 @@
         <https:r0man-ist.github.io/regC#P-ID58>,
         <https:r0man-ist.github.io/regC#P-ID59>,
         <https:r0man-ist.github.io/regC#P-ID60>,
+        <https:r0man-ist.github.io/regC#P-ID61>,
         <https:r0man-ist.github.io/regC#P-ID62>,
         <https:r0man-ist.github.io/regC#P-ID63>,
+        <https:r0man-ist.github.io/regC#P-ID64>,
         <https:r0man-ist.github.io/regC#P-ID65>,
         <https:r0man-ist.github.io/regC#P-ID66>,
         <https:r0man-ist.github.io/regC#P-ID67>,
@@ -330,8 +333,14 @@
         <https:r0man-ist.github.io/regC#P-ID84>,
         <https:r0man-ist.github.io/regC#P-ID85>,
         <https:r0man-ist.github.io/regC#P-ID86>,
+        <https:r0man-ist.github.io/regC#P-ID89>,
         <https:r0man-ist.github.io/regC#P-ID9>,
+        <https:r0man-ist.github.io/regC#P-ID90>,
         <https:r0man-ist.github.io/regC#P-ID91>,
+        <https:r0man-ist.github.io/regC#P-ID92>,
+        <https:r0man-ist.github.io/regC#P-ID93>,
+        <https:r0man-ist.github.io/regC#P-ID94>,
+        <https:r0man-ist.github.io/regC#P-ID95>,
         <https:r0man-ist.github.io/regC#P-ID96>,
         <https:r0man-ist.github.io/regC#P-ID97>,
         <https:r0man-ist.github.io/regC#P1>,
@@ -913,133 +922,133 @@
 
 <https:r0man-ist.github.io/regC#D-ID1> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D1-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D1-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D1-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID10> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D10-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D10-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D10-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID11> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D11-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D11-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D11-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID12> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D12-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D12-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D12-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID13> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D13-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D13-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D13-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID14> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D14-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D14-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D14-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID15> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D15-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D15-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D15-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID16> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D16-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D16-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D16-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID17> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D17-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D17-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D17-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID18> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D18-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D18-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D18-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID19> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D19-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D19-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D19-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID2> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D2-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D2-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D2-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID20> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D20-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D20-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D20-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID23> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D23-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D23-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D23-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID25> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D25-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D25-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D25-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID27> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D27-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D27-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D27-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID28> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D28-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D28-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D28-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID29> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D29-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D29-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D29-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID3> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D3-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D3-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D3-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
@@ -1047,102 +1056,98 @@
 <https:r0man-ist.github.io/regC#D-ID31> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D31-I1>,
         <https:r0man-ist.github.io/regC#D31-I2> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D31-I1-ID>,
-        <https:r0man-ist.github.io/regC#D31-I2-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D31-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
-            crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
-            crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ],
-        [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID32> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D32-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D32-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D32-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID33> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D33-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D33-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D33-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID34> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D34-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D34-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D34-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID35> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D35-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D35-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D35-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID36> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D36-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D36-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D36-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID37> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D37-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D37-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D37-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID38> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D38-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D38-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D38-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID39> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D39-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D39-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D39-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID4> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D4-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D4-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D4-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID40> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D40-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D40-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D40-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID41> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D41-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D41-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D41-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID42> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D42-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D42-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D42-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID43> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D43-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D43-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D43-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
@@ -1150,60 +1155,56 @@
 <https:r0man-ist.github.io/regC#D-ID44> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D44-I1>,
         <https:r0man-ist.github.io/regC#D44-I2> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D44-I1-ID>,
-        <https:r0man-ist.github.io/regC#D44-I2-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D44-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
-            crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
-            crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ],
-        [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID45> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D45-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D45-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D45-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID47> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D47-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D47-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D47-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID5> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D5-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D5-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D5-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID6> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D6-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D6-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D6-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID7> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D7-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D7-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D7-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID8> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D8-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D8-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D8-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID9> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D9-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D9-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D9-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
@@ -1216,7 +1217,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D1-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D1-ID> a crm:E42_Identifier ;
     crm:P90_has_value "C 5.10 Th." .
 
 <https:r0man-ist.github.io/regC#D10> a prov1:Donation ;
@@ -1226,7 +1227,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D10-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D10-ID> a crm:E42_Identifier ;
     crm:P90_has_value "AA 49 Jur." .
 
 <https:r0man-ist.github.io/regC#D11> a prov1:Donation ;
@@ -1237,7 +1238,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D11-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D11-ID> a crm:E42_Identifier ;
     crm:P90_has_value "AA 24 Jur." .
 
 <https:r0man-ist.github.io/regC#D12> a prov1:Donation ;
@@ -1248,7 +1249,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D12-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D12-ID> a crm:E42_Identifier ;
     crm:P90_has_value "C 11.16 Th." .
 
 <https:r0man-ist.github.io/regC#D13> a prov1:Donation ;
@@ -1259,7 +1260,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D13-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D13-ID> a crm:E42_Identifier ;
     crm:P90_has_value "C 1.17 Jur." .
 
 <https:r0man-ist.github.io/regC#D14> a prov1:Donation ;
@@ -1269,7 +1270,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D14-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D14-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° D 58.59 Jur." .
 
 <https:r0man-ist.github.io/regC#D15> a prov1:Donation ;
@@ -1280,7 +1281,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D15-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D15-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° X.68,69 Th." .
 
 <https:r0man-ist.github.io/regC#D16> a prov1:Donation ;
@@ -1291,7 +1292,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D16-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D16-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° M 236 Th." .
 
 <https:r0man-ist.github.io/regC#D17> a prov1:Donation ;
@@ -1301,7 +1302,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D17-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D17-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° M 23 Linc." .
 
 <https:r0man-ist.github.io/regC#D18> a prov1:Donation ;
@@ -1310,7 +1311,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D18-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D18-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° O 30 Linc." .
 
 <https:r0man-ist.github.io/regC#D19> a prov1:Donation ;
@@ -1321,7 +1322,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D19-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D19-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° D 49 Jur." .
 
 <https:r0man-ist.github.io/regC#D2> a prov1:Donation ;
@@ -1331,7 +1332,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D2-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D2-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° D 36 Jur." .
 
 <https:r0man-ist.github.io/regC#D20> a prov1:Donation ;
@@ -1341,7 +1342,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D20-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D20-ID> a crm:E42_Identifier ;
     crm:P90_has_value "C 17.1,2,3" .
 
 <https:r0man-ist.github.io/regC#D21> a prov1:Donation ;
@@ -1366,7 +1367,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D23-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D23-ID> a crm:E42_Identifier ;
     crm:P90_has_value "4Â° B 26.61 Linc." .
 
 <https:r0man-ist.github.io/regC#D24> a prov1:Donation ;
@@ -1390,7 +1391,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D25-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D25-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° M 22 Linc." .
 
 <https:r0man-ist.github.io/regC#D26> a prov1:Donation ;
@@ -1408,7 +1409,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D27-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D27-ID> a crm:E42_Identifier ;
     crm:P90_has_value "NE F 1.13" .
 
 <https:r0man-ist.github.io/regC#D28> a prov1:Donation ;
@@ -1418,7 +1419,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D28-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D28-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° U 155 Th." .
 
 <https:r0man-ist.github.io/regC#D29> a prov1:Donation ;
@@ -1429,7 +1430,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D29-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D29-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° C 69,70 Jur." .
 
 <https:r0man-ist.github.io/regC#D3> a prov1:Donation ;
@@ -1440,7 +1441,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D3-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D3-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° Z 412 Th." .
 
 <https:r0man-ist.github.io/regC#D30> a prov1:Donation ;
@@ -1459,10 +1460,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D31-I1-ID> a crm:E42_Identifier ;
-    crm:P90_has_value "8Â° M 19 Linc." .
-
-<https:r0man-ist.github.io/regC#D31-I2-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D31-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° M 19 Linc." .
 
 <https:r0man-ist.github.io/regC#D32> a prov1:Donation ;
@@ -1473,7 +1471,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D32-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D32-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° C 65,66 &c. Jur." .
 
 <https:r0man-ist.github.io/regC#D33> a prov1:Donation ;
@@ -1484,7 +1482,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D33-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D33-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° E 23,24 Jur." .
 
 <https:r0man-ist.github.io/regC#D34> a prov1:Donation ;
@@ -1495,7 +1493,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D34-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D34-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° E 25,26 Jur." .
 
 <https:r0man-ist.github.io/regC#D35> a prov1:Donation ;
@@ -1506,7 +1504,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D35-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D35-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° E 27 Jur." .
 
 <https:r0man-ist.github.io/regC#D36> a prov1:Donation ;
@@ -1517,7 +1515,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D36-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D36-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° E 29 Jur." .
 
 <https:r0man-ist.github.io/regC#D37> a prov1:Donation ;
@@ -1528,7 +1526,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D37-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D37-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° E 28 Jur." .
 
 <https:r0man-ist.github.io/regC#D38> a prov1:Donation ;
@@ -1539,7 +1537,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D38-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D38-ID> a crm:E42_Identifier ;
     crm:P90_has_value "C 1.18 Jur." .
 
 <https:r0man-ist.github.io/regC#D39> a prov1:Donation ;
@@ -1550,7 +1548,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D39-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D39-ID> a crm:E42_Identifier ;
     crm:P90_has_value "C 10.9 Jur." .
 
 <https:r0man-ist.github.io/regC#D4> a prov1:Donation ;
@@ -1561,7 +1559,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D4-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D4-ID> a crm:E42_Identifier ;
     crm:P90_has_value "NE F 9.19" .
 
 <https:r0man-ist.github.io/regC#D40> a prov1:Donation ;
@@ -1572,7 +1570,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D40-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D40-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° N 81 Med." .
 
 <https:r0man-ist.github.io/regC#D41> a prov1:Donation ;
@@ -1584,7 +1582,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D41-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D41-ID> a crm:E42_Identifier ;
     crm:P90_has_value "FF 58 Th." .
 
 <https:r0man-ist.github.io/regC#D42> a prov1:Donation ;
@@ -1595,7 +1593,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D42-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D42-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° O 35 Linc." .
 
 <https:r0man-ist.github.io/regC#D43> a prov1:Donation ;
@@ -1605,7 +1603,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D43-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D43-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° E 33 Jur." .
 
 <https:r0man-ist.github.io/regC#D44> a prov1:Donation ;
@@ -1617,10 +1615,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D44-I1-ID> a crm:E42_Identifier ;
-    crm:P90_has_value "8Â° E 32 Jur." .
-
-<https:r0man-ist.github.io/regC#D44-I2-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D44-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° E 32 Jur." .
 
 <https:r0man-ist.github.io/regC#D45> a prov1:Donation ;
@@ -1630,7 +1625,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D45-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D45-ID> a crm:E42_Identifier ;
     crm:P90_has_value "B 1.19 Art." .
 
 <https:r0man-ist.github.io/regC#D46> a prov1:Donation ;
@@ -1648,7 +1643,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D47-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D47-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° A 182 Linc." .
 
 <https:r0man-ist.github.io/regC#D5> a prov1:Donation ;
@@ -1659,7 +1654,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D5-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D5-ID> a crm:E42_Identifier ;
     crm:P90_has_value "NE F 9.20" .
 
 <https:r0man-ist.github.io/regC#D6> a prov1:Donation ;
@@ -1668,7 +1663,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D6-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D6-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° D 56 Jur." .
 
 <https:r0man-ist.github.io/regC#D7> a prov1:Donation ;
@@ -1677,7 +1672,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D7-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D7-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° D 55 Jur." .
 
 <https:r0man-ist.github.io/regC#D8> a prov1:Donation ;
@@ -1686,7 +1681,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D8-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D8-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° D 72 Jur." .
 
 <https:r0man-ist.github.io/regC#D9> a prov1:Donation ;
@@ -1697,40 +1692,40 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#D9-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#D9-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° D 57 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep-ID1> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep1-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep1-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep1-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID10> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep10-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep10-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep10-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID11> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep11-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep11-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep11-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID12> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep12-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep12-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep12-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID13> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep13-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep13-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep13-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
@@ -1741,39 +1736,35 @@
         <https:r0man-ist.github.io/regC#Dep14-I3>,
         <https:r0man-ist.github.io/regC#Dep14-I4>,
         <https:r0man-ist.github.io/regC#Dep14-I5> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep14-I1-ID>,
-        <https:r0man-ist.github.io/regC#Dep14-I2-ID>,
-        <https:r0man-ist.github.io/regC#Dep14-I3-ID>,
-        <https:r0man-ist.github.io/regC#Dep14-I4-ID>,
-        <https:r0man-ist.github.io/regC#Dep14-I5-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep14-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID15> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep15-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep15-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep15-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID16> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep16-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep16-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep16-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID17> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep17-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep17-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep17-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID18> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep18-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep18-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep18-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
@@ -1781,155 +1772,154 @@
 <https:r0man-ist.github.io/regC#Dep-ID19> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep19-I1>,
         <https:r0man-ist.github.io/regC#Dep19-I2> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep19-I1-ID>,
-        <https:r0man-ist.github.io/regC#Dep19-I2-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep19-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID2> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep2-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep2-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep2-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID20> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep20-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep20-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep20-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID21> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep21-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep21-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep21-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID22> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep22-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep22-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep22-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID23> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep23-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep23-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep23-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID24> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep24-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep24-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep24-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID25> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep25-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep25-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep25-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID26> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep26-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep26-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep26-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID27> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep27-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep27-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep27-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID28> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep28-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep28-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep28-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID29> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep29-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep29-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep29-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID3> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep3-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep3-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep3-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID30> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep30-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep30-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep30-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID31> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep31-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep31-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep31-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID32> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep32-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep32-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep32-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID33> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep33-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep33-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep33-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID34> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep34-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep34-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep34-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID4> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep4-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep4-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep4-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID5> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep5-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep5-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep5-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID6> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep6-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep6-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep6-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID7> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep7-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep7-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep7-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
@@ -1942,7 +1932,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep1-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep1-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° C 87 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep10> a prov1:Legal_Deposit ;
@@ -1952,7 +1942,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep10-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep10-ID> a crm:E42_Identifier ;
     crm:P90_has_value "B 1.19 Art." .
 
 <https:r0man-ist.github.io/regC#Dep11> a prov1:Legal_Deposit ;
@@ -1962,7 +1952,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep11-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep11-ID> a crm:E42_Identifier ;
     crm:P90_has_value "B 1.19 Art." .
 
 <https:r0man-ist.github.io/regC#Dep12> a prov1:Legal_Deposit ;
@@ -1973,7 +1963,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep12-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep12-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° C 72,73 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep13> a prov1:Legal_Deposit ;
@@ -1984,7 +1974,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep13-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep13-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° C 82 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep14> a prov1:Legal_Deposit ;
@@ -1999,19 +1989,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep14-I1-ID> a crm:E42_Identifier ;
-    crm:P90_has_value "8Â° C 84 Jur." .
-
-<https:r0man-ist.github.io/regC#Dep14-I2-ID> a crm:E42_Identifier ;
-    crm:P90_has_value "8Â° C 84 Jur." .
-
-<https:r0man-ist.github.io/regC#Dep14-I3-ID> a crm:E42_Identifier ;
-    crm:P90_has_value "8Â° C 84 Jur." .
-
-<https:r0man-ist.github.io/regC#Dep14-I4-ID> a crm:E42_Identifier ;
-    crm:P90_has_value "8Â° C 84 Jur." .
-
-<https:r0man-ist.github.io/regC#Dep14-I5-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep14-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° C 84 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep15> a prov1:Legal_Deposit ;
@@ -2022,7 +2000,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep15-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep15-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° C 83 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep16> a prov1:Legal_Deposit ;
@@ -2033,7 +2011,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep16-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep16-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° C 83 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep17> a prov1:Legal_Deposit ;
@@ -2044,7 +2022,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep17-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep17-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° C 83 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep18> a prov1:Legal_Deposit ;
@@ -2055,7 +2033,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep18-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep18-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° C 83 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep19> a prov1:Legal_Deposit ;
@@ -2067,10 +2045,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep19-I1-ID> a crm:E42_Identifier ;
-    crm:P90_has_value "8Â° C 83 Jur." .
-
-<https:r0man-ist.github.io/regC#Dep19-I2-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep19-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° C 83 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep2> a prov1:Legal_Deposit ;
@@ -2081,7 +2056,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep2-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep2-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° C 80 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep20> a prov1:Legal_Deposit ;
@@ -2092,7 +2067,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep20-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep20-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° Z 42 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep21> a prov1:Legal_Deposit ;
@@ -2103,7 +2078,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep21-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep21-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° C 86 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep22> a prov1:Legal_Deposit ;
@@ -2114,7 +2089,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep22-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep22-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° C 85 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep23> a prov1:Legal_Deposit ;
@@ -2124,7 +2099,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep23-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep23-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° A 171 &c. Linc." .
 
 <https:r0man-ist.github.io/regC#Dep24> a prov1:Legal_Deposit ;
@@ -2134,7 +2109,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep24-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep24-ID> a crm:E42_Identifier ;
     crm:P90_has_value "Arch. B 119" .
 
 <https:r0man-ist.github.io/regC#Dep25> a prov1:Legal_Deposit ;
@@ -2144,7 +2119,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep25-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep25-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° E 31 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep26> a prov1:Legal_Deposit ;
@@ -2155,7 +2130,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep26-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep26-ID> a crm:E42_Identifier ;
     crm:P90_has_value "CC 29-32 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep27> a prov1:Legal_Deposit ;
@@ -2166,7 +2141,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep27-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep27-ID> a crm:E42_Identifier ;
     crm:P90_has_value "CC 33 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep28> a prov1:Legal_Deposit ;
@@ -2177,7 +2152,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep28-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep28-ID> a crm:E42_Identifier ;
     crm:P90_has_value "CC 34 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep29> a prov1:Legal_Deposit ;
@@ -2188,7 +2163,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep29-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep29-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° A 180,181 Linc." .
 
 <https:r0man-ist.github.io/regC#Dep3> a prov1:Legal_Deposit ;
@@ -2199,7 +2174,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep3-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep3-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° C 77 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep30> a prov1:Legal_Deposit ;
@@ -2210,7 +2185,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep30-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep30-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° A 183 Linc." .
 
 <https:r0man-ist.github.io/regC#Dep31> a prov1:Legal_Deposit ;
@@ -2221,7 +2196,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep31-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep31-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° E 35 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep32> a prov1:Legal_Deposit ;
@@ -2232,7 +2207,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep32-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep32-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° E 36 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep33> a prov1:Legal_Deposit ;
@@ -2243,7 +2218,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep33-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep33-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° E 37 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep34> a prov1:Legal_Deposit ;
@@ -2254,7 +2229,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep34-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep34-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° E 38 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep4> a prov1:Legal_Deposit ;
@@ -2264,7 +2239,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep4-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep4-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° C 78 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep5> a prov1:Legal_Deposit ;
@@ -2275,7 +2250,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep5-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep5-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° C 79 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep6> a prov1:Legal_Deposit ;
@@ -2285,7 +2260,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep6-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep6-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° P 52 Med." .
 
 <https:r0man-ist.github.io/regC#Dep7> a prov1:Legal_Deposit ;
@@ -2295,7 +2270,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#Dep7-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#Dep7-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° 0 36 Linc." .
 
 <https:r0man-ist.github.io/regC#Dep8> a prov1:Legal_Deposit ;
@@ -3669,133 +3644,139 @@
 
 <https:r0man-ist.github.io/regC#P-ID10> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P10-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P10-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P10-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
+<https:r0man-ist.github.io/regC#P-ID100> a crm:E15_Identifier_Assignment ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P100-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
+
 <https:r0man-ist.github.io/regC#P-ID101> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P101-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P101-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P101-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID102> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P102-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P102-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P102-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID103> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P103-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P103-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P103-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID104> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P104-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P104-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P104-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID105> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P105-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P105-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P105-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID106> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P106-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P106-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P106-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID108> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P108-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P108-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P108-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID11> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P11-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P11-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P11-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID113> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P113-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P113-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P113-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID114> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P114-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P114-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P114-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID115> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P115-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P115-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P115-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID116> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P116-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P116-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P116-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID117> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P117-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P117-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P117-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID118> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P118-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P118-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P118-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID119> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P119-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P119-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P119-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID12> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P12-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P12-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P12-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID120> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P120-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P120-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P120-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID121> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P121-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P121-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P121-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
@@ -3803,172 +3784,168 @@
 <https:r0man-ist.github.io/regC#P-ID122> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P122-I1>,
         <https:r0man-ist.github.io/regC#P122-I2> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P122-I1-ID>,
-        <https:r0man-ist.github.io/regC#P122-I2-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P122-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
-            crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
-            crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ],
-        [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID123> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P123-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P123-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P123-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID124> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P124-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P124-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P124-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID125> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P125-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P125-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P125-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID126> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P126-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P126-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P126-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID13> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P13-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P13-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P13-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID14> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P14-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P14-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P14-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID15> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P15-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P15-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P15-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID16> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P16-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P16-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P16-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID17> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P17-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P17-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P17-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID18> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P18-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P18-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P18-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID19> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P19-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P19-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P19-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID20> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P20-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P20-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P20-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID21> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P21-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P21-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P21-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID22> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P22-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P22-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P22-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID23> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P23-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P23-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P23-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID24> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P24-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P24-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P24-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID26> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P26-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P26-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P26-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID27> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P27-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P27-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P27-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID28> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P28-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P28-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P28-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID29> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P29-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P29-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P29-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID30> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P30-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P30-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P30-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID31> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P31-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P31-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P31-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID32> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P32-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P32-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P32-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
@@ -3976,396 +3953,440 @@
 <https:r0man-ist.github.io/regC#P-ID33> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P33-I1>,
         <https:r0man-ist.github.io/regC#P33-I2> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P33-I1-ID>,
-        <https:r0man-ist.github.io/regC#P33-I2-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P33-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
-            crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
-            crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ],
-        [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID35> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P35-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P35-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P35-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID36> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P36-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P36-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P36-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID37> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P37-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P37-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P37-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID38> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P38-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P38-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P38-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID39> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P39-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P39-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P39-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID40> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P40-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P40-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P40-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID41> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P41-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P41-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P41-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID42> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P42-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P42-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P42-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID43> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P43-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P43-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P43-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID44> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P44-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P44-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P44-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID45> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P45-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P45-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P45-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID46> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P46-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P46-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P46-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID47> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P47-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P47-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P47-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID48> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P48-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P48-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P48-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID49> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P49-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P49-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P49-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID50> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P50-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P50-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P50-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID51> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P51-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P51-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P51-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID52> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P52-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P52-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P52-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID53> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P53-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P53-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P53-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID55> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P55-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P55-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P55-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID56> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P56-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P56-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P56-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID57> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P57-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P57-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P57-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID58> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P58-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P58-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P58-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID59> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P59-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P59-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P59-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID60> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P60-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P60-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P60-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#P-ID61> a crm:E15_Identifier_Assignment ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P61-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID62> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P62-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P62-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P62-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID63> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P63-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P63-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P63-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#P-ID64> a crm:E15_Identifier_Assignment ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P64-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID65> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P65-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P65-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P65-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID66> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P66-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P66-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P66-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID67> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P67-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P67-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P67-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID68> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P68-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P68-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P68-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID69> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P69-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P69-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P69-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID7> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P7-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P7-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P7-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID70> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P70-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P70-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P70-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID71> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P71-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P71-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P71-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID72> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P72-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P72-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P72-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID73> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P73-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P73-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P73-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID74> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P74-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P74-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P74-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID75> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P75-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P75-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P75-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID76> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P76-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P76-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P76-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID77> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P77-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P77-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P77-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID78> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P78-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P78-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P78-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID79> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P79-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P79-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P79-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID8> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P8-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P8-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P8-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID80> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P80-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P80-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P80-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID81> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P81-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P81-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P81-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID82> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P82-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P82-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P82-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID83> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P83-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P83-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P83-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID84> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P84-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P84-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P84-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID85> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P85-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P85-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P85-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID86> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P86-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P86-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P86-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#P-ID89> a crm:E15_Identifier_Assignment ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P89-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID9> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P9-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P9-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P9-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
+<https:r0man-ist.github.io/regC#P-ID90> a crm:E15_Identifier_Assignment ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P90-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
+
 <https:r0man-ist.github.io/regC#P-ID91> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P91-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P91-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P91-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#P-ID92> a crm:E15_Identifier_Assignment ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P92-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#P-ID93> a crm:E15_Identifier_Assignment ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P93-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#P-ID94> a crm:E15_Identifier_Assignment ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P94-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#P-ID95> a crm:E15_Identifier_Assignment ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P95-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID96> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P96-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P96-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P96-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#P-ID97> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#P97-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#P97-I1-ID> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#P97-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
@@ -4396,7 +4417,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P10-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P10-ID> a crm:E42_Identifier ;
     crm:P90_has_value "FF 38 Th." .
 
 <https:r0man-ist.github.io/regC#P100> a crm:E96_Purchase ;
@@ -4405,6 +4426,9 @@
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#P100-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "DD Jur." .
 
 <https:r0man-ist.github.io/regC#P101> a crm:E96_Purchase ;
     crm:P119_had_sales_price [ a crm:E97_Monetary_Amount ;
@@ -4417,7 +4441,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P101-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P101-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° A 177,178,179 Linc." .
 
 <https:r0man-ist.github.io/regC#P102> a crm:E96_Purchase ;
@@ -4431,7 +4455,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P102-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P102-ID> a crm:E42_Identifier ;
     crm:P90_has_value "C 4.11 Jur." .
 
 <https:r0man-ist.github.io/regC#P103> a crm:E96_Purchase ;
@@ -4445,7 +4469,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P103-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P103-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° A 172,173 Linc." .
 
 <https:r0man-ist.github.io/regC#P104> a crm:E96_Purchase ;
@@ -4459,7 +4483,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P104-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P104-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° A 174,175,176 Linc." .
 
 <https:r0man-ist.github.io/regC#P105> a crm:E96_Purchase ;
@@ -4473,7 +4497,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P105-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P105-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° C 74 Jur." .
 
 <https:r0man-ist.github.io/regC#P106> a crm:E96_Purchase ;
@@ -4487,7 +4511,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P106-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P106-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° Z 41 Jur." .
 
 <https:r0man-ist.github.io/regC#P107> a crm:E96_Purchase ;
@@ -4504,7 +4528,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P108-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P108-ID> a crm:E42_Identifier ;
     crm:P90_has_value "CC 52 Art." .
 
 <https:r0man-ist.github.io/regC#P109> a crm:E96_Purchase ;
@@ -4525,7 +4549,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P11-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P11-ID> a crm:E42_Identifier ;
     crm:P90_has_value "FF 31 Th." .
 
 <https:r0man-ist.github.io/regC#P110> a crm:E96_Purchase ;
@@ -4556,7 +4580,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P113-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P113-ID> a crm:E42_Identifier ;
     crm:P90_has_value "P 5.6 Med." .
 
 <https:r0man-ist.github.io/regC#P114> a crm:E96_Purchase ;
@@ -4570,7 +4594,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P114-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P114-ID> a crm:E42_Identifier ;
     crm:P90_has_value "P 1.17-20 Med." .
 
 <https:r0man-ist.github.io/regC#P115> a crm:E96_Purchase ;
@@ -4584,7 +4608,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P115-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P115-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° E 34 Jur." .
 
 <https:r0man-ist.github.io/regC#P116> a crm:E96_Purchase ;
@@ -4598,7 +4622,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P116-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P116-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° C 75 Jur." .
 
 <https:r0man-ist.github.io/regC#P117> a crm:E96_Purchase ;
@@ -4612,7 +4636,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P117-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P117-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° D 70 Med." .
 
 <https:r0man-ist.github.io/regC#P118> a crm:E96_Purchase ;
@@ -4626,7 +4650,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P118-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P118-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° E 32 Jur." .
 
 <https:r0man-ist.github.io/regC#P119> a crm:E96_Purchase ;
@@ -4636,7 +4660,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P119-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P119-ID> a crm:E42_Identifier ;
     crm:P90_has_value "E 1.1,2 Jur." .
 
 <https:r0man-ist.github.io/regC#P12> a crm:E96_Purchase ;
@@ -4650,7 +4674,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P12-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P12-ID> a crm:E42_Identifier ;
     crm:P90_has_value "AA 37 Jur." .
 
 <https:r0man-ist.github.io/regC#P120> a crm:E96_Purchase ;
@@ -4660,7 +4684,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P120-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P120-ID> a crm:E42_Identifier ;
     crm:P90_has_value "CC 27 Jur." .
 
 <https:r0man-ist.github.io/regC#P121> a crm:E96_Purchase ;
@@ -4674,7 +4698,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P121-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P121-ID> a crm:E42_Identifier ;
     crm:P90_has_value "CC 26 Jur." .
 
 <https:r0man-ist.github.io/regC#P122> a crm:E96_Purchase ;
@@ -4684,10 +4708,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P122-I1-ID> a crm:E42_Identifier ;
-    crm:P90_has_value "W 1.7,8 Med." .
-
-<https:r0man-ist.github.io/regC#P122-I2-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P122-ID> a crm:E42_Identifier ;
     crm:P90_has_value "W 1.7,8 Med." .
 
 <https:r0man-ist.github.io/regC#P123> a crm:E96_Purchase ;
@@ -4697,7 +4718,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P123-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P123-ID> a crm:E42_Identifier ;
     crm:P90_has_value "P 1.7 Med." .
 
 <https:r0man-ist.github.io/regC#P124> a crm:E96_Purchase ;
@@ -4711,7 +4732,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P124-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P124-ID> a crm:E42_Identifier ;
     crm:P90_has_value "E 1.17 Th." .
 
 <https:r0man-ist.github.io/regC#P125> a crm:E96_Purchase ;
@@ -4721,7 +4742,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P125-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P125-ID> a crm:E42_Identifier ;
     crm:P90_has_value "P 1.4 Med." .
 
 <https:r0man-ist.github.io/regC#P126> a crm:E96_Purchase ;
@@ -4731,7 +4752,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P126-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P126-ID> a crm:E42_Identifier ;
     crm:P90_has_value "AA 48 Med." .
 
 <https:r0man-ist.github.io/regC#P127> a crm:E96_Purchase ;
@@ -4752,7 +4773,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P13-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P13-ID> a crm:E42_Identifier ;
     crm:P90_has_value "AA 35 Jur." .
 
 <https:r0man-ist.github.io/regC#P14> a crm:E96_Purchase ;
@@ -4766,7 +4787,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P14-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P14-ID> a crm:E42_Identifier ;
     crm:P90_has_value "FF 32 Th." .
 
 <https:r0man-ist.github.io/regC#P15> a crm:E96_Purchase ;
@@ -4780,7 +4801,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P15-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P15-ID> a crm:E42_Identifier ;
     crm:P90_has_value "FF 37 Th." .
 
 <https:r0man-ist.github.io/regC#P16> a crm:E96_Purchase ;
@@ -4794,7 +4815,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P16-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P16-ID> a crm:E42_Identifier ;
     crm:P90_has_value "B 26.60 Linc." .
 
 <https:r0man-ist.github.io/regC#P17> a crm:E96_Purchase ;
@@ -4808,7 +4829,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P17-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P17-ID> a crm:E42_Identifier ;
     crm:P90_has_value "FF 36 Th." .
 
 <https:r0man-ist.github.io/regC#P18> a crm:E96_Purchase ;
@@ -4822,7 +4843,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P18-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P18-ID> a crm:E42_Identifier ;
     crm:P90_has_value "FF 35 Th." .
 
 <https:r0man-ist.github.io/regC#P19> a crm:E96_Purchase ;
@@ -4836,7 +4857,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P19-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P19-ID> a crm:E42_Identifier ;
     crm:P90_has_value "AA 36 Jur." .
 
 <https:r0man-ist.github.io/regC#P2> a crm:E96_Purchase ;
@@ -4865,7 +4886,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P20-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P20-ID> a crm:E42_Identifier ;
     crm:P90_has_value "FF 33 Th." .
 
 <https:r0man-ist.github.io/regC#P21> a crm:E96_Purchase ;
@@ -4879,7 +4900,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P21-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P21-ID> a crm:E42_Identifier ;
     crm:P90_has_value "AA 34 Jur." .
 
 <https:r0man-ist.github.io/regC#P22> a crm:E96_Purchase ;
@@ -4893,7 +4914,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P22-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P22-ID> a crm:E42_Identifier ;
     crm:P90_has_value "FF 30 Th." .
 
 <https:r0man-ist.github.io/regC#P23> a crm:E96_Purchase ;
@@ -4907,7 +4928,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P23-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P23-ID> a crm:E42_Identifier ;
     crm:P90_has_value "S 2.10 Jur." .
 
 <https:r0man-ist.github.io/regC#P24> a crm:E96_Purchase ;
@@ -4920,7 +4941,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P24-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P24-ID> a crm:E42_Identifier ;
     crm:P90_has_value "CC 1,2 Jur." .
 
 <https:r0man-ist.github.io/regC#P25> a crm:E96_Purchase ;
@@ -4945,7 +4966,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P26-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P26-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° M. 19. Linc." .
 
 <https:r0man-ist.github.io/regC#P27> a crm:E96_Purchase ;
@@ -4955,7 +4976,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P27-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P27-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° M. 19. Linc." .
 
 <https:r0man-ist.github.io/regC#P28> a crm:E96_Purchase ;
@@ -4968,7 +4989,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P28-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P28-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° M. 19. Linc." .
 
 <https:r0man-ist.github.io/regC#P29> a crm:E96_Purchase ;
@@ -4981,7 +5002,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P29-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P29-ID> a crm:E42_Identifier ;
     crm:P90_has_value "C 4.15 Jur." .
 
 <https:r0man-ist.github.io/regC#P3> a crm:E96_Purchase ;
@@ -5009,7 +5030,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P30-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P30-ID> a crm:E42_Identifier ;
     crm:P90_has_value "T 10.1 Th." .
 
 <https:r0man-ist.github.io/regC#P31> a crm:E96_Purchase ;
@@ -5022,7 +5043,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P31-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P31-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° A 90 Jur." .
 
 <https:r0man-ist.github.io/regC#P32> a crm:E96_Purchase ;
@@ -5035,7 +5056,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P32-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P32-ID> a crm:E42_Identifier ;
     crm:P90_has_value "R 7.11,12 Th." .
 
 <https:r0man-ist.github.io/regC#P33> a crm:E96_Purchase ;
@@ -5044,10 +5065,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P33-I1-ID> a crm:E42_Identifier ;
-    crm:P90_has_value "DD Jur." .
-
-<https:r0man-ist.github.io/regC#P33-I2-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P33-ID> a crm:E42_Identifier ;
     crm:P90_has_value "DD Jur." .
 
 <https:r0man-ist.github.io/regC#P34> a crm:E96_Purchase ;
@@ -5066,7 +5084,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P35-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P35-ID> a crm:E42_Identifier ;
     crm:P90_has_value "FF 13 Th." .
 
 <https:r0man-ist.github.io/regC#P36> a crm:E96_Purchase ;
@@ -5079,7 +5097,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P36-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P36-ID> a crm:E42_Identifier ;
     crm:P90_has_value "L 4.4,5,6 Th." .
 
 <https:r0man-ist.github.io/regC#P37> a crm:E96_Purchase ;
@@ -5092,7 +5110,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P37-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P37-ID> a crm:E42_Identifier ;
     crm:P90_has_value "L 3.12,13 Th." .
 
 <https:r0man-ist.github.io/regC#P38> a crm:E96_Purchase ;
@@ -5105,7 +5123,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P38-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P38-ID> a crm:E42_Identifier ;
     crm:P90_has_value "S 2.14,15 Th." .
 
 <https:r0man-ist.github.io/regC#P39> a crm:E96_Purchase ;
@@ -5118,7 +5136,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P39-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P39-ID> a crm:E42_Identifier ;
     crm:P90_has_value "CC Th." .
 
 <https:r0man-ist.github.io/regC#P4> a crm:E96_Purchase ;
@@ -5157,7 +5175,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P40-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P40-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° D 48 Jur." .
 
 <https:r0man-ist.github.io/regC#P41> a crm:E96_Purchase ;
@@ -5170,7 +5188,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P41-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P41-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° D 70 Jur." .
 
 <https:r0man-ist.github.io/regC#P42> a crm:E96_Purchase ;
@@ -5183,7 +5201,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P42-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P42-ID> a crm:E42_Identifier ;
     crm:P90_has_value "S 3.18 Th." .
 
 <https:r0man-ist.github.io/regC#P43> a crm:E96_Purchase ;
@@ -5196,7 +5214,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P43-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P43-ID> a crm:E42_Identifier ;
     crm:P90_has_value "AA 40,41 Jur." .
 
 <https:r0man-ist.github.io/regC#P44> a crm:E96_Purchase ;
@@ -5209,7 +5227,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P44-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P44-ID> a crm:E42_Identifier ;
     crm:P90_has_value "E 4.3 Th." .
 
 <https:r0man-ist.github.io/regC#P45> a crm:E96_Purchase ;
@@ -5222,7 +5240,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P45-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P45-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° D 54 Jur." .
 
 <https:r0man-ist.github.io/regC#P46> a crm:E96_Purchase ;
@@ -5235,7 +5253,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P46-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P46-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° D 53 Jur." .
 
 <https:r0man-ist.github.io/regC#P47> a crm:E96_Purchase ;
@@ -5248,7 +5266,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P47-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P47-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° D 52 Jur." .
 
 <https:r0man-ist.github.io/regC#P48> a crm:E96_Purchase ;
@@ -5261,7 +5279,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P48-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P48-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° D 50,51 Jur." .
 
 <https:r0man-ist.github.io/regC#P49> a crm:E96_Purchase ;
@@ -5274,7 +5292,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P49-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P49-ID> a crm:E42_Identifier ;
     crm:P90_has_value "M 5.11,12 Th." .
 
 <https:r0man-ist.github.io/regC#P5> a crm:E96_Purchase ;
@@ -5303,7 +5321,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P50-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P50-ID> a crm:E42_Identifier ;
     crm:P90_has_value "J 4.17 Th." .
 
 <https:r0man-ist.github.io/regC#P51> a crm:E96_Purchase ;
@@ -5316,7 +5334,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P51-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P51-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° D 60 Jur." .
 
 <https:r0man-ist.github.io/regC#P52> a crm:E96_Purchase ;
@@ -5329,7 +5347,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P52-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P52-ID> a crm:E42_Identifier ;
     crm:P90_has_value "AA 29 Jur." .
 
 <https:r0man-ist.github.io/regC#P53> a crm:E96_Purchase ;
@@ -5342,7 +5360,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P53-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P53-ID> a crm:E42_Identifier ;
     crm:P90_has_value "AA 28 Jur." .
 
 <https:r0man-ist.github.io/regC#P54> a crm:E96_Purchase ;
@@ -5358,7 +5376,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P55-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P55-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° P 94 Jur." .
 
 <https:r0man-ist.github.io/regC#P56> a crm:E96_Purchase ;
@@ -5371,7 +5389,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P56-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P56-ID> a crm:E42_Identifier ;
     crm:P90_has_value "AA 30 Jur." .
 
 <https:r0man-ist.github.io/regC#P57> a crm:E96_Purchase ;
@@ -5384,7 +5402,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P57-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P57-ID> a crm:E42_Identifier ;
     crm:P90_has_value "AA 48 Jur." .
 
 <https:r0man-ist.github.io/regC#P58> a crm:E96_Purchase ;
@@ -5397,7 +5415,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P58-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P58-ID> a crm:E42_Identifier ;
     crm:P90_has_value "B 6.3,4 Art." .
 
 <https:r0man-ist.github.io/regC#P59> a crm:E96_Purchase ;
@@ -5410,7 +5428,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P59-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P59-ID> a crm:E42_Identifier ;
     crm:P90_has_value "AA 25&c Jur." .
 
 <https:r0man-ist.github.io/regC#P6> a crm:E96_Purchase ;
@@ -5439,7 +5457,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P60-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P60-ID> a crm:E42_Identifier ;
     crm:P90_has_value "A 1.26, &c Art." .
 
 <https:r0man-ist.github.io/regC#P61> a crm:E96_Purchase ;
@@ -5448,6 +5466,9 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
+<https:r0man-ist.github.io/regC#P61-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "T 1.7 Med." .
+
 <https:r0man-ist.github.io/regC#P62> a crm:E96_Purchase ;
     crm:P22_transferred_title_to <http://viaf.org/viaf/129788129> ;
     crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#P62-I1> ;
@@ -5455,7 +5476,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P62-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P62-ID> a crm:E42_Identifier ;
     crm:P90_has_value "D 3.12 Th." .
 
 <https:r0man-ist.github.io/regC#P63> a crm:E96_Purchase ;
@@ -5464,7 +5485,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P63-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P63-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° M 236 Th." .
 
 <https:r0man-ist.github.io/regC#P64> a crm:E96_Purchase ;
@@ -5473,13 +5494,16 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
+<https:r0man-ist.github.io/regC#P64-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "8Â° M 23 Linc." .
+
 <https:r0man-ist.github.io/regC#P65> a crm:E96_Purchase ;
     crm:P22_transferred_title_to <http://viaf.org/viaf/129788129> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P65-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P65-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° C 63 Jur." .
 
 <https:r0man-ist.github.io/regC#P66> a crm:E96_Purchase ;
@@ -5489,7 +5513,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P66-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P66-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° C 64 Jur." .
 
 <https:r0man-ist.github.io/regC#P67> a crm:E96_Purchase ;
@@ -5499,7 +5523,7 @@
             crm:P82a_begin_of_the_begin "1701-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1719-11-09T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P67-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P67-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° D 71 Jur." .
 
 <https:r0man-ist.github.io/regC#P68> a crm:E96_Purchase ;
@@ -5508,7 +5532,7 @@
             crm:P82a_begin_of_the_begin "1701-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1719-11-09T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P68-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P68-ID> a crm:E42_Identifier ;
     crm:P90_has_value "DD 40 Th." .
 
 <https:r0man-ist.github.io/regC#P69> a crm:E96_Purchase ;
@@ -5518,7 +5542,7 @@
             crm:P82a_begin_of_the_begin "1701-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1719-11-09T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P69-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P69-ID> a crm:E42_Identifier ;
     crm:P90_has_value "FF 39 Th." .
 
 <https:r0man-ist.github.io/regC#P7> a crm:E96_Purchase ;
@@ -5532,7 +5556,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P7-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P7-ID> a crm:E42_Identifier ;
     crm:P90_has_value "fol. B 5.1 Art." .
 
 <https:r0man-ist.github.io/regC#P70> a crm:E96_Purchase ;
@@ -5542,7 +5566,7 @@
             crm:P82a_begin_of_the_begin "1701-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1719-11-09T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P70-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P70-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° Z 414 Th." .
 
 <https:r0man-ist.github.io/regC#P71> a crm:E96_Purchase ;
@@ -5550,8 +5574,8 @@
     crm:P23_transferred_title_from <https://data.cerl.org/thesaurus/cnp02330155> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ] .
 
-<https:r0man-ist.github.io/regC#P71-I1-ID> a crm:E42_Identifier ;
-    crm:P90_has_value "" .
+<https:r0man-ist.github.io/regC#P71-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "8Â° F 94 Jur." .
 
 <https:r0man-ist.github.io/regC#P72> a crm:E96_Purchase ;
     crm:P119_had_sales_price [ a crm:E97_Monetary_Amount ;
@@ -5563,7 +5587,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P72-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P72-ID> a crm:E42_Identifier ;
     crm:P90_has_value "F 2.6,7,8 Jur." .
 
 <https:r0man-ist.github.io/regC#P73> a crm:E96_Purchase ;
@@ -5576,7 +5600,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P73-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P73-ID> a crm:E42_Identifier ;
     crm:P90_has_value "M 3.6,7 Jur." .
 
 <https:r0man-ist.github.io/regC#P74> a crm:E96_Purchase ;
@@ -5585,7 +5609,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P74-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P74-ID> a crm:E42_Identifier ;
     crm:P90_has_value "Arch. A 183" .
 
 <https:r0man-ist.github.io/regC#P75> a crm:E96_Purchase ;
@@ -5594,7 +5618,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P75-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P75-ID> a crm:E42_Identifier ;
     crm:P90_has_value "A 17.15 Th." .
 
 <https:r0man-ist.github.io/regC#P76> a crm:E96_Purchase ;
@@ -5607,7 +5631,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P76-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P76-ID> a crm:E42_Identifier ;
     crm:P90_has_value "H 1.14 Jur." .
 
 <https:r0man-ist.github.io/regC#P77> a crm:E96_Purchase ;
@@ -5620,7 +5644,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P77-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P77-ID> a crm:E42_Identifier ;
     crm:P90_has_value "P 1.8,9 Med." .
 
 <https:r0man-ist.github.io/regC#P78> a crm:E96_Purchase ;
@@ -5633,7 +5657,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P78-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P78-ID> a crm:E42_Identifier ;
     crm:P90_has_value "C 17.12,13 Linc." .
 
 <https:r0man-ist.github.io/regC#P79> a crm:E96_Purchase ;
@@ -5646,7 +5670,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P79-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P79-ID> a crm:E42_Identifier ;
     crm:P90_has_value "C 17.14 Linc." .
 
 <https:r0man-ist.github.io/regC#P8> a crm:E96_Purchase ;
@@ -5660,7 +5684,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P8-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P8-ID> a crm:E42_Identifier ;
     crm:P90_has_value "C 2.1 Art." .
 
 <https:r0man-ist.github.io/regC#P80> a crm:E96_Purchase ;
@@ -5673,7 +5697,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P80-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P80-ID> a crm:E42_Identifier ;
     crm:P90_has_value "C 17.15 Linc." .
 
 <https:r0man-ist.github.io/regC#P81> a crm:E96_Purchase ;
@@ -5686,7 +5710,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P81-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P81-ID> a crm:E42_Identifier ;
     crm:P90_has_value "4Â° CC 24 Jur." .
 
 <https:r0man-ist.github.io/regC#P82> a crm:E96_Purchase ;
@@ -5699,7 +5723,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P82-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P82-ID> a crm:E42_Identifier ;
     crm:P90_has_value "4Â° C 17.11 Linc." .
 
 <https:r0man-ist.github.io/regC#P83> a crm:E96_Purchase ;
@@ -5712,7 +5736,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P83-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P83-ID> a crm:E42_Identifier ;
     crm:P90_has_value "P 1.10 Med." .
 
 <https:r0man-ist.github.io/regC#P84> a crm:E96_Purchase ;
@@ -5725,7 +5749,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P84-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P84-ID> a crm:E42_Identifier ;
     crm:P90_has_value "4Â° C 17.10 Linc." .
 
 <https:r0man-ist.github.io/regC#P85> a crm:E96_Purchase ;
@@ -5738,7 +5762,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P85-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P85-ID> a crm:E42_Identifier ;
     crm:P90_has_value "Arch. A 143" .
 
 <https:r0man-ist.github.io/regC#P86> a crm:E96_Purchase ;
@@ -5751,7 +5775,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P86-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P86-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° E 30 Jur." .
 
 <https:r0man-ist.github.io/regC#P87> a crm:E96_Purchase ;
@@ -5784,6 +5808,9 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
+<https:r0man-ist.github.io/regC#P89-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "AA 21 Jur." .
+
 <https:r0man-ist.github.io/regC#P9> a crm:E96_Purchase ;
     crm:P119_had_sales_price [ a crm:E97_Monetary_Amount ;
             crm:P180_has_currency "Pound" ;
@@ -5795,7 +5822,7 @@
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P9-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P9-ID> a crm:E42_Identifier ;
     crm:P90_has_value "FF 34 Th." .
 
 <https:r0man-ist.github.io/regC#P90> a crm:E96_Purchase ;
@@ -5804,6 +5831,9 @@
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#P90-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "AA 63,64,65 Jur." .
 
 <https:r0man-ist.github.io/regC#P91> a crm:E96_Purchase ;
     crm:P119_had_sales_price [ a crm:E97_Monetary_Amount ;
@@ -5816,7 +5846,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P91-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P91-ID> a crm:E42_Identifier ;
     crm:P90_has_value "AA 49 Jur." .
 
 <https:r0man-ist.github.io/regC#P92> a crm:E96_Purchase ;
@@ -5826,12 +5856,18 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
+<https:r0man-ist.github.io/regC#P92-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "8Â° Z 417 Th." .
+
 <https:r0man-ist.github.io/regC#P93> a crm:E96_Purchase ;
     crm:P22_transferred_title_to <http://viaf.org/viaf/129788129> ;
     crm:P23_transferred_title_from <https://data.cerl.org/thesaurus/cnp02330155> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#P93-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "8Â° Z 418 Th." .
 
 <https:r0man-ist.github.io/regC#P94> a crm:E96_Purchase ;
     crm:P22_transferred_title_to <http://viaf.org/viaf/129788129> ;
@@ -5840,12 +5876,18 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
+<https:r0man-ist.github.io/regC#P94-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "BB 29,30 Jur." .
+
 <https:r0man-ist.github.io/regC#P95> a crm:E96_Purchase ;
     crm:P22_transferred_title_to <http://viaf.org/viaf/129788129> ;
     crm:P23_transferred_title_from <https://data.cerl.org/thesaurus/cnp02330155> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#P95-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "CC Th." .
 
 <https:r0man-ist.github.io/regC#P96> a crm:E96_Purchase ;
     crm:P119_had_sales_price [ a crm:E97_Monetary_Amount ;
@@ -5858,7 +5900,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P96-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P96-ID> a crm:E42_Identifier ;
     crm:P90_has_value "BB 52 Med." .
 
 <https:r0man-ist.github.io/regC#P97> a crm:E96_Purchase ;
@@ -5872,7 +5914,7 @@
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
-<https:r0man-ist.github.io/regC#P97-I1-ID> a crm:E42_Identifier ;
+<https:r0man-ist.github.io/regC#P97-ID> a crm:E42_Identifier ;
     crm:P90_has_value "AA 55 Jur." .
 
 <https:r0man-ist.github.io/regC#P98> a crm:E96_Purchase ;

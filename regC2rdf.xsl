@@ -241,7 +241,7 @@
                                         </xsl:attribute>
                                         <crm:P90_has_value>
                                             <xsl:value-of
-                                                select="./../../descendant::t:ab[@type = 'shelfmark']/t:choice/t:reg"
+                                                select="./descendant::t:ab[@type = 'shelfmark']/t:choice/t:reg"
                                             />
                                         </crm:P90_has_value>
                                     </crm:E42_Identifier>
@@ -251,13 +251,13 @@
                                         <crm:P82a_begin_of_the_begin
                                             rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                                             <xsl:value-of
-                                                select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:purchase')]/@notBefore | @when | ./preceding-sibling::t:date[@type = 'prov:ID-Assignment']/@notBefore | @when, 'T00:00:00')"
+                                                select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:purchase')]/@notBefore | @when | ./descendant::t:date[@type = 'prov:ID-Assignment']/@notBefore | @when, 'T00:00:00')"
                                             />
                                         </crm:P82a_begin_of_the_begin>
                                         <crm:P82b_end_of_the_end
                                             rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                                             <xsl:value-of
-                                                select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:purchase')]/@notAfter | @when | ./preceding-sibling::t:date[@type = 'prov:ID-Assignment']/@notAfter | @when, 'T23:59:59')"
+                                                select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:purchase')]/@notAfter | @when | ./descendant::t:date[@type = 'prov:ID-Assignment']/@notAfter | @when, 'T23:59:59')"
                                             />
                                         </crm:P82b_end_of_the_end>
                                     </crm:E61_Time_Primitive>
@@ -761,7 +761,8 @@
                                         </xsl:attribute>
                                     </crm:P140_assigned_attribute_to>
                                     
-                                </xsl:for-each><crm:P37_assigned>
+                                </xsl:for-each>
+                                <crm:P37_assigned>
                                         <crm:E42_Identifier>
                                             <xsl:attribute name="rdf:about">
                                                 <xsl:value-of
@@ -770,7 +771,7 @@
                                             </xsl:attribute>
                                             <crm:P90_has_value>
                                                 <xsl:value-of
-                                                  select="./../../descendant::t:ab[@type = 'shelfmark']/t:choice/t:reg"
+                                                  select="./descendant::t:ab[@type = 'shelfmark']/t:choice/t:reg"
                                                 />
                                             </crm:P90_has_value>
                                         </crm:E42_Identifier>

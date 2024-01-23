@@ -2101,7 +2101,7 @@
             </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
-                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1701T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1701-01-01T00:00:00</crm:P82a_begin_of_the_begin>
                   <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1719-11-09T23:59:59</crm:P82b_end_of_the_end>
                </crm:E61_Time_Primitive>
             </crm:P4_has_time_span>
@@ -2116,7 +2116,7 @@
             </crm:P22_transferred_title_to>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
-                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1701T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1701-01-01T00:00:00</crm:P82a_begin_of_the_begin>
                   <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1719-11-09T23:59:59</crm:P82b_end_of_the_end>
                </crm:E61_Time_Primitive>
             </crm:P4_has_time_span>
@@ -2142,7 +2142,7 @@
             </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
-                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1701T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1701-01-01T00:00:00</crm:P82a_begin_of_the_begin>
                   <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1719-11-09T23:59:59</crm:P82b_end_of_the_end>
                </crm:E61_Time_Primitive>
             </crm:P4_has_time_span>
@@ -2168,7 +2168,7 @@
             </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
-                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1701T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1701-01-01T00:00:00</crm:P82a_begin_of_the_begin>
                   <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1719-11-09T23:59:59</crm:P82b_end_of_the_end>
                </crm:E61_Time_Primitive>
             </crm:P4_has_time_span>
@@ -3755,7 +3755,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P7-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P7-ID">
-                  <crm:P90_has_value>fol. B 5.1 Art. C 2.1 Art. FF 34 Th. FF 38 Th. FF 31 Th. AA 37 Jur. AA 35 Jur. FF 32 Th. FF 37 Th. B 26.60 Linc. FF 36 Th. FF 35 Th. AA 36 Jur. FF 33 Th. AA 34 Jur. FF 30 Th. S 2.10 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>fol. B 5.1 Art.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -3771,7 +3771,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P8-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P8-ID">
-                  <crm:P90_has_value>fol. B 5.1 Art. C 2.1 Art. FF 34 Th. FF 38 Th. FF 31 Th. AA 37 Jur. AA 35 Jur. FF 32 Th. FF 37 Th. B 26.60 Linc. FF 36 Th. FF 35 Th. AA 36 Jur. FF 33 Th. AA 34 Jur. FF 30 Th. S 2.10 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>C 2.1 Art.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -3787,7 +3787,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P9-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P9-ID">
-                  <crm:P90_has_value>fol. B 5.1 Art. C 2.1 Art. FF 34 Th. FF 38 Th. FF 31 Th. AA 37 Jur. AA 35 Jur. FF 32 Th. FF 37 Th. B 26.60 Linc. FF 36 Th. FF 35 Th. AA 36 Jur. FF 33 Th. AA 34 Jur. FF 30 Th. S 2.10 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>FF 34 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -3803,7 +3803,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P10-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P10-ID">
-                  <crm:P90_has_value>fol. B 5.1 Art. C 2.1 Art. FF 34 Th. FF 38 Th. FF 31 Th. AA 37 Jur. AA 35 Jur. FF 32 Th. FF 37 Th. B 26.60 Linc. FF 36 Th. FF 35 Th. AA 36 Jur. FF 33 Th. AA 34 Jur. FF 30 Th. S 2.10 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>FF 38 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -3819,7 +3819,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P11-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P11-ID">
-                  <crm:P90_has_value>fol. B 5.1 Art. C 2.1 Art. FF 34 Th. FF 38 Th. FF 31 Th. AA 37 Jur. AA 35 Jur. FF 32 Th. FF 37 Th. B 26.60 Linc. FF 36 Th. FF 35 Th. AA 36 Jur. FF 33 Th. AA 34 Jur. FF 30 Th. S 2.10 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>FF 31 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -3835,7 +3835,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P12-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P12-ID">
-                  <crm:P90_has_value>fol. B 5.1 Art. C 2.1 Art. FF 34 Th. FF 38 Th. FF 31 Th. AA 37 Jur. AA 35 Jur. FF 32 Th. FF 37 Th. B 26.60 Linc. FF 36 Th. FF 35 Th. AA 36 Jur. FF 33 Th. AA 34 Jur. FF 30 Th. S 2.10 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>AA 37 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -3851,7 +3851,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P13-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P13-ID">
-                  <crm:P90_has_value>fol. B 5.1 Art. C 2.1 Art. FF 34 Th. FF 38 Th. FF 31 Th. AA 37 Jur. AA 35 Jur. FF 32 Th. FF 37 Th. B 26.60 Linc. FF 36 Th. FF 35 Th. AA 36 Jur. FF 33 Th. AA 34 Jur. FF 30 Th. S 2.10 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>AA 35 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -3867,7 +3867,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P14-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P14-ID">
-                  <crm:P90_has_value>fol. B 5.1 Art. C 2.1 Art. FF 34 Th. FF 38 Th. FF 31 Th. AA 37 Jur. AA 35 Jur. FF 32 Th. FF 37 Th. B 26.60 Linc. FF 36 Th. FF 35 Th. AA 36 Jur. FF 33 Th. AA 34 Jur. FF 30 Th. S 2.10 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>FF 32 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -3883,7 +3883,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P15-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P15-ID">
-                  <crm:P90_has_value>fol. B 5.1 Art. C 2.1 Art. FF 34 Th. FF 38 Th. FF 31 Th. AA 37 Jur. AA 35 Jur. FF 32 Th. FF 37 Th. B 26.60 Linc. FF 36 Th. FF 35 Th. AA 36 Jur. FF 33 Th. AA 34 Jur. FF 30 Th. S 2.10 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>FF 37 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -3899,7 +3899,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P16-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P16-ID">
-                  <crm:P90_has_value>fol. B 5.1 Art. C 2.1 Art. FF 34 Th. FF 38 Th. FF 31 Th. AA 37 Jur. AA 35 Jur. FF 32 Th. FF 37 Th. B 26.60 Linc. FF 36 Th. FF 35 Th. AA 36 Jur. FF 33 Th. AA 34 Jur. FF 30 Th. S 2.10 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>B 26.60 Linc.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -3915,7 +3915,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P17-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P17-ID">
-                  <crm:P90_has_value>fol. B 5.1 Art. C 2.1 Art. FF 34 Th. FF 38 Th. FF 31 Th. AA 37 Jur. AA 35 Jur. FF 32 Th. FF 37 Th. B 26.60 Linc. FF 36 Th. FF 35 Th. AA 36 Jur. FF 33 Th. AA 34 Jur. FF 30 Th. S 2.10 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>FF 36 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -3931,7 +3931,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P18-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P18-ID">
-                  <crm:P90_has_value>fol. B 5.1 Art. C 2.1 Art. FF 34 Th. FF 38 Th. FF 31 Th. AA 37 Jur. AA 35 Jur. FF 32 Th. FF 37 Th. B 26.60 Linc. FF 36 Th. FF 35 Th. AA 36 Jur. FF 33 Th. AA 34 Jur. FF 30 Th. S 2.10 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>FF 35 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -3947,7 +3947,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P19-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P19-ID">
-                  <crm:P90_has_value>fol. B 5.1 Art. C 2.1 Art. FF 34 Th. FF 38 Th. FF 31 Th. AA 37 Jur. AA 35 Jur. FF 32 Th. FF 37 Th. B 26.60 Linc. FF 36 Th. FF 35 Th. AA 36 Jur. FF 33 Th. AA 34 Jur. FF 30 Th. S 2.10 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>AA 36 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -3963,7 +3963,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P20-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P20-ID">
-                  <crm:P90_has_value>fol. B 5.1 Art. C 2.1 Art. FF 34 Th. FF 38 Th. FF 31 Th. AA 37 Jur. AA 35 Jur. FF 32 Th. FF 37 Th. B 26.60 Linc. FF 36 Th. FF 35 Th. AA 36 Jur. FF 33 Th. AA 34 Jur. FF 30 Th. S 2.10 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>FF 33 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -3979,7 +3979,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P21-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P21-ID">
-                  <crm:P90_has_value>fol. B 5.1 Art. C 2.1 Art. FF 34 Th. FF 38 Th. FF 31 Th. AA 37 Jur. AA 35 Jur. FF 32 Th. FF 37 Th. B 26.60 Linc. FF 36 Th. FF 35 Th. AA 36 Jur. FF 33 Th. AA 34 Jur. FF 30 Th. S 2.10 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>AA 34 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -3995,7 +3995,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P22-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P22-ID">
-                  <crm:P90_has_value>fol. B 5.1 Art. C 2.1 Art. FF 34 Th. FF 38 Th. FF 31 Th. AA 37 Jur. AA 35 Jur. FF 32 Th. FF 37 Th. B 26.60 Linc. FF 36 Th. FF 35 Th. AA 36 Jur. FF 33 Th. AA 34 Jur. FF 30 Th. S 2.10 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>FF 30 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4011,7 +4011,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P23-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P23-ID">
-                  <crm:P90_has_value>fol. B 5.1 Art. C 2.1 Art. FF 34 Th. FF 38 Th. FF 31 Th. AA 37 Jur. AA 35 Jur. FF 32 Th. FF 37 Th. B 26.60 Linc. FF 36 Th. FF 35 Th. AA 36 Jur. FF 33 Th. AA 34 Jur. FF 30 Th. S 2.10 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>S 2.10 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4027,7 +4027,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P24-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P24-ID">
-                  <crm:P90_has_value>CC 1,2 Jur. 8° M. 19. Linc. 8° M. 19. Linc. 8° M. 19. Linc. C 4.15 Jur. T 10.1 Th. 8° A 90 Jur. R 7.11,12 Th. DD Jur. FF 13 Th. L 4.4,5,6 Th. L 3.12,13 Th. S 2.14,15 Th. CC Th. 8° D 48 Jur. 8° D 70 Jur. S 3.18 Th. AA 40,41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>CC 1,2 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4043,7 +4043,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P26-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P26-ID">
-                  <crm:P90_has_value>CC 1,2 Jur. 8° M. 19. Linc. 8° M. 19. Linc. 8° M. 19. Linc. C 4.15 Jur. T 10.1 Th. 8° A 90 Jur. R 7.11,12 Th. DD Jur. FF 13 Th. L 4.4,5,6 Th. L 3.12,13 Th. S 2.14,15 Th. CC Th. 8° D 48 Jur. 8° D 70 Jur. S 3.18 Th. AA 40,41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° M. 19. Linc.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4059,7 +4059,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P27-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P27-ID">
-                  <crm:P90_has_value>CC 1,2 Jur. 8° M. 19. Linc. 8° M. 19. Linc. 8° M. 19. Linc. C 4.15 Jur. T 10.1 Th. 8° A 90 Jur. R 7.11,12 Th. DD Jur. FF 13 Th. L 4.4,5,6 Th. L 3.12,13 Th. S 2.14,15 Th. CC Th. 8° D 48 Jur. 8° D 70 Jur. S 3.18 Th. AA 40,41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° M. 19. Linc.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4075,7 +4075,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P28-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P28-ID">
-                  <crm:P90_has_value>CC 1,2 Jur. 8° M. 19. Linc. 8° M. 19. Linc. 8° M. 19. Linc. C 4.15 Jur. T 10.1 Th. 8° A 90 Jur. R 7.11,12 Th. DD Jur. FF 13 Th. L 4.4,5,6 Th. L 3.12,13 Th. S 2.14,15 Th. CC Th. 8° D 48 Jur. 8° D 70 Jur. S 3.18 Th. AA 40,41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° M. 19. Linc.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4091,7 +4091,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P29-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P29-ID">
-                  <crm:P90_has_value>CC 1,2 Jur. 8° M. 19. Linc. 8° M. 19. Linc. 8° M. 19. Linc. C 4.15 Jur. T 10.1 Th. 8° A 90 Jur. R 7.11,12 Th. DD Jur. FF 13 Th. L 4.4,5,6 Th. L 3.12,13 Th. S 2.14,15 Th. CC Th. 8° D 48 Jur. 8° D 70 Jur. S 3.18 Th. AA 40,41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>C 4.15 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4107,7 +4107,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P30-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P30-ID">
-                  <crm:P90_has_value>CC 1,2 Jur. 8° M. 19. Linc. 8° M. 19. Linc. 8° M. 19. Linc. C 4.15 Jur. T 10.1 Th. 8° A 90 Jur. R 7.11,12 Th. DD Jur. FF 13 Th. L 4.4,5,6 Th. L 3.12,13 Th. S 2.14,15 Th. CC Th. 8° D 48 Jur. 8° D 70 Jur. S 3.18 Th. AA 40,41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>T 10.1 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4123,7 +4123,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P31-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P31-ID">
-                  <crm:P90_has_value>CC 1,2 Jur. 8° M. 19. Linc. 8° M. 19. Linc. 8° M. 19. Linc. C 4.15 Jur. T 10.1 Th. 8° A 90 Jur. R 7.11,12 Th. DD Jur. FF 13 Th. L 4.4,5,6 Th. L 3.12,13 Th. S 2.14,15 Th. CC Th. 8° D 48 Jur. 8° D 70 Jur. S 3.18 Th. AA 40,41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° A 90 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4139,7 +4139,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P32-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P32-ID">
-                  <crm:P90_has_value>CC 1,2 Jur. 8° M. 19. Linc. 8° M. 19. Linc. 8° M. 19. Linc. C 4.15 Jur. T 10.1 Th. 8° A 90 Jur. R 7.11,12 Th. DD Jur. FF 13 Th. L 4.4,5,6 Th. L 3.12,13 Th. S 2.14,15 Th. CC Th. 8° D 48 Jur. 8° D 70 Jur. S 3.18 Th. AA 40,41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>R 7.11,12 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4156,7 +4156,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P33-I2"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P33-ID">
-                  <crm:P90_has_value>CC 1,2 Jur. 8° M. 19. Linc. 8° M. 19. Linc. 8° M. 19. Linc. C 4.15 Jur. T 10.1 Th. 8° A 90 Jur. R 7.11,12 Th. DD Jur. FF 13 Th. L 4.4,5,6 Th. L 3.12,13 Th. S 2.14,15 Th. CC Th. 8° D 48 Jur. 8° D 70 Jur. S 3.18 Th. AA 40,41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>DD Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4172,7 +4172,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P35-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P35-ID">
-                  <crm:P90_has_value>CC 1,2 Jur. 8° M. 19. Linc. 8° M. 19. Linc. 8° M. 19. Linc. C 4.15 Jur. T 10.1 Th. 8° A 90 Jur. R 7.11,12 Th. DD Jur. FF 13 Th. L 4.4,5,6 Th. L 3.12,13 Th. S 2.14,15 Th. CC Th. 8° D 48 Jur. 8° D 70 Jur. S 3.18 Th. AA 40,41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>FF 13 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4188,7 +4188,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P36-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P36-ID">
-                  <crm:P90_has_value>CC 1,2 Jur. 8° M. 19. Linc. 8° M. 19. Linc. 8° M. 19. Linc. C 4.15 Jur. T 10.1 Th. 8° A 90 Jur. R 7.11,12 Th. DD Jur. FF 13 Th. L 4.4,5,6 Th. L 3.12,13 Th. S 2.14,15 Th. CC Th. 8° D 48 Jur. 8° D 70 Jur. S 3.18 Th. AA 40,41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>L 4.4,5,6 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4204,7 +4204,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P37-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P37-ID">
-                  <crm:P90_has_value>CC 1,2 Jur. 8° M. 19. Linc. 8° M. 19. Linc. 8° M. 19. Linc. C 4.15 Jur. T 10.1 Th. 8° A 90 Jur. R 7.11,12 Th. DD Jur. FF 13 Th. L 4.4,5,6 Th. L 3.12,13 Th. S 2.14,15 Th. CC Th. 8° D 48 Jur. 8° D 70 Jur. S 3.18 Th. AA 40,41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>L 3.12,13 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4220,7 +4220,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P38-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P38-ID">
-                  <crm:P90_has_value>CC 1,2 Jur. 8° M. 19. Linc. 8° M. 19. Linc. 8° M. 19. Linc. C 4.15 Jur. T 10.1 Th. 8° A 90 Jur. R 7.11,12 Th. DD Jur. FF 13 Th. L 4.4,5,6 Th. L 3.12,13 Th. S 2.14,15 Th. CC Th. 8° D 48 Jur. 8° D 70 Jur. S 3.18 Th. AA 40,41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>S 2.14,15 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4236,7 +4236,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P39-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P39-ID">
-                  <crm:P90_has_value>CC 1,2 Jur. 8° M. 19. Linc. 8° M. 19. Linc. 8° M. 19. Linc. C 4.15 Jur. T 10.1 Th. 8° A 90 Jur. R 7.11,12 Th. DD Jur. FF 13 Th. L 4.4,5,6 Th. L 3.12,13 Th. S 2.14,15 Th. CC Th. 8° D 48 Jur. 8° D 70 Jur. S 3.18 Th. AA 40,41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>CC Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4252,7 +4252,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P40-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P40-ID">
-                  <crm:P90_has_value>CC 1,2 Jur. 8° M. 19. Linc. 8° M. 19. Linc. 8° M. 19. Linc. C 4.15 Jur. T 10.1 Th. 8° A 90 Jur. R 7.11,12 Th. DD Jur. FF 13 Th. L 4.4,5,6 Th. L 3.12,13 Th. S 2.14,15 Th. CC Th. 8° D 48 Jur. 8° D 70 Jur. S 3.18 Th. AA 40,41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° D 48 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4268,7 +4268,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P41-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P41-ID">
-                  <crm:P90_has_value>CC 1,2 Jur. 8° M. 19. Linc. 8° M. 19. Linc. 8° M. 19. Linc. C 4.15 Jur. T 10.1 Th. 8° A 90 Jur. R 7.11,12 Th. DD Jur. FF 13 Th. L 4.4,5,6 Th. L 3.12,13 Th. S 2.14,15 Th. CC Th. 8° D 48 Jur. 8° D 70 Jur. S 3.18 Th. AA 40,41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° D 70 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4284,7 +4284,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P42-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P42-ID">
-                  <crm:P90_has_value>CC 1,2 Jur. 8° M. 19. Linc. 8° M. 19. Linc. 8° M. 19. Linc. C 4.15 Jur. T 10.1 Th. 8° A 90 Jur. R 7.11,12 Th. DD Jur. FF 13 Th. L 4.4,5,6 Th. L 3.12,13 Th. S 2.14,15 Th. CC Th. 8° D 48 Jur. 8° D 70 Jur. S 3.18 Th. AA 40,41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>S 3.18 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4300,7 +4300,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P43-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P43-ID">
-                  <crm:P90_has_value>CC 1,2 Jur. 8° M. 19. Linc. 8° M. 19. Linc. 8° M. 19. Linc. C 4.15 Jur. T 10.1 Th. 8° A 90 Jur. R 7.11,12 Th. DD Jur. FF 13 Th. L 4.4,5,6 Th. L 3.12,13 Th. S 2.14,15 Th. CC Th. 8° D 48 Jur. 8° D 70 Jur. S 3.18 Th. AA 40,41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>AA 40,41 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4316,7 +4316,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P44-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P44-ID">
-                  <crm:P90_has_value>E 4.3 Th. 8° D 54 Jur. 8° D 53 Jur. 8° D 52 Jur. 8° D 50,51 Jur. M 5.11,12 Th. J 4.17 Th. 8° D 60 Jur. AA 29 Jur. AA 28 Jur. 8° P 94 Jur. AA 30 Jur. AA 48 Jur. B 6.3,4 Art. AA 25&amp;c Jur. A 1.26, &amp;c Art. T 1.7 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>E 4.3 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4332,7 +4332,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P45-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P45-ID">
-                  <crm:P90_has_value>E 4.3 Th. 8° D 54 Jur. 8° D 53 Jur. 8° D 52 Jur. 8° D 50,51 Jur. M 5.11,12 Th. J 4.17 Th. 8° D 60 Jur. AA 29 Jur. AA 28 Jur. 8° P 94 Jur. AA 30 Jur. AA 48 Jur. B 6.3,4 Art. AA 25&amp;c Jur. A 1.26, &amp;c Art. T 1.7 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>8° D 54 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4348,7 +4348,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P46-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P46-ID">
-                  <crm:P90_has_value>E 4.3 Th. 8° D 54 Jur. 8° D 53 Jur. 8° D 52 Jur. 8° D 50,51 Jur. M 5.11,12 Th. J 4.17 Th. 8° D 60 Jur. AA 29 Jur. AA 28 Jur. 8° P 94 Jur. AA 30 Jur. AA 48 Jur. B 6.3,4 Art. AA 25&amp;c Jur. A 1.26, &amp;c Art. T 1.7 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>8° D 53 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4364,7 +4364,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P47-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P47-ID">
-                  <crm:P90_has_value>E 4.3 Th. 8° D 54 Jur. 8° D 53 Jur. 8° D 52 Jur. 8° D 50,51 Jur. M 5.11,12 Th. J 4.17 Th. 8° D 60 Jur. AA 29 Jur. AA 28 Jur. 8° P 94 Jur. AA 30 Jur. AA 48 Jur. B 6.3,4 Art. AA 25&amp;c Jur. A 1.26, &amp;c Art. T 1.7 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>8° D 52 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4380,7 +4380,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P48-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P48-ID">
-                  <crm:P90_has_value>E 4.3 Th. 8° D 54 Jur. 8° D 53 Jur. 8° D 52 Jur. 8° D 50,51 Jur. M 5.11,12 Th. J 4.17 Th. 8° D 60 Jur. AA 29 Jur. AA 28 Jur. 8° P 94 Jur. AA 30 Jur. AA 48 Jur. B 6.3,4 Art. AA 25&amp;c Jur. A 1.26, &amp;c Art. T 1.7 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>8° D 50,51 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4396,7 +4396,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P49-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P49-ID">
-                  <crm:P90_has_value>E 4.3 Th. 8° D 54 Jur. 8° D 53 Jur. 8° D 52 Jur. 8° D 50,51 Jur. M 5.11,12 Th. J 4.17 Th. 8° D 60 Jur. AA 29 Jur. AA 28 Jur. 8° P 94 Jur. AA 30 Jur. AA 48 Jur. B 6.3,4 Art. AA 25&amp;c Jur. A 1.26, &amp;c Art. T 1.7 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>M 5.11,12 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4412,7 +4412,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P50-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P50-ID">
-                  <crm:P90_has_value>E 4.3 Th. 8° D 54 Jur. 8° D 53 Jur. 8° D 52 Jur. 8° D 50,51 Jur. M 5.11,12 Th. J 4.17 Th. 8° D 60 Jur. AA 29 Jur. AA 28 Jur. 8° P 94 Jur. AA 30 Jur. AA 48 Jur. B 6.3,4 Art. AA 25&amp;c Jur. A 1.26, &amp;c Art. T 1.7 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>J 4.17 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4428,7 +4428,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P51-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P51-ID">
-                  <crm:P90_has_value>E 4.3 Th. 8° D 54 Jur. 8° D 53 Jur. 8° D 52 Jur. 8° D 50,51 Jur. M 5.11,12 Th. J 4.17 Th. 8° D 60 Jur. AA 29 Jur. AA 28 Jur. 8° P 94 Jur. AA 30 Jur. AA 48 Jur. B 6.3,4 Art. AA 25&amp;c Jur. A 1.26, &amp;c Art. T 1.7 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>8° D 60 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4444,7 +4444,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P52-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P52-ID">
-                  <crm:P90_has_value>E 4.3 Th. 8° D 54 Jur. 8° D 53 Jur. 8° D 52 Jur. 8° D 50,51 Jur. M 5.11,12 Th. J 4.17 Th. 8° D 60 Jur. AA 29 Jur. AA 28 Jur. 8° P 94 Jur. AA 30 Jur. AA 48 Jur. B 6.3,4 Art. AA 25&amp;c Jur. A 1.26, &amp;c Art. T 1.7 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>AA 29 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4460,7 +4460,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P53-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P53-ID">
-                  <crm:P90_has_value>E 4.3 Th. 8° D 54 Jur. 8° D 53 Jur. 8° D 52 Jur. 8° D 50,51 Jur. M 5.11,12 Th. J 4.17 Th. 8° D 60 Jur. AA 29 Jur. AA 28 Jur. 8° P 94 Jur. AA 30 Jur. AA 48 Jur. B 6.3,4 Art. AA 25&amp;c Jur. A 1.26, &amp;c Art. T 1.7 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>AA 28 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4476,7 +4476,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P55-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P55-ID">
-                  <crm:P90_has_value>E 4.3 Th. 8° D 54 Jur. 8° D 53 Jur. 8° D 52 Jur. 8° D 50,51 Jur. M 5.11,12 Th. J 4.17 Th. 8° D 60 Jur. AA 29 Jur. AA 28 Jur. 8° P 94 Jur. AA 30 Jur. AA 48 Jur. B 6.3,4 Art. AA 25&amp;c Jur. A 1.26, &amp;c Art. T 1.7 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>8° P 94 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4492,7 +4492,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P56-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P56-ID">
-                  <crm:P90_has_value>E 4.3 Th. 8° D 54 Jur. 8° D 53 Jur. 8° D 52 Jur. 8° D 50,51 Jur. M 5.11,12 Th. J 4.17 Th. 8° D 60 Jur. AA 29 Jur. AA 28 Jur. 8° P 94 Jur. AA 30 Jur. AA 48 Jur. B 6.3,4 Art. AA 25&amp;c Jur. A 1.26, &amp;c Art. T 1.7 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>AA 30 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4508,7 +4508,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P57-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P57-ID">
-                  <crm:P90_has_value>E 4.3 Th. 8° D 54 Jur. 8° D 53 Jur. 8° D 52 Jur. 8° D 50,51 Jur. M 5.11,12 Th. J 4.17 Th. 8° D 60 Jur. AA 29 Jur. AA 28 Jur. 8° P 94 Jur. AA 30 Jur. AA 48 Jur. B 6.3,4 Art. AA 25&amp;c Jur. A 1.26, &amp;c Art. T 1.7 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>AA 48 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4524,7 +4524,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P58-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P58-ID">
-                  <crm:P90_has_value>E 4.3 Th. 8° D 54 Jur. 8° D 53 Jur. 8° D 52 Jur. 8° D 50,51 Jur. M 5.11,12 Th. J 4.17 Th. 8° D 60 Jur. AA 29 Jur. AA 28 Jur. 8° P 94 Jur. AA 30 Jur. AA 48 Jur. B 6.3,4 Art. AA 25&amp;c Jur. A 1.26, &amp;c Art. T 1.7 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>B 6.3,4 Art.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4540,7 +4540,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P59-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P59-ID">
-                  <crm:P90_has_value>E 4.3 Th. 8° D 54 Jur. 8° D 53 Jur. 8° D 52 Jur. 8° D 50,51 Jur. M 5.11,12 Th. J 4.17 Th. 8° D 60 Jur. AA 29 Jur. AA 28 Jur. 8° P 94 Jur. AA 30 Jur. AA 48 Jur. B 6.3,4 Art. AA 25&amp;c Jur. A 1.26, &amp;c Art. T 1.7 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>AA 25&amp;c Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4556,7 +4556,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P60-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P60-ID">
-                  <crm:P90_has_value>E 4.3 Th. 8° D 54 Jur. 8° D 53 Jur. 8° D 52 Jur. 8° D 50,51 Jur. M 5.11,12 Th. J 4.17 Th. 8° D 60 Jur. AA 29 Jur. AA 28 Jur. 8° P 94 Jur. AA 30 Jur. AA 48 Jur. B 6.3,4 Art. AA 25&amp;c Jur. A 1.26, &amp;c Art. T 1.7 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>A 1.26, &amp;c Art.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4571,7 +4571,7 @@
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID61">
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P61-ID">
-                  <crm:P90_has_value>E 4.3 Th. 8° D 54 Jur. 8° D 53 Jur. 8° D 52 Jur. 8° D 50,51 Jur. M 5.11,12 Th. J 4.17 Th. 8° D 60 Jur. AA 29 Jur. AA 28 Jur. 8° P 94 Jur. AA 30 Jur. AA 48 Jur. B 6.3,4 Art. AA 25&amp;c Jur. A 1.26, &amp;c Art. T 1.7 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>T 1.7 Med.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4587,7 +4587,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P62-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P62-ID">
-                  <crm:P90_has_value>D 3.12 Th. 8° M 236 Th. 8° M 23 Linc. 8° C 63 Jur. 8° C 64 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>D 3.12 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4603,7 +4603,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P63-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P63-ID">
-                  <crm:P90_has_value>D 3.12 Th. 8° M 236 Th. 8° M 23 Linc. 8° C 63 Jur. 8° C 64 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° M 236 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4618,7 +4618,7 @@
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID64">
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P64-ID">
-                  <crm:P90_has_value>D 3.12 Th. 8° M 236 Th. 8° M 23 Linc. 8° C 63 Jur. 8° C 64 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° M 23 Linc.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4634,7 +4634,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P65-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P65-ID">
-                  <crm:P90_has_value>D 3.12 Th. 8° M 236 Th. 8° M 23 Linc. 8° C 63 Jur. 8° C 64 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° C 63 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4650,7 +4650,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P66-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P66-ID">
-                  <crm:P90_has_value>D 3.12 Th. 8° M 236 Th. 8° M 23 Linc. 8° C 63 Jur. 8° C 64 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° C 64 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4666,7 +4666,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P67-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P67-ID">
-                  <crm:P90_has_value>8° D 71 Jur. DD 40 Th. FF 39 Th. 8° Z 414 Th.</crm:P90_has_value>
+                  <crm:P90_has_value>8° D 71 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4682,7 +4682,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P68-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P68-ID">
-                  <crm:P90_has_value>8° D 71 Jur. DD 40 Th. FF 39 Th. 8° Z 414 Th.</crm:P90_has_value>
+                  <crm:P90_has_value>DD 40 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4698,7 +4698,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P69-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P69-ID">
-                  <crm:P90_has_value>8° D 71 Jur. DD 40 Th. FF 39 Th. 8° Z 414 Th.</crm:P90_has_value>
+                  <crm:P90_has_value>FF 39 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4714,7 +4714,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P70-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P70-ID">
-                  <crm:P90_has_value>8° D 71 Jur. DD 40 Th. FF 39 Th. 8° Z 414 Th.</crm:P90_has_value>
+                  <crm:P90_has_value>8° Z 414 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4730,14 +4730,13 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P71-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P71-ID">
-                  <crm:P90_has_value>fol. B 5.1 Art. C 2.1 Art. FF 34 Th. FF 38 Th. FF 31 Th. AA 37 Jur. AA 35 Jur. FF 32 Th. FF 37 Th. B 26.60 Linc. FF 36 Th. FF 35 Th. AA 36 Jur. FF 33 Th. AA 34 Jur. FF 30 Th. S 2.10 Jur. CC 1,2 Jur. 8° M. 19. Linc. 8° M. 19. Linc. 8° M. 19. Linc. C 4.15 Jur. T 10.1 Th. 8° A 90 Jur. R 7.11,12 Th. DD Jur. FF 13 Th. L 4.4,5,6 Th. L 3.12,13 Th. S 2.14,15 Th. CC Th. 8° D 48 Jur. 8° D 70 Jur. S 3.18 Th. AA 40,41 Jur. E 4.3 Th. 8° D 54 Jur. 8° D 53 Jur. 8° D 52 Jur. 8° D 50,51 Jur. M 5.11,12 Th. J 4.17 Th. 8° D 60 Jur. AA 29 Jur. AA 28 Jur. 8° P 94 Jur. AA 30 Jur. AA 48 Jur. B 6.3,4 Art. AA 25&amp;c Jur. A 1.26, &amp;c Art. T 1.7 Med. D 3.12 Th. 8° M 236 Th. 8° M 23 Linc. 8° C 63 Jur. 8° C 64 Jur. 8° D 71 Jur. DD 40 Th. FF 39 Th. 8° Z 414 Th. C 5.10 Th. 8° D 36 Jur. 8° Z 412 Th. NE F 9.19 NE F 9.20 8° D 56 Jur. 8° D 55 Jur. 8° D 72 Jur. 8° D 57 Jur. AA 49 Jur. AA 24 Jur. C 11.16 Th. C 1.17 Jur. 8° D 58.59 Jur. 8° X.68,69 Th. 8° M 236 Th. 8° M 23 Linc. 8° O 30 Linc. 8° D 49 Jur. C 17.1,2,3 4° B 26.61 Linc. 8° M 22 Linc. NE F 1.13 Super C Art. 8° F 94 Jur. A 1.26,27 Art. Arch. C 112,113 A 1.28 Art. B 4.2 Art.  M 5.11 Th. FF 27 Th. B 4.2 Art. AA 31 Jur. C 5.10 Th. DD 44 Th. T 1.7 Med. 4° F 15 Med. T 1.7 Med. 4° F 15 Med. T 1.7 Med. 4° F 15 Med. E 4.3 Th. FF 29 Th. D 3.12 Th. FF 23 Th. Arch. A 73 Arch. D 70 C 2.1 Art. AA 33 Jur. L 4.17 Th. H 5.11 Th. B 6.3 Art. AA 47 Jur. L 3.13 Th. DD 49 Th. L 3.14 Th. DD 50 Th. L 4.4 Th. DD 46 Th. L 4.5 Th. DD 47 Th. L 4.6 Th. DD 48 Th. A 1.11 Th. Arch. A 73 B 6.4 Art. AA 46 Jur. R 7.11 Th. DD 42 Th. R 7.12 Th. DD 43 Th. R 7.12 Th. DD 43 Th. R 7.12 Th. DD 43 Th. R 7.12 Th. DD 43 Th. M 5.12 Th. FF 28 Th. H 5.11 Th. FF 24 Th. S 2.10 Jur. AA 38 Jur. B 5.1 Art. AA 32 Jur. A 8.17 Art. AA 45 Jur. Arch. A 147 F 2.7 Art. F 2.7 Art. AA 52 Jur. Arch. C 93 Arch. A 147 4° W 49 Jur. CC 4 Jur. 4° W 50 Jur. CC 5 Jur. 8° C 76 Jur. 8° C 81 Jur. F 2.6,7,8 Jur. M 3.6,7 Jur. Arch. A 183 A 17.15 Th. H 1.14 Jur. P 1.8,9 Med. C 17.12,13 Linc. C 17.14 Linc. C 17.15 Linc. 4° CC 24 Jur. 4° C 17.11 Linc. P 1.10 Med. 4° C 17.10 Linc. Arch. A 143 8° E 30 Jur. AA 21 Jur. AA 63,64,65 Jur. AA 49 Jur. 8° Z 417 Th. 8° Z 418 Th. BB 29,30 Jur. CC Th. BB 52 Med. AA 55 Jur. DD Jur. 8° A 177,178,179 Linc. C 4.11 Jur. 8° A 172,173 Linc. 8° A 174,175,176 Linc. 8° C 74 Jur. 8° Z 41 Jur. CC 52 Art. P 5.6 Med. P 1.17-20 Med. 8° E 34 Jur. 8° C 75 Jur. 8° D 70 Med. 8° E 32 Jur. E 1.1,2 Jur. CC 27 Jur. CC 26 Jur. W 1.7,8 Med. P 1.7 Med. E 1.17 Th. P 1.4 Med. AA 48 Med. A 17.15 Th. FF 55 Th. Arch. A 156 B 1.9 Th. Seld. B 1.9 Th. Seld. B 6.13 Th. Seld. M 3.6 Jur. M 3.9 Jur. M 3.8 Jur. O 4.14 Th. J 4.4 Th. B 6.12,13 Th. Seld. FF 56,57 Th. L 4.12 Jur. CC 23 Jur. J 4.15 Th. J 4.13 Th. C 4.10 Jur. CC 6 Jur. C 4.11 Jur. CC 7 Jur. J 4.8 Th. O 4.14 Th. J 4.17 Th. J 4.7 Th. J 4.10 Th. J 4.8 Th. F 2.6,7,&amp;c Jur. CC 10,11,12,&amp;c. Jur. E 1.1,2 Jur. CC 15,16 Jur. C 10.9 Jur. CC 9 Jur. J 4.4 Th. O 4.15 Th. H 1.14 Jur. CC 8 Jur. M 3.5 Jur. CC 19 Jur. M 3.5 Jur. CC 19 Jur. M 3.7,8,9 Jur. CC 20-22 Jur. M 2.12 Med. 4° C 17.9 Linc. 4° W 49,50 Jur. 4° CC 4,5 Jur.These books have been moved already in
-                                            the previous year; see fol. 17r M 3.5 Jur. J 4.11,12 Th. J 4.9,10 Th. P 1.4,&amp;c.,10 Med. AA 56 &amp;c. Jur. J 4.13 Th. J 4.11 Th. W 1.7.8 Med. CC 17.18 Jur. L 4.12 Jur. J 4.7 Th. J 4.15 Th. J 4.14 Th. J 4.12 Th. B 1.10 Th. Seld. B 6.12 Th. Seld. J 4.16 Th. J 4.14 Th. K 1.22 Art. O 3.20 Art. B 4.6 Th. Seld. Arch. A 186 8° U 155 Th. 8° C 69,70 Jur. 8° M 19 Linc. 8° C 65,66 &amp;c. Jur. 8° C 87 Jur. 8° C 80 Jur. 8° C 77 Jur. 8° C 78 Jur. 8° C 79 Jur. 8° P 52 Med. 8° 0 36 Linc. B 1.19 Art. B 1.19 Art. 8° C 72,73 Jur. 8° C 82 Jur. 8° C 84 Jur. 8° C 83 Jur. 8° C 83 Jur. 8° C 83 Jur. 8° C 83 Jur. 8° C 83 Jur. 8° Z 42 Jur. 8° C 86 Jur. 8° C 85 Jur. 8° A 171 &amp;c. Linc. Arch. B 119 8° E 31 Jur. 8° E 23,24 Jur. 8° E 25,26 Jur. 8° E 27 Jur. 8° E 29 Jur. 8° E 28 Jur. C 1.18 Jur. C 10.9 Jur. 8° N 81 Med. FF 58 Th. 8° O 35 Linc. 8° E 33 Jur. 8° E 32 Jur. B 1.19 Art. 8° A 182 Linc. CC 29-32 Jur. CC 33 Jur. CC 34 Jur. 8° A 180,181 Linc. 8° A 183 Linc. 8° E 35 Jur. 8° E 36 Jur. 8° E 37 Jur. 8° E 38 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° F 94 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
-                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00</crm:P82a_begin_of_the_begin>
-                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T23:59:59</crm:P82b_end_of_the_end>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1719-11-09T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1720-11-08T23:59:59</crm:P82b_end_of_the_end>
                </crm:E61_Time_Primitive>
             </crm:P4_has_time_span>
          </crm:E15_Identifier_Assignment>
@@ -4747,7 +4746,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P72-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P72-ID">
-                  <crm:P90_has_value>8° C 76 Jur. 8° C 81 Jur. F 2.6,7,8 Jur. M 3.6,7 Jur. Arch. A 183 A 17.15 Th.</crm:P90_has_value>
+                  <crm:P90_has_value>F 2.6,7,8 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4763,7 +4762,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P73-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P73-ID">
-                  <crm:P90_has_value>8° C 76 Jur. 8° C 81 Jur. F 2.6,7,8 Jur. M 3.6,7 Jur. Arch. A 183 A 17.15 Th.</crm:P90_has_value>
+                  <crm:P90_has_value>M 3.6,7 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4779,7 +4778,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P74-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P74-ID">
-                  <crm:P90_has_value>8° C 76 Jur. 8° C 81 Jur. F 2.6,7,8 Jur. M 3.6,7 Jur. Arch. A 183 A 17.15 Th.</crm:P90_has_value>
+                  <crm:P90_has_value>Arch. A 183</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4795,7 +4794,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P75-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P75-ID">
-                  <crm:P90_has_value>8° C 76 Jur. 8° C 81 Jur. F 2.6,7,8 Jur. M 3.6,7 Jur. Arch. A 183 A 17.15 Th.</crm:P90_has_value>
+                  <crm:P90_has_value>A 17.15 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4811,7 +4810,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P76-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P76-ID">
-                  <crm:P90_has_value>H 1.14 Jur. P 1.8,9 Med. C 17.12,13 Linc. C 17.14 Linc. C 17.15 Linc. 4° CC 24 Jur. 4° C 17.11 Linc. P 1.10 Med. 4° C 17.10 Linc. Arch. A 143 8° E 30 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>H 1.14 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4827,7 +4826,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P77-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P77-ID">
-                  <crm:P90_has_value>H 1.14 Jur. P 1.8,9 Med. C 17.12,13 Linc. C 17.14 Linc. C 17.15 Linc. 4° CC 24 Jur. 4° C 17.11 Linc. P 1.10 Med. 4° C 17.10 Linc. Arch. A 143 8° E 30 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>P 1.8,9 Med.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4843,7 +4842,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P78-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P78-ID">
-                  <crm:P90_has_value>H 1.14 Jur. P 1.8,9 Med. C 17.12,13 Linc. C 17.14 Linc. C 17.15 Linc. 4° CC 24 Jur. 4° C 17.11 Linc. P 1.10 Med. 4° C 17.10 Linc. Arch. A 143 8° E 30 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>C 17.12,13 Linc.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4859,7 +4858,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P79-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P79-ID">
-                  <crm:P90_has_value>H 1.14 Jur. P 1.8,9 Med. C 17.12,13 Linc. C 17.14 Linc. C 17.15 Linc. 4° CC 24 Jur. 4° C 17.11 Linc. P 1.10 Med. 4° C 17.10 Linc. Arch. A 143 8° E 30 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>C 17.14 Linc.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4875,7 +4874,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P80-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P80-ID">
-                  <crm:P90_has_value>H 1.14 Jur. P 1.8,9 Med. C 17.12,13 Linc. C 17.14 Linc. C 17.15 Linc. 4° CC 24 Jur. 4° C 17.11 Linc. P 1.10 Med. 4° C 17.10 Linc. Arch. A 143 8° E 30 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>C 17.15 Linc.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4891,7 +4890,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P81-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P81-ID">
-                  <crm:P90_has_value>H 1.14 Jur. P 1.8,9 Med. C 17.12,13 Linc. C 17.14 Linc. C 17.15 Linc. 4° CC 24 Jur. 4° C 17.11 Linc. P 1.10 Med. 4° C 17.10 Linc. Arch. A 143 8° E 30 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>4° CC 24 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4907,7 +4906,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P82-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P82-ID">
-                  <crm:P90_has_value>H 1.14 Jur. P 1.8,9 Med. C 17.12,13 Linc. C 17.14 Linc. C 17.15 Linc. 4° CC 24 Jur. 4° C 17.11 Linc. P 1.10 Med. 4° C 17.10 Linc. Arch. A 143 8° E 30 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>4° C 17.11 Linc.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4923,7 +4922,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P83-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P83-ID">
-                  <crm:P90_has_value>H 1.14 Jur. P 1.8,9 Med. C 17.12,13 Linc. C 17.14 Linc. C 17.15 Linc. 4° CC 24 Jur. 4° C 17.11 Linc. P 1.10 Med. 4° C 17.10 Linc. Arch. A 143 8° E 30 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>P 1.10 Med.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4939,7 +4938,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P84-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P84-ID">
-                  <crm:P90_has_value>H 1.14 Jur. P 1.8,9 Med. C 17.12,13 Linc. C 17.14 Linc. C 17.15 Linc. 4° CC 24 Jur. 4° C 17.11 Linc. P 1.10 Med. 4° C 17.10 Linc. Arch. A 143 8° E 30 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>4° C 17.10 Linc.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4955,7 +4954,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P85-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P85-ID">
-                  <crm:P90_has_value>H 1.14 Jur. P 1.8,9 Med. C 17.12,13 Linc. C 17.14 Linc. C 17.15 Linc. 4° CC 24 Jur. 4° C 17.11 Linc. P 1.10 Med. 4° C 17.10 Linc. Arch. A 143 8° E 30 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>Arch. A 143</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4971,7 +4970,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P86-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P86-ID">
-                  <crm:P90_has_value>H 1.14 Jur. P 1.8,9 Med. C 17.12,13 Linc. C 17.14 Linc. C 17.15 Linc. 4° CC 24 Jur. 4° C 17.11 Linc. P 1.10 Med. 4° C 17.10 Linc. Arch. A 143 8° E 30 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° E 30 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -4986,7 +4985,7 @@
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID89">
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P89-ID">
-                  <crm:P90_has_value>AA 21 Jur. AA 63,64,65 Jur. AA 49 Jur. 8° Z 417 Th. 8° Z 418 Th. BB 29,30 Jur. CC Th. BB 52 Med. AA 55 Jur. DD Jur. 8° A 177,178,179 Linc. C 4.11 Jur. 8° A 172,173 Linc. 8° A 174,175,176 Linc. 8° C 74 Jur. 8° Z 41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>AA 21 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5001,7 +5000,7 @@
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID90">
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P90-ID">
-                  <crm:P90_has_value>AA 21 Jur. AA 63,64,65 Jur. AA 49 Jur. 8° Z 417 Th. 8° Z 418 Th. BB 29,30 Jur. CC Th. BB 52 Med. AA 55 Jur. DD Jur. 8° A 177,178,179 Linc. C 4.11 Jur. 8° A 172,173 Linc. 8° A 174,175,176 Linc. 8° C 74 Jur. 8° Z 41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>AA 63,64,65 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5017,7 +5016,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P91-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P91-ID">
-                  <crm:P90_has_value>AA 21 Jur. AA 63,64,65 Jur. AA 49 Jur. 8° Z 417 Th. 8° Z 418 Th. BB 29,30 Jur. CC Th. BB 52 Med. AA 55 Jur. DD Jur. 8° A 177,178,179 Linc. C 4.11 Jur. 8° A 172,173 Linc. 8° A 174,175,176 Linc. 8° C 74 Jur. 8° Z 41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>AA 49 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5032,7 +5031,7 @@
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID92">
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P92-ID">
-                  <crm:P90_has_value>AA 21 Jur. AA 63,64,65 Jur. AA 49 Jur. 8° Z 417 Th. 8° Z 418 Th. BB 29,30 Jur. CC Th. BB 52 Med. AA 55 Jur. DD Jur. 8° A 177,178,179 Linc. C 4.11 Jur. 8° A 172,173 Linc. 8° A 174,175,176 Linc. 8° C 74 Jur. 8° Z 41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° Z 417 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5047,7 +5046,7 @@
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID93">
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P93-ID">
-                  <crm:P90_has_value>AA 21 Jur. AA 63,64,65 Jur. AA 49 Jur. 8° Z 417 Th. 8° Z 418 Th. BB 29,30 Jur. CC Th. BB 52 Med. AA 55 Jur. DD Jur. 8° A 177,178,179 Linc. C 4.11 Jur. 8° A 172,173 Linc. 8° A 174,175,176 Linc. 8° C 74 Jur. 8° Z 41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° Z 418 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5062,7 +5061,7 @@
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID94">
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P94-ID">
-                  <crm:P90_has_value>AA 21 Jur. AA 63,64,65 Jur. AA 49 Jur. 8° Z 417 Th. 8° Z 418 Th. BB 29,30 Jur. CC Th. BB 52 Med. AA 55 Jur. DD Jur. 8° A 177,178,179 Linc. C 4.11 Jur. 8° A 172,173 Linc. 8° A 174,175,176 Linc. 8° C 74 Jur. 8° Z 41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>BB 29,30 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5077,7 +5076,7 @@
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID95">
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P95-ID">
-                  <crm:P90_has_value>AA 21 Jur. AA 63,64,65 Jur. AA 49 Jur. 8° Z 417 Th. 8° Z 418 Th. BB 29,30 Jur. CC Th. BB 52 Med. AA 55 Jur. DD Jur. 8° A 177,178,179 Linc. C 4.11 Jur. 8° A 172,173 Linc. 8° A 174,175,176 Linc. 8° C 74 Jur. 8° Z 41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>CC Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5093,7 +5092,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P96-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P96-ID">
-                  <crm:P90_has_value>AA 21 Jur. AA 63,64,65 Jur. AA 49 Jur. 8° Z 417 Th. 8° Z 418 Th. BB 29,30 Jur. CC Th. BB 52 Med. AA 55 Jur. DD Jur. 8° A 177,178,179 Linc. C 4.11 Jur. 8° A 172,173 Linc. 8° A 174,175,176 Linc. 8° C 74 Jur. 8° Z 41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>BB 52 Med.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5109,7 +5108,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P97-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P97-ID">
-                  <crm:P90_has_value>AA 21 Jur. AA 63,64,65 Jur. AA 49 Jur. 8° Z 417 Th. 8° Z 418 Th. BB 29,30 Jur. CC Th. BB 52 Med. AA 55 Jur. DD Jur. 8° A 177,178,179 Linc. C 4.11 Jur. 8° A 172,173 Linc. 8° A 174,175,176 Linc. 8° C 74 Jur. 8° Z 41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>AA 55 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5124,7 +5123,7 @@
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID100">
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P100-ID">
-                  <crm:P90_has_value>AA 21 Jur. AA 63,64,65 Jur. AA 49 Jur. 8° Z 417 Th. 8° Z 418 Th. BB 29,30 Jur. CC Th. BB 52 Med. AA 55 Jur. DD Jur. 8° A 177,178,179 Linc. C 4.11 Jur. 8° A 172,173 Linc. 8° A 174,175,176 Linc. 8° C 74 Jur. 8° Z 41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>DD Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5140,7 +5139,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P101-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P101-ID">
-                  <crm:P90_has_value>AA 21 Jur. AA 63,64,65 Jur. AA 49 Jur. 8° Z 417 Th. 8° Z 418 Th. BB 29,30 Jur. CC Th. BB 52 Med. AA 55 Jur. DD Jur. 8° A 177,178,179 Linc. C 4.11 Jur. 8° A 172,173 Linc. 8° A 174,175,176 Linc. 8° C 74 Jur. 8° Z 41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° A 177,178,179 Linc.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5156,7 +5155,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P102-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P102-ID">
-                  <crm:P90_has_value>AA 21 Jur. AA 63,64,65 Jur. AA 49 Jur. 8° Z 417 Th. 8° Z 418 Th. BB 29,30 Jur. CC Th. BB 52 Med. AA 55 Jur. DD Jur. 8° A 177,178,179 Linc. C 4.11 Jur. 8° A 172,173 Linc. 8° A 174,175,176 Linc. 8° C 74 Jur. 8° Z 41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>C 4.11 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5172,7 +5171,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P103-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P103-ID">
-                  <crm:P90_has_value>AA 21 Jur. AA 63,64,65 Jur. AA 49 Jur. 8° Z 417 Th. 8° Z 418 Th. BB 29,30 Jur. CC Th. BB 52 Med. AA 55 Jur. DD Jur. 8° A 177,178,179 Linc. C 4.11 Jur. 8° A 172,173 Linc. 8° A 174,175,176 Linc. 8° C 74 Jur. 8° Z 41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° A 172,173 Linc.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5188,7 +5187,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P104-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P104-ID">
-                  <crm:P90_has_value>AA 21 Jur. AA 63,64,65 Jur. AA 49 Jur. 8° Z 417 Th. 8° Z 418 Th. BB 29,30 Jur. CC Th. BB 52 Med. AA 55 Jur. DD Jur. 8° A 177,178,179 Linc. C 4.11 Jur. 8° A 172,173 Linc. 8° A 174,175,176 Linc. 8° C 74 Jur. 8° Z 41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° A 174,175,176 Linc.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5204,7 +5203,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P105-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P105-ID">
-                  <crm:P90_has_value>AA 21 Jur. AA 63,64,65 Jur. AA 49 Jur. 8° Z 417 Th. 8° Z 418 Th. BB 29,30 Jur. CC Th. BB 52 Med. AA 55 Jur. DD Jur. 8° A 177,178,179 Linc. C 4.11 Jur. 8° A 172,173 Linc. 8° A 174,175,176 Linc. 8° C 74 Jur. 8° Z 41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° C 74 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5220,7 +5219,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P106-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P106-ID">
-                  <crm:P90_has_value>AA 21 Jur. AA 63,64,65 Jur. AA 49 Jur. 8° Z 417 Th. 8° Z 418 Th. BB 29,30 Jur. CC Th. BB 52 Med. AA 55 Jur. DD Jur. 8° A 177,178,179 Linc. C 4.11 Jur. 8° A 172,173 Linc. 8° A 174,175,176 Linc. 8° C 74 Jur. 8° Z 41 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° Z 41 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5236,7 +5235,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P108-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P108-ID">
-                  <crm:P90_has_value>CC 52 Art. P 5.6 Med. P 1.17-20 Med. 8° E 34 Jur. 8° C 75 Jur. 8° D 70 Med. 8° E 32 Jur. E 1.1,2 Jur. CC 27 Jur. CC 26 Jur. W 1.7,8 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>CC 52 Art.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5252,7 +5251,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P113-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P113-ID">
-                  <crm:P90_has_value>CC 52 Art. P 5.6 Med. P 1.17-20 Med. 8° E 34 Jur. 8° C 75 Jur. 8° D 70 Med. 8° E 32 Jur. E 1.1,2 Jur. CC 27 Jur. CC 26 Jur. W 1.7,8 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>P 5.6 Med.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5268,7 +5267,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P114-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P114-ID">
-                  <crm:P90_has_value>CC 52 Art. P 5.6 Med. P 1.17-20 Med. 8° E 34 Jur. 8° C 75 Jur. 8° D 70 Med. 8° E 32 Jur. E 1.1,2 Jur. CC 27 Jur. CC 26 Jur. W 1.7,8 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>P 1.17-20 Med.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5284,7 +5283,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P115-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P115-ID">
-                  <crm:P90_has_value>CC 52 Art. P 5.6 Med. P 1.17-20 Med. 8° E 34 Jur. 8° C 75 Jur. 8° D 70 Med. 8° E 32 Jur. E 1.1,2 Jur. CC 27 Jur. CC 26 Jur. W 1.7,8 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>8° E 34 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5300,7 +5299,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P116-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P116-ID">
-                  <crm:P90_has_value>CC 52 Art. P 5.6 Med. P 1.17-20 Med. 8° E 34 Jur. 8° C 75 Jur. 8° D 70 Med. 8° E 32 Jur. E 1.1,2 Jur. CC 27 Jur. CC 26 Jur. W 1.7,8 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>8° C 75 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5316,7 +5315,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P117-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P117-ID">
-                  <crm:P90_has_value>CC 52 Art. P 5.6 Med. P 1.17-20 Med. 8° E 34 Jur. 8° C 75 Jur. 8° D 70 Med. 8° E 32 Jur. E 1.1,2 Jur. CC 27 Jur. CC 26 Jur. W 1.7,8 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>8° D 70 Med.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5332,7 +5331,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P118-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P118-ID">
-                  <crm:P90_has_value>CC 52 Art. P 5.6 Med. P 1.17-20 Med. 8° E 34 Jur. 8° C 75 Jur. 8° D 70 Med. 8° E 32 Jur. E 1.1,2 Jur. CC 27 Jur. CC 26 Jur. W 1.7,8 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>8° E 32 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5348,7 +5347,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P119-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P119-ID">
-                  <crm:P90_has_value>CC 52 Art. P 5.6 Med. P 1.17-20 Med. 8° E 34 Jur. 8° C 75 Jur. 8° D 70 Med. 8° E 32 Jur. E 1.1,2 Jur. CC 27 Jur. CC 26 Jur. W 1.7,8 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>E 1.1,2 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5364,7 +5363,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P120-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P120-ID">
-                  <crm:P90_has_value>CC 52 Art. P 5.6 Med. P 1.17-20 Med. 8° E 34 Jur. 8° C 75 Jur. 8° D 70 Med. 8° E 32 Jur. E 1.1,2 Jur. CC 27 Jur. CC 26 Jur. W 1.7,8 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>CC 27 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5380,7 +5379,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P121-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P121-ID">
-                  <crm:P90_has_value>CC 52 Art. P 5.6 Med. P 1.17-20 Med. 8° E 34 Jur. 8° C 75 Jur. 8° D 70 Med. 8° E 32 Jur. E 1.1,2 Jur. CC 27 Jur. CC 26 Jur. W 1.7,8 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>CC 26 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5397,7 +5396,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P122-I2"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P122-ID">
-                  <crm:P90_has_value>CC 52 Art. P 5.6 Med. P 1.17-20 Med. 8° E 34 Jur. 8° C 75 Jur. 8° D 70 Med. 8° E 32 Jur. E 1.1,2 Jur. CC 27 Jur. CC 26 Jur. W 1.7,8 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>W 1.7,8 Med.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5413,7 +5412,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P123-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P123-ID">
-                  <crm:P90_has_value>P 1.7 Med. E 1.17 Th. P 1.4 Med. AA 48 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>P 1.7 Med.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5429,7 +5428,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P124-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P124-ID">
-                  <crm:P90_has_value>P 1.7 Med. E 1.17 Th. P 1.4 Med. AA 48 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>E 1.17 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5445,7 +5444,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P125-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P125-ID">
-                  <crm:P90_has_value>P 1.7 Med. E 1.17 Th. P 1.4 Med. AA 48 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>P 1.4 Med.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -5461,7 +5460,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P126-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P126-ID">
-                  <crm:P90_has_value>P 1.7 Med. E 1.17 Th. P 1.4 Med. AA 48 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>AA 48 Med.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10354,7 +10353,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D1-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D1-ID">
-                  <crm:P90_has_value>C 5.10 Th. 8° D 36 Jur. 8° Z 412 Th. NE F 9.19 NE F 9.20 8° D 56 Jur. 8° D 55 Jur. 8° D 72 Jur. 8° D 57 Jur. AA 49 Jur. AA 24 Jur. C 11.16 Th. C 1.17 Jur. 8° D 58.59 Jur. 8° X.68,69 Th. 8° M 236 Th. 8° M 23 Linc. 8° O 30 Linc. 8° D 49 Jur. C 17.1,2,3 4° B 26.61 Linc. 8° M 22 Linc. NE F 1.13</crm:P90_has_value>
+                  <crm:P90_has_value>C 5.10 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10370,7 +10369,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D2-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D2-ID">
-                  <crm:P90_has_value>C 5.10 Th. 8° D 36 Jur. 8° Z 412 Th. NE F 9.19 NE F 9.20 8° D 56 Jur. 8° D 55 Jur. 8° D 72 Jur. 8° D 57 Jur. AA 49 Jur. AA 24 Jur. C 11.16 Th. C 1.17 Jur. 8° D 58.59 Jur. 8° X.68,69 Th. 8° M 236 Th. 8° M 23 Linc. 8° O 30 Linc. 8° D 49 Jur. C 17.1,2,3 4° B 26.61 Linc. 8° M 22 Linc. NE F 1.13</crm:P90_has_value>
+                  <crm:P90_has_value>8° D 36 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10386,7 +10385,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D3-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D3-ID">
-                  <crm:P90_has_value>C 5.10 Th. 8° D 36 Jur. 8° Z 412 Th. NE F 9.19 NE F 9.20 8° D 56 Jur. 8° D 55 Jur. 8° D 72 Jur. 8° D 57 Jur. AA 49 Jur. AA 24 Jur. C 11.16 Th. C 1.17 Jur. 8° D 58.59 Jur. 8° X.68,69 Th. 8° M 236 Th. 8° M 23 Linc. 8° O 30 Linc. 8° D 49 Jur. C 17.1,2,3 4° B 26.61 Linc. 8° M 22 Linc. NE F 1.13</crm:P90_has_value>
+                  <crm:P90_has_value>8° Z 412 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10402,7 +10401,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D4-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D4-ID">
-                  <crm:P90_has_value>C 5.10 Th. 8° D 36 Jur. 8° Z 412 Th. NE F 9.19 NE F 9.20 8° D 56 Jur. 8° D 55 Jur. 8° D 72 Jur. 8° D 57 Jur. AA 49 Jur. AA 24 Jur. C 11.16 Th. C 1.17 Jur. 8° D 58.59 Jur. 8° X.68,69 Th. 8° M 236 Th. 8° M 23 Linc. 8° O 30 Linc. 8° D 49 Jur. C 17.1,2,3 4° B 26.61 Linc. 8° M 22 Linc. NE F 1.13</crm:P90_has_value>
+                  <crm:P90_has_value>NE F 9.19</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10418,7 +10417,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D5-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D5-ID">
-                  <crm:P90_has_value>C 5.10 Th. 8° D 36 Jur. 8° Z 412 Th. NE F 9.19 NE F 9.20 8° D 56 Jur. 8° D 55 Jur. 8° D 72 Jur. 8° D 57 Jur. AA 49 Jur. AA 24 Jur. C 11.16 Th. C 1.17 Jur. 8° D 58.59 Jur. 8° X.68,69 Th. 8° M 236 Th. 8° M 23 Linc. 8° O 30 Linc. 8° D 49 Jur. C 17.1,2,3 4° B 26.61 Linc. 8° M 22 Linc. NE F 1.13</crm:P90_has_value>
+                  <crm:P90_has_value>NE F 9.20</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10434,7 +10433,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D6-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D6-ID">
-                  <crm:P90_has_value>C 5.10 Th. 8° D 36 Jur. 8° Z 412 Th. NE F 9.19 NE F 9.20 8° D 56 Jur. 8° D 55 Jur. 8° D 72 Jur. 8° D 57 Jur. AA 49 Jur. AA 24 Jur. C 11.16 Th. C 1.17 Jur. 8° D 58.59 Jur. 8° X.68,69 Th. 8° M 236 Th. 8° M 23 Linc. 8° O 30 Linc. 8° D 49 Jur. C 17.1,2,3 4° B 26.61 Linc. 8° M 22 Linc. NE F 1.13</crm:P90_has_value>
+                  <crm:P90_has_value>8° D 56 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10450,7 +10449,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D7-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D7-ID">
-                  <crm:P90_has_value>C 5.10 Th. 8° D 36 Jur. 8° Z 412 Th. NE F 9.19 NE F 9.20 8° D 56 Jur. 8° D 55 Jur. 8° D 72 Jur. 8° D 57 Jur. AA 49 Jur. AA 24 Jur. C 11.16 Th. C 1.17 Jur. 8° D 58.59 Jur. 8° X.68,69 Th. 8° M 236 Th. 8° M 23 Linc. 8° O 30 Linc. 8° D 49 Jur. C 17.1,2,3 4° B 26.61 Linc. 8° M 22 Linc. NE F 1.13</crm:P90_has_value>
+                  <crm:P90_has_value>8° D 55 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10466,7 +10465,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D8-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D8-ID">
-                  <crm:P90_has_value>C 5.10 Th. 8° D 36 Jur. 8° Z 412 Th. NE F 9.19 NE F 9.20 8° D 56 Jur. 8° D 55 Jur. 8° D 72 Jur. 8° D 57 Jur. AA 49 Jur. AA 24 Jur. C 11.16 Th. C 1.17 Jur. 8° D 58.59 Jur. 8° X.68,69 Th. 8° M 236 Th. 8° M 23 Linc. 8° O 30 Linc. 8° D 49 Jur. C 17.1,2,3 4° B 26.61 Linc. 8° M 22 Linc. NE F 1.13</crm:P90_has_value>
+                  <crm:P90_has_value>8° D 72 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10482,7 +10481,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D9-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D9-ID">
-                  <crm:P90_has_value>C 5.10 Th. 8° D 36 Jur. 8° Z 412 Th. NE F 9.19 NE F 9.20 8° D 56 Jur. 8° D 55 Jur. 8° D 72 Jur. 8° D 57 Jur. AA 49 Jur. AA 24 Jur. C 11.16 Th. C 1.17 Jur. 8° D 58.59 Jur. 8° X.68,69 Th. 8° M 236 Th. 8° M 23 Linc. 8° O 30 Linc. 8° D 49 Jur. C 17.1,2,3 4° B 26.61 Linc. 8° M 22 Linc. NE F 1.13</crm:P90_has_value>
+                  <crm:P90_has_value>8° D 57 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10498,7 +10497,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D10-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D10-ID">
-                  <crm:P90_has_value>C 5.10 Th. 8° D 36 Jur. 8° Z 412 Th. NE F 9.19 NE F 9.20 8° D 56 Jur. 8° D 55 Jur. 8° D 72 Jur. 8° D 57 Jur. AA 49 Jur. AA 24 Jur. C 11.16 Th. C 1.17 Jur. 8° D 58.59 Jur. 8° X.68,69 Th. 8° M 236 Th. 8° M 23 Linc. 8° O 30 Linc. 8° D 49 Jur. C 17.1,2,3 4° B 26.61 Linc. 8° M 22 Linc. NE F 1.13</crm:P90_has_value>
+                  <crm:P90_has_value>AA 49 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10514,7 +10513,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D11-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D11-ID">
-                  <crm:P90_has_value>C 5.10 Th. 8° D 36 Jur. 8° Z 412 Th. NE F 9.19 NE F 9.20 8° D 56 Jur. 8° D 55 Jur. 8° D 72 Jur. 8° D 57 Jur. AA 49 Jur. AA 24 Jur. C 11.16 Th. C 1.17 Jur. 8° D 58.59 Jur. 8° X.68,69 Th. 8° M 236 Th. 8° M 23 Linc. 8° O 30 Linc. 8° D 49 Jur. C 17.1,2,3 4° B 26.61 Linc. 8° M 22 Linc. NE F 1.13</crm:P90_has_value>
+                  <crm:P90_has_value>AA 24 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10530,7 +10529,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D12-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D12-ID">
-                  <crm:P90_has_value>C 5.10 Th. 8° D 36 Jur. 8° Z 412 Th. NE F 9.19 NE F 9.20 8° D 56 Jur. 8° D 55 Jur. 8° D 72 Jur. 8° D 57 Jur. AA 49 Jur. AA 24 Jur. C 11.16 Th. C 1.17 Jur. 8° D 58.59 Jur. 8° X.68,69 Th. 8° M 236 Th. 8° M 23 Linc. 8° O 30 Linc. 8° D 49 Jur. C 17.1,2,3 4° B 26.61 Linc. 8° M 22 Linc. NE F 1.13</crm:P90_has_value>
+                  <crm:P90_has_value>C 11.16 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10546,7 +10545,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D13-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D13-ID">
-                  <crm:P90_has_value>C 5.10 Th. 8° D 36 Jur. 8° Z 412 Th. NE F 9.19 NE F 9.20 8° D 56 Jur. 8° D 55 Jur. 8° D 72 Jur. 8° D 57 Jur. AA 49 Jur. AA 24 Jur. C 11.16 Th. C 1.17 Jur. 8° D 58.59 Jur. 8° X.68,69 Th. 8° M 236 Th. 8° M 23 Linc. 8° O 30 Linc. 8° D 49 Jur. C 17.1,2,3 4° B 26.61 Linc. 8° M 22 Linc. NE F 1.13</crm:P90_has_value>
+                  <crm:P90_has_value>C 1.17 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10562,7 +10561,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D14-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D14-ID">
-                  <crm:P90_has_value>C 5.10 Th. 8° D 36 Jur. 8° Z 412 Th. NE F 9.19 NE F 9.20 8° D 56 Jur. 8° D 55 Jur. 8° D 72 Jur. 8° D 57 Jur. AA 49 Jur. AA 24 Jur. C 11.16 Th. C 1.17 Jur. 8° D 58.59 Jur. 8° X.68,69 Th. 8° M 236 Th. 8° M 23 Linc. 8° O 30 Linc. 8° D 49 Jur. C 17.1,2,3 4° B 26.61 Linc. 8° M 22 Linc. NE F 1.13</crm:P90_has_value>
+                  <crm:P90_has_value>8° D 58.59 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10578,7 +10577,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D15-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D15-ID">
-                  <crm:P90_has_value>C 5.10 Th. 8° D 36 Jur. 8° Z 412 Th. NE F 9.19 NE F 9.20 8° D 56 Jur. 8° D 55 Jur. 8° D 72 Jur. 8° D 57 Jur. AA 49 Jur. AA 24 Jur. C 11.16 Th. C 1.17 Jur. 8° D 58.59 Jur. 8° X.68,69 Th. 8° M 236 Th. 8° M 23 Linc. 8° O 30 Linc. 8° D 49 Jur. C 17.1,2,3 4° B 26.61 Linc. 8° M 22 Linc. NE F 1.13</crm:P90_has_value>
+                  <crm:P90_has_value>8° X.68,69 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10594,7 +10593,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D16-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D16-ID">
-                  <crm:P90_has_value>C 5.10 Th. 8° D 36 Jur. 8° Z 412 Th. NE F 9.19 NE F 9.20 8° D 56 Jur. 8° D 55 Jur. 8° D 72 Jur. 8° D 57 Jur. AA 49 Jur. AA 24 Jur. C 11.16 Th. C 1.17 Jur. 8° D 58.59 Jur. 8° X.68,69 Th. 8° M 236 Th. 8° M 23 Linc. 8° O 30 Linc. 8° D 49 Jur. C 17.1,2,3 4° B 26.61 Linc. 8° M 22 Linc. NE F 1.13</crm:P90_has_value>
+                  <crm:P90_has_value>8° M 236 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10610,7 +10609,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D17-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D17-ID">
-                  <crm:P90_has_value>C 5.10 Th. 8° D 36 Jur. 8° Z 412 Th. NE F 9.19 NE F 9.20 8° D 56 Jur. 8° D 55 Jur. 8° D 72 Jur. 8° D 57 Jur. AA 49 Jur. AA 24 Jur. C 11.16 Th. C 1.17 Jur. 8° D 58.59 Jur. 8° X.68,69 Th. 8° M 236 Th. 8° M 23 Linc. 8° O 30 Linc. 8° D 49 Jur. C 17.1,2,3 4° B 26.61 Linc. 8° M 22 Linc. NE F 1.13</crm:P90_has_value>
+                  <crm:P90_has_value>8° M 23 Linc.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10626,7 +10625,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D18-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D18-ID">
-                  <crm:P90_has_value>C 5.10 Th. 8° D 36 Jur. 8° Z 412 Th. NE F 9.19 NE F 9.20 8° D 56 Jur. 8° D 55 Jur. 8° D 72 Jur. 8° D 57 Jur. AA 49 Jur. AA 24 Jur. C 11.16 Th. C 1.17 Jur. 8° D 58.59 Jur. 8° X.68,69 Th. 8° M 236 Th. 8° M 23 Linc. 8° O 30 Linc. 8° D 49 Jur. C 17.1,2,3 4° B 26.61 Linc. 8° M 22 Linc. NE F 1.13</crm:P90_has_value>
+                  <crm:P90_has_value>8° O 30 Linc.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10642,7 +10641,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D19-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D19-ID">
-                  <crm:P90_has_value>C 5.10 Th. 8° D 36 Jur. 8° Z 412 Th. NE F 9.19 NE F 9.20 8° D 56 Jur. 8° D 55 Jur. 8° D 72 Jur. 8° D 57 Jur. AA 49 Jur. AA 24 Jur. C 11.16 Th. C 1.17 Jur. 8° D 58.59 Jur. 8° X.68,69 Th. 8° M 236 Th. 8° M 23 Linc. 8° O 30 Linc. 8° D 49 Jur. C 17.1,2,3 4° B 26.61 Linc. 8° M 22 Linc. NE F 1.13</crm:P90_has_value>
+                  <crm:P90_has_value>8° D 49 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10658,7 +10657,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D20-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D20-ID">
-                  <crm:P90_has_value>C 5.10 Th. 8° D 36 Jur. 8° Z 412 Th. NE F 9.19 NE F 9.20 8° D 56 Jur. 8° D 55 Jur. 8° D 72 Jur. 8° D 57 Jur. AA 49 Jur. AA 24 Jur. C 11.16 Th. C 1.17 Jur. 8° D 58.59 Jur. 8° X.68,69 Th. 8° M 236 Th. 8° M 23 Linc. 8° O 30 Linc. 8° D 49 Jur. C 17.1,2,3 4° B 26.61 Linc. 8° M 22 Linc. NE F 1.13</crm:P90_has_value>
+                  <crm:P90_has_value>C 17.1,2,3</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10674,7 +10673,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D23-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D23-ID">
-                  <crm:P90_has_value>C 5.10 Th. 8° D 36 Jur. 8° Z 412 Th. NE F 9.19 NE F 9.20 8° D 56 Jur. 8° D 55 Jur. 8° D 72 Jur. 8° D 57 Jur. AA 49 Jur. AA 24 Jur. C 11.16 Th. C 1.17 Jur. 8° D 58.59 Jur. 8° X.68,69 Th. 8° M 236 Th. 8° M 23 Linc. 8° O 30 Linc. 8° D 49 Jur. C 17.1,2,3 4° B 26.61 Linc. 8° M 22 Linc. NE F 1.13</crm:P90_has_value>
+                  <crm:P90_has_value>4° B 26.61 Linc.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10690,7 +10689,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D25-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D25-ID">
-                  <crm:P90_has_value>C 5.10 Th. 8° D 36 Jur. 8° Z 412 Th. NE F 9.19 NE F 9.20 8° D 56 Jur. 8° D 55 Jur. 8° D 72 Jur. 8° D 57 Jur. AA 49 Jur. AA 24 Jur. C 11.16 Th. C 1.17 Jur. 8° D 58.59 Jur. 8° X.68,69 Th. 8° M 236 Th. 8° M 23 Linc. 8° O 30 Linc. 8° D 49 Jur. C 17.1,2,3 4° B 26.61 Linc. 8° M 22 Linc. NE F 1.13</crm:P90_has_value>
+                  <crm:P90_has_value>8° M 22 Linc.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10706,7 +10705,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D27-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D27-ID">
-                  <crm:P90_has_value>C 5.10 Th. 8° D 36 Jur. 8° Z 412 Th. NE F 9.19 NE F 9.20 8° D 56 Jur. 8° D 55 Jur. 8° D 72 Jur. 8° D 57 Jur. AA 49 Jur. AA 24 Jur. C 11.16 Th. C 1.17 Jur. 8° D 58.59 Jur. 8° X.68,69 Th. 8° M 236 Th. 8° M 23 Linc. 8° O 30 Linc. 8° D 49 Jur. C 17.1,2,3 4° B 26.61 Linc. 8° M 22 Linc. NE F 1.13</crm:P90_has_value>
+                  <crm:P90_has_value>NE F 1.13</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10722,7 +10721,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D28-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D28-ID">
-                  <crm:P90_has_value>8° U 155 Th. 8° C 69,70 Jur. 8° M 19 Linc. 8° C 65,66 &amp;c. Jur. 8° C 87 Jur. 8° C 80 Jur. 8° C 77 Jur. 8° C 78 Jur. 8° C 79 Jur. 8° P 52 Med. 8° 0 36 Linc. B 1.19 Art.</crm:P90_has_value>
+                  <crm:P90_has_value>8° U 155 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10738,7 +10737,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D29-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D29-ID">
-                  <crm:P90_has_value>8° U 155 Th. 8° C 69,70 Jur. 8° M 19 Linc. 8° C 65,66 &amp;c. Jur. 8° C 87 Jur. 8° C 80 Jur. 8° C 77 Jur. 8° C 78 Jur. 8° C 79 Jur. 8° P 52 Med. 8° 0 36 Linc. B 1.19 Art.</crm:P90_has_value>
+                  <crm:P90_has_value>8° C 69,70 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10755,7 +10754,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D31-I2"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D31-ID">
-                  <crm:P90_has_value>8° U 155 Th. 8° C 69,70 Jur. 8° M 19 Linc. 8° C 65,66 &amp;c. Jur. 8° C 87 Jur. 8° C 80 Jur. 8° C 77 Jur. 8° C 78 Jur. 8° C 79 Jur. 8° P 52 Med. 8° 0 36 Linc. B 1.19 Art.</crm:P90_has_value>
+                  <crm:P90_has_value>8° M 19 Linc.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10771,7 +10770,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D32-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D32-ID">
-                  <crm:P90_has_value>8° U 155 Th. 8° C 69,70 Jur. 8° M 19 Linc. 8° C 65,66 &amp;c. Jur. 8° C 87 Jur. 8° C 80 Jur. 8° C 77 Jur. 8° C 78 Jur. 8° C 79 Jur. 8° P 52 Med. 8° 0 36 Linc. B 1.19 Art.</crm:P90_has_value>
+                  <crm:P90_has_value>8° C 65,66 &amp;c. Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10787,7 +10786,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D33-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D33-ID">
-                  <crm:P90_has_value>8° E 23,24 Jur. 8° E 25,26 Jur. 8° E 27 Jur. 8° E 29 Jur. 8° E 28 Jur. C 1.18 Jur. C 10.9 Jur. 8° N 81 Med. FF 58 Th. 8° O 35 Linc. 8° E 33 Jur. 8° E 32 Jur. B 1.19 Art. 8° A 182 Linc.</crm:P90_has_value>
+                  <crm:P90_has_value>8° E 23,24 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10803,7 +10802,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D34-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D34-ID">
-                  <crm:P90_has_value>8° E 23,24 Jur. 8° E 25,26 Jur. 8° E 27 Jur. 8° E 29 Jur. 8° E 28 Jur. C 1.18 Jur. C 10.9 Jur. 8° N 81 Med. FF 58 Th. 8° O 35 Linc. 8° E 33 Jur. 8° E 32 Jur. B 1.19 Art. 8° A 182 Linc.</crm:P90_has_value>
+                  <crm:P90_has_value>8° E 25,26 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10819,7 +10818,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D35-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D35-ID">
-                  <crm:P90_has_value>8° E 23,24 Jur. 8° E 25,26 Jur. 8° E 27 Jur. 8° E 29 Jur. 8° E 28 Jur. C 1.18 Jur. C 10.9 Jur. 8° N 81 Med. FF 58 Th. 8° O 35 Linc. 8° E 33 Jur. 8° E 32 Jur. B 1.19 Art. 8° A 182 Linc.</crm:P90_has_value>
+                  <crm:P90_has_value>8° E 27 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10835,7 +10834,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D36-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D36-ID">
-                  <crm:P90_has_value>8° E 23,24 Jur. 8° E 25,26 Jur. 8° E 27 Jur. 8° E 29 Jur. 8° E 28 Jur. C 1.18 Jur. C 10.9 Jur. 8° N 81 Med. FF 58 Th. 8° O 35 Linc. 8° E 33 Jur. 8° E 32 Jur. B 1.19 Art. 8° A 182 Linc.</crm:P90_has_value>
+                  <crm:P90_has_value>8° E 29 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10851,7 +10850,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D37-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D37-ID">
-                  <crm:P90_has_value>8° E 23,24 Jur. 8° E 25,26 Jur. 8° E 27 Jur. 8° E 29 Jur. 8° E 28 Jur. C 1.18 Jur. C 10.9 Jur. 8° N 81 Med. FF 58 Th. 8° O 35 Linc. 8° E 33 Jur. 8° E 32 Jur. B 1.19 Art. 8° A 182 Linc.</crm:P90_has_value>
+                  <crm:P90_has_value>8° E 28 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10867,7 +10866,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D38-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D38-ID">
-                  <crm:P90_has_value>8° E 23,24 Jur. 8° E 25,26 Jur. 8° E 27 Jur. 8° E 29 Jur. 8° E 28 Jur. C 1.18 Jur. C 10.9 Jur. 8° N 81 Med. FF 58 Th. 8° O 35 Linc. 8° E 33 Jur. 8° E 32 Jur. B 1.19 Art. 8° A 182 Linc.</crm:P90_has_value>
+                  <crm:P90_has_value>C 1.18 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10883,7 +10882,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D39-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D39-ID">
-                  <crm:P90_has_value>8° E 23,24 Jur. 8° E 25,26 Jur. 8° E 27 Jur. 8° E 29 Jur. 8° E 28 Jur. C 1.18 Jur. C 10.9 Jur. 8° N 81 Med. FF 58 Th. 8° O 35 Linc. 8° E 33 Jur. 8° E 32 Jur. B 1.19 Art. 8° A 182 Linc.</crm:P90_has_value>
+                  <crm:P90_has_value>C 10.9 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10899,7 +10898,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D40-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D40-ID">
-                  <crm:P90_has_value>8° E 23,24 Jur. 8° E 25,26 Jur. 8° E 27 Jur. 8° E 29 Jur. 8° E 28 Jur. C 1.18 Jur. C 10.9 Jur. 8° N 81 Med. FF 58 Th. 8° O 35 Linc. 8° E 33 Jur. 8° E 32 Jur. B 1.19 Art. 8° A 182 Linc.</crm:P90_has_value>
+                  <crm:P90_has_value>8° N 81 Med.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10915,7 +10914,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D41-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D41-ID">
-                  <crm:P90_has_value>8° E 23,24 Jur. 8° E 25,26 Jur. 8° E 27 Jur. 8° E 29 Jur. 8° E 28 Jur. C 1.18 Jur. C 10.9 Jur. 8° N 81 Med. FF 58 Th. 8° O 35 Linc. 8° E 33 Jur. 8° E 32 Jur. B 1.19 Art. 8° A 182 Linc.</crm:P90_has_value>
+                  <crm:P90_has_value>FF 58 Th.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10931,7 +10930,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D42-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D42-ID">
-                  <crm:P90_has_value>8° E 23,24 Jur. 8° E 25,26 Jur. 8° E 27 Jur. 8° E 29 Jur. 8° E 28 Jur. C 1.18 Jur. C 10.9 Jur. 8° N 81 Med. FF 58 Th. 8° O 35 Linc. 8° E 33 Jur. 8° E 32 Jur. B 1.19 Art. 8° A 182 Linc.</crm:P90_has_value>
+                  <crm:P90_has_value>8° O 35 Linc.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10947,7 +10946,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D43-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D43-ID">
-                  <crm:P90_has_value>8° E 23,24 Jur. 8° E 25,26 Jur. 8° E 27 Jur. 8° E 29 Jur. 8° E 28 Jur. C 1.18 Jur. C 10.9 Jur. 8° N 81 Med. FF 58 Th. 8° O 35 Linc. 8° E 33 Jur. 8° E 32 Jur. B 1.19 Art. 8° A 182 Linc.</crm:P90_has_value>
+                  <crm:P90_has_value>8° E 33 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10964,7 +10963,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D44-I2"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D44-ID">
-                  <crm:P90_has_value>8° E 23,24 Jur. 8° E 25,26 Jur. 8° E 27 Jur. 8° E 29 Jur. 8° E 28 Jur. C 1.18 Jur. C 10.9 Jur. 8° N 81 Med. FF 58 Th. 8° O 35 Linc. 8° E 33 Jur. 8° E 32 Jur. B 1.19 Art. 8° A 182 Linc.</crm:P90_has_value>
+                  <crm:P90_has_value>8° E 32 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10980,7 +10979,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D45-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D45-ID">
-                  <crm:P90_has_value>8° E 23,24 Jur. 8° E 25,26 Jur. 8° E 27 Jur. 8° E 29 Jur. 8° E 28 Jur. C 1.18 Jur. C 10.9 Jur. 8° N 81 Med. FF 58 Th. 8° O 35 Linc. 8° E 33 Jur. 8° E 32 Jur. B 1.19 Art. 8° A 182 Linc.</crm:P90_has_value>
+                  <crm:P90_has_value>B 1.19 Art.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10996,7 +10995,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D47-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D47-ID">
-                  <crm:P90_has_value>8° E 23,24 Jur. 8° E 25,26 Jur. 8° E 27 Jur. 8° E 29 Jur. 8° E 28 Jur. C 1.18 Jur. C 10.9 Jur. 8° N 81 Med. FF 58 Th. 8° O 35 Linc. 8° E 33 Jur. 8° E 32 Jur. B 1.19 Art. 8° A 182 Linc.</crm:P90_has_value>
+                  <crm:P90_has_value>8° A 182 Linc.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>

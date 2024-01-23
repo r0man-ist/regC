@@ -5999,7 +5999,7 @@
                         <cell>Prof. Jur.</cell>
                     </row>
                 </table></ab>
-            <ab ana="prov"><date type="prov:purchase" ana="prov:when" notBefore="1701"
+            <ab ana="prov"><date type="prov:purchase" ana="prov:when" notBefore="1701-01-01"
                     notAfter="1719-11-09"/>
                 <ab ana="prov"><date type="prov:ID-Assignment" ana="prov:when"
                         notBefore="1719-11-09" notAfter="1720-11-08"/>
