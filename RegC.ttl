@@ -533,6 +533,10 @@
 <https://viaf.org/viaf/155083> a crm:E21_Person ;
     rdfs:label "Makowski, Jan, 1588-1644" .
 
+<https://viaf.org/viaf/175145857877123020157> a crm:E21_Person ;
+    rdfs:label """Hoadly, Benjamin,
+                    1676-1761""" .
+
 <https://viaf.org/viaf/17568960> a crm:E21_Person ;
     rdfs:label "Bradford, Samuel, 1652-1731" .
 
@@ -689,6 +693,9 @@
 
 <https://viaf.org/viaf/44432711> a crm:E21_Person ;
     rdfs:label "Cordemoy, J.-L. de" .
+
+<https://viaf.org/viaf/46771136> a crm:E21_Person ;
+    rdfs:label "Hare, Francis, 1671-1740" .
 
 <https://viaf.org/viaf/46848150> a crm:E21_Person ;
     rdfs:label "Nicolson, William, 1655-1727" .
@@ -1038,9 +1045,14 @@
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID31> a crm:E15_Identifier_Assignment ;
-    crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D31-I1> ;
-    crm:P37_assigned <https:r0man-ist.github.io/regC#D31-I1-ID> ;
+    crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D31-I1>,
+        <https:r0man-ist.github.io/regC#D31-I2> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D31-I1-ID>,
+        <https:r0man-ist.github.io/regC#D31-I2-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ],
+        [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
@@ -1441,11 +1453,16 @@
 <https:r0man-ist.github.io/regC#D31> a prov1:Donation ;
     crm:P22_transferred_title_to <http://viaf.org/viaf/129788129> ;
     crm:P23_transferred_title_from <https://viaf.org/viaf/100189223> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#D31-I1>,
+        <https:r0man-ist.github.io/regC#D31-I2> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D31-I1-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "8Â° M 19 Linc." .
+
+<https:r0man-ist.github.io/regC#D31-I2-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° M 19 Linc." .
 
 <https:r0man-ist.github.io/regC#D32> a prov1:Donation ;
@@ -4908,12 +4925,22 @@
 
 <https:r0man-ist.github.io/regC#P25> a crm:E96_Purchase ;
     crm:P22_transferred_title_to <http://viaf.org/viaf/129788129> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#P25-I1> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
 
+<https:r0man-ist.github.io/regC#P25-I1> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/46771136> ;
+    dcterms1:title "Church-authority vindicated, in a sermon preach'd at Putney, May 5, 1719. : At a visitation of the peculiars of the Most Reverend the Lord Archbishop of Canterbury, before the Right Worshipful Dr. Bettesworth, Dean of the arches, and commissary of those p" ;
+    crm:P48_has_preferred_identifier "8Â° M 19(2) Linc." .
+
 <https:r0man-ist.github.io/regC#P26> a crm:E96_Purchase ;
+    crm:P119_had_sales_price [ a crm:E97_Monetary_Amount ;
+            crm:P180_has_currency "Pound" ;
+            crm:P90_has_value "0-0-6" ] ;
     crm:P22_transferred_title_to <http://viaf.org/viaf/129788129> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#P26-I1> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
@@ -4923,6 +4950,7 @@
 
 <https:r0man-ist.github.io/regC#P27> a crm:E96_Purchase ;
     crm:P22_transferred_title_to <http://viaf.org/viaf/129788129> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#P27-I1> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
@@ -4931,7 +4959,11 @@
     crm:P90_has_value "8Â° M. 19. Linc." .
 
 <https:r0man-ist.github.io/regC#P28> a crm:E96_Purchase ;
+    crm:P119_had_sales_price [ a crm:E97_Monetary_Amount ;
+            crm:P180_has_currency "Pound" ;
+            crm:P90_has_value "0-3-0" ] ;
     crm:P22_transferred_title_to <http://viaf.org/viaf/129788129> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#P28-I1> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1719-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1720-11-08T23:59:59"^^xsd:dateTime ] .
@@ -6107,6 +6139,14 @@
     dcterms1:title "The lives and characters [&c.] of all the Protestant bishops of the Church of England since ... 1559. Vol.1. [in 2 pt. No more publ.]." ;
     crm:P48_has_preferred_identifier "8Â° Z 412 Th." .
 
+<https:r0man-ist.github.io/regC#D31-I1> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/100189223> ;
+    dcterms1:title "The bishop of Oxford's charge to the clergy of his diocese, at his triennial visitation in July, 1719." .
+
+<https:r0man-ist.github.io/regC#D31-I2> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/100189223> ;
+    dcterms1:title "A defence of the late charge deliver'd to the clergy of the diocese of Oxford, July 1719. : In a letter to the said clergy. /" .
+
 <https:r0man-ist.github.io/regC#D32-I1> a prov1:Item ;
     dcterms1:creator <https://viaf.org/viaf/79251462> ;
     dcterms1:title "Antiquitates Britanno-BelgicÃ¦, prÃ¦cipue RomanÃ¦, 3 voll. comprehensÃ¦; quorum i. De Belgio Britannico. ii. De Geta Britannico. iii. De Julii Vitalis epitaphio: quibus accedit Appendix." ;
@@ -6462,6 +6502,21 @@
     dcterms1:title "Dominici Gulielmini ... opera omnia mathematica, hydraulica, medica, et physica." ;
     crm:P48_has_preferred_identifier "CC 1,2 Jur." .
 
+<https:r0man-ist.github.io/regC#P26-I1> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/100189223> ;
+    dcterms1:title "The bishop of Oxford's charge to the clergy of his diocese, at his triennial visitation in July, 1719." ;
+    crm:P48_has_preferred_identifier "8Â° M 19(1) Linc." .
+
+<https:r0man-ist.github.io/regC#P27-I1> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/100189223> ;
+    dcterms1:title "A defence of the late charge deliver'd to the clergy of the diocese of Oxford, July 1719. : In a letter to the said clergy. /" ;
+    crm:P48_has_preferred_identifier "8Â° M 19(4) Linc." .
+
+<https:r0man-ist.github.io/regC#P28-I1> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/175145857877123020157> ;
+    dcterms1:title "An answer to the Reverend Dr. Hare's sermon, intitul'd, Church-authority vindicated: : in which the texts of Scripture relating to this subject are examin'd; the doctrine of sincerity is explain'd and defended; and several other important points are consi" ;
+    crm:P48_has_preferred_identifier "8Â° M 19(3) Linc." .
+
 <https:r0man-ist.github.io/regC#P29-I1> a prov1:Item ;
     dcterms1:creator <https://viaf.org/viaf/84035506> ;
     dcterms1:title "Librorum de re diplomaticaÂ supplementum. : In quo archetypa in his libris pro regulis proposita, ipsÃ¦que regulÃ¦ denuo confirmantur, novisque speciminibus & argumentis asseruntur & illustrantur." .
@@ -6768,11 +6823,6 @@
     rdfs:label "Keill, John",
         "Keill, John, 1671-1721" .
 
-<https://viaf.org/viaf/100189223> a crm:E21_Person,
-        prov1:Donor ;
-    rdfs:label "Potter, John",
-        "Potter, John, 1674-1747" .
-
 <https://viaf.org/viaf/44191542> a prov1:Donor ;
     rdfs:label "Peisley, Anthony" .
 
@@ -6784,6 +6834,11 @@
 
 <https://viaf.org/viaf/39528957> a crm:E21_Person ;
     rdfs:label "Favre, Antoine, 1557-1624" .
+
+<https://viaf.org/viaf/100189223> a crm:E21_Person,
+        prov1:Donor ;
+    rdfs:label "Potter, John",
+        "Potter, John, 1674-1747" .
 
 <https://data.cerl.org/thesaurus/cnp00058554> a crm:E39_Actor ;
     rdfs:label "Fletcher, Stephen" .
