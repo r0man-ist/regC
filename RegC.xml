@@ -8771,8 +8771,8 @@
                         <cell/>
                     </row>
                     <row ana="prov:deposit">
-                        <cell><bibl corresp="#regC-bib-Pope1719">Collection of Poems.
-                                1720.</bibl><bibl corresp="#regC-bib-NewMiscellany1719"/><bibl
+                        <cell>Collection of Poems.
+                            1720.<bibl corresp="#regC-bib-Pope1719"></bibl><bibl corresp="#regC-bib-NewMiscellany1719"/><bibl
                                 corresp="#regC-bib-Tooly1719"/><bibl corresp="#regC-bib-Hughes1720"
                                 /><bibl corresp="#regC-bib-Ward1720"/></cell>
                         <cell>...........</cell>

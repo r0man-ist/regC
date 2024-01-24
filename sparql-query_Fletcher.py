@@ -14,7 +14,6 @@ SELECT ?Item ?ItemTitle ?ItemShelfmark
 WHERE {
     ?s crm:P23_transferred_title_from ?Seller .
     ?s rdf:type crm:E96_Purchase .
-    ?Seller rdfs:label ?SellerLabel .
     ?s crm:P24_transferred_title_of ?Item .
     ?Item dcterms:title ?ItemTitle .
     OPTIONAL { ?Item crm:P48_has_preferred_identifier ?ItemShelfmark }
