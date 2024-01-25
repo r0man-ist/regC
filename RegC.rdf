@@ -7981,31 +7981,16 @@
                </crm:E74_Group>
             </crm:P23_transferred_title_from>
             <crm:P24_transferred_title_of>
-                  <prov:Uncertainty_Assessment>
-                     <prov:has_uncertainty>
-                     <prov:Uncertainty_Value><rdf:value>0.7</rdf:value>
-                     </prov:Uncertainty_Value>
-                     </prov:has_uncertainty> 
-                     <prov:relates_to>
-                        <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep14-I1">
-                           <dcterms:title>Eloisa to Abelard. / Written by Mr. Pope..</dcterms:title>
-                           <dcterms:creator>
-                              <crm:E21_Person rdf:about="https://viaf.org/viaf/61551003">
-                                 <rdfs:label>Pope, Alexander. 1688-1744.</rdfs:label>
-                              </crm:E21_Person>
-                           </dcterms:creator>
-                           <crm:P48_has_preferred_identifier>8° C 84(1) Jur.</crm:P48_has_preferred_identifier>
-                        </prov:Item></prov:relates_to>
-                  </prov:Uncertainty_Assessment>
-               
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep14-I1">
+                  <dcterms:title>Eloisa to Abelard. / Written by Mr. Pope..</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/61551003">
+                        <rdfs:label>Pope, Alexander. 1688-1744.</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>8° C 84(1) Jur.</crm:P48_has_preferred_identifier>
+               </prov:Item>
             </crm:P24_transferred_title_of>
-            
-               
-               <prov:has_uncertainty>
-                  <prov:Uncertainty_Assessment>
-                     <prov:has_value></prov:has_value>
-                     </prov:Uncertainty_Assessment>
-            </porv:has_uncertainty>
             <crm:P24_transferred_title_of>
                <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep14-I2">
                   <dcterms:title>The new miscellany: consisting of poems and translations from Ovid and Horace; with a song, most humbly inscrib'd to an old woman.</dcterms:title>
