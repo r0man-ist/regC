@@ -70,7 +70,29 @@
         </xsl:if>
     </xsl:function>
 
-
+    <!-- Work-ID - Function -->
+    <xsl:function name="prov:addWorkID">
+        <xsl:param name="arg"></xsl:param><xsl:if
+        test="$root//t:listObject/t:object[@xml:id = substring-after($arg, '#')]/t:biblStruct/t:monogr/t:title[@ref]">
+        <dcterms:isVersionOf>
+            <xsl:attribute name="rdf:resource">
+                <xsl:value-of
+                    select="$root//t:listObject/t:object[@xml:id = substring-after($arg, '#')]/t:biblStruct/t:monogr/t:title/@ref"
+                />
+            </xsl:attribute>
+        </dcterms:isVersionOf>
+    </xsl:if></xsl:function>
+    
+    <!-- Work-ID - Function -->
+    <!-- This function calls addTitle, addCreator, addCurrentShelfmark and addWorkID -->
+    <xsl:function name="prov:addItemDetails">
+        <xsl:param name="arg"/>
+            <xsl:copy-of select="prov:addTitle($arg)"/>
+            <xsl:copy-of select="prov:addCreator($arg)"/>
+            <xsl:copy-of select="prov:addCurrentShelfmark($arg)"/>
+            <xsl:copy-of select="prov:addWorkID($arg)"/>
+       
+    </xsl:function>
 
     <!--==============================
     TEMPLATE
@@ -142,6 +164,7 @@
                                     </crm:E39_Actor>
                                 </crm:P23_transferred_title_from>
                             </xsl:if>
+                            
                             <!-- check if there are associated items -->
                             <xsl:if test="./descendant::t:bibl[@corresp]">
                                 <xsl:for-each select="./descendant::t:bibl">
@@ -155,26 +178,10 @@
                                                 />
                                             </xsl:attribute>
                                             
-                                            <!-- Add Title -->
-                                            <xsl:copy-of select="prov:addTitle($item_ID)"/>
+                                            <!-- Add Item Details -->
+                                            <xsl:copy-of select="prov:addItemDetails($item_ID)"/>
+
                                             
-                                            <!-- Add Creator -->
-                                            <xsl:copy-of select="prov:addCreator($item_ID)"/>
-
-                                            <!-- current shelfmark -->
-                                            <xsl:copy-of select="prov:addCurrentShelfmark($item_ID)"/>
-
-                                            <!-- Check if authority-statement for work exists -->
-                                            <xsl:if
-                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:title[@ref]">
-                                                <dcterms:isVersionOf>
-                                                  <xsl:attribute name="rdf:resource">
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:title/@ref"
-                                                  />
-                                                  </xsl:attribute>
-                                                </dcterms:isVersionOf>
-                                            </xsl:if>
                                         </prov:Item>
                                     </crm:P24_transferred_title_of>
                                 </xsl:for-each>
@@ -358,26 +365,9 @@
                                                 />
                                             </xsl:attribute>
                                             
-                                            <!-- Add Title -->
-                                            <xsl:copy-of select="prov:addTitle($item_ID)"/>
+                                            <!-- Add Item Details -->
+                                            <xsl:copy-of select="prov:addItemDetails($item_ID)"/>
                                             
-                                            <!-- Add Creator -->
-                                            <xsl:copy-of select="prov:addCreator($item_ID)"/>
-                                            
-                                            <!-- current shelfmark -->
-                                            <xsl:copy-of select="prov:addCurrentShelfmark($item_ID)"/>
-
-                                            <!-- Check if authority-statement for work exists -->
-                                            <xsl:if
-                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:title[@ref]">
-                                                <dcterms:isVersionOf>
-                                                  <xsl:attribute name="rdf:resource">
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:title/@ref"
-                                                  />
-                                                  </xsl:attribute>
-                                                </dcterms:isVersionOf>
-                                            </xsl:if>
                                         </prov:Item>
                                     </crm:P140_assigned_attribute_to>
 
@@ -440,29 +430,10 @@
                                                   select="concat('https:r0man-ist.github.io/regC#Dep', $count_deposit, '-I', $count_item)"
                                                 />
                                             </xsl:attribute>
-                                            <dcterms:title>
-                                                <xsl:value-of
-                                                  select="normalize-space(//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:title)"
-                                                />
-                                            </dcterms:title>
-
-                                            <!-- Add Creator -->
-                                            <xsl:copy-of select="prov:addCreator($item_ID)"/>
-
-                                            <!-- current shelfmark -->
-                                            <xsl:copy-of select="prov:addCurrentShelfmark($item_ID)"/>
-
-                                            <!-- Check if authority-statement for work exists -->
-                                            <xsl:if
-                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:ref">
-                                                <prov:instance_of rdf:resource="testwork-URI">
-                                                  <xsl:attribute name="rdf:resource">
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:ref"
-                                                  />
-                                                  </xsl:attribute>
-                                                </prov:instance_of>
-                                            </xsl:if>
+                                            
+                                            <!-- Add Item Details -->
+                                            <xsl:copy-of select="prov:addItemDetails($item_ID)"/>
+                                            
                                         </prov:Item>
                                     </crm:P24_transferred_title_of>
                                 </xsl:for-each>
@@ -633,29 +604,10 @@
                                                   select="concat('https:r0man-ist.github.io/regC#D', $count_donation, '-I', $count_item)"
                                                 />
                                             </xsl:attribute>
-                                            <dcterms:title>
-                                                <xsl:value-of
-                                                  select="normalize-space(//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:title)"
-                                                />
-                                            </dcterms:title>
-
-                                            <!-- Add Creator -->
-                                            <xsl:copy-of select="prov:addCreator($item_ID)"/>
-
-                                            <!-- current shelfmark -->
-                                            <xsl:copy-of select="prov:addCurrentShelfmark($item_ID)"/>
-
-                                            <!-- Check if authority-statement for work exists -->
-                                            <xsl:if
-                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:ref">
-                                                <prov:instance_of rdf:resource="testwork-URI">
-                                                  <xsl:attribute name="rdf:resource">
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:ref"
-                                                  />
-                                                  </xsl:attribute>
-                                                </prov:instance_of>
-                                            </xsl:if>
+                                            
+                                            <!-- Add Item Details -->
+                                            <xsl:copy-of select="prov:addItemDetails($item_ID)"/>
+                                            
                                         </prov:Item>
                                     </crm:P24_transferred_title_of>
                                 </xsl:for-each>
@@ -811,28 +763,10 @@
                                                   select="concat('https:r0man-ist.github.io/regC#S', $count_sale, '-I', $count_item)"
                                                 />
                                             </xsl:attribute>
-                                            <dcterms:title>
-                                                <xsl:value-of
-                                                  select="normalize-space(//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:title)"
-                                                />
-                                            </dcterms:title>
-                                            <!-- Add Creator -->
-                                            <xsl:copy-of select="prov:addCreator($item_ID)"/>
-
-                                            <!-- current shelfmark -->
-                                            <xsl:copy-of select="prov:addCurrentShelfmark($item_ID)"/>
-
-                                            <!-- Check if authority-statement for work exists -->
-                                            <xsl:if
-                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:ref">
-                                                <prov:instance_of rdf:resource="testwork-URI">
-                                                  <xsl:attribute name="rdf:resource">
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:ref"
-                                                  />
-                                                  </xsl:attribute>
-                                                </prov:instance_of>
-                                            </xsl:if>
+                                            
+                                            <!-- Add Item Details -->
+                                            <xsl:copy-of select="prov:addItemDetails($item_ID)"/>
+                                            
                                         </prov:Item>
                                     </crm:P24_transferred_title_of>
                                     <!-- Price -->
@@ -929,28 +863,10 @@
                                                   select="concat('https:r0man-ist.github.io/regC#Sub', $count_subscription, '-I', $count_item)"
                                                 />
                                             </xsl:attribute>
-                                            <dcterms:title>
-                                                <xsl:value-of
-                                                  select="normalize-space(//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:title)"
-                                                />
-                                            </dcterms:title>
-                                            <!-- Add Creator -->
-                                            <xsl:copy-of select="prov:addCreator($item_ID)"/>
-
-                                            <!-- current shelfmark -->
-                                            <xsl:copy-of select="prov:addCurrentShelfmark($item_ID)"/>
-
-                                            <!-- Check if authority-statement for work exists -->
-                                            <xsl:if
-                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:ref">
-                                                <prov:instance_of rdf:resource="testwork-URI">
-                                                  <xsl:attribute name="rdf:resource">
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:ref"
-                                                  />
-                                                  </xsl:attribute>
-                                                </prov:instance_of>
-                                            </xsl:if>
+                                            
+                                            <!-- Add Item Details -->
+                                            <xsl:copy-of select="prov:addItemDetails($item_ID)"/>
+                                            
                                         </prov:Item>
                                     </crm:P67_refers_to>
                                     <!-- Price -->

@@ -7668,6 +7668,7 @@
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° C 87 Jur.</crm:P48_has_preferred_identifier>
+                  <dcterms:isVersionOf rdf:resource="https://viaf.org/viaf/3247151474820400490002"/>
                </prov:Item>
             </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
@@ -7995,6 +7996,7 @@
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° C 84(1) Jur.</crm:P48_has_preferred_identifier>
+                  <dcterms:isVersionOf rdf:resource="https://viaf.org/viaf/181802119"/>
                </prov:Item>
             </crm:P24_transferred_title_of>
             <crm:P24_transferred_title_of>
@@ -8065,6 +8067,7 @@
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° C 83(1) Jur.</crm:P48_has_preferred_identifier>
+                  <dcterms:isVersionOf rdf:resource="https://viaf.org/viaf/316551408"/>
                </prov:Item>
             </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
@@ -8469,6 +8472,7 @@
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° A 180,181 Linc.</crm:P48_has_preferred_identifier>
+                  <dcterms:isVersionOf rdf:resource="https://viaf.org/viaf/219961518"/>
                </prov:Item>
             </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
@@ -8563,6 +8567,7 @@
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° E 36 Jur.</crm:P48_has_preferred_identifier>
+                  <dcterms:isVersionOf rdf:resource="https://viaf.org/viaf/178574355"/>
                </prov:Item>
             </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
@@ -8625,6 +8630,7 @@
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° E 38 Jur.</crm:P48_has_preferred_identifier>
+                  <dcterms:isVersionOf rdf:resource="https://viaf.org/viaf/3247151474820400490002"/>
                </prov:Item>
             </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
@@ -9818,6 +9824,7 @@
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° C 69 Jur.</crm:P48_has_preferred_identifier>
+                  <dcterms:isVersionOf rdf:resource="https://viaf.org/viaf/182943440"/>
                </prov:Item>
             </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
@@ -9909,6 +9916,7 @@
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° C 65-68 Jur.</crm:P48_has_preferred_identifier>
+                  <dcterms:isVersionOf rdf:resource="https://viaf.org/viaf/186268009"/>
                </prov:Item>
             </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
@@ -11027,6 +11035,7 @@
                         <rdfs:label>Prideaux, Humphrey, 1648-1724.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
+                  <dcterms:isVersionOf rdf:resource="https://viaf.org/viaf/7722165326352216290008"/>
                </prov:Item>
             </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
