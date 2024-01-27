@@ -8,11 +8,19 @@
     <xsl:output method="xml" indent="yes" encoding="UTF-8"/>
 
 
-    <!--================================-->
-    <!--FUNCTIONS-->
-    <!--================================-->
+    <!-- ================================ -->
+    <!-- ================================ -->
+    <!--           FUNCTIONS              -->
+    <!-- ================================ -->
+    <!-- ================================ -->
+
     <!-- root node as global variable -->
     <xsl:variable name="root" select="/"/>
+
+
+    <!-- ================================ -->
+    <!--      Item-specific functions     -->
+    <!-- ================================ -->
 
     <!-- Creator - Function-->
     <xsl:function name="prov:addCreator">
@@ -57,7 +65,6 @@
     </xsl:function>
 
     <!-- Current_Shelfmark - Function -->
-
     <xsl:function name="prov:addCurrentShelfmark">
         <xsl:param name="arg"/>
         <xsl:if
@@ -72,40 +79,56 @@
 
     <!-- Work-ID - Function -->
     <xsl:function name="prov:addWorkID">
-        <xsl:param name="arg"></xsl:param><xsl:if
-        test="$root//t:listObject/t:object[@xml:id = substring-after($arg, '#')]/t:biblStruct/t:monogr/t:title[@ref]">
-        <dcterms:isVersionOf>
-            <xsl:attribute name="rdf:resource">
-                <xsl:value-of
-                    select="$root//t:listObject/t:object[@xml:id = substring-after($arg, '#')]/t:biblStruct/t:monogr/t:title/@ref"
-                />
-            </xsl:attribute>
-        </dcterms:isVersionOf>
-    </xsl:if></xsl:function>
-    
-    <!-- Work-ID - Function -->
+        <xsl:param name="arg"/>
+        <xsl:if
+            test="$root//t:listObject/t:object[@xml:id = substring-after($arg, '#')]/t:biblStruct/t:monogr/t:title[@ref]">
+            <dcterms:isVersionOf>
+                <xsl:attribute name="rdf:resource">
+                    <xsl:value-of
+                        select="$root//t:listObject/t:object[@xml:id = substring-after($arg, '#')]/t:biblStruct/t:monogr/t:title/@ref"
+                    />
+                </xsl:attribute>
+            </dcterms:isVersionOf>
+        </xsl:if>
+    </xsl:function>
+
+    <!-- Item-Details - Function -->
     <!-- This function calls addTitle, addCreator, addCurrentShelfmark and addWorkID -->
     <xsl:function name="prov:addItemDetails">
         <xsl:param name="arg"/>
-            <xsl:copy-of select="prov:addTitle($arg)"/>
-            <xsl:copy-of select="prov:addCreator($arg)"/>
-            <xsl:copy-of select="prov:addCurrentShelfmark($arg)"/>
-            <xsl:copy-of select="prov:addWorkID($arg)"/>
-       
+        <xsl:copy-of select="prov:addTitle($arg)"/>
+        <xsl:copy-of select="prov:addCreator($arg)"/>
+        <xsl:copy-of select="prov:addCurrentShelfmark($arg)"/>
+        <xsl:copy-of select="prov:addWorkID($arg)"/>
     </xsl:function>
 
-    <!--==============================
-    TEMPLATE
-    ==============================-->
+    <!-- ================================ -->
+    <!--      ID Assignment function      -->
+    <!-- ================================ -->
+
+
+
+
+
+
+
+
+    <!-- ================================ -->
+    <!-- ================================ -->
+    <!--           TEMPLATE               -->
+    <!-- ================================ -->
+    <!-- ================================ -->
+
     <xsl:template match="/">
-
-
-
         <rdf:RDF>
             <crm:E31_Document>
                 <xsl:attribute name="rdf:about">https:r0man-ist.github.io/regC</xsl:attribute>
 
-                <!-- purchases -->
+
+
+     <!-- ================================ -->
+     <!--            Purchases             -->
+     <!-- ================================ -->                
                 <xsl:for-each select="//t:row[@ana = 'prov:purchase']">
                     <xsl:variable name="count_purchase" select="position()"/>
                     <crm:P70_documents>
@@ -164,7 +187,7 @@
                                     </crm:E39_Actor>
                                 </crm:P23_transferred_title_from>
                             </xsl:if>
-                            
+
                             <!-- check if there are associated items -->
                             <xsl:if test="./descendant::t:bibl[@corresp]">
                                 <xsl:for-each select="./descendant::t:bibl">
@@ -177,11 +200,11 @@
                                                   select="concat('https:r0man-ist.github.io/regC#P', $count_purchase, '-I', $count_item)"
                                                 />
                                             </xsl:attribute>
-                                            
+
                                             <!-- Add Item Details -->
                                             <xsl:copy-of select="prov:addItemDetails($item_ID)"/>
 
-                                            
+
                                         </prov:Item>
                                     </crm:P24_transferred_title_of>
                                 </xsl:for-each>
@@ -307,10 +330,10 @@
                     </xsl:if>
                 </xsl:for-each>
 
-                <!-- End loop Purchases -->
 
-                <!-- MOVE/CHANGE-ID -->
-
+<!-- ================================ -->
+<!--         MOVE/Change-ID           -->
+<!-- ================================ -->
                 <xsl:for-each select="//t:row[@ana = 'prov:move-changeId']">
                     <xsl:variable name="count_move" select="position()"/>
                     <crm:P70_documents>
@@ -364,10 +387,10 @@
                                                   select="concat('https:r0man-ist.github.io/regC#M', $count_move, '-I', $count_item)"
                                                 />
                                             </xsl:attribute>
-                                            
+
                                             <!-- Add Item Details -->
                                             <xsl:copy-of select="prov:addItemDetails($item_ID)"/>
-                                            
+
                                         </prov:Item>
                                     </crm:P140_assigned_attribute_to>
 
@@ -393,9 +416,12 @@
                         </crm:E15_Identifier_Assignment>
                     </crm:P70_documents>
                 </xsl:for-each>
-                <!-- End loop Move-Change-ID -->
 
-                <!-- Deposit -->
+
+
+<!-- ================================ -->
+<!--            DEPOSITS             -->
+<!-- ================================ -->
                 <xsl:for-each select="//t:row[@ana = 'prov:deposit']">
                     <xsl:variable name="count_deposit" select="position()"/>
                     <crm:P70_documents>
@@ -430,10 +456,10 @@
                                                   select="concat('https:r0man-ist.github.io/regC#Dep', $count_deposit, '-I', $count_item)"
                                                 />
                                             </xsl:attribute>
-                                            
+
                                             <!-- Add Item Details -->
                                             <xsl:copy-of select="prov:addItemDetails($item_ID)"/>
-                                            
+
                                         </prov:Item>
                                     </crm:P24_transferred_title_of>
                                 </xsl:for-each>
@@ -516,11 +542,13 @@
                         </crm:P70_documents>
                     </xsl:if>
                 </xsl:for-each>
-                <!-- End loop Deposit -->
 
 
 
-                <!-- Donation -->
+
+<!-- ================================ -->
+<!--            DONATIONS             -->
+<!-- ================================ -->
                 <xsl:for-each select="//t:row[@ana = 'prov:donation']">
                     <xsl:variable name="count_donation" select="position()"/>
                     <crm:P70_documents>
@@ -604,10 +632,10 @@
                                                   select="concat('https:r0man-ist.github.io/regC#D', $count_donation, '-I', $count_item)"
                                                 />
                                             </xsl:attribute>
-                                            
+
                                             <!-- Add Item Details -->
                                             <xsl:copy-of select="prov:addItemDetails($item_ID)"/>
-                                            
+
                                         </prov:Item>
                                     </crm:P24_transferred_title_of>
                                 </xsl:for-each>
@@ -691,9 +719,11 @@
                     </xsl:if>
                 </xsl:for-each>
 
-                <!-- End loop Donation -->
+     
 
-                <!-- sale -->
+<!-- ================================ -->
+<!--             SALES                -->
+<!-- ================================ -->
                 <xsl:for-each select="//t:row[@ana = 'prov:sold']">
                     <xsl:variable name="count_sale" select="position()"/>
                     <crm:P70_documents>
@@ -763,10 +793,10 @@
                                                   select="concat('https:r0man-ist.github.io/regC#S', $count_sale, '-I', $count_item)"
                                                 />
                                             </xsl:attribute>
-                                            
+
                                             <!-- Add Item Details -->
                                             <xsl:copy-of select="prov:addItemDetails($item_ID)"/>
-                                            
+
                                         </prov:Item>
                                     </crm:P24_transferred_title_of>
                                     <!-- Price -->
@@ -830,9 +860,11 @@
                         </crm:E96_Purchase>
                     </crm:P70_documents>
                 </xsl:for-each>
-                <!-- end loop sales -->
+ 
 
-                <!-- Subscription -->
+<!-- ================================ -->
+<!--          SUBSCRIPTIONS           -->
+<!-- ================================ -->
                 <xsl:for-each select="//t:row[@ana = 'prov:subscription']">
                     <xsl:variable name="count_subscription" select="position()"/>
                     <crm:P70_documents>
@@ -863,10 +895,10 @@
                                                   select="concat('https:r0man-ist.github.io/regC#Sub', $count_subscription, '-I', $count_item)"
                                                 />
                                             </xsl:attribute>
-                                            
+
                                             <!-- Add Item Details -->
                                             <xsl:copy-of select="prov:addItemDetails($item_ID)"/>
-                                            
+
                                         </prov:Item>
                                     </crm:P67_refers_to>
                                     <!-- Price -->
@@ -907,6 +939,9 @@
                         </prov:Subscription>
                     </crm:P70_documents>
                 </xsl:for-each>
+
+
+
 
             </crm:E31_Document>
         </rdf:RDF>
