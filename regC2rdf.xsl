@@ -31,7 +31,7 @@
                             </xsl:attribute>
                             <!-- buyer -->
                             <crm:P22_transferred_title_to>
-                                <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+                                <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                                     <rdfs:label>Bodleian Library</rdfs:label>
                                 </crm:E74_Group>
                             </crm:P22_transferred_title_to>
@@ -419,7 +419,7 @@
                             </xsl:attribute>
                             <!-- acquirer -->
                             <crm:P22_transferred_title_to>
-                                <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+                                <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                                     <rdfs:label>Bodleian Library</rdfs:label>
                                 </crm:E74_Group>
                             </crm:P22_transferred_title_to>
@@ -592,7 +592,7 @@
                             </xsl:attribute>
                             <!-- acquirer -->
                             <crm:P22_transferred_title_to>
-                                <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+                                <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                                     <rdfs:label>Bodleian Library</rdfs:label>
                                 </crm:E74_Group>
                             </crm:P22_transferred_title_to>
@@ -813,7 +813,7 @@
                             </xsl:attribute>
                             <!-- seller -->
                             <crm:P23_transferred_title_from>
-                                <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+                                <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                                     <rdfs:label>Bodleian Library</rdfs:label>
                                 </crm:E74_Group>
                             </crm:P23_transferred_title_from>
@@ -1000,7 +1000,7 @@
                             </xsl:attribute>
                             <!-- subscriber -->
                             <crm:P14_carried_out_by>
-                                <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+                                <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                                     <rdfs:label>Bodleian Library</rdfs:label>
                                 </crm:E74_Group>
                             </crm:P14_carried_out_by>

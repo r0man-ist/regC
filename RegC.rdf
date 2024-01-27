@@ -9,7 +9,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P1">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -46,7 +46,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P2">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -78,7 +78,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P3">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -110,7 +110,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P4">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -159,7 +159,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P5">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -192,7 +192,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P6">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -225,7 +225,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P7">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -261,7 +261,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P8">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -298,7 +298,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P9">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -330,7 +330,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P10">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -367,7 +367,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P11">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -405,7 +405,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P12">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -443,7 +443,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P13">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -479,7 +479,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P14">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -517,7 +517,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P15">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -554,7 +554,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P16">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -591,7 +591,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P17">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -628,7 +628,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P18">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -665,7 +665,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P19">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -702,7 +702,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P20">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -739,7 +739,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P21">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -776,7 +776,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P22">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -813,7 +813,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P23">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -850,7 +850,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P24">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -883,7 +883,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P25">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -909,7 +909,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P26">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -941,7 +941,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P27">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -967,7 +967,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P28">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1000,7 +1000,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P29">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1031,7 +1031,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P30">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1063,7 +1063,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P31">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1095,7 +1095,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P32">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1127,7 +1127,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P33">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1142,7 +1142,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P34">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1157,7 +1157,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P35">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1189,7 +1189,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P36">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1221,7 +1221,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P37">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1254,7 +1254,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P38">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1287,7 +1287,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P39">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1315,7 +1315,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P40">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1347,7 +1347,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P41">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1379,7 +1379,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P42">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1406,7 +1406,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P43">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1439,7 +1439,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P44">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1472,7 +1472,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P45">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1505,7 +1505,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P46">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1538,7 +1538,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P47">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1571,7 +1571,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P48">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1604,7 +1604,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P49">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1636,7 +1636,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P50">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1669,7 +1669,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P51">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1703,7 +1703,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P52">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1736,7 +1736,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P53">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1768,7 +1768,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P54">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1783,7 +1783,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P55">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1810,7 +1810,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P56">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1842,7 +1842,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P57">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1874,7 +1874,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P58">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1906,7 +1906,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P59">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1938,7 +1938,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P60">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1970,7 +1970,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P61">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -1985,7 +1985,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P62">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2011,7 +2011,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P63">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2026,7 +2026,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P64">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2041,7 +2041,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P65">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2056,7 +2056,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P66">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2083,7 +2083,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P67">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2110,7 +2110,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P68">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2125,7 +2125,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P69">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2151,7 +2151,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P70">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2177,7 +2177,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P71">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2194,7 +2194,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P72">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2221,7 +2221,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P73">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2254,7 +2254,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P74">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2269,7 +2269,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P75">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2284,7 +2284,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P76">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2316,7 +2316,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P77">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2348,7 +2348,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P78">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2382,7 +2382,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P79">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2415,7 +2415,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P80">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2448,7 +2448,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P81">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2482,7 +2482,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P82">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2514,7 +2514,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P83">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2546,7 +2546,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P84">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2578,7 +2578,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P85">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2611,7 +2611,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P86">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2638,7 +2638,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P87">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2675,7 +2675,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P88">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2695,7 +2695,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P89">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2715,7 +2715,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P90">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2735,7 +2735,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P91">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2772,7 +2772,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P92">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2792,7 +2792,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P93">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2812,7 +2812,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P94">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2832,7 +2832,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P95">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2852,7 +2852,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P96">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2891,7 +2891,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P97">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2928,7 +2928,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P98">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2948,7 +2948,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P99">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2968,7 +2968,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P100">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -2988,7 +2988,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P101">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -3025,7 +3025,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P102">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -3062,7 +3062,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P103">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -3100,7 +3100,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P104">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -3138,7 +3138,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P105">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -3175,7 +3175,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P106">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -3213,7 +3213,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P107">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -3233,7 +3233,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P108">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -3253,7 +3253,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P109">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -3273,7 +3273,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P110">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -3293,7 +3293,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P111">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -3313,7 +3313,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P112">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -3333,7 +3333,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P113">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -3353,7 +3353,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P114">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -3391,7 +3391,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P115">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -3428,7 +3428,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P116">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -3465,7 +3465,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P117">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -3502,7 +3502,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P118">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -3539,7 +3539,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P119">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -3559,7 +3559,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P120">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -3579,7 +3579,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P121">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -3616,7 +3616,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P122">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -3636,7 +3636,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P123">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -3656,7 +3656,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P124">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -3693,7 +3693,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P125">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -3713,7 +3713,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P126">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -3733,7 +3733,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P127">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -7644,7 +7644,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep1">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -7675,7 +7675,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep2">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -7706,7 +7706,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep3">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -7737,7 +7737,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep4">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -7757,7 +7757,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep5">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -7788,7 +7788,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep6">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -7808,7 +7808,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep7">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -7828,7 +7828,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep8">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -7848,7 +7848,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep9">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -7868,7 +7868,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep10">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -7888,7 +7888,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep11">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -7908,7 +7908,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep12">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -7939,7 +7939,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep13">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -7971,7 +7971,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep14">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -8041,7 +8041,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep15">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -8072,7 +8072,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep16">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -8103,7 +8103,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep17">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -8134,7 +8134,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep18">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -8160,7 +8160,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep19">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -8196,7 +8196,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep20">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -8227,7 +8227,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep21">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -8259,7 +8259,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep22">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -8291,7 +8291,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep23">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -8311,7 +8311,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep24">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -8331,7 +8331,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep25">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -8351,7 +8351,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep26">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -8382,7 +8382,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep27">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -8413,7 +8413,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep28">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -8444,7 +8444,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep29">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -8476,7 +8476,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep30">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -8508,7 +8508,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep31">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -8539,7 +8539,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep32">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -8570,7 +8570,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep33">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -8601,7 +8601,7 @@
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep34">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9149,7 +9149,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D1">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9169,7 +9169,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D2">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9189,7 +9189,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D3">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9220,7 +9220,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D4">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9240,7 +9240,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D5">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9260,7 +9260,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D6">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9275,7 +9275,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D7">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9290,7 +9290,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D8">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9305,7 +9305,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D9">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9336,7 +9336,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D10">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9356,7 +9356,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D11">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9376,7 +9376,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D12">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9407,7 +9407,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D13">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9427,7 +9427,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D14">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9447,7 +9447,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D15">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9478,7 +9478,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D16">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9509,7 +9509,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D17">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9535,7 +9535,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D18">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9550,7 +9550,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D19">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9581,7 +9581,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D20">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9601,7 +9601,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D21">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9621,7 +9621,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D22">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9641,7 +9641,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D23">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9672,7 +9672,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D24">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9703,7 +9703,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D25">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9734,7 +9734,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D26">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9754,7 +9754,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D27">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9774,7 +9774,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D28">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9794,7 +9794,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D29">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9825,7 +9825,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D30">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9845,7 +9845,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D31">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9885,7 +9885,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D32">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9916,7 +9916,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D33">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9947,7 +9947,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D34">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -9973,7 +9973,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D35">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -10005,7 +10005,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D36">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -10037,7 +10037,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D37">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -10069,7 +10069,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D38">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -10100,7 +10100,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D39">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -10125,7 +10125,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D40">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -10156,7 +10156,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D41">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -10187,7 +10187,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D42">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -10218,7 +10218,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D43">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -10238,7 +10238,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D44">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -10280,7 +10280,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D45">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -10300,7 +10300,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D46">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -10320,7 +10320,7 @@
       <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D47">
             <crm:P22_transferred_title_to>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
@@ -11009,7 +11009,7 @@
       <crm:P70_documents>
          <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#S1">
             <crm:P23_transferred_title_from>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P23_transferred_title_from>
@@ -11034,7 +11034,7 @@
       <crm:P70_documents>
          <prov:Subscription rdf:about="https:r0man-ist.github.io/regC#Sub1">
             <crm:P14_carried_out_by>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P14_carried_out_by>
@@ -11065,7 +11065,7 @@
       <crm:P70_documents>
          <prov:Subscription rdf:about="https:r0man-ist.github.io/regC#Sub2">
             <crm:P14_carried_out_by>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P14_carried_out_by>
@@ -11092,7 +11092,7 @@
       <crm:P70_documents>
          <prov:Subscription rdf:about="https:r0man-ist.github.io/regC#Sub3">
             <crm:P14_carried_out_by>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P14_carried_out_by>
@@ -11125,7 +11125,7 @@
       <crm:P70_documents>
          <prov:Subscription rdf:about="https:r0man-ist.github.io/regC#Sub4">
             <crm:P14_carried_out_by>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P14_carried_out_by>
@@ -11140,7 +11140,7 @@
       <crm:P70_documents>
          <prov:Subscription rdf:about="https:r0man-ist.github.io/regC#Sub5">
             <crm:P14_carried_out_by>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P14_carried_out_by>
@@ -11173,7 +11173,7 @@
       <crm:P70_documents>
          <prov:Subscription rdf:about="https:r0man-ist.github.io/regC#Sub6">
             <crm:P14_carried_out_by>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P14_carried_out_by>
@@ -11204,7 +11204,7 @@
       <crm:P70_documents>
          <prov:Subscription rdf:about="https:r0man-ist.github.io/regC#Sub7">
             <crm:P14_carried_out_by>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P14_carried_out_by>
@@ -11219,7 +11219,7 @@
       <crm:P70_documents>
          <prov:Subscription rdf:about="https:r0man-ist.github.io/regC#Sub8">
             <crm:P14_carried_out_by>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P14_carried_out_by>
@@ -11234,7 +11234,7 @@
       <crm:P70_documents>
          <prov:Subscription rdf:about="https:r0man-ist.github.io/regC#Sub9">
             <crm:P14_carried_out_by>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P14_carried_out_by>
@@ -11249,7 +11249,7 @@
       <crm:P70_documents>
          <prov:Subscription rdf:about="https:r0man-ist.github.io/regC#Sub10">
             <crm:P14_carried_out_by>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P14_carried_out_by>
@@ -11280,7 +11280,7 @@
       <crm:P70_documents>
          <prov:Subscription rdf:about="https:r0man-ist.github.io/regC#Sub11">
             <crm:P14_carried_out_by>
-               <crm:E74_Group rdf:about="http://viaf.org/viaf/129788129">
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P14_carried_out_by>
