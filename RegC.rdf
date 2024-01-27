@@ -5679,6 +5679,7 @@
             <crm:P140_assigned_attribute_to>
                <prov:Item rdf:about="https:r0man-ist.github.io/regC#M8-I1">
                   <dcterms:title>Salui Sclani ... in librum primum Aphorismorum Hippocratis commentaria</dcterms:title>
+                  <dcterms:creator>Sclanus, Salvus</dcterms:creator>
                   <crm:P48_has_preferred_identifier>4° F 15(3) Med.</crm:P48_has_preferred_identifier>
                </prov:Item>
             </crm:P140_assigned_attribute_to>
@@ -5819,6 +5820,7 @@
             <crm:P140_assigned_attribute_to>
                <prov:Item rdf:about="https:r0man-ist.github.io/regC#M13-I1">
                   <dcterms:title>Disputationes theologicæ et commentaria in secundum librum Sententiarum Scoti, a 28 vsque ad 42.</dcterms:title>
+                  <dcterms:creator>Herrera, Franciscus de</dcterms:creator>
                   <crm:P48_has_preferred_identifier>H 5.11 Th.</crm:P48_has_preferred_identifier>
                </prov:Item>
             </crm:P140_assigned_attribute_to>
@@ -7257,6 +7259,7 @@
             <crm:P140_assigned_attribute_to>
                <prov:Item rdf:about="https:r0man-ist.github.io/regC#M60-I1">
                   <dcterms:title>Prima (-Tertia) pars Institutions confessariorum et pœnitentium peregrinæ. In hac ed. ab autore expurgata &amp; aucta.</dcterms:title>
+                  <dcterms:creator>Megalius, Marcellus.</dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 20-22 Jur.</crm:P48_has_preferred_identifier>
                </prov:Item>
             </crm:P140_assigned_attribute_to>
@@ -7404,6 +7407,7 @@
             <crm:P140_assigned_attribute_to>
                <prov:Item rdf:about="https:r0man-ist.github.io/regC#M67-I1">
                   <dcterms:title>Pharmacopoea Amstelredamensis.</dcterms:title>
+                  <dcterms:creator>Amsterdam coll. med.</dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 17(1) Jur.</crm:P48_has_preferred_identifier>
                   <dcterms:isVersionOf rdf:resource="https://viaf.org/viaf/54156131064058312719"/>
                </prov:Item>

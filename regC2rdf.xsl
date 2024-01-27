@@ -361,36 +361,9 @@
                                             <!-- Add Title -->
                                             <xsl:copy-of select="prov:addTitle($item_ID)"/>
                                             
-                                            <!-- Creator -->
-
-                                            <xsl:if
-                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
-                                                <dcterms:creator>
-                                                  <xsl:choose>
-                                                  <xsl:when
-                                                  test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
-                                                  <crm:E21_Person>
-                                                  <xsl:attribute name="rdf:about">
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author/@ref"
-                                                  />
-                                                  </xsl:attribute>
-                                                  <rdfs:label>
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                  />
-                                                  </rdfs:label>
-                                                  </crm:E21_Person>
-                                                  </xsl:when>
-                                                  <xsl:otherwise>
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                  />
-                                                  </xsl:otherwise>
-                                                  </xsl:choose>
-                                                </dcterms:creator>
-                                            </xsl:if>
-
+                                            <!-- Add Creator -->
+                                            <xsl:copy-of select="prov:addCreator($item_ID)"/>
+                                            
                                             <!-- current shelfmark -->
                                             <xsl:copy-of select="prov:addCurrentShelfmark($item_ID)"/>
 
