@@ -117,6 +117,7 @@
             <crm:P24_transferred_title_of>
                <prov:Item rdf:about="https:r0man-ist.github.io/regC#P4-I1">
                   <dcterms:title>Phosphorus orthodoxæ fidei veterum Cabbalistarum seu Testimonia de sacro sancta Trinitate et Messia Deo et Homine, ex pervetusto libro Sohar deprompta, quæ nunc primum Lat. reddita ed. A. Norrelius</dcterms:title>
+                  <dcterms:creator>Zohar</dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° M 23(2) Linc.</crm:P48_has_preferred_identifier>
                </prov:Item>
             </crm:P24_transferred_title_of>
@@ -310,6 +311,7 @@
             <crm:P24_transferred_title_of>
                <prov:Item rdf:about="https:r0man-ist.github.io/regC#P9-I1">
                   <dcterms:title>Epitome generalium redemptionū captiuorum, quæ a fratribus Ordinis S.mæ Trinitatis sunt factæ. [With] Additionis liber tertius.</dcterms:title>
+                  <dcterms:creator>Bernardinus de s. Antonio frater.</dcterms:creator>
                   <crm:P48_has_preferred_identifier>FF 34 Th.</crm:P48_has_preferred_identifier>
                </prov:Item>
             </crm:P24_transferred_title_of>
@@ -11072,6 +11074,7 @@
             <crm:P67_refers_to>
                <prov:Item rdf:about="https:r0man-ist.github.io/regC#Sub2-I1">
                   <dcterms:title>Useful reflections on several subjects, suited to the present times: each chapter beginning with a diverting fable; to which is added a proper moral: with curious observations from the best histories. Done into English, from a French manuscript, by P. B. Du-Bois.</dcterms:title>
+                  <dcterms:creator>Du-Bois, P. B.</dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° C 81 Jur.</crm:P48_has_preferred_identifier>
                </prov:Item>
             </crm:P67_refers_to>

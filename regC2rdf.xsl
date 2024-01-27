@@ -8,7 +8,73 @@
     <xsl:output method="xml" indent="yes" encoding="UTF-8"/>
 
 
+    <!--================================-->
+    <!--FUNCTIONS-->
+    <!--================================-->
+    <!-- root node as global variable -->
+    <xsl:variable name="root" select="/"/>
 
+    <!-- Creator - Function-->
+    <xsl:function name="prov:addCreator">
+        <xsl:param name="arg"/>
+        <xsl:if
+            test="$root//t:listObject/t:object[@xml:id = substring-after($arg, '#')]/t:biblStruct/t:monogr/t:author">
+            <dcterms:creator>
+                <xsl:choose>
+                    <xsl:when
+                        test="$root//t:listObject/t:object[@xml:id = substring-after($arg, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
+                        <crm:E21_Person>
+                            <xsl:attribute name="rdf:about">
+                                <xsl:value-of
+                                    select="$root//t:listObject/t:object[@xml:id = substring-after($arg, '#')]/t:biblStruct/t:monogr/t:author/@ref"
+                                />
+                            </xsl:attribute>
+                            <rdfs:label>
+                                <xsl:value-of
+                                    select="$root//t:listObject/t:object[@xml:id = substring-after($arg, '#')]/t:biblStruct/t:monogr/t:author"
+                                />
+                            </rdfs:label>
+                        </crm:E21_Person>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:value-of
+                            select="$root//t:listObject/t:object[@xml:id = substring-after($arg, '#')]/t:biblStruct/t:monogr/t:author"
+                        />
+                    </xsl:otherwise>
+                </xsl:choose>
+            </dcterms:creator>
+        </xsl:if>
+    </xsl:function>
+
+    <!-- Title - Function -->
+    <xsl:function name="prov:addTitle">
+        <xsl:param name="arg"/>
+        <dcterms:title>
+            <xsl:value-of
+                select="normalize-space($root//t:listObject/t:object[@xml:id = substring-after($arg, '#')]/t:biblStruct/t:monogr/t:title)"
+            />
+        </dcterms:title>
+    </xsl:function>
+
+    <!-- Current_Shelfmark - Function -->
+
+    <xsl:function name="prov:addCurrentShelfmark">
+        <xsl:param name="arg"/>
+        <xsl:if
+            test="$root//t:listObject/t:object[@xml:id = substring-after($arg, '#') and @ana = 'copy-identified']/t:objectIdentifier/t:idno[@type = 'shelfmark']">
+            <crm:P48_has_preferred_identifier>
+                <xsl:value-of
+                    select="$root//t:listObject/t:object[@xml:id = substring-after($arg, '#')]/t:objectIdentifier/t:idno[@type = 'shelfmark']"
+                />
+            </crm:P48_has_preferred_identifier>
+        </xsl:if>
+    </xsl:function>
+
+
+
+    <!--==============================
+    TEMPLATE
+    ==============================-->
     <xsl:template match="/">
 
 
@@ -88,49 +154,16 @@
                                                   select="concat('https:r0man-ist.github.io/regC#P', $count_purchase, '-I', $count_item)"
                                                 />
                                             </xsl:attribute>
-                                            <dcterms:title>
-                                                <xsl:value-of
-                                                  select="normalize-space(//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:title)"
-                                                />
-                                            </dcterms:title>
-                                            <!-- Creator -->
+                                            
+                                            <!-- Add Title -->
+                                            <xsl:copy-of select="prov:addTitle($item_ID)"/>
+                                            
+                                            <!-- Add Creator -->
+                                            <xsl:copy-of select="prov:addCreator($item_ID)"/>
 
-                                            <xsl:if
-                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
-                                                <dcterms:creator>
-                                                  <xsl:choose>
-                                                  <xsl:when
-                                                  test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
-                                                  <crm:E21_Person>
-                                                  <xsl:attribute name="rdf:about">
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author/@ref"
-                                                  />
-                                                  </xsl:attribute>
-                                                  <rdfs:label>
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                  />
-                                                  </rdfs:label>
-                                                  </crm:E21_Person>
-                                                  </xsl:when>
-                                                  <xsl:otherwise>
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                  />
-                                                  </xsl:otherwise>
-                                                  </xsl:choose>
-                                                </dcterms:creator>
-                                            </xsl:if>
                                             <!-- current shelfmark -->
-                                            <xsl:if
-                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#') and @ana = 'copy-identified']/t:objectIdentifier/t:idno[@type = 'shelfmark']">
-                                                <crm:P48_has_preferred_identifier>
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:objectIdentifier/t:idno[@type = 'shelfmark']"
-                                                  />
-                                                </crm:P48_has_preferred_identifier>
-                                            </xsl:if>
+                                            <xsl:copy-of select="prov:addCurrentShelfmark($item_ID)"/>
+
                                             <!-- Check if authority-statement for work exists -->
                                             <xsl:if
                                                 test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:title[@ref]">
@@ -324,11 +357,10 @@
                                                   select="concat('https:r0man-ist.github.io/regC#M', $count_move, '-I', $count_item)"
                                                 />
                                             </xsl:attribute>
-                                            <dcterms:title>
-                                                <xsl:value-of
-                                                  select="normalize-space(//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:title)"
-                                                />
-                                            </dcterms:title>
+                                            
+                                            <!-- Add Title -->
+                                            <xsl:copy-of select="prov:addTitle($item_ID)"/>
+                                            
                                             <!-- Creator -->
 
                                             <xsl:if
@@ -358,15 +390,10 @@
                                                   </xsl:choose>
                                                 </dcterms:creator>
                                             </xsl:if>
+
                                             <!-- current shelfmark -->
-                                            <xsl:if
-                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#') and @ana = 'copy-identified']/t:objectIdentifier/t:idno[@type = 'shelfmark']">
-                                                <crm:P48_has_preferred_identifier>
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:objectIdentifier/t:idno[@type = 'shelfmark']"
-                                                  />
-                                                </crm:P48_has_preferred_identifier>
-                                            </xsl:if>
+                                            <xsl:copy-of select="prov:addCurrentShelfmark($item_ID)"/>
+
                                             <!-- Check if authority-statement for work exists -->
                                             <xsl:if
                                                 test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:title[@ref]">
@@ -445,42 +472,13 @@
                                                   select="normalize-space(//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:title)"
                                                 />
                                             </dcterms:title>
-                                            <xsl:if
-                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
-                                                <dcterms:creator>
-                                                  <xsl:choose>
-                                                  <xsl:when
-                                                  test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
-                                                  <crm:E21_Person>
-                                                  <xsl:attribute name="rdf:about">
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author/@ref"
-                                                  />
-                                                  </xsl:attribute>
-                                                  <rdfs:label>
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                  />
-                                                  </rdfs:label>
-                                                  </crm:E21_Person>
-                                                  </xsl:when>
-                                                  <xsl:otherwise>
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                  />
-                                                  </xsl:otherwise>
-                                                  </xsl:choose>
-                                                </dcterms:creator>
-                                            </xsl:if>
+
+                                            <!-- Add Creator -->
+                                            <xsl:copy-of select="prov:addCreator($item_ID)"/>
+
                                             <!-- current shelfmark -->
-                                            <xsl:if
-                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#') and @ana = 'copy-identified']/t:objectIdentifier/t:idno[@type = 'shelfmark']">
-                                                <crm:P48_has_preferred_identifier>
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:objectIdentifier/t:idno[@type = 'shelfmark']"
-                                                  />
-                                                </crm:P48_has_preferred_identifier>
-                                            </xsl:if>
+                                            <xsl:copy-of select="prov:addCurrentShelfmark($item_ID)"/>
+
                                             <!-- Check if authority-statement for work exists -->
                                             <xsl:if
                                                 test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:ref">
@@ -667,42 +665,13 @@
                                                   select="normalize-space(//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:title)"
                                                 />
                                             </dcterms:title>
-                                            <xsl:if
-                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
-                                                <dcterms:creator>
-                                                  <xsl:choose>
-                                                  <xsl:when
-                                                  test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
-                                                  <crm:E21_Person>
-                                                  <xsl:attribute name="rdf:about">
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author/@ref"
-                                                  />
-                                                  </xsl:attribute>
-                                                  <rdfs:label>
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                  />
-                                                  </rdfs:label>
-                                                  </crm:E21_Person>
-                                                  </xsl:when>
-                                                  <xsl:otherwise>
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                  />
-                                                  </xsl:otherwise>
-                                                  </xsl:choose>
-                                                </dcterms:creator>
-                                            </xsl:if>
+
+                                            <!-- Add Creator -->
+                                            <xsl:copy-of select="prov:addCreator($item_ID)"/>
+
                                             <!-- current shelfmark -->
-                                            <xsl:if
-                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#') and @ana = 'copy-identified']/t:objectIdentifier/t:idno[@type = 'shelfmark']">
-                                                <crm:P48_has_preferred_identifier>
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:objectIdentifier/t:idno[@type = 'shelfmark']"
-                                                  />
-                                                </crm:P48_has_preferred_identifier>
-                                            </xsl:if>
+                                            <xsl:copy-of select="prov:addCurrentShelfmark($item_ID)"/>
+
                                             <!-- Check if authority-statement for work exists -->
                                             <xsl:if
                                                 test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:ref">
@@ -760,38 +729,38 @@
                                             />
                                         </xsl:attribute>
                                     </crm:P140_assigned_attribute_to>
-                                    
+
                                 </xsl:for-each>
                                 <crm:P37_assigned>
-                                        <crm:E42_Identifier>
-                                            <xsl:attribute name="rdf:about">
-                                                <xsl:value-of
-                                                  select="concat('https:r0man-ist.github.io/regC#D', $count_donation, '-ID')"
-                                                />
-                                            </xsl:attribute>
-                                            <crm:P90_has_value>
-                                                <xsl:value-of
-                                                  select="./descendant::t:ab[@type = 'shelfmark']/t:choice/t:reg"
-                                                />
-                                            </crm:P90_has_value>
-                                        </crm:E42_Identifier>
-                                    </crm:P37_assigned>
-                                    <crm:P4_has_time_span>
-                                        <crm:E61_Time_Primitive>
-                                            <crm:P82a_begin_of_the_begin
-                                                rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                                                <xsl:value-of
-                                                  select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notBefore, 'T00:00:00')"
-                                                />
-                                            </crm:P82a_begin_of_the_begin>
-                                            <crm:P82b_end_of_the_end
-                                                rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                                                <xsl:value-of
-                                                  select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notAfter, 'T23:59:59')"
-                                                />
-                                            </crm:P82b_end_of_the_end>
-                                        </crm:E61_Time_Primitive>
-                                    </crm:P4_has_time_span>
+                                    <crm:E42_Identifier>
+                                        <xsl:attribute name="rdf:about">
+                                            <xsl:value-of
+                                                select="concat('https:r0man-ist.github.io/regC#D', $count_donation, '-ID')"
+                                            />
+                                        </xsl:attribute>
+                                        <crm:P90_has_value>
+                                            <xsl:value-of
+                                                select="./descendant::t:ab[@type = 'shelfmark']/t:choice/t:reg"
+                                            />
+                                        </crm:P90_has_value>
+                                    </crm:E42_Identifier>
+                                </crm:P37_assigned>
+                                <crm:P4_has_time_span>
+                                    <crm:E61_Time_Primitive>
+                                        <crm:P82a_begin_of_the_begin
+                                            rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
+                                            <xsl:value-of
+                                                select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notBefore, 'T00:00:00')"
+                                            />
+                                        </crm:P82a_begin_of_the_begin>
+                                        <crm:P82b_end_of_the_end
+                                            rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
+                                            <xsl:value-of
+                                                select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notAfter, 'T23:59:59')"
+                                            />
+                                        </crm:P82b_end_of_the_end>
+                                    </crm:E61_Time_Primitive>
+                                </crm:P4_has_time_span>
                             </crm:E15_Identifier_Assignment>
                         </crm:P70_documents>
                     </xsl:if>
@@ -874,42 +843,12 @@
                                                   select="normalize-space(//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:title)"
                                                 />
                                             </dcterms:title>
-                                            <xsl:if
-                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
-                                                <dcterms:creator>
-                                                  <xsl:choose>
-                                                  <xsl:when
-                                                  test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
-                                                  <crm:E21_Person>
-                                                  <xsl:attribute name="rdf:about">
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author/@ref"
-                                                  />
-                                                  </xsl:attribute>
-                                                  <rdfs:label>
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                  />
-                                                  </rdfs:label>
-                                                  </crm:E21_Person>
-                                                  </xsl:when>
-                                                  <xsl:otherwise>
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                  />
-                                                  </xsl:otherwise>
-                                                  </xsl:choose>
-                                                </dcterms:creator>
-                                            </xsl:if>
+                                            <!-- Add Creator -->
+                                            <xsl:copy-of select="prov:addCreator($item_ID)"/>
+
                                             <!-- current shelfmark -->
-                                            <xsl:if
-                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#') and @ana = 'copy-identified']/t:objectIdentifier/t:idno[@type = 'shelfmark']">
-                                                <crm:P48_has_preferred_identifier>
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:objectIdentifier/t:idno[@type = 'shelfmark']"
-                                                  />
-                                                </crm:P48_has_preferred_identifier>
-                                            </xsl:if>
+                                            <xsl:copy-of select="prov:addCurrentShelfmark($item_ID)"/>
+
                                             <!-- Check if authority-statement for work exists -->
                                             <xsl:if
                                                 test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:ref">
@@ -1022,42 +961,12 @@
                                                   select="normalize-space(//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:title)"
                                                 />
                                             </dcterms:title>
-                                            <xsl:if
-                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
-                                                <dcterms:creator>
-                                                  <xsl:choose>
-                                                  <xsl:when
-                                                  test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author[@ref]">
-                                                  <crm:E21_Person>
-                                                  <xsl:attribute name="rdf:about">
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author/@ref"
-                                                  />
-                                                  </xsl:attribute>
-                                                  <rdfs:label>
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                  />
-                                                  </rdfs:label>
-                                                  </crm:E21_Person>
-                                                  </xsl:when>
-                                                  <xsl:otherwise>
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:monogr/t:author"
-                                                  />
-                                                  </xsl:otherwise>
-                                                  </xsl:choose>
-                                                </dcterms:creator>
-                                            </xsl:if>
+                                            <!-- Add Creator -->
+                                            <xsl:copy-of select="prov:addCreator($item_ID)"/>
+
                                             <!-- current shelfmark -->
-                                            <xsl:if
-                                                test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#') and @ana = 'copy-identified']/t:objectIdentifier/t:idno[@type = 'shelfmark']">
-                                                <crm:P48_has_preferred_identifier>
-                                                  <xsl:value-of
-                                                  select="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:objectIdentifier/t:idno[@type = 'shelfmark']"
-                                                  />
-                                                </crm:P48_has_preferred_identifier>
-                                            </xsl:if>
+                                            <xsl:copy-of select="prov:addCurrentShelfmark($item_ID)"/>
+
                                             <!-- Check if authority-statement for work exists -->
                                             <xsl:if
                                                 test="//t:listObject/t:object[@xml:id = substring-after($item_ID, '#')]/t:biblStruct/t:ref">
