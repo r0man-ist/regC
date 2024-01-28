@@ -2189,7 +2189,10 @@
                </crm:E39_Actor>
             </crm:P23_transferred_title_from>
             <crm:P4_has_time_span>
-               <crm:E61_Time_Primitive/>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1719-06-22T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1719-06-22T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
             </crm:P4_has_time_span>
          </crm:E96_Purchase>
       </crm:P70_documents>
