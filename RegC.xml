@@ -6382,7 +6382,7 @@
                     <cell/>
                 </row>
                 <row ana="prov:purchase">
-                    <cell><ab ana="prov"><date type="prov:purchase" when="1719-06-22">June 22.
+                    <cell><ab ana="prov"><date ana="prov:when" type="prov:purchase" when="1719-06-22">June 22.
                                 1719.</date><date type="prov:ID-Assignment" notAfter="1720-11-08"
                                 notBefore="1719-11-09"/><persName ana="prov:seller"
                                 corresp="#regC-HCLE"/><lb/>
