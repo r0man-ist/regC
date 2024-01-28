@@ -151,6 +151,7 @@
                         <crm:P4_has_time_span>
                             <crm:E61_Time_Primitive>
                                 <xsl:choose>
+                                    <!-- determine whether time is specified in ancestor or descendant element; descendant takes precedence -->
                                     <xsl:when test="./descendant::t:ab[@ana = 'prov']">
                                         <crm:P82a_begin_of_the_begin
                                             rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
@@ -188,7 +189,59 @@
         </xsl:for-each>
     </xsl:function>
 
-    
+    <!-- ================================ -->
+    <!--           Time Function          -->
+    <!-- ================================ -->
+
+    <xsl:function name="prov:addTime">
+        <xsl:param name="category"/>
+        <xsl:param name="context"/>
+        <crm:P4_has_time_span>
+            <crm:E61_Time_Primitive>
+                <!-- determine whether time is specified in ancestor or descendant element; descendant takes precedence -->
+                <xsl:choose>
+                    <xsl:when
+                        test="$context/descendant::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]">
+                        <crm:P82a_begin_of_the_begin
+                            rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
+
+                            <xsl:value-of
+                                select="concat($context/descendant::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/(@notBefore | @when), 'T00:00:00')"
+                            />
+                        </crm:P82a_begin_of_the_begin>
+                        <crm:P82b_end_of_the_end
+                            rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
+                            <xsl:value-of
+                                select="concat($context/descendant::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/(@notAfter | @when), 'T23:59:59')"/>
+
+                        </crm:P82b_end_of_the_end>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <crm:P82a_begin_of_the_begin
+                            rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
+
+                            <xsl:value-of
+                                select="concat($context/ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/(@notBefore | @when), 'T00:00:00')"
+                            />
+                        </crm:P82a_begin_of_the_begin>
+                        <crm:P82b_end_of_the_end
+                            rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
+                            <xsl:value-of
+                                select="concat($context/ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/(@notAfter | @when), 'T23:59:59')"/>
+
+                        </crm:P82b_end_of_the_end>
+                    </xsl:otherwise>
+
+                </xsl:choose>
+            </crm:E61_Time_Primitive>
+        </crm:P4_has_time_span>
+    </xsl:function>
+
+    <!-- ================================ -->
+    <!--          Agent Function          -->
+    <!-- ================================ -->
+    <!--       For Donors or Sellers      -->
+
 
     <!-- ================================ -->
     <!-- ================================ -->
@@ -303,46 +356,10 @@
                                 </xsl:if>
 
                             </xsl:if>
+                            
                             <!-- time -->
-                            <crm:P4_has_time_span>
-                                <crm:E61_Time_Primitive>
-                                    <!-- determine whether time is specified in ancestor or descendant element -->
-                                    <xsl:choose>
-                                        <xsl:when
-                                            test="./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]">
-                                            <crm:P82a_begin_of_the_begin
-                                                rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
+                            <xsl:copy-of select="prov:addTime('purchase', .)"/>
 
-                                                <xsl:value-of
-                                                  select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/@notBefore, 'T00:00:00')"
-                                                />
-                                            </crm:P82a_begin_of_the_begin>
-                                            <crm:P82b_end_of_the_end
-                                                rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                                                <xsl:value-of
-                                                  select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/@notAfter, 'T23:59:59')"/>
-
-                                            </crm:P82b_end_of_the_end>
-                                        </xsl:when>
-                                        <xsl:when
-                                            test="./descendant::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]">
-                                            <crm:P82a_begin_of_the_begin
-                                                rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-
-                                                <xsl:value-of
-                                                  select="concat(./descendant::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/@notBefore, 'T00:00:00')"
-                                                />
-                                            </crm:P82a_begin_of_the_begin>
-                                            <crm:P82b_end_of_the_end
-                                                rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                                                <xsl:value-of
-                                                  select="concat(./descendant::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/@notAfter, 'T23:59:59')"/>
-
-                                            </crm:P82b_end_of_the_end>
-                                        </xsl:when>
-                                    </xsl:choose>
-                                </crm:E61_Time_Primitive>
-                            </crm:P4_has_time_span>
                         </crm:E96_Purchase>
                     </crm:P70_documents>
                 </xsl:for-each>
@@ -350,7 +367,7 @@
 
                 <!-- ID-Assignment -->
                 <xsl:copy-of select="prov:IDAssignment('purchase', 'P')"/>
-                
+
 
 
                 <!-- ================================ -->
@@ -419,22 +436,9 @@
 
                                 </xsl:for-each>
                             </xsl:if>
-                            <crm:P4_has_time_span>
-                                <crm:E61_Time_Primitive>
-                                    <crm:P82a_begin_of_the_begin
-                                        rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                                        <xsl:value-of
-                                            select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notBefore, 'T00:00:00')"
-                                        />
-                                    </crm:P82a_begin_of_the_begin>
-                                    <crm:P82b_end_of_the_end
-                                        rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                                        <xsl:value-of
-                                            select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notAfter, 'T23:59:59')"
-                                        />
-                                    </crm:P82b_end_of_the_end>
-                                </crm:E61_Time_Primitive>
-                            </crm:P4_has_time_span>
+                            <!-- time -->
+                            <xsl:copy-of select="prov:addTime('move-changeId', .)"/>
+                            
                         </crm:E15_Identifier_Assignment>
                     </crm:P70_documents>
                 </xsl:for-each>
@@ -486,26 +490,14 @@
                                     </crm:P24_transferred_title_of>
                                 </xsl:for-each>
                             </xsl:if>
-                            <crm:P4_has_time_span>
-                                <crm:E61_Time_Primitive>
-                                    <crm:P82a_begin_of_the_begin
-                                        rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                                        <xsl:value-of
-                                            select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notBefore, 'T00:00:00')"
-                                        />
-                                    </crm:P82a_begin_of_the_begin>
-                                    <crm:P82b_end_of_the_end
-                                        rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                                        <xsl:value-of
-                                            select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notAfter, 'T23:59:59')"
-                                        />
-                                    </crm:P82b_end_of_the_end>
-                                </crm:E61_Time_Primitive>
-                            </crm:P4_has_time_span>
+                            
+                            <!-- time -->
+                            <xsl:copy-of select="prov:addTime('deposit', .)"/>
+                            
                         </prov:Legal_Deposit>
                     </crm:P70_documents>
                 </xsl:for-each>
-                
+
                 <!-- ID-Assignment -->
                 <xsl:copy-of select="prov:IDAssignment('deposit', 'Dep')"/>
 
@@ -606,22 +598,10 @@
                                     </crm:P24_transferred_title_of>
                                 </xsl:for-each>
                             </xsl:if>
-                            <crm:P4_has_time_span>
-                                <crm:E61_Time_Primitive>
-                                    <crm:P82a_begin_of_the_begin
-                                        rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                                        <xsl:value-of
-                                            select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notBefore, 'T00:00:00')"
-                                        />
-                                    </crm:P82a_begin_of_the_begin>
-                                    <crm:P82b_end_of_the_end
-                                        rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                                        <xsl:value-of
-                                            select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notAfter, 'T23:59:59')"
-                                        />
-                                    </crm:P82b_end_of_the_end>
-                                </crm:E61_Time_Primitive>
-                            </crm:P4_has_time_span>
+                            
+                            <!-- time -->
+                            <xsl:copy-of select="prov:addTime('deposit', .)"/>
+                            
                         </prov:Donation>
                     </crm:P70_documents>
                 </xsl:for-each>
@@ -724,46 +704,10 @@
                                     </xsl:if>
                                 </xsl:for-each>
                             </xsl:if>
+                            
                             <!-- time -->
-                            <crm:P4_has_time_span>
-                                <crm:E61_Time_Primitive>
-                                    <!-- determine whether time is specified in ancestor or descendant element -->
-                                    <xsl:choose>
-                                        <xsl:when
-                                            test="./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]">
-                                            <crm:P82a_begin_of_the_begin
-                                                rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-
-                                                <xsl:value-of
-                                                  select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/@notBefore, 'T00:00:00')"
-                                                />
-                                            </crm:P82a_begin_of_the_begin>
-                                            <crm:P82b_end_of_the_end
-                                                rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                                                <xsl:value-of
-                                                  select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/@notAfter, 'T23:59:59')"/>
-
-                                            </crm:P82b_end_of_the_end>
-                                        </xsl:when>
-                                        <xsl:when
-                                            test="./descendant::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]">
-                                            <crm:P82a_begin_of_the_begin
-                                                rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-
-                                                <xsl:value-of
-                                                  select="concat(./descendant::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/@notBefore, 'T00:00:00')"
-                                                />
-                                            </crm:P82a_begin_of_the_begin>
-                                            <crm:P82b_end_of_the_end
-                                                rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                                                <xsl:value-of
-                                                  select="concat(./descendant::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:ID-Assignment')]/@notAfter, 'T23:59:59')"/>
-
-                                            </crm:P82b_end_of_the_end>
-                                        </xsl:when>
-                                    </xsl:choose>
-                                </crm:E61_Time_Primitive>
-                            </crm:P4_has_time_span>
+                            <xsl:copy-of select="prov:addTime('sold', .)"/>
+                            
                         </crm:E96_Purchase>
                     </crm:P70_documents>
                 </xsl:for-each>
