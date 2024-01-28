@@ -238,10 +238,78 @@
     </xsl:function>
 
     <!-- ================================ -->
-    <!--          Agent Function          -->
+    <!--          Actor Function          -->
     <!-- ================================ -->
-    <!--       For Donors or Sellers      -->
+    <!--       For Donors, Sellers or Buyers   -->
+    <xsl:function name="prov:addActor">
+        <xsl:param name="arg"></xsl:param>
+        <crm:E39_Actor>
+        <xsl:attribute name="rdf:about">
+            <!-- Authority statements in Order VIAF > Wikidata> CERL -->
+            <xsl:choose>
+                <xsl:when
+                    test="$root//t:listPerson/t:person[@xml:id = substring-after($arg, '#')]/t:idno[@type = 'VIAF']">
+                    <xsl:value-of
+                        select="concat('https://viaf.org/viaf/', $root//t:listPerson/t:person[@xml:id = substring-after($arg, '#')]/t:idno[@type = 'VIAF'])"
+                    />
+                </xsl:when>
+                <xsl:when
+                    test="$root//t:listPerson/t:person[@xml:id = substring-after($arg, '#')]/t:idno[@type = 'WikiData']">
+                    <xsl:value-of
+                        select="concat('https://www.wikidata.org/wiki/', $root//t:listPerson/t:person[@xml:id = substring-after($arg, '#')]/t:idno[@type = 'WikiData'])"
+                    />
+                </xsl:when>
+                <xsl:when
+                    test="$root//t:listPerson/t:person[@xml:id = substring-after($arg, '#')]/t:idno[@type = 'CERL']">
+                    <xsl:value-of
+                        select="concat('https://data.cerl.org/thesaurus/', $root//t:listPerson/t:person[@xml:id = substring-after($arg, '#')]/t:idno[@type = 'CERL'])"
+                    />
+                </xsl:when>
+            </xsl:choose>
+        </xsl:attribute>
+        <rdfs:label>
+            <xsl:value-of
+                select="$root//t:listPerson/t:person[@xml:id = substring-after($arg, '#')]/t:persName"
+            />
+        </rdfs:label>
+    </crm:E39_Actor></xsl:function>
 
+
+
+    <!-- ================================ -->
+    <!--          Price Functions          -->
+    <!-- ================================ -->
+    <xsl:function name="prov:monetaryAmount">
+        <xsl:param name="context"/>
+        <xsl:if test="$context/descendant::t:cell/t:measure">
+            <crm:E97_Monetary_Amount>
+                <crm:P180_has_currency>Pound</crm:P180_has_currency>
+                <crm:P90_has_value>
+                    <xsl:value-of
+                        select="$context/descendant::t:cell/t:measure[@unit = 'pound']/@quantity"
+                        />-<xsl:value-of
+                        select="$context/descendant::t:cell/t:measure[@unit = 'shilling']/@quantity"
+                        />-<xsl:value-of
+                        select="$context/descendant::t:cell/t:measure[@unit = 'pence']/@quantity"
+                    /></crm:P90_has_value>
+            </crm:E97_Monetary_Amount>
+        </xsl:if>
+    </xsl:function>
+
+    <xsl:function name="prov:addPrice">
+        <xsl:param name="category"/>
+        <xsl:param name="context"/>
+        <xsl:if test="($category = 'purchase' or $category = 'sold')">
+            <crm:P119_had_sales_price>
+                <xsl:copy-of select="prov:monetaryAmount($context)"/>
+            </crm:P119_had_sales_price>
+        </xsl:if>
+        <xsl:if test="$category = 'subscription'">
+            <prov:subscription_price_paid>
+                <xsl:copy-of select="prov:monetaryAmount($context)"/>
+            </prov:subscription_price_paid>
+        </xsl:if>
+    </xsl:function>
 
     <!-- ================================ -->
     <!-- ================================ -->
@@ -285,36 +353,8 @@
                                     select="./ancestor::t:ab[@ana = 'prov']/t:persName[@ana = 'prov:seller']/@corresp | ./descendant::t:ab[@ana = 'prov']/t:persName[@ana = 'prov:seller']/@corresp"/>
 
                                 <crm:P23_transferred_title_from>
-                                    <crm:E39_Actor>
-                                        <xsl:attribute name="rdf:about">
-                                            <!-- Authority statements in Order VIAF > Wikidata> CERL -->
-                                            <xsl:choose>
-                                                <xsl:when
-                                                  test="//t:listPerson/t:person[@xml:id = substring-after($seller-ID, '#')]/t:idno[@type = 'VIAF']">
-                                                  <xsl:value-of
-                                                  select="concat('https://viaf.org/viaf/', //t:listPerson/t:person[@xml:id = substring-after($seller-ID, '#')]/t:idno[@type = 'VIAF'])"
-                                                  />
-                                                </xsl:when>
-                                                <xsl:when
-                                                  test="//t:listPerson/t:person[@xml:id = substring-after($seller-ID, '#')]/t:idno[@type = 'WikiData']">
-                                                  <xsl:value-of
-                                                  select="concat('https://www.wikidata.org/wiki/', //t:listPerson/t:person[@xml:id = substring-after($seller-ID, '#')]/t:idno[@type = 'WikiData'])"
-                                                  />
-                                                </xsl:when>
-                                                <xsl:when
-                                                  test="//t:listPerson/t:person[@xml:id = substring-after($seller-ID, '#')]/t:idno[@type = 'CERL']">
-                                                  <xsl:value-of
-                                                  select="concat('https://data.cerl.org/thesaurus/', //t:listPerson/t:person[@xml:id = substring-after($seller-ID, '#')]/t:idno[@type = 'CERL'])"
-                                                  />
-                                                </xsl:when>
-                                            </xsl:choose>
-                                        </xsl:attribute>
-                                        <rdfs:label>
-                                            <xsl:value-of
-                                                select="//t:listPerson/t:person[@xml:id = substring-after($seller-ID, '#')]/t:persName"
-                                            />
-                                        </rdfs:label>
-                                    </crm:E39_Actor>
+                                    <!-- Add Actor Details -->
+                                    <xsl:copy-of select="prov:addActor($seller-ID)"/>
                                 </crm:P23_transferred_title_from>
                             </xsl:if>
 
@@ -338,25 +378,11 @@
                                         </prov:Item>
                                     </crm:P24_transferred_title_of>
                                 </xsl:for-each>
-                                <!-- Price -->
-                                <xsl:if test="./descendant::t:cell/t:measure">
-                                    <crm:P119_had_sales_price>
-                                        <crm:E97_Monetary_Amount>
-                                            <crm:P180_has_currency>Pound</crm:P180_has_currency>
-                                            <crm:P90_has_value>
-                                                <xsl:value-of
-                                                  select="./descendant::t:cell/t:measure[@unit = 'pound']/@quantity"
-                                                  />-<xsl:value-of
-                                                  select="./descendant::t:cell/t:measure[@unit = 'shilling']/@quantity"
-                                                  />-<xsl:value-of
-                                                  select="./descendant::t:cell/t:measure[@unit = 'pence']/@quantity"
-                                                /></crm:P90_has_value>
-                                        </crm:E97_Monetary_Amount>
-                                    </crm:P119_had_sales_price>
-                                </xsl:if>
-
                             </xsl:if>
-                            
+
+                            <!-- Price -->
+                            <xsl:copy-of select="prov:addPrice('purchase',.)"/>
+
                             <!-- time -->
                             <xsl:copy-of select="prov:addTime('purchase', .)"/>
 
@@ -438,7 +464,7 @@
                             </xsl:if>
                             <!-- time -->
                             <xsl:copy-of select="prov:addTime('move-changeId', .)"/>
-                            
+
                         </crm:E15_Identifier_Assignment>
                     </crm:P70_documents>
                 </xsl:for-each>
@@ -490,10 +516,10 @@
                                     </crm:P24_transferred_title_of>
                                 </xsl:for-each>
                             </xsl:if>
-                            
+
                             <!-- time -->
                             <xsl:copy-of select="prov:addTime('deposit', .)"/>
-                            
+
                         </prov:Legal_Deposit>
                     </crm:P70_documents>
                 </xsl:for-each>
@@ -545,36 +571,8 @@
                                         select="./descendant::t:persName[@ana = 'prov:donor']/@corresp"/>
 
                                     <crm:P23_transferred_title_from>
-                                        <prov:Donor>
-                                            <xsl:attribute name="rdf:about">
-                                                <!-- Alternative for Name Authority with priority to VIAF > WIKIDATA > CERL -->
-                                                <xsl:choose>
-                                                  <xsl:when
-                                                  test="//t:listPerson/t:person[@xml:id = substring-after($donor-ID, '#')]/t:idno[@type = 'VIAF']">
-                                                  <xsl:value-of
-                                                  select="concat('https://viaf.org/viaf/', //t:listPerson/t:person[@xml:id = substring-after($donor-ID, '#')]/t:idno[@type = 'VIAF'])"
-                                                  />
-                                                  </xsl:when>
-                                                  <xsl:when
-                                                  test="//t:listPerson/t:person[@xml:id = substring-after($donor-ID, '#')]/t:idno[@type = 'WikiData']">
-                                                  <xsl:value-of
-                                                  select="concat('https://www.wikidata.org/wiki/', //t:listPerson/t:person[@xml:id = substring-after($donor-ID, '#')]/t:idno[@type = 'WikiData'])"
-                                                  />
-                                                  </xsl:when>
-                                                  <xsl:when
-                                                  test="//t:listPerson/t:person[@xml:id = substring-after($donor-ID, '#')]/t:idno[@type = 'CERL']">
-                                                  <xsl:value-of
-                                                  select="concat('https://data.cerl.org/thesaurus/', //t:listPerson/t:person[@xml:id = substring-after($donor-ID, '#')]/t:idno[@type = 'CERL'])"
-                                                  />
-                                                  </xsl:when>
-                                                </xsl:choose>
-                                            </xsl:attribute>
-                                            <rdfs:label>
-                                                <xsl:value-of
-                                                  select="//t:listPerson/t:person[@xml:id = substring-after($donor-ID, '#')]/t:persName"
-                                                />
-                                            </rdfs:label>
-                                        </prov:Donor>
+                                        <!-- Add Actor Details -->
+                                        <xsl:copy-of select="prov:addActor($donor-ID)"/>
                                     </crm:P23_transferred_title_from>
                                 </xsl:when>
                             </xsl:choose>
@@ -598,10 +596,10 @@
                                     </crm:P24_transferred_title_of>
                                 </xsl:for-each>
                             </xsl:if>
-                            
+
                             <!-- time -->
                             <xsl:copy-of select="prov:addTime('deposit', .)"/>
-                            
+
                         </prov:Donation>
                     </crm:P70_documents>
                 </xsl:for-each>
@@ -636,36 +634,8 @@
                                     select="./ancestor::t:ab/t:persName[@ana = 'prov:buyer']/@corresp"/>
 
                                 <crm:P22_transferred_title_to>
-                                    <crm:E39_Actor>
-                                        <xsl:attribute name="rdf:about">
-                                            <!-- Alternative for Name Authority with priority to VIAF > WIKIDATA > CERL -->
-                                            <xsl:choose>
-                                                <xsl:when
-                                                  test="//t:listPerson/t:person[@xml:id = substring-after($buyer-ID, '#')]/t:idno[@type = 'VIAF']">
-                                                  <xsl:value-of
-                                                  select="concat('https://viaf.org/viaf/', //t:listPerson/t:person[@xml:id = substring-after($buyer-ID, '#')]/t:idno[@type = 'VIAF'])"
-                                                  />
-                                                </xsl:when>
-                                                <xsl:when
-                                                  test="//t:listPerson/t:person[@xml:id = substring-after($buyer-ID, '#')]/t:idno[@type = 'WikiData']">
-                                                  <xsl:value-of
-                                                  select="concat('https://www.wikidata.org/wiki/', //t:listPerson/t:person[@xml:id = substring-after($buyer-ID, '#')]/t:idno[@type = 'WikiData'])"
-                                                  />
-                                                </xsl:when>
-                                                <xsl:when
-                                                  test="//t:listPerson/t:person[@xml:id = substring-after($buyer-ID, '#')]/t:idno[@type = 'CERL']">
-                                                  <xsl:value-of
-                                                  select="concat('https://data.cerl.org/thesaurus/', //t:listPerson/t:person[@xml:id = substring-after($buyer-ID, '#')]/t:idno[@type = 'CERL'])"
-                                                  />
-                                                </xsl:when>
-                                            </xsl:choose>
-                                        </xsl:attribute>
-                                        <rdfs:label>
-                                            <xsl:value-of
-                                                select="//t:listPerson/t:person[@xml:id = substring-after($buyer-ID, '#')]/t:persName"
-                                            />
-                                        </rdfs:label>
-                                    </crm:E39_Actor>
+                                    <!-- Add Actor Details -->
+                                    <xsl:copy-of select="prov:addActor($buyer-ID)"/>
                                 </crm:P22_transferred_title_to>
                             </xsl:if>
                             <!-- check if there are associated items -->
@@ -686,28 +656,16 @@
 
                                         </prov:Item>
                                     </crm:P24_transferred_title_of>
-                                    <!-- Price -->
-                                    <xsl:if test="./../following-sibling::t:cell/t:measure">
-                                        <crm:P119_had_sales_price>
-                                            <crm:E97_Monetary_Amount>
-                                                <crm:P180_has_currency>Pound</crm:P180_has_currency>
-                                                <crm:P90_has_value>
-                                                  <xsl:value-of
-                                                  select="./../following-sibling::t:cell/t:measure[@unit = 'pound']/@quantity"
-                                                  />-<xsl:value-of
-                                                  select="./../following-sibling::t:cell/t:measure[@unit = 'shilling']/@quantity"
-                                                  />-<xsl:value-of
-                                                  select="./../following-sibling::t:cell/t:measure[@unit = 'pence']/@quantity"
-                                                  /></crm:P90_has_value>
-                                            </crm:E97_Monetary_Amount>
-                                        </crm:P119_had_sales_price>
-                                    </xsl:if>
+
                                 </xsl:for-each>
                             </xsl:if>
-                            
+
+                            <!-- Price -->
+                            <xsl:copy-of select="prov:addPrice('sold', .)"/>
+
                             <!-- time -->
                             <xsl:copy-of select="prov:addTime('sold', .)"/>
-                            
+
                         </crm:E96_Purchase>
                     </crm:P70_documents>
                 </xsl:for-each>
@@ -752,41 +710,15 @@
 
                                         </prov:Item>
                                     </crm:P67_refers_to>
-                                    <!-- Price -->
-                                    <xsl:if test="./../following-sibling::t:cell/t:measure">
-                                        <prov:subscription_price_paid>
-                                            <crm:E97_Monetary_Amount>
-                                                <crm:P180_has_currency>Pound</crm:P180_has_currency>
-                                                <crm:P90_has_value>
-                                                  <xsl:value-of
-                                                  select="./../following-sibling::t:cell/t:measure[@unit = 'pound']/@quantity"
-                                                  />-<xsl:value-of
-                                                  select="./../following-sibling::t:cell/t:measure[@unit = 'shilling']/@quantity"
-                                                  />-<xsl:value-of
-                                                  select="./../following-sibling::t:cell/t:measure[@unit = 'pence']/@quantity"
-                                                  /></crm:P90_has_value>
-                                            </crm:E97_Monetary_Amount>
-                                        </prov:subscription_price_paid>
-                                    </xsl:if>
+                                    
                                 </xsl:for-each>
                             </xsl:if>
                             <!-- time -->
-                            <crm:P4_has_time_span>
-                                <crm:E61_Time_Primitive>
-                                    <crm:P82a_begin_of_the_begin
-                                        rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                                        <xsl:value-of
-                                            select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notBefore, 'T00:00:00')"
-                                        />
-                                    </crm:P82a_begin_of_the_begin>
-                                    <crm:P82b_end_of_the_end
-                                        rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                                        <xsl:value-of
-                                            select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notAfter, 'T23:59:59')"
-                                        />
-                                    </crm:P82b_end_of_the_end>
-                                </crm:E61_Time_Primitive>
-                            </crm:P4_has_time_span>
+                            <xsl:copy-of select="prov:addTime('deposit', .)"/>
+                            
+                            <!-- Price -->
+                            <xsl:copy-of select="prov:addPrice('subscription', .)"/>
+                            
                         </prov:Subscription>
                     </crm:P70_documents>
                 </xsl:for-each>
