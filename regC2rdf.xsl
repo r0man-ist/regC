@@ -107,11 +107,88 @@
     <!-- ================================ -->
 
 
+    <xsl:function name="prov:IDAssignment">
+        <xsl:param name="category"/>
+        <xsl:param name="abbreviation"/>
+        <xsl:for-each select="$root//t:row[@ana = concat('prov:', $category)]">
+            <xsl:variable name="count" select="position()"/>
+            <xsl:if test="./descendant::t:ab[@type = 'shelfmark']">
+                <crm:P70_documents>
+                    <crm:E15_Identifier_Assignment>
+                        <xsl:attribute name="rdf:about">
+                            <xsl:value-of
+                                select="concat('https:r0man-ist.github.io/regC#', $abbreviation, '-ID', $count)"
+                            />
+                        </xsl:attribute>
+                        <xsl:for-each select="./descendant::t:bibl">
+                            <xsl:variable name="count_item" select="position()"/>
+                            <xsl:variable name="item_ID" select="./@corresp"/>
 
+                            <crm:P140_assigned_attribute_to>
+                                <xsl:attribute name="rdf:resource">
+                                    <xsl:value-of
+                                        select="concat('https:r0man-ist.github.io/regC#', $abbreviation, $count, '-I', $count_item)"
+                                    />
+                                </xsl:attribute>
+                            </crm:P140_assigned_attribute_to>
 
+                        </xsl:for-each>
+                        <crm:P37_assigned>
+                            <crm:E42_Identifier>
+                                <xsl:attribute name="rdf:about">
+                                    <xsl:value-of
+                                        select="concat('https:r0man-ist.github.io/regC#', $abbreviation, $count, '-ID')"
+                                    />
+                                </xsl:attribute>
+                                <crm:P90_has_value>
+                                    <xsl:value-of
+                                        select="./descendant::t:ab[@type = 'shelfmark']/t:choice/t:reg"
+                                    />
+                                </crm:P90_has_value>
+                            </crm:E42_Identifier>
+                        </crm:P37_assigned>
+                        <!-- Time -->
+                        <crm:P4_has_time_span>
+                            <crm:E61_Time_Primitive>
+                                <xsl:choose>
+                                    <xsl:when test="./descendant::t:ab[@ana = 'prov']">
+                                        <crm:P82a_begin_of_the_begin
+                                            rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
+                                            <xsl:value-of
+                                                select="concat(./descendant::t:date[@type = 'prov:ID-Assignment']/@notBefore | @when, 'T00:00:00')"
+                                            />
+                                        </crm:P82a_begin_of_the_begin>
+                                        <crm:P82b_end_of_the_end
+                                            rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
+                                            <xsl:value-of
+                                                select="concat(./descendant::t:date[@type = 'prov:ID-Assignment']/@notAfter | @when, 'T23:59:59')"
+                                            />
+                                        </crm:P82b_end_of_the_end>
+                                    </xsl:when>
+                                    <xsl:otherwise>
+                                        <crm:P82a_begin_of_the_begin
+                                            rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
+                                            <xsl:value-of
+                                                select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:purchase')]/@notAfter | @when, 'T00:00:00')"
+                                            />
+                                        </crm:P82a_begin_of_the_begin>
+                                        <crm:P82b_end_of_the_end
+                                            rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
+                                            <xsl:value-of
+                                                select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:purchase')]/@notAfter | @when, 'T23:59:59')"
+                                            />
+                                        </crm:P82b_end_of_the_end>
+                                    </xsl:otherwise>
+                                </xsl:choose>
+                            </crm:E61_Time_Primitive>
+                        </crm:P4_has_time_span>
+                    </crm:E15_Identifier_Assignment>
+                </crm:P70_documents>
+            </xsl:if>
+        </xsl:for-each>
+    </xsl:function>
 
-
-
+    
 
     <!-- ================================ -->
     <!-- ================================ -->
@@ -126,9 +203,9 @@
 
 
 
-     <!-- ================================ -->
-     <!--            Purchases             -->
-     <!-- ================================ -->                
+                <!-- ================================ -->
+                <!--            Purchases             -->
+                <!-- ================================ -->
                 <xsl:for-each select="//t:row[@ana = 'prov:purchase']">
                     <xsl:variable name="count_purchase" select="position()"/>
                     <crm:P70_documents>
@@ -272,68 +349,13 @@
 
 
                 <!-- ID-Assignment -->
-                <xsl:for-each select="//t:row[@ana = 'prov:purchase']">
-                    <xsl:variable name="count_purchase" select="position()"/>
-                    <xsl:if test="./descendant::t:ab[@type = 'shelfmark']">
-                        <crm:P70_documents>
-                            <crm:E15_Identifier_Assignment>
-                                <xsl:attribute name="rdf:about">
-                                    <xsl:value-of
-                                        select="concat('https:r0man-ist.github.io/regC#P-ID', $count_purchase)"
-                                    />
-                                </xsl:attribute>
-                                <xsl:for-each select="./descendant::t:bibl">
-                                    <xsl:variable name="count_item" select="position()"/>
-                                    <xsl:variable name="item_ID" select="./@corresp"/>
-
-                                    <crm:P140_assigned_attribute_to>
-                                        <xsl:attribute name="rdf:resource">
-                                            <xsl:value-of
-                                                select="concat('https:r0man-ist.github.io/regC#P', $count_purchase, '-I', $count_item)"
-                                            />
-                                        </xsl:attribute>
-                                    </crm:P140_assigned_attribute_to>
-
-                                </xsl:for-each>
-                                <crm:P37_assigned>
-                                    <crm:E42_Identifier>
-                                        <xsl:attribute name="rdf:about">
-                                            <xsl:value-of
-                                                select="concat('https:r0man-ist.github.io/regC#P', $count_purchase, '-ID')"
-                                            />
-                                        </xsl:attribute>
-                                        <crm:P90_has_value>
-                                            <xsl:value-of
-                                                select="./descendant::t:ab[@type = 'shelfmark']/t:choice/t:reg"
-                                            />
-                                        </crm:P90_has_value>
-                                    </crm:E42_Identifier>
-                                </crm:P37_assigned>
-                                <crm:P4_has_time_span>
-                                    <crm:E61_Time_Primitive>
-                                        <crm:P82a_begin_of_the_begin
-                                            rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                                            <xsl:value-of
-                                                select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:purchase')]/@notBefore | @when | ./descendant::t:date[@type = 'prov:ID-Assignment']/@notBefore | @when, 'T00:00:00')"
-                                            />
-                                        </crm:P82a_begin_of_the_begin>
-                                        <crm:P82b_end_of_the_end
-                                            rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                                            <xsl:value-of
-                                                select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when' and not(@type = 'prov:purchase')]/@notAfter | @when | ./descendant::t:date[@type = 'prov:ID-Assignment']/@notAfter | @when, 'T23:59:59')"
-                                            />
-                                        </crm:P82b_end_of_the_end>
-                                    </crm:E61_Time_Primitive>
-                                </crm:P4_has_time_span>
-                            </crm:E15_Identifier_Assignment>
-                        </crm:P70_documents>
-                    </xsl:if>
-                </xsl:for-each>
+                <xsl:copy-of select="prov:IDAssignment('purchase', 'P')"/>
+                
 
 
-<!-- ================================ -->
-<!--         MOVE/Change-ID           -->
-<!-- ================================ -->
+                <!-- ================================ -->
+                <!--         MOVE/Change-ID           -->
+                <!-- ================================ -->
                 <xsl:for-each select="//t:row[@ana = 'prov:move-changeId']">
                     <xsl:variable name="count_move" select="position()"/>
                     <crm:P70_documents>
@@ -419,9 +441,9 @@
 
 
 
-<!-- ================================ -->
-<!--            DEPOSITS             -->
-<!-- ================================ -->
+                <!-- ================================ -->
+                <!--            DEPOSITS             -->
+                <!-- ================================ -->
                 <xsl:for-each select="//t:row[@ana = 'prov:deposit']">
                     <xsl:variable name="count_deposit" select="position()"/>
                     <crm:P70_documents>
@@ -483,72 +505,16 @@
                         </prov:Legal_Deposit>
                     </crm:P70_documents>
                 </xsl:for-each>
+                
                 <!-- ID-Assignment -->
-                <xsl:for-each select="//t:row[@ana = 'prov:deposit']">
-                    <xsl:variable name="count_deposit" select="position()"/>
-                    <xsl:if test="./descendant::t:ab[@type = 'shelfmark']">
-                        <crm:P70_documents>
-                            <crm:E15_Identifier_Assignment>
-                                <xsl:attribute name="rdf:about">
-                                    <xsl:value-of
-                                        select="concat('https:r0man-ist.github.io/regC#Dep-ID', $count_deposit)"
-                                    />
-                                </xsl:attribute>
-                                <crm:P37_assigned>
-                                    <crm:E42_Identifier>
-                                        <xsl:attribute name="rdf:about">
-                                            <xsl:value-of
-                                                select="concat('https:r0man-ist.github.io/regC#Dep', $count_deposit, '-ID')"
-                                            />
-                                        </xsl:attribute>
-                                        <crm:P90_has_value>
-                                            <xsl:value-of
-                                                select="./descendant::t:ab[@type = 'shelfmark']/t:choice/t:reg"
-                                            />
-                                        </crm:P90_has_value>
-                                    </crm:E42_Identifier>
-                                </crm:P37_assigned>
-                                <xsl:for-each select="./descendant::t:bibl">
-                                    <xsl:variable name="count_item" select="position()"/>
-                                    <xsl:variable name="item_ID" select="./@corresp"/>
-
-
-                                    <crm:P140_assigned_attribute_to>
-                                        <xsl:attribute name="rdf:resource">
-                                            <xsl:value-of
-                                                select="concat('https:r0man-ist.github.io/regC#Dep', $count_deposit, '-I', $count_item)"
-                                            />
-                                        </xsl:attribute>
-                                    </crm:P140_assigned_attribute_to>
-
-                                </xsl:for-each>
-                                <crm:P4_has_time_span>
-                                    <crm:E61_Time_Primitive>
-                                        <crm:P82a_begin_of_the_begin
-                                            rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                                            <xsl:value-of
-                                                select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notBefore, 'T00:00:00')"
-                                            />
-                                        </crm:P82a_begin_of_the_begin>
-                                        <crm:P82b_end_of_the_end
-                                            rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                                            <xsl:value-of
-                                                select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notAfter, 'T23:59:59')"
-                                            />
-                                        </crm:P82b_end_of_the_end>
-                                    </crm:E61_Time_Primitive>
-                                </crm:P4_has_time_span>
-                            </crm:E15_Identifier_Assignment>
-                        </crm:P70_documents>
-                    </xsl:if>
-                </xsl:for-each>
+                <xsl:copy-of select="prov:IDAssignment('deposit', 'Dep')"/>
 
 
 
 
-<!-- ================================ -->
-<!--            DONATIONS             -->
-<!-- ================================ -->
+                <!-- ================================ -->
+                <!--            DONATIONS             -->
+                <!-- ================================ -->
                 <xsl:for-each select="//t:row[@ana = 'prov:donation']">
                     <xsl:variable name="count_donation" select="position()"/>
                     <crm:P70_documents>
@@ -660,70 +626,11 @@
                     </crm:P70_documents>
                 </xsl:for-each>
                 <!-- ID-Assignment -->
-                <xsl:for-each select="//t:row[@ana = 'prov:donation']">
-                    <xsl:variable name="count_donation" select="position()"/>
-                    <xsl:if test="./descendant::t:ab[@type = 'shelfmark']">
-                        <crm:P70_documents>
-                            <crm:E15_Identifier_Assignment>
-                                <xsl:attribute name="rdf:about">
-                                    <xsl:value-of
-                                        select="concat('https:r0man-ist.github.io/regC#D-ID', $count_donation)"
-                                    />
-                                </xsl:attribute>
-                                <xsl:for-each select="./descendant::t:bibl">
-                                    <xsl:variable name="count_item" select="position()"/>
-                                    <xsl:variable name="item_ID" select="./@corresp"/>
+                <xsl:copy-of select="prov:IDAssignment('donation', 'D')"/>
 
-
-                                    <crm:P140_assigned_attribute_to>
-                                        <xsl:attribute name="rdf:resource">
-                                            <xsl:value-of
-                                                select="concat('https:r0man-ist.github.io/regC#D', $count_donation, '-I', $count_item)"
-                                            />
-                                        </xsl:attribute>
-                                    </crm:P140_assigned_attribute_to>
-
-                                </xsl:for-each>
-                                <crm:P37_assigned>
-                                    <crm:E42_Identifier>
-                                        <xsl:attribute name="rdf:about">
-                                            <xsl:value-of
-                                                select="concat('https:r0man-ist.github.io/regC#D', $count_donation, '-ID')"
-                                            />
-                                        </xsl:attribute>
-                                        <crm:P90_has_value>
-                                            <xsl:value-of
-                                                select="./descendant::t:ab[@type = 'shelfmark']/t:choice/t:reg"
-                                            />
-                                        </crm:P90_has_value>
-                                    </crm:E42_Identifier>
-                                </crm:P37_assigned>
-                                <crm:P4_has_time_span>
-                                    <crm:E61_Time_Primitive>
-                                        <crm:P82a_begin_of_the_begin
-                                            rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                                            <xsl:value-of
-                                                select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notBefore, 'T00:00:00')"
-                                            />
-                                        </crm:P82a_begin_of_the_begin>
-                                        <crm:P82b_end_of_the_end
-                                            rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                                            <xsl:value-of
-                                                select="concat(./ancestor::t:ab[@ana = 'prov']/t:date[@ana = 'prov:when']/@notAfter, 'T23:59:59')"
-                                            />
-                                        </crm:P82b_end_of_the_end>
-                                    </crm:E61_Time_Primitive>
-                                </crm:P4_has_time_span>
-                            </crm:E15_Identifier_Assignment>
-                        </crm:P70_documents>
-                    </xsl:if>
-                </xsl:for-each>
-
-     
-
-<!-- ================================ -->
-<!--             SALES                -->
-<!-- ================================ -->
+                <!-- ================================ -->
+                <!--             SALES                -->
+                <!-- ================================ -->
                 <xsl:for-each select="//t:row[@ana = 'prov:sold']">
                     <xsl:variable name="count_sale" select="position()"/>
                     <crm:P70_documents>
@@ -860,11 +767,11 @@
                         </crm:E96_Purchase>
                     </crm:P70_documents>
                 </xsl:for-each>
- 
 
-<!-- ================================ -->
-<!--          SUBSCRIPTIONS           -->
-<!-- ================================ -->
+
+                <!-- ================================ -->
+                <!--          SUBSCRIPTIONS           -->
+                <!-- ================================ -->
                 <xsl:for-each select="//t:row[@ana = 'prov:subscription']">
                     <xsl:variable name="count_subscription" select="position()"/>
                     <crm:P70_documents>
@@ -939,10 +846,6 @@
                         </prov:Subscription>
                     </crm:P70_documents>
                 </xsl:for-each>
-
-
-
-
             </crm:E31_Document>
         </rdf:RDF>
     </xsl:template>
