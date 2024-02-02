@@ -9204,6 +9204,42 @@
                         <cell/>
                     </row>
                 </table></ab>
+            <pb xml:id="fol-34v" n="54" style="empty"/>
+            <pb xml:id="fol-35r" n="55" style="empty"/>
+            <pb xml:id="fol-35v" n="56"/>
+            <ab><date when="1722">1722</date></ab>
+<table><row><cell></cell><cell>£</cell><cell>s</cell><cell>d</cell></row>
+            <row><cell>Recd of Mr Vice-Chancellor at times 43£.<lb/>
+                which with 3:13:5 p<hi rend="superscript:true">d</hi>. by him to Mr Whiteside<lb/>
+                for Eleazar Albin's Book of Insects comes to</cell>
+            <cell><measure quantity="46" unit="pound">46</measure></cell><cell><measure quantity="13" unit="shilling">13</measure></cell><cell><measure quantity="6" unit="pence">06</measure></cell></row>
+            <row><cell><del>add for Albin</del></cell>
+            <cell><measure quantity="0" unit="pound"><del>00</del></measure></cell><cell><measure quantity="10" unit="shilling"><del>10</del></measure></cell><cell><measure quantity="0" unit="pence"><del>00</del></measure></cell></row>
+    <row><cell>Account of yͤ several</cell></row>
+            <row><cell><ref target="#fol-36r">pag. 57</ref></cell>
+            <cell><measure quantity="36" unit="pound">36</measure></cell><cell><measure quantity="13" unit="shilling">13</measure></cell><cell><measure quantity="6" unit="pence">6</measure></cell></row>
+            <row><cell><ref target="#fol-37r">pag. 59</ref></cell>
+            <cell><measure quantity="9" unit="pound">09</measure></cell><cell><measure quantity="0" unit="shilling">0</measure></cell><cell><measure quantity="11" unit="pence">11</measure></cell></row>
+            <row><cell><ref target="#fol-19v">pag. 30</ref></cell>
+            <cell><measure quantity="7" unit="pound">07</measure></cell><cell><measure quantity="15" unit="shilling">15</measure></cell><cell><measure quantity="6" unit="pence">6</measure></cell></row>
+    <row><cell></cell><cell rend="border-top"><measure quantity="53" unit="pound">53</measure></cell><cell rend="border-top"><measure quantity="9" unit="shilling">09</measure></cell><cell rend="border-top"><measure quantity="11" unit="pence">11</measure></cell></row>
+            <row><cell>Money receiv'd</cell>
+            <cell><measure quantity="46" unit="pound">46</measure></cell><cell><measure quantity="13" unit="shilling">13</measure></cell><cell><measure quantity="6" unit="pence">06</measure></cell></row>
+    <row><cell>Remaines due to yͤ Library-keeper</cell><cell rend="border-top"><measure quantity="6" unit="pound">6</measure></cell><cell rend="border-top"><measure quantity="16" unit="shilling">16</measure></cell><cell rend="border-top"><measure quantity="5" unit="pence">05</measure></cell></row></table>
+            <p><table><row><cell>+ manu<lb/><persName corresp="#regC-JBOW">JB</persName>.</cell><cell>NB. There was no<lb/>
+            Allowance made<lb/>
+                for the Removal<lb/>
+                of yͤ Books in Arts<lb/>
+                Fol. nor for making<lb/>
+                new<hi rend="superscript:true">+</hi> Curating book<lb/>
+                for the Sen<hi rend="superscript:true">r</hi>. Proct<hi rend="superscript:true">r</hi>.<lb/>
+            v. <ref target="#fol-37r">pag. 59</ref>.</cell>
+                <cell>Jo: Mather Vice-Can.<lb/>
+                    Tho: Terry. Gr: Ling: P<hi rend="superscript:true">r</hi>. Reg.<lb/>
+                    Rob: Clavering L. Heb. P<hi rend="superscript:true">r</hi>. Reg.<lb/>
+                    Josh. Lasher Med. Prof. Reg<lb/>
+                    Rich. ### Proc Sen<lb/>
+            Jos: ###  Proc: Jun: Dep:</cell></row></table></p>
         </body>
     </text>
 </TEI>
