@@ -1,35 +1,37 @@
-﻿xml:id;persName;primary_role;description;VIAF;CERL;WikiData
-regC-JBOU;Bouchier, James;Curator;Regius Professor of Civil Law;;;
-regC-JBOW;Bowles, Joseph;Librarian;;6137157162105278980009;cnp02260393;Q6281642
-regC-RCLA;Clavering, Robert;;Regius Professor of Hebrew;71262625;;Q7342960
-regC-HCLE;Clements, Henry;bookseller;;;cnp02330155;
-regC-JCOL;Colbatch, John;;;6276752;;
-regC-TDER;Dereham, Thomas Sir;;;5037148209311300460001;;
-regC-JECK;Eckhart, Johann Georg von;Librarian;;71489973;;Q71289
-regC-HFIS;Fisher, Henry;;Registrar of the University;;;
-regC-SFLE;Fletcher, Stephen;bookseller;;;cnp00058554;
-regC-WHOD;Hodges, Walter;Vice-Chancellor;;17094678;;
-regC-JHUD;Hudson, John;Librarian;;100222314;;Q13522431
-regC-SJEB;Jebb, Samuel;;;27101355;;
-regC-JJON;Johnson, John;;;1431094;;
-regC-JLAS;Lasher, Joshua;;Regius Professor of Medecine;59438513;;
-regC-JLEN;Le Neve, John;;;66547674;;
-regC-JLIN;Lindsay, John;;;28500517;;
-regC-WLUX;Lux, William;;;58058121;;
-regC-SNIB;Niblett, Stephen;;;;;Q7610098
-regC-APEI;Peisley, Anthony;;;44191542;cni00089612;
-regC-JPOT;Potter, John;Curator;Regius Professor of Divinity;100189223;cnp00000200;Q336868
-regC-JPUR;Purnell, John;;;;;Q6253571
-regC-RRAW;Rawlinson, Richard;;;47563478;;
-regC-RSHI;Shippen, Robert;Vice-Chancellor;;4683159941682025440006;;Q7349764
-regC-FSMI;Smit, Franz;;;74718649;;
-regC-TTER;Terry, Thomas;Curator;Regius Professor of Greek;;;
-regC-NTRO;Trott, Nicholas;;;76700095;;
-regC-JWAS;Wasse, Joseph;;;5863902;;
-regC-PMAI;Des Maizeaux, Pierre;Donor;;100174106;;Q3384717
-regC-AHUT;Hutcheson, Archibald;Donor;;7400805;;Q4786373
-regC-RMEA;Mead, Ritchard;Donor;;45083556;;Q3888733
-regC-HSLO;Sloane, Hans;Donor;;77959;;Q310326
-regC-WMUS;Musgrave, William;Donor;;79251462;;Q8015973
-regC-FGAS;Gastrell, Francis;;;39506285;;
-regC-JKEI;Keill, John;;;9926861;;
+﻿"xml:id";"persName";"primary_role";"description";"VIAF";"CERL";"WikiData"
+"regC-JBOU";"Bouchier, James";"Curator";"Regius Professor of Civil Law";;;
+"regC-JBOW";"Bowles, Joseph";"Librarian";;6,13715716210528E+021;"cnp02260393";"Q6281642"
+"regC-RCLA";"Clavering, Robert";;"Regius Professor of Hebrew";71262625;;"Q7342960"
+"regC-HCLE";"Clements, Henry";"bookseller";;;"cnp02330155";
+"regC-JCOL";"Colbatch, John";;;6276752;;
+"regC-TDER";"Dereham, Thomas Sir";;;5,0371482093113E+021;;
+"regC-JECK";"Eckhart, Johann Georg von";"Librarian";;71489973;;"Q71289"
+"regC-HFIS";"Fisher, Henry";;"Registrar of the University";;;
+"regC-SFLE";"Fletcher, Stephen";"bookseller";;;"cnp00058554";
+"regC-WHOD";"Hodges, Walter";"Vice-Chancellor";;17094678;;
+"regC-JHUD";"Hudson, John";"Librarian";;100222314;;"Q13522431"
+"regC-SJEB";"Jebb, Samuel";;;27101355;;
+"regC-JJON";"Johnson, John";;;1431094;;
+"regC-JLAS";"Lasher, Joshua";;"Regius Professor of Medecine";59438513;;
+"regC-JLEN";"Le Neve, John";;;66547674;;
+"regC-JLIN";"Lindsay, John";;;28500517;;
+"regC-WLUX";"Lux, William";;;58058121;;
+"regC-SNIB";"Niblett, Stephen";;;;;"Q7610098"
+"regC-APEI";"Peisley, Anthony";;;44191542;"cni00089612";
+"regC-JPOT";"Potter, John";"Curator";"Regius Professor of Divinity";100189223;"cnp00000200";"Q336868"
+"regC-JPUR";"Purnell, John";;;;;"Q6253571"
+"regC-RRAW";"Rawlinson, Richard";;;47563478;;
+"regC-RSHI";"Shippen, Robert";"Vice-Chancellor";;4,68315994168203E+021;;"Q7349764"
+"regC-FSMI";"Smit, Franz";;;74718649;;
+"regC-TTER";"Terry, Thomas";"Curator";"Regius Professor of Greek";;;
+"regC-NTRO";"Trott, Nicholas";;;76700095;;
+"regC-JWAS";"Wasse, Joseph";;;5863902;;
+"regC-PMAI";"Des Maizeaux, Pierre";"Donor";;100174106;;"Q3384717"
+"regC-AHUT";"Hutcheson, Archibald";"Donor";;7400805;;"Q4786373"
+"regC-RMEA";"Mead, Ritchard";"Donor";;45083556;;"Q3888733"
+"regC-HSLO";"Sloane, Hans";"Donor";;77959;;"Q310326"
+"regC-WMUS";"Musgrave, William";"Donor";;79251462;;"Q8015973"
+"regC-FGAS";"Gastrell, Francis";;;39506285;;
+"regC-JKEI";"Keill, John";;;9926861;;
+"regC-JMAT";"Mather, John";"Vice-Chancellor";;;;"Q6247133"
+"regC-RSTR";"Streat, Richard";"Proctor";;;;
