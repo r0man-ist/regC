@@ -2,6 +2,7 @@ import pandas as pd
 import xml.etree.ElementTree as ET
 
 # Read data from the CSV file with a semicolon delimiter
+
 df = pd.read_csv('standOff_List-Persons.csv', delimiter=';')
 
 # Create the root element for the XML
