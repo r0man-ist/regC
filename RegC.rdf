@@ -4258,6 +4258,593 @@
          </crm:E96_Purchase>
       </crm:P70_documents>
       <crm:P70_documents>
+         <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P140">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E39_Actor rdf:about="https://data.cerl.org/thesaurus/cnp02330155">
+                  <rdfs:label>Clements, Henry</rdfs:label>
+               </crm:E39_Actor>
+            </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P140-I1">
+                  <dcterms:title>Jo. Jacobi Mangeti ... Bibliotheca pharmaceutico-medica, seu Rerum ad pharmaciam Galenico-chymicam spectantium thesaurus refertissimus.</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/66901438">
+                        <rdfs:label>Manget, Jean-Jacques,
+                    1652-1742</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>T 1.5,6 Med.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
+            <crm:P119_had_sales_price>
+               <crm:E97_Monetary_Amount>
+                  <crm:P180_has_currency>Pound</crm:P180_has_currency>
+                  <crm:P90_has_value>2-5-0</crm:P90_has_value>
+               </crm:E97_Monetary_Amount>
+            </crm:P119_had_sales_price>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-09T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E96_Purchase>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P141">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E39_Actor rdf:about="https://data.cerl.org/thesaurus/cnp02330155">
+                  <rdfs:label>Clements, Henry</rdfs:label>
+               </crm:E39_Actor>
+            </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P141-I1">
+                  <dcterms:title>Jo. Jacobi Mangeti ... Bibliotheca chemica curiosa, seu Rerum ad alchemiam pertinentium thesaurus instructissimus, non tantum artis auriferæ historia traditur verùm etiam tractatus omnes virorum celebriorum qui de chrysopœa scripserunt, exhibentur.</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/66901438">
+                        <rdfs:label>Manget, Jean-Jacques,
+                    1652-1742</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>A 1.14,15 Med.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
+            <crm:P119_had_sales_price>
+               <crm:E97_Monetary_Amount>
+                  <crm:P180_has_currency>Pound</crm:P180_has_currency>
+                  <crm:P90_has_value>2-5-0</crm:P90_has_value>
+               </crm:E97_Monetary_Amount>
+            </crm:P119_had_sales_price>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-09T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E96_Purchase>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P142">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E39_Actor rdf:about="https://data.cerl.org/thesaurus/cnp02330155">
+                  <rdfs:label>Clements, Henry</rdfs:label>
+               </crm:E39_Actor>
+            </crm:P23_transferred_title_from>
+            <crm:P119_had_sales_price>
+               <crm:E97_Monetary_Amount>
+                  <crm:P180_has_currency>Pound</crm:P180_has_currency>
+                  <crm:P90_has_value>1-12-0</crm:P90_has_value>
+               </crm:E97_Monetary_Amount>
+            </crm:P119_had_sales_price>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-09T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E96_Purchase>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P143">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E39_Actor rdf:about="https://data.cerl.org/thesaurus/cnp02330155">
+                  <rdfs:label>Clements, Henry</rdfs:label>
+               </crm:E39_Actor>
+            </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P143-I1">
+                  <dcterms:title>Historiae ecclesiasticae gentis Anglorum libri quinque, /</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/61539765">
+                        <rdfs:label>Bede, the Venerable, Saint,
+                    673-735</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>A 15.3 Th.</crm:P48_has_preferred_identifier>
+                  <dcterms:isVersionOf rdf:resource="https://viaf.org/viaf/126152138599610981463"/>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
+            <crm:P119_had_sales_price>
+               <crm:E97_Monetary_Amount>
+                  <crm:P180_has_currency>Pound</crm:P180_has_currency>
+                  <crm:P90_has_value>1-18-0</crm:P90_has_value>
+               </crm:E97_Monetary_Amount>
+            </crm:P119_had_sales_price>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-09T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E96_Purchase>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P144">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E39_Actor rdf:about="https://data.cerl.org/thesaurus/cnp02330155">
+                  <rdfs:label>Clements, Henry</rdfs:label>
+               </crm:E39_Actor>
+            </crm:P23_transferred_title_from>
+            <crm:P119_had_sales_price>
+               <crm:E97_Monetary_Amount>
+                  <crm:P180_has_currency>Pound</crm:P180_has_currency>
+                  <crm:P90_has_value>0-7-6</crm:P90_has_value>
+               </crm:E97_Monetary_Amount>
+            </crm:P119_had_sales_price>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-09T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E96_Purchase>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P145">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E39_Actor rdf:about="https://data.cerl.org/thesaurus/cnp02330155">
+                  <rdfs:label>Clements, Henry</rdfs:label>
+               </crm:E39_Actor>
+            </crm:P23_transferred_title_from>
+            <crm:P119_had_sales_price>
+               <crm:E97_Monetary_Amount>
+                  <crm:P180_has_currency>Pound</crm:P180_has_currency>
+                  <crm:P90_has_value>0-14-0</crm:P90_has_value>
+               </crm:E97_Monetary_Amount>
+            </crm:P119_had_sales_price>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-09T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E96_Purchase>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P146">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E39_Actor rdf:about="https://data.cerl.org/thesaurus/cnp02330155">
+                  <rdfs:label>Clements, Henry</rdfs:label>
+               </crm:E39_Actor>
+            </crm:P23_transferred_title_from>
+            <crm:P119_had_sales_price>
+               <crm:E97_Monetary_Amount>
+                  <crm:P180_has_currency>Pound</crm:P180_has_currency>
+                  <crm:P90_has_value>0-12-0</crm:P90_has_value>
+               </crm:E97_Monetary_Amount>
+            </crm:P119_had_sales_price>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-09T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E96_Purchase>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P147">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E39_Actor rdf:about="https://data.cerl.org/thesaurus/cnp02330155">
+                  <rdfs:label>Clements, Henry</rdfs:label>
+               </crm:E39_Actor>
+            </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P147-I1">
+                  <dcterms:title>Pomponii Melæ de situ orbis libri iii, cum notis H. Barbari [and others]. Accedunt J. Honorii excepta Cosmographiæ. Cosmographia Aethicum auctorem præferens. Ravennatis anonymi Geographia. Curante A. Gronovio.</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/34489209">
+                        <rdfs:label>Mela, Pomponius</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>8° E 46 Jur.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
+            <crm:P119_had_sales_price>
+               <crm:E97_Monetary_Amount>
+                  <crm:P180_has_currency>Pound</crm:P180_has_currency>
+                  <crm:P90_has_value>0-10-0</crm:P90_has_value>
+               </crm:E97_Monetary_Amount>
+            </crm:P119_had_sales_price>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-09T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E96_Purchase>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P148">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E39_Actor rdf:about="https://data.cerl.org/thesaurus/cnp02330155">
+                  <rdfs:label>Clements, Henry</rdfs:label>
+               </crm:E39_Actor>
+            </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P148-I1">
+                  <dcterms:title>Jus academicum: or, A defence of the peculiar jurisdiction which belongs ... to universities, by a person concern'd [J. Colbatch]. </dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/100160573">
+                        <rdfs:label>Colbatch, John, 1664-1748</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>CC 50(5) Art.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
+            <crm:P119_had_sales_price>
+               <crm:E97_Monetary_Amount>
+                  <crm:P180_has_currency>Pound</crm:P180_has_currency>
+                  <crm:P90_has_value>0-1-0</crm:P90_has_value>
+               </crm:E97_Monetary_Amount>
+            </crm:P119_had_sales_price>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-09T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E96_Purchase>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P149">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E39_Actor rdf:about="https://data.cerl.org/thesaurus/cnp02330155">
+                  <rdfs:label>Clements, Henry</rdfs:label>
+               </crm:E39_Actor>
+            </crm:P23_transferred_title_from>
+            <crm:P119_had_sales_price>
+               <crm:E97_Monetary_Amount>
+                  <crm:P180_has_currency>Pound</crm:P180_has_currency>
+                  <crm:P90_has_value>0-0-6</crm:P90_has_value>
+               </crm:E97_Monetary_Amount>
+            </crm:P119_had_sales_price>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-09T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E96_Purchase>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P150">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E39_Actor rdf:about="https://data.cerl.org/thesaurus/cnp02330155">
+                  <rdfs:label>Clements, Henry</rdfs:label>
+               </crm:E39_Actor>
+            </crm:P23_transferred_title_from>
+            <crm:P119_had_sales_price>
+               <crm:E97_Monetary_Amount>
+                  <crm:P180_has_currency>Pound</crm:P180_has_currency>
+                  <crm:P90_has_value>0-10-0</crm:P90_has_value>
+               </crm:E97_Monetary_Amount>
+            </crm:P119_had_sales_price>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-09T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E96_Purchase>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P151">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E39_Actor rdf:about="https://data.cerl.org/thesaurus/cnp02330155">
+                  <rdfs:label>Clements, Henry</rdfs:label>
+               </crm:E39_Actor>
+            </crm:P23_transferred_title_from>
+            <crm:P119_had_sales_price>
+               <crm:E97_Monetary_Amount>
+                  <crm:P180_has_currency>Pound</crm:P180_has_currency>
+                  <crm:P90_has_value>0-2-0</crm:P90_has_value>
+               </crm:E97_Monetary_Amount>
+            </crm:P119_had_sales_price>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-09T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E96_Purchase>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P152">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E39_Actor rdf:about="https://data.cerl.org/thesaurus/cnp02330155">
+                  <rdfs:label>Clements, Henry</rdfs:label>
+               </crm:E39_Actor>
+            </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P152-I1">
+                  <dcterms:title>Jo. Alberti Fabricii Bibliothecæ Latinæ volumen tertium.</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/24623353">
+                        <rdfs:label>Fabricius, Johann Albert,
+                    1668-1736</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>8° O 47 Linc.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
+            <crm:P119_had_sales_price>
+               <crm:E97_Monetary_Amount>
+                  <crm:P180_has_currency>Pound</crm:P180_has_currency>
+                  <crm:P90_has_value>0-4-0</crm:P90_has_value>
+               </crm:E97_Monetary_Amount>
+            </crm:P119_had_sales_price>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-09T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E96_Purchase>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P153">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E39_Actor rdf:about="https://data.cerl.org/thesaurus/cnp02330155">
+                  <rdfs:label>Clements, Henry</rdfs:label>
+               </crm:E39_Actor>
+            </crm:P23_transferred_title_from>
+            <crm:P119_had_sales_price>
+               <crm:E97_Monetary_Amount>
+                  <crm:P180_has_currency>Pound</crm:P180_has_currency>
+                  <crm:P90_has_value>0-8-6</crm:P90_has_value>
+               </crm:E97_Monetary_Amount>
+            </crm:P119_had_sales_price>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-09T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E96_Purchase>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P154">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E39_Actor rdf:about="https://data.cerl.org/thesaurus/cnp02330155">
+                  <rdfs:label>Clements, Henry</rdfs:label>
+               </crm:E39_Actor>
+            </crm:P23_transferred_title_from>
+            <crm:P119_had_sales_price>
+               <crm:E97_Monetary_Amount>
+                  <crm:P180_has_currency>Pound</crm:P180_has_currency>
+                  <crm:P90_has_value>1-4-0</crm:P90_has_value>
+               </crm:E97_Monetary_Amount>
+            </crm:P119_had_sales_price>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-09T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E96_Purchase>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P155">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E39_Actor rdf:about="https://data.cerl.org/thesaurus/cnp02330155">
+                  <rdfs:label>Clements, Henry</rdfs:label>
+               </crm:E39_Actor>
+            </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P155-I1">
+                  <dcterms:title>The compleat linguist. Or, an universal grammar of all the considerable tongues in being. ... To be published monthly, one distinct grammar each month, ... By John Henley, M.A.</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/18100406">
+                        <rdfs:label>Henley, John, 1692-1756</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>8° E 42* Jur.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
+            <crm:P119_had_sales_price>
+               <crm:E97_Monetary_Amount>
+                  <crm:P180_has_currency>Pound</crm:P180_has_currency>
+                  <crm:P90_has_value>0-11-0</crm:P90_has_value>
+               </crm:E97_Monetary_Amount>
+            </crm:P119_had_sales_price>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-09T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E96_Purchase>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P156">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E39_Actor rdf:about="https://data.cerl.org/thesaurus/cnp02330155">
+                  <rdfs:label>Clements, Henry</rdfs:label>
+               </crm:E39_Actor>
+            </crm:P23_transferred_title_from>
+            <crm:P119_had_sales_price>
+               <crm:E97_Monetary_Amount>
+                  <crm:P180_has_currency>Pound</crm:P180_has_currency>
+                  <crm:P90_has_value>2-5-0</crm:P90_has_value>
+               </crm:E97_Monetary_Amount>
+            </crm:P119_had_sales_price>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-09T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E96_Purchase>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P157">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E39_Actor rdf:about="https://data.cerl.org/thesaurus/cnp02330155">
+                  <rdfs:label>Clements, Henry</rdfs:label>
+               </crm:E39_Actor>
+            </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P157-I1">
+                  <dcterms:title>A paraphrase and commentary on the New Testament, containing the Gospels, the Acts, all the Epistles, with a discourse of the Millenium.</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/42187262">
+                        <rdfs:label>Whitby, Daniel, 1638-1726</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>M 10.11,12 Th.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
+            <crm:P119_had_sales_price>
+               <crm:E97_Monetary_Amount>
+                  <crm:P180_has_currency>Pound</crm:P180_has_currency>
+                  <crm:P90_has_value>2-0-0</crm:P90_has_value>
+               </crm:E97_Monetary_Amount>
+            </crm:P119_had_sales_price>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-09T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E96_Purchase>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E96_Purchase rdf:about="https:r0man-ist.github.io/regC#P158">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E39_Actor rdf:about="https://data.cerl.org/thesaurus/cnp02330155">
+                  <rdfs:label>Clements, Henry</rdfs:label>
+               </crm:E39_Actor>
+            </crm:P23_transferred_title_from>
+            <crm:P119_had_sales_price>
+               <crm:E97_Monetary_Amount>
+                  <crm:P180_has_currency>Pound</crm:P180_has_currency>
+                  <crm:P90_has_value>0-10-0</crm:P90_has_value>
+               </crm:E97_Monetary_Amount>
+            </crm:P119_had_sales_price>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-09T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E96_Purchase>
+      </crm:P70_documents>
+      <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID7">
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P7-I1"/>
             <crm:P37_assigned>
@@ -6162,6 +6749,294 @@
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P139-ID">
                   <crm:P90_has_value>8° E 50,51 Jur.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID140">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P140-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P140-ID">
+                  <crm:P90_has_value>T 1.5,6 Med.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID141">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P141-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P141-ID">
+                  <crm:P90_has_value>A 1.14,15 Med.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID142">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P142-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P142-ID">
+                  <crm:P90_has_value>T 10.2 Th.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID143">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P143-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P143-ID">
+                  <crm:P90_has_value>A 15.3 Th.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID144">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P144-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P144-ID">
+                  <crm:P90_has_value>EE Jur.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID145">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P145-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P145-ID">
+                  <crm:P90_has_value>CC 52,53 Art.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID146">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P146-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P146-ID">
+                  <crm:P90_has_value>DD Jur.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID147">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P147-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P147-ID">
+                  <crm:P90_has_value>8° E 46 Jur.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID148">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P148-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P148-ID">
+                  <crm:P90_has_value>CC 50 Art.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID149">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P149-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P149-ID">
+                  <crm:P90_has_value>8° B 417 Linc.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID150">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P150-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P150-ID">
+                  <crm:P90_has_value>CC Th.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID152">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P152-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P152-ID">
+                  <crm:P90_has_value>8° O 47 Linc.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID153">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P153-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P153-ID">
+                  <crm:P90_has_value>BB Jur.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID154">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P154-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P154-ID">
+                  <crm:P90_has_value>B 6.8 Th.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID155">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P155-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P155-ID">
+                  <crm:P90_has_value>8° E 42 Jur.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID156">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P156-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P156-ID">
+                  <crm:P90_has_value>B 2.11,12,13 Th.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID157">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P157-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P157-ID">
+                  <crm:P90_has_value>M 10.11,12 Th.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#P-ID158">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#P158-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#P158-ID">
+                  <crm:P90_has_value>8° E 61 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -10297,7 +11172,7 @@
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
             <crm:P23_transferred_title_from>
-               <crm:E39_Actor rdf:about="https://viaf.org/viaf/5,0371482093113E+021">
+               <crm:E39_Actor rdf:about="https://viaf.org/viaf/5037148209311300460001">
                   <rdfs:label>Dereham, Thomas Sir</rdfs:label>
                </crm:E39_Actor>
             </crm:P23_transferred_title_from>
@@ -10317,7 +11192,7 @@
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
             <crm:P23_transferred_title_from>
-               <crm:E39_Actor rdf:about="https://viaf.org/viaf/5,0371482093113E+021">
+               <crm:E39_Actor rdf:about="https://viaf.org/viaf/5037148209311300460001">
                   <rdfs:label>Dereham, Thomas Sir</rdfs:label>
                </crm:E39_Actor>
             </crm:P23_transferred_title_from>
@@ -10337,7 +11212,7 @@
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
             <crm:P23_transferred_title_from>
-               <crm:E39_Actor rdf:about="https://viaf.org/viaf/5,0371482093113E+021">
+               <crm:E39_Actor rdf:about="https://viaf.org/viaf/5037148209311300460001">
                   <rdfs:label>Dereham, Thomas Sir</rdfs:label>
                </crm:E39_Actor>
             </crm:P23_transferred_title_from>
