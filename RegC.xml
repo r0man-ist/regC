@@ -4822,7 +4822,29 @@
             </monogr>
         </biblStruct>
     </object>
+    <object xml:id="regC-bib-Albin1720" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">Arch.Nat. hist. N 7 (1) </idno>
+            <idno type="ALMA-ID">990121586480107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990121586480107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/347904">Albin, Eleazar, active 1713-1759</author>
+                <title>A natural history of English insects. : Illustrated with a hundred copper
+                    plates, curiously engraven from the life: and (for those who desire it) exactly
+                    coloured by the author Eleazar Albin, painter..</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1720</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
 </listObject>
+
 
 
 
@@ -9701,7 +9723,7 @@
                                 </choice></ab></cell>
                     </row>
                     <row ana="prov:purchase">
-                        <cell><bibl>Albin of Insects Lond. 1720. 4°</bibl></cell>
+                        <cell><bibl corresp="#regC-bib-Albin1720">Albin of Insects Lond. 1720. 4°</bibl></cell>
                         <cell><measure quantity="3" unit="pound">3</measure></cell>
                         <cell><measure quantity="13" unit="shilling">13</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>

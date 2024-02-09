@@ -4146,6 +4146,17 @@
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P136-I1">
+                  <dcterms:title>A natural history of English insects. : Illustrated with a hundred copper plates, curiously engraven from the life: and (for those who desire it) exactly coloured by the author Eleazar Albin, painter..</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/347904">
+                        <rdfs:label>Albin, Eleazar, active 1713-1759</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>Arch.Nat. hist. N 7 (1) </crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
             <crm:P119_had_sales_price>
                <crm:E97_Monetary_Amount>
                   <crm:P180_has_currency>Pound</crm:P180_has_currency>
