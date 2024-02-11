@@ -163,7 +163,7 @@
                 <idno type="WikiData">Q4786373</idno>
             </person>
             <person xml:id="regC-RMEA">
-                <persName>Mead, Ritchard</persName>
+                <persName>Mead, Richard</persName>
                 <idno type="VIAF">45083556</idno>
                 <idno type="WikiData">Q3888733</idno>
             </person>
@@ -197,7 +197,12 @@
                 <idno type="VIAF">95366593</idno>
                 <idno type="CERL">cnp00101121 </idno>
             </person>
+            <person xml:id="regC-DWIL">
+                <persName>Wilkins, David</persName>
+                <idno type="VIAF">24611480</idno>
+            </person>
         </listPerson>
+        
 
         <listObject>
             <object xml:id="regC-bib-ActaEruditorum1719" ana="copy-identified">
@@ -9818,7 +9823,7 @@
                     <cell>d</cell>
                 </row>
                 <row>
-                    <cell>Recd of Mr Vice-Chancellor at times 43£.<lb/> which with 3:13:5 p<hi
+                    <cell>Recd of Mr Vice-Chancellor at times 43£.<lb/> which with 3:13:6 p<hi
                             rend="superscript:true">d</hi>. by him to Mr Whiteside<lb/> for Eleazar
                         Albin's Book of Insects comes to</cell>
                     <cell><measure quantity="46" unit="pound">46</measure></cell>
@@ -10463,6 +10468,199 @@
                             >16</measure></cell>
                         <cell rend="border-top"><measure quantity="0" unit="pence"
                             >00</measure></cell>
+                    </row>
+                </table></ab>
+
+            <pb xml:id="fol-39v" n="64" style="empty"/>
+            <pb xml:id="fol-40r" n="65"/>
+            <ab ana="prov"><date ana="prov:when" notBefore="1721-11-09" notAfter="1722-11-01"/>
+                <table>
+                    <row>
+                        <cell rend="head">Books given in 1722</cell>
+                        <cell rend="head">Place</cell>
+                        <cell rend="head">Benefactor</cell>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Pinacotheca Hamptoniana, ꝓ Dorigny</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>Arch C. 127.</orig>
+                                    <reg>Arch C 127</reg>
+                                </choice></ab></cell>
+                        <cell>Stationers.</cell>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>The Appendix to Collier&apos;s Dictionary</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>B.6.11. Th.</orig>
+                                    <reg>B 6.11 Th.</reg>
+                                </choice></ab></cell>
+                        <cell>Iid.</cell>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>The Cries of yͤ City of London. 1711</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>E.1.17. Jur.</orig>
+                                    <reg>E 1.17 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell>Iid.</cell>
+                    </row>
+                    <row>
+                        <cell><bibl>Clark&apos;s Translation of Eutropius</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° E.65.Jur</orig>
+                                    <reg>8° E 65 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell>Iid.</cell>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>Vida de Arte Poetica, Oxon. 1722</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8°. E.68. Jur.</orig>
+                                    <reg>8° E 68 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell><persName ana="prov:donor">Mr. Tristram</persName></cell>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>The Irish Compendium. 1722</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° Z.43.Jur</orig>
+                                    <reg>8° Z 43 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell>Stat.</cell>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Essay upon Civil Governmt.</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° Z.45.Jur</orig>
+                                    <reg>8° Z 45 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell>Stat.</cell>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Dundas&apos;s Abrigemt. of yͤ Acts of yͤ Ch. of
+                            Scotld.</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8°Z.46.Jur</orig>
+                                    <reg>8° Z 46 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell>Iid.</cell>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Gentleman&apos;s Pocket Companion 1722.</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° Z.48.Jur</orig>
+                                    <reg>8° Z 48 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell>Iid.</cell>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Abbot Vertot of yͤ Salic Laws, by Rival.</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° Z.50 Jur.</orig>
+                                    <reg>8° Z 50 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell>Iid</cell>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Essay in defence of yͤ Female Sex</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>... 51 ...</orig>
+                                    <reg>8° Z 51 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell/>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>Tertullian&apos;s Prescription translated</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° B 406 Linc.</orig>
+                                    <reg>8° B 406 Linc.</reg>
+                                </choice></ab></cell>
+                        <cell><persName ana="prov:donor">Mr. Betty</persName></cell>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Cheselden&apos;s Anatomy</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>... 407 ...</orig>
+                                    <reg>8° B 407 Linc.</reg>
+                                </choice></ab></cell>
+                        <cell>Stat.</cell>
+                    </row>
+                    <row>
+                        <cell cols="3">The Rest areinserted in the Public Cataloques<lb/> of
+                            Benefactors. [except the following]</cell>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>The Beauty of Holiness Lond. 1721.</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° X. 70.Th.</orig>
+                                    <reg>8° X 70 Th.</reg>
+                                </choice></ab></cell>
+                        <cell><persName ana="prov:donor">Dr. Bisse</persName></cell>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>Jac. Wallii Poematū libb. IX Ant. 1656</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° E.39.Jur.</orig>
+                                    <reg>8° E 39 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell><persName ana="prov:donor" corresp="#regC-RSHI">Dr
+                            Shippen.</persName></cell>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>Sidronii Hoschii Elegiarū libb. VI. Ant. 1700.</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>... 40 ...</orig>
+                                    <reg>8° E 40 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell><persName ana="prov:donor" corresp="#regC-RSHI">Idem</persName></cell>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>Poemata in ejus obitum. ibid.</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig/>
+                                    <reg>8° E 40 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell><persName ana="prov:donor" corresp="#regC-RSHI">Idem</persName></cell>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>Guil. Becani Idyllia et Elegia. Ant. 1700.</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>ibid.</orig>
+                                    <reg>8° E 40 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell><persName ana="prov:donor" corresp="#regC-RSHI">Idem</persName></cell>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>Dr Mead on yͤ Plague. 1722.</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° N.82.Med.</orig>
+                                    <reg>8° N 82 Med.</reg>
+                                </choice></ab></cell>
+                        <cell><persName ana="prov:donor" corresp="#regC-RMEA">Cl. Auctor.</persName></cell>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>Leges Anglo-Saxonicæa ꝓ D. Wilkins</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>A.15.4.Th.</orig>
+                                    <reg>A 15.4 Th.</reg>
+                                </choice></ab></cell>
+                        <cell><persName ana="prov:donor" corresp="#regC-DWIL">Cl. Editor.</persName></cell>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Dr. Shaw on yͤ Ch. Cathecism. 1722.</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° O.37.38.39 Linc</orig>
+                                    <reg>8° O 37,38,39 Linc.</reg>
+                                </choice></ab></cell>
+                        <cell>Stat.</cell>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Croxal&apos;s Translation of Asop&apos;s Fables</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° O.41.Linc.</orig>
+                                    <reg>8° O 41 Linc.</reg>
+                                </choice></ab></cell>
+                        <cell>Stat.</cell>
                     </row>
                 </table></ab>
 
