@@ -152,6 +152,7 @@
         <https:r0man-ist.github.io/regC#Dep-ID44>,
         <https:r0man-ist.github.io/regC#Dep-ID45>,
         <https:r0man-ist.github.io/regC#Dep-ID46>,
+        <https:r0man-ist.github.io/regC#Dep-ID47>,
         <https:r0man-ist.github.io/regC#Dep-ID5>,
         <https:r0man-ist.github.io/regC#Dep-ID6>,
         <https:r0man-ist.github.io/regC#Dep-ID7>,
@@ -196,6 +197,7 @@
         <https:r0man-ist.github.io/regC#Dep44>,
         <https:r0man-ist.github.io/regC#Dep45>,
         <https:r0man-ist.github.io/regC#Dep46>,
+        <https:r0man-ist.github.io/regC#Dep47>,
         <https:r0man-ist.github.io/regC#Dep5>,
         <https:r0man-ist.github.io/regC#Dep6>,
         <https:r0man-ist.github.io/regC#Dep7>,
@@ -768,6 +770,9 @@
 
 <https://viaf.org/viaf/26032730> a crm:E21_Person ;
     rdfs:label "Lewis, Thomas, 1689-1749?" .
+
+<https://viaf.org/viaf/266524486> a crm:E21_Person ;
+    rdfs:label "Eutropius, active 4th century" .
 
 <https://viaf.org/viaf/267039708> a crm:E21_Person ;
     rdfs:label "Rival, Pierre, ?-1730" .
@@ -2336,6 +2341,13 @@
             crm:P82a_begin_of_the_begin "1722-11-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1722-11-01T23:59:59"^^xsd:dateTime ] .
 
+<https:r0man-ist.github.io/regC#Dep-ID47> a crm:E15_Identifier_Assignment ;
+    crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep47-I1> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep47-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1722-11-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1722-11-01T23:59:59"^^xsd:dateTime ] .
+
 <https:r0man-ist.github.io/regC#Dep-ID5> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep5-I1> ;
     crm:P37_assigned <https:r0man-ist.github.io/regC#Dep5-ID> ;
@@ -2698,23 +2710,23 @@
 <https:r0man-ist.github.io/regC#Dep38> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
     crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#Dep38-I1> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1721-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1722-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep38-ID> a crm:E42_Identifier ;
-    crm:P90_has_value "8Â° Z 43 Jur." .
+    crm:P90_has_value "8Â° E 65 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep39> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
     crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
-    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#Dep39-I1> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1721-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1722-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep39-ID> a crm:E42_Identifier ;
-    crm:P90_has_value "8Â° Z 45 Jur." .
+    crm:P90_has_value "8Â° Z 43 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep4> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
@@ -2735,7 +2747,7 @@
             crm:P82b_end_of_the_end "1722-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep40-ID> a crm:E42_Identifier ;
-    crm:P90_has_value "8Â° Z 46 Jur." .
+    crm:P90_has_value "8Â° Z 45 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep41> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
@@ -2746,7 +2758,7 @@
             crm:P82b_end_of_the_end "1722-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep41-ID> a crm:E42_Identifier ;
-    crm:P90_has_value "8Â° Z 48 Jur." .
+    crm:P90_has_value "8Â° Z 46 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep42> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
@@ -2757,7 +2769,7 @@
             crm:P82b_end_of_the_end "1722-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep42-ID> a crm:E42_Identifier ;
-    crm:P90_has_value "8Â° Z 50 Jur." .
+    crm:P90_has_value "8Â° Z 48 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep43> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
@@ -2768,7 +2780,7 @@
             crm:P82b_end_of_the_end "1722-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep43-ID> a crm:E42_Identifier ;
-    crm:P90_has_value "8Â° Z 51 Jur." .
+    crm:P90_has_value "8Â° Z 50 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep44> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
@@ -2779,17 +2791,18 @@
             crm:P82b_end_of_the_end "1722-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep44-ID> a crm:E42_Identifier ;
-    crm:P90_has_value "8Â° B 407 Linc." .
+    crm:P90_has_value "8Â° Z 51 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep45> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
     crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#Dep45-I1> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1721-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1722-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep45-ID> a crm:E42_Identifier ;
-    crm:P90_has_value "8Â° O 37,38,39 Linc." .
+    crm:P90_has_value "8Â° B 407 Linc." .
 
 <https:r0man-ist.github.io/regC#Dep46> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
@@ -2799,6 +2812,16 @@
             crm:P82b_end_of_the_end "1722-11-01T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep46-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "8Â° O 37,38,39 Linc." .
+
+<https:r0man-ist.github.io/regC#Dep47> a prov1:Legal_Deposit ;
+    crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
+    crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1721-11-09T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1722-11-01T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep47-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° O 41 Linc." .
 
 <https:r0man-ist.github.io/regC#Dep5> a prov1:Legal_Deposit ;
@@ -7840,29 +7863,34 @@
     dcterms1:title "Introductio ad veram astronomiam, seu lectiones astronomicÃ¦ habitÃ¦ in schola astronomica AcademiÃ¦ Oxoniensis Authore Joanne Keill, ..." ;
     crm:P48_has_preferred_identifier "8Â° E 38 Jur." .
 
-<https:r0man-ist.github.io/regC#Dep39-I1> a prov1:Item ;
+<https:r0man-ist.github.io/regC#Dep38-I1> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/266524486> ;
+    dcterms1:title "Eutropii historiÃ¦ RomanÃ¦ breviarium, cum versione AnglicÃ¢, in qua, verbum de verbo, quantum fieri licuit, exprimitur, notis quoque & indice. Or, Eutropius's compendious history of Rome, together with an English translation as literal as possible, notes and an index. By John Clarke ..." ;
+    crm:P48_has_preferred_identifier "8Â° E 65 Jur." .
+
+<https:r0man-ist.github.io/regC#Dep40-I1> a prov1:Item ;
     dcterms1:creator <https://viaf.org/viaf/27070583> ;
     dcterms1:title "An essay upon civil government: wherein is set forth, the necessity, origine, rights, boundaries, and different forms of sovereignty. With observations on the ancient government of Rome and England. According to the principles of the late Archbishop of Cambray. Translated from the French.." ;
     crm:P48_has_preferred_identifier "8Â° Z 45 Jur." .
 
-<https:r0man-ist.github.io/regC#Dep40-I1> a prov1:Item ;
+<https:r0man-ist.github.io/regC#Dep41-I1> a prov1:Item ;
     dcterms1:title "An abridgment of the acts of the general assemblies of the Church of Scotland: ... By John Dundas ..." ;
     crm:P48_has_preferred_identifier "8Â° Z 46 Jur." .
 
-<https:r0man-ist.github.io/regC#Dep41-I1> a prov1:Item ;
+<https:r0man-ist.github.io/regC#Dep42-I1> a prov1:Item ;
     dcterms1:title "The gentleman's pocket companion, for travelling into foreign parts: : being a most easy, plain and particular description of the roads from London to all the capital cities in Europe. With an account of the distances of leagues or miles from place to place, all reduced to the English standard. Illustrated with maps curiously engraven on copper plates. With Three dialogues in six European languages. The first being to ask the way, with other familiar communications. The second is common talke in an inn. The third other necessary conversation.." ;
     crm:P48_has_preferred_identifier "8Â° Z 48 Jur." .
 
-<https:r0man-ist.github.io/regC#Dep42-I1> a prov1:Item ;
+<https:r0man-ist.github.io/regC#Dep43-I1> a prov1:Item ;
     dcterms1:creator <https://viaf.org/viaf/267039708> ;
     dcterms1:title "Part of the Abbot de Vertot's dissertation upon the origine of the Salick laws, and, the question, whether it be precisely in pursuance of article LXII. Paragraph VI. That the daughters of the Kings of France are excluded from the succession to the Crown, examined. In four parts. ... By Peter Rival, ... Done into English from the French, by a gentleman." ;
     crm:P48_has_preferred_identifier "8Â° Z 50 Jur." .
 
-<https:r0man-ist.github.io/regC#Dep43-I1> a prov1:Item ;
+<https:r0man-ist.github.io/regC#Dep44-I1> a prov1:Item ;
     dcterms1:title "An essay in defence of the female sex, in a letter to a lady, written by a lady." ;
     crm:P48_has_preferred_identifier "8Â° Z 51 Jur." .
 
-<https:r0man-ist.github.io/regC#Dep44-I1> a prov1:Item ;
+<https:r0man-ist.github.io/regC#Dep45-I1> a prov1:Item ;
     dcterms1:creator <https://viaf.org/viaf/40161749> ;
     dcterms1:title "The anatomy of the humane body. With XXXI copper-plates. By W. Cheselden, ..." ;
     crm:P48_has_preferred_identifier "8Â° B 407 Linc." .

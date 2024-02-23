@@ -10579,6 +10579,17 @@
                   <rdfs:label>Stationers' Company London</rdfs:label>
                </crm:E74_Group>
             </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep38-I1">
+                  <dcterms:title>Eutropii historiæ Romanæ breviarium, cum versione Anglicâ, in qua, verbum de verbo, quantum fieri licuit, exprimitur, notis quoque &amp; indice. Or, Eutropius's compendious history of Rome, together with an English translation as literal as possible, notes and an index. By John Clarke ...</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/266524486">
+                        <rdfs:label>Eutropius, active 4th century</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>8° E 65 Jur.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-09T00:00:00</crm:P82a_begin_of_the_begin>
@@ -10599,18 +10610,6 @@
                   <rdfs:label>Stationers' Company London</rdfs:label>
                </crm:E74_Group>
             </crm:P23_transferred_title_from>
-            <crm:P24_transferred_title_of>
-               <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep39-I1">
-                  <dcterms:title>An essay upon civil government: wherein is set forth, the necessity, origine, rights, boundaries, and different forms of sovereignty. With observations on the ancient government of Rome and England. According to the principles of the late Archbishop of Cambray. Translated from the French..</dcterms:title>
-                  <dcterms:creator>
-                     <crm:E21_Person rdf:about="https://viaf.org/viaf/27070583">
-                        <rdfs:label>Ramsay, chevalier (Andrew Michael),
-                    1686-1743</rdfs:label>
-                     </crm:E21_Person>
-                  </dcterms:creator>
-                  <crm:P48_has_preferred_identifier>8° Z 45 Jur.</crm:P48_has_preferred_identifier>
-               </prov:Item>
-            </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-09T00:00:00</crm:P82a_begin_of_the_begin>
@@ -10633,8 +10632,14 @@
             </crm:P23_transferred_title_from>
             <crm:P24_transferred_title_of>
                <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep40-I1">
-                  <dcterms:title>An abridgment of the acts of the general assemblies of the Church of Scotland: ... By John Dundas ...</dcterms:title>
-                  <crm:P48_has_preferred_identifier>8° Z 46 Jur.</crm:P48_has_preferred_identifier>
+                  <dcterms:title>An essay upon civil government: wherein is set forth, the necessity, origine, rights, boundaries, and different forms of sovereignty. With observations on the ancient government of Rome and England. According to the principles of the late Archbishop of Cambray. Translated from the French..</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/27070583">
+                        <rdfs:label>Ramsay, chevalier (Andrew Michael),
+                    1686-1743</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>8° Z 45 Jur.</crm:P48_has_preferred_identifier>
                </prov:Item>
             </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
@@ -10659,8 +10664,8 @@
             </crm:P23_transferred_title_from>
             <crm:P24_transferred_title_of>
                <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep41-I1">
-                  <dcterms:title>The gentleman's pocket companion, for travelling into foreign parts: : being a most easy, plain and particular description of the roads from London to all the capital cities in Europe. With an account of the distances of leagues or miles from place to place, all reduced to the English standard. Illustrated with maps curiously engraven on copper plates. With Three dialogues in six European languages. The first being to ask the way, with other familiar communications. The second is common talke in an inn. The third other necessary conversation..</dcterms:title>
-                  <crm:P48_has_preferred_identifier>8° Z 48 Jur.</crm:P48_has_preferred_identifier>
+                  <dcterms:title>An abridgment of the acts of the general assemblies of the Church of Scotland: ... By John Dundas ...</dcterms:title>
+                  <crm:P48_has_preferred_identifier>8° Z 46 Jur.</crm:P48_has_preferred_identifier>
                </prov:Item>
             </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
@@ -10685,13 +10690,8 @@
             </crm:P23_transferred_title_from>
             <crm:P24_transferred_title_of>
                <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep42-I1">
-                  <dcterms:title>Part of the Abbot de Vertot's dissertation upon the origine of the Salick laws, and, the question, whether it be precisely in pursuance of article LXII. Paragraph VI. That the daughters of the Kings of France are excluded from the succession to the Crown, examined. In four parts. ... By Peter Rival, ... Done into English from the French, by a gentleman.</dcterms:title>
-                  <dcterms:creator>
-                     <crm:E21_Person rdf:about="https://viaf.org/viaf/267039708">
-                        <rdfs:label>Rival, Pierre, ?-1730</rdfs:label>
-                     </crm:E21_Person>
-                  </dcterms:creator>
-                  <crm:P48_has_preferred_identifier>8° Z 50 Jur.</crm:P48_has_preferred_identifier>
+                  <dcterms:title>The gentleman's pocket companion, for travelling into foreign parts: : being a most easy, plain and particular description of the roads from London to all the capital cities in Europe. With an account of the distances of leagues or miles from place to place, all reduced to the English standard. Illustrated with maps curiously engraven on copper plates. With Three dialogues in six European languages. The first being to ask the way, with other familiar communications. The second is common talke in an inn. The third other necessary conversation..</dcterms:title>
+                  <crm:P48_has_preferred_identifier>8° Z 48 Jur.</crm:P48_has_preferred_identifier>
                </prov:Item>
             </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
@@ -10716,8 +10716,13 @@
             </crm:P23_transferred_title_from>
             <crm:P24_transferred_title_of>
                <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep43-I1">
-                  <dcterms:title>An essay in defence of the female sex, in a letter to a lady, written by a lady.</dcterms:title>
-                  <crm:P48_has_preferred_identifier>8° Z 51 Jur.</crm:P48_has_preferred_identifier>
+                  <dcterms:title>Part of the Abbot de Vertot's dissertation upon the origine of the Salick laws, and, the question, whether it be precisely in pursuance of article LXII. Paragraph VI. That the daughters of the Kings of France are excluded from the succession to the Crown, examined. In four parts. ... By Peter Rival, ... Done into English from the French, by a gentleman.</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/267039708">
+                        <rdfs:label>Rival, Pierre, ?-1730</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>8° Z 50 Jur.</crm:P48_has_preferred_identifier>
                </prov:Item>
             </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
@@ -10742,13 +10747,8 @@
             </crm:P23_transferred_title_from>
             <crm:P24_transferred_title_of>
                <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep44-I1">
-                  <dcterms:title>The anatomy of the humane body. With XXXI copper-plates. By W. Cheselden, ...</dcterms:title>
-                  <dcterms:creator>
-                     <crm:E21_Person rdf:about="https://viaf.org/viaf/40161749">
-                        <rdfs:label>Cheselden, William, 1688-1752</rdfs:label>
-                     </crm:E21_Person>
-                  </dcterms:creator>
-                  <crm:P48_has_preferred_identifier>8° B 407 Linc.</crm:P48_has_preferred_identifier>
+                  <dcterms:title>An essay in defence of the female sex, in a letter to a lady, written by a lady.</dcterms:title>
+                  <crm:P48_has_preferred_identifier>8° Z 51 Jur.</crm:P48_has_preferred_identifier>
                </prov:Item>
             </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
@@ -10771,6 +10771,17 @@
                   <rdfs:label>Stationers' Company London</rdfs:label>
                </crm:E74_Group>
             </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep45-I1">
+                  <dcterms:title>The anatomy of the humane body. With XXXI copper-plates. By W. Cheselden, ...</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/40161749">
+                        <rdfs:label>Cheselden, William, 1688-1752</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>8° B 407 Linc.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-09T00:00:00</crm:P82a_begin_of_the_begin>
@@ -10781,6 +10792,26 @@
       </crm:P70_documents>
       <crm:P70_documents>
          <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep46">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/122574378">
+                  <rdfs:label>Stationers' Company London</rdfs:label>
+               </crm:E74_Group>
+            </crm:P23_transferred_title_from>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1721-11-09T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </prov:Legal_Deposit>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep47">
             <crm:P22_transferred_title_to>
                <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
                   <rdfs:label>Bodleian Library</rdfs:label>
@@ -11369,7 +11400,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep38-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep38-ID">
-                  <crm:P90_has_value>8° Z 43 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° E 65 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -11385,7 +11416,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep39-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep39-ID">
-                  <crm:P90_has_value>8° Z 45 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° Z 43 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -11401,7 +11432,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep40-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep40-ID">
-                  <crm:P90_has_value>8° Z 46 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° Z 45 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -11417,7 +11448,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep41-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep41-ID">
-                  <crm:P90_has_value>8° Z 48 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° Z 46 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -11433,7 +11464,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep42-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep42-ID">
-                  <crm:P90_has_value>8° Z 50 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° Z 48 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -11449,7 +11480,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep43-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep43-ID">
-                  <crm:P90_has_value>8° Z 51 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° Z 50 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -11465,7 +11496,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep44-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep44-ID">
-                  <crm:P90_has_value>8° B 407 Linc.</crm:P90_has_value>
+                  <crm:P90_has_value>8° Z 51 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -11481,7 +11512,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep45-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep45-ID">
-                  <crm:P90_has_value>8° O 37,38,39 Linc.</crm:P90_has_value>
+                  <crm:P90_has_value>8° B 407 Linc.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -11497,6 +11528,22 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep46-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep46-ID">
+                  <crm:P90_has_value>8° O 37,38,39 Linc.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#Dep-ID47">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep47-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep47-ID">
                   <crm:P90_has_value>8° O 41 Linc.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>

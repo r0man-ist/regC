@@ -10564,7 +10564,7 @@
                                 </choice></ab></cell>
                         <cell>Iid.</cell>
                     </row>
-                    <row>
+                    <row ana="prov:deposit">
                         <cell><bibl corresp="#regC-bib-Eutropius1722">Clark&apos;s Translation of Eutropius</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>8° E.65.Jur</orig>
