@@ -1001,6 +1001,10 @@
     rdfs:label """Bonifacio, Baldassarre,
                     1585-1659""" .
 
+<https://viaf.org/viaf/64362921> a crm:E21_Person ;
+    rdfs:label """Walle, Jacques van de
+                    1599-1690""" .
+
 <https://viaf.org/viaf/64789715> a crm:E21_Person ;
     rdfs:label "Burman, Pieter, 1668-1741" .
 
@@ -7679,7 +7683,9 @@
     crm:P48_has_preferred_identifier "8Â° B 406(2) Linc." .
 
 <https:r0man-ist.github.io/regC#D51-I1> a prov1:Item ;
-    dcterms1:title "" .
+    dcterms1:creator <https://viaf.org/viaf/64362921> ;
+    dcterms1:title "Iacobi Wallii ... poematum libri nouem." ;
+    crm:P48_has_preferred_identifier "8Â° E 39 Jur." .
 
 <https:r0man-ist.github.io/regC#D52-I1> a prov1:Item ;
     dcterms1:creator <https://viaf.org/viaf/45131215> ;

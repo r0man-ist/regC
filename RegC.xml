@@ -10658,7 +10658,7 @@
                         <cell><persName ana="prov:donor">Dr. Bisse</persName></cell>
                     </row>
                     <row ana="prov:donation">
-                        <cell><bibl corresp="regC-bib-Walle1656">Jac. Wallii Poematū libb. IX Ant. 1656</bibl></cell>
+                        <cell><bibl corresp="#regC-bib-Walle1656">Jac. Wallii Poematū libb. IX Ant. 1656</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>8° E.39.Jur.</orig>
                                     <reg>8° E 39 Jur.</reg>

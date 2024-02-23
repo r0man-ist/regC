@@ -12810,7 +12810,14 @@
             </crm:P23_transferred_title_from>
             <crm:P24_transferred_title_of>
                <prov:Item rdf:about="https:r0man-ist.github.io/regC#D51-I1">
-                  <dcterms:title/>
+                  <dcterms:title>Iacobi Wallii ... poematum libri nouem.</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/64362921">
+                        <rdfs:label>Walle, Jacques van de
+                    1599-1690</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>8° E 39 Jur.</crm:P48_has_preferred_identifier>
                </prov:Item>
             </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
