@@ -10742,14 +10742,13 @@
             </crm:P23_transferred_title_from>
             <crm:P24_transferred_title_of>
                <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep44-I1">
-                  <dcterms:title>Tertullian's Prescription against hereticks; and the apologeticks of st. Theophilus, bishop of Antioch, to Autolycus against the malicious calumniators of the Christian religion, tr., with notes and prelim. dissertations, by J. Betty.</dcterms:title>
+                  <dcterms:title>The anatomy of the humane body. With XXXI copper-plates. By W. Cheselden, ...</dcterms:title>
                   <dcterms:creator>
-                     <crm:E21_Person rdf:about="https://viaf.org/viaf/100226395">
-                        <rdfs:label>Tertullian, approximately
-                    160-approximately 230</rdfs:label>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/40161749">
+                        <rdfs:label>Cheselden, William, 1688-1752</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
-                  <crm:P48_has_preferred_identifier>8° B 406(2) Linc.</crm:P48_has_preferred_identifier>
+                  <crm:P48_has_preferred_identifier>8° B 407 Linc.</crm:P48_has_preferred_identifier>
                </prov:Item>
             </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
@@ -12759,13 +12758,14 @@
             </crm:P23_transferred_title_from>
             <crm:P24_transferred_title_of>
                <prov:Item rdf:about="https:r0man-ist.github.io/regC#D49-I1">
-                  <dcterms:title>The anatomy of the humane body. With XXXI copper-plates. By W. Cheselden, ...</dcterms:title>
+                  <dcterms:title>Tertullian's Prescription against hereticks; and the apologeticks of st. Theophilus, bishop of Antioch, to Autolycus against the malicious calumniators of the Christian religion, tr., with notes and prelim. dissertations, by J. Betty.</dcterms:title>
                   <dcterms:creator>
-                     <crm:E21_Person rdf:about="https://viaf.org/viaf/40161749">
-                        <rdfs:label>Cheselden, William, 1688-1752</rdfs:label>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/100226395">
+                        <rdfs:label>Tertullian, approximately
+                    160-approximately 230</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
-                  <crm:P48_has_preferred_identifier>8° B 407 Linc.</crm:P48_has_preferred_identifier>
+                  <crm:P48_has_preferred_identifier>8° B 406(2) Linc.</crm:P48_has_preferred_identifier>
                </prov:Item>
             </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>

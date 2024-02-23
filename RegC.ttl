@@ -7674,9 +7674,9 @@
     crm:P48_has_preferred_identifier "8Â° E 68 Jur." .
 
 <https:r0man-ist.github.io/regC#D49-I1> a prov1:Item ;
-    dcterms1:creator <https://viaf.org/viaf/40161749> ;
-    dcterms1:title "The anatomy of the humane body. With XXXI copper-plates. By W. Cheselden, ..." ;
-    crm:P48_has_preferred_identifier "8Â° B 407 Linc." .
+    dcterms1:creator <https://viaf.org/viaf/100226395> ;
+    dcterms1:title "Tertullian's Prescription against hereticks; and the apologeticks of st. Theophilus, bishop of Antioch, to Autolycus against the malicious calumniators of the Christian religion, tr., with notes and prelim. dissertations, by J. Betty." ;
+    crm:P48_has_preferred_identifier "8Â° B 406(2) Linc." .
 
 <https:r0man-ist.github.io/regC#D51-I1> a prov1:Item ;
     dcterms1:title "" .
@@ -7857,9 +7857,9 @@
     crm:P48_has_preferred_identifier "8Â° Z 51 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep44-I1> a prov1:Item ;
-    dcterms1:creator <https://viaf.org/viaf/100226395> ;
-    dcterms1:title "Tertullian's Prescription against hereticks; and the apologeticks of st. Theophilus, bishop of Antioch, to Autolycus against the malicious calumniators of the Christian religion, tr., with notes and prelim. dissertations, by J. Betty." ;
-    crm:P48_has_preferred_identifier "8Â° B 406(2) Linc." .
+    dcterms1:creator <https://viaf.org/viaf/40161749> ;
+    dcterms1:title "The anatomy of the humane body. With XXXI copper-plates. By W. Cheselden, ..." ;
+    crm:P48_has_preferred_identifier "8Â° B 407 Linc." .
 
 <https:r0man-ist.github.io/regC#Dep5-I1> a prov1:Item ;
     dcterms1:creator <https://viaf.org/viaf/306131807> ;
