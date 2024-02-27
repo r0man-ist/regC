@@ -147,6 +147,7 @@
                                             <a class="dropdown-item" href="#fol-7r">1720</a>
                                             <a class="dropdown-item" href="#fol-19v">1721</a>
                                             <a class="dropdown-item" href="#fol-35v">1722</a>
+                                            <a class="dropdown-item" href="#fol-40v">1723</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -419,7 +420,13 @@
             <xsl:apply-templates/>
         </s>
     </xsl:template>
-
+    
+    <!--additions-->
+    <xsl:template match="t:add">
+        <sup>
+            <xsl:apply-templates/>
+        </sup>
+    </xsl:template>
     <!-- item List -->
     <xsl:template match="t:list">
         <ul style="list-style-type:none;">
