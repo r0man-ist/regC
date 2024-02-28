@@ -10977,7 +10977,9 @@
                     <cell><measure quantity="16" unit="shilling">16</measure></cell>
                     <cell><measure quantity="5" unit="pence">05</measure></cell>
                 </row>
-                <row><cell></cell><cell></cell>
+                <row>
+                    <cell/>
+                    <cell/>
                     <cell rend="border-top"><measure quantity="18" unit="pound">18</measure></cell>
                     <cell rend="border-top"><measure quantity="4" unit="shilling"
                         >04</measure></cell>
@@ -11040,7 +11042,8 @@
                     <row ana="prov:subscription">
                         <cell>1<hi rend="superscript:true">st</hi> Paym<hi rend="superscript:true"
                                 >t</hi>. for <bibl>Joh. de Fordun</bibl> to <persName>Mr
-                                Hearne</persName></cell><cell></cell>
+                                Hearne</persName></cell>
+                        <cell/>
                         <cell><measure quantity="1" unit="pound">1</measure></cell>
                         <cell><measure quantity="1" unit="shilling">01</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
@@ -11149,7 +11152,7 @@
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
                     </row>
                     <row>
-                        <cell><bibl>Pauli Manuti Epistolæ</bibl></cell>
+                        <cell><bibl>Pauli Manutii Epistolæ</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>...186...</orig>
                                     <reg>8° A 186 Linc.</reg>
@@ -11196,7 +11199,8 @@
                         <cell>These three bought of <persName>Mr Crynes</persName></cell>
                     </row>
                     <row>
-                        <cell/><cell></cell>
+                        <cell/>
+                        <cell/>
                         <cell rend="border-top"><measure quantity="9" unit="pound"
                             >09</measure></cell>
                         <cell rend="border-top"><measure quantity="1" unit="shilling"
@@ -11206,6 +11210,50 @@
                     </row>
                 </table>
             </ab>
+            <pb xml:id="fol-41v" n="68" style="empty"/>
+            <pb xml:id="fol-42r" n="69"/>
+            <table>
+                <row>
+                    <cell rend="head">Extraordinary Expences <date when="1723">1723</date>.</cell>
+                    <cell rend="head">£</cell>
+                    <cell rend="head">s</cell>
+                    <cell rend="head">d</cell>
+                </row>
+                <row>
+                    <cell>For Extraordinary Pains in Sweeping yͤ Library &amp; books<lb/> in the
+                        Gallerys before Easter</cell>
+                    <cell><measure quantity="1" unit="pound">01</measure></cell>
+                    <cell><measure quantity="0" unit="shilling">00</measure></cell>
+                    <cell><measure quantity="0" unit="pence">00</measure></cell>
+                </row>
+                <row>
+                    <cell>For yͤ Carriage of Books bought</cell>
+                    <cell><measure quantity="0" unit="pound">00</measure></cell>
+                    <cell><measure quantity="5" unit="shilling">05</measure></cell>
+                    <cell><measure quantity="9" unit="pence">09</measure></cell>
+                </row>
+                <row>
+                    <cell>For two Parcels from yͤ Stationers with Letters</cell>
+                    <cell><measure quantity="0" unit="pound">00</measure></cell>
+                    <cell><measure quantity="3" unit="shilling">03</measure></cell>
+                    <cell><measure quantity="6" unit="pence">06</measure></cell>
+                </row>
+                <row>
+                    <cell>For inserting yͤ names of Benefactors in yͤ vellam<lb/> Register, at 2<hi
+                            rend="superscript:true">s-</hi>6<hi rend="superscript:true">d</hi> each
+                        name</cell>
+                    <cell><measure quantity="0" unit="pound">00</measure></cell>
+                    <cell><measure quantity="17" unit="shilling">17</measure></cell>
+                    <cell><measure quantity="6" unit="pence">06</measure></cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell rend="border-top"><measure quantity="2" unit="pound">02</measure></cell>
+                    <cell rend="border-top"><measure quantity="6" unit="shilling"
+                        >06</measure></cell>
+                    <cell rend="border-top"><measure quantity="9" unit="pence">09</measure></cell>
+                </row>
+            </table>
         </body>
     </text>
 </TEI>
