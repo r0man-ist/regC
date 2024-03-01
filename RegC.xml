@@ -11016,7 +11016,7 @@
                     </row>
                 </table></p>
             <pb xml:id="fol-41r" n="67"/>
-            <ab ana="prov"><date notBefore="1722-11-09" notAfter="1723-11-01"/>
+            <ab ana="prov"><date ana="prov:when" notBefore="1722-11-09" notAfter="1723-11-01"/>
                 <table>
                     <row>
                         <cell rend="head">Books bought by the Library Keeper at several<lb/> times

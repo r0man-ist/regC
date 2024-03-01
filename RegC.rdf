@@ -5134,8 +5134,8 @@
             </crm:P119_had_sales_price>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
-                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00</crm:P82a_begin_of_the_begin>
-                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T23:59:59</crm:P82b_end_of_the_end>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-09T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1723-11-01T23:59:59</crm:P82b_end_of_the_end>
                </crm:E61_Time_Primitive>
             </crm:P4_has_time_span>
          </crm:E96_Purchase>
@@ -5155,8 +5155,8 @@
             </crm:P119_had_sales_price>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
-                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00</crm:P82a_begin_of_the_begin>
-                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T23:59:59</crm:P82b_end_of_the_end>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-09T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1723-11-01T23:59:59</crm:P82b_end_of_the_end>
                </crm:E61_Time_Primitive>
             </crm:P4_has_time_span>
          </crm:E96_Purchase>
@@ -5176,8 +5176,8 @@
             </crm:P119_had_sales_price>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
-                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00</crm:P82a_begin_of_the_begin>
-                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T23:59:59</crm:P82b_end_of_the_end>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-09T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1723-11-01T23:59:59</crm:P82b_end_of_the_end>
                </crm:E61_Time_Primitive>
             </crm:P4_has_time_span>
          </crm:E96_Purchase>
@@ -7475,8 +7475,8 @@
             </crm:P37_assigned>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
-                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00</crm:P82a_begin_of_the_begin>
-                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T23:59:59</crm:P82b_end_of_the_end>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1723-11-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1723-11-01T23:59:59</crm:P82b_end_of_the_end>
                </crm:E61_Time_Primitive>
             </crm:P4_has_time_span>
          </crm:E15_Identifier_Assignment>
@@ -7491,8 +7491,8 @@
             </crm:P37_assigned>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
-                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00</crm:P82a_begin_of_the_begin>
-                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T23:59:59</crm:P82b_end_of_the_end>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1723-11-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1723-11-01T23:59:59</crm:P82b_end_of_the_end>
                </crm:E61_Time_Primitive>
             </crm:P4_has_time_span>
          </crm:E15_Identifier_Assignment>
@@ -7507,8 +7507,8 @@
             </crm:P37_assigned>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
-                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00</crm:P82a_begin_of_the_begin>
-                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T23:59:59</crm:P82b_end_of_the_end>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1723-11-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1723-11-01T23:59:59</crm:P82b_end_of_the_end>
                </crm:E61_Time_Primitive>
             </crm:P4_has_time_span>
          </crm:E15_Identifier_Assignment>
@@ -14370,8 +14370,8 @@
             </crm:P14_carried_out_by>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
-                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00</crm:P82a_begin_of_the_begin>
-                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T23:59:59</crm:P82b_end_of_the_end>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-09T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1723-11-01T23:59:59</crm:P82b_end_of_the_end>
                </crm:E61_Time_Primitive>
             </crm:P4_has_time_span>
             <prov:subscription_price_paid>
