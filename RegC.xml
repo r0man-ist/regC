@@ -5492,19 +5492,374 @@
             </monogr>
         </biblStruct>
     </object>
+    <object xml:id="regC-bib-Manuzio1590" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° A 186 Linc.</idno>
+            <idno type="ALMA-ID">990140427740107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990140427740107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/120694653">Manuzio, Paulo, 1512-1574</author>
+                <title>Epistolarum Paulli Manutij libri xij. Eiusdem quæ præfationes appellantur:
+                    cum noua quoque accessione.</title>
+                <imprint>
+                    <pubPlace>[Geneva]</pubPlace>
+                    <date>1590</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Sophocles1579" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° A 185 Linc.</idno>
+            <idno type="ALMA-ID">990141519010107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990141519010107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/101760867">Sophocles</author>
+                <title>Sophokleous tragodiai z Sophoclis tragoediæ vii. in quibus carminum omnium
+                    ratio hactenus obscurior, nunc apertior proditur: opera G. Canteri.</title>
+                <imprint>
+                    <pubPlace>Antu.</pubPlace>
+                    <date>1579</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Aeschylus1567" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° A 184 Linc.</idno>
+            <idno type="ALMA-ID">990147793740107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990147793740107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/78769732">Aeschylus</author>
+                <title>Tragœdiæ selectæ Æschyli (Prometheus vinctus), Sophoclis, Euripidis. Cum
+                    duplici interpretatione Lat., vna ad verbū, altera carmine. Ennianæ
+                    interpretationes locorū aliquot Euripidis. [5 variant copies].</title>
+                <imprint>
+                    <pubPlace>[Geneva]</pubPlace>
+                    <date>1567</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Webster1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° A 189 Linc.</idno>
+            <idno type="ALMA-ID">990135346780107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135346780107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/65516783">Webster, James, 1658?-1720</author>
+                <title>Select sermons preach'd on several texts, more especially on Romans vi.23. By
+                    ... Mr. James Webster, ...</title>
+                <imprint>
+                    <pubPlace>Edinburgh</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Robertson1722" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° A 188(2) Linc.</idno>
+            <idno type="ALMA-ID">990135139800107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135139800107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/58955547">Robertson, James (School-master in
+                    Glasgow)</author>
+                <title>The ladies help to spelling. By James Robertson, school-master in
+                    Glasgow.</title>
+                <imprint>
+                    <pubPlace>Glasgow</pubPlace>
+                    <date>1722</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Carmichael1722" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° A 188(1) Linc.</idno>
+            <idno type="ALMA-ID">990135002980107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135002980107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/251523">Carmichael, Gershom, 1672-1729</author>
+                <title>Breviuscula introductio ad logicam: studiosæ juventutis (in Academiâ in
+                    primis Glasguensi) philosophica studia auspicantis primis usibus
+                    accommodata.</title>
+                <imprint>
+                    <pubPlace>Edinburgi</pubPlace>
+                    <date>1722</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Prevost1644" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° A 187 Linc.</idno>
+            <idno type="ALMA-ID">990146373730107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990146373730107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/71824522">Prévost, Jean, 1585-1631</author>
+                <title ref="https://viaf.org/viaf/183505590">Ioannis Præuotij ... Medicina pauperum,
+                    cum Censu venenorum &amp; alexipharmacorum. Quibus accessit De medicamentorum
+                    materia tractatus.</title>
+                <imprint>
+                    <pubPlace>Lugd.</pubPlace>
+                    <date>1644</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Dekkers1673" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° A 193 Linc.</idno>
+            <idno type="ALMA-ID">990148618300107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990148618300107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/267885254">Dekkers, Frederick, 1644-1720</author>
+                <title>Frederici Deckers ... Exercitationes medicæ practicæ circa medendi
+                    methodum.</title>
+                <imprint>
+                    <pubPlace>Lugd. Bat. &amp;c.</pubPlace>
+                    <date>1673</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Herodianus1608" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° A 192 Linc.</idno>
+            <idno type="ALMA-ID">990145695090107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990145695090107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/87614586">Herodianus</author>
+                <title>Hērodianou historion biblia ēʹ. Herodiani historiarum libri viii. Cum
+                    interpretatione Latina.</title>
+                <imprint>
+                    <pubPlace>Ingolstadii</pubPlace>
+                    <date>1608</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Jones1722" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° A 191(1) Linc.</idno>
+            <idno type="ALMA-ID">990135306900107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135306900107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>Jones, Theophilus</author>
+                <title>The way to reformation and union in religion. Wherein the art, nature, and
+                    philosophy of our religion is considered and proved, ... By Theophilus Jones,
+                    ...</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1722</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Cockburn1701" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° A 190 Linc.</idno>
+            <idno type="ALMA-ID">990135279540107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135279540107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/10782288">Cockburn, W. 1669-1739.
+                    (William)</author>
+                <title>Profluvia ventris: or The nature and causes of loosenesses plainly
+                    discovered, : their symptoms and sorts evidently settled, the maxims for curing
+                    'em fully demonstrated: and all illustrated with the most remarkable methods and
+                    medicins [sic] of all ages: and with some practical observations concluding
+                    every sort. /</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1701</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Coll1722" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° A 194 Linc.</idno>
+            <idno type="ALMA-ID">990135016990107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135016990107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/146817503">Royal College of Physicians of
+                    Edinburgh</author>
+                <title>Pharmacopoeia Collegii Regii Medicorum Edinburgensis.</title>
+                <imprint>
+                    <pubPlace>Edinburgi</pubPlace>
+                    <date>1722</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Mountford1719" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° A 198 Linc.</idno>
+            <idno type="ALMA-ID">990135291970107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135291970107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/30275093">Mountfort, William, 1664?-1692</author>
+                <title>Six plays, written by Mr. Mountfort. In two volumes. ...</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1719</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Novelsa1722" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° A 196 Linc. (v.5)</idno>
+            <idno type="ALMA-ID">990135303700107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135303700107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <title>A select collection of novels in six volumes. Written by the most celebrated
+                    authors in several languages. ... all new translated from the originals, by
+                    several eminent hands.</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1722</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Novelsb1722" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° A 197 Linc. (v.6)</idno>
+            <idno type="ALMA-ID">990135303700107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135303700107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <title>A select collection of novels in six volumes. Written by the most celebrated
+                    authors in several languages. ... all new translated from the originals, by
+                    several eminent hands.</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1722</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Waser1610" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° A 200 Linc.</idno>
+            <idno type="ALMA-ID">990146054000107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990146054000107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/73890820">Waser, Kaspar, 1565-1625</author>
+                <title>Grammatica Hebræa, etymologia et syntaxi absoluta. Emendatior.</title>
+                <imprint>
+                    <pubPlace>[Heidelberg]</pubPlace>
+                    <date>1610</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Instructions1722" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° A 199 Linc.</idno>
+            <idno type="ALMA-ID">990135222270107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135222270107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <title>Instructions for youth, gentlemen and noblemen. By Sir Walter Raleigh, Lord
+                    treasurer Burleigh, Cardinal Sermonetta, and Mr. Walsingham.</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1722</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Pratt1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° A 195(1) Linc.</idno>
+            <idno type="ALMA-ID">990135167400107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135167400107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/22489099">Pratt, Samuel, 1659?-1723</author>
+                <title>Grammaticæ Latinæ in usum principis juventutis Britanicæ compendium. Auctore
+                    S. P. D.R</title>
+                <imprint>
+                    <pubPlace>Londini</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
 </listObject>
-
-
-
-
-
-
-
-
-
-
-
-    </standOff>
+</standOff>
     <text>
         <front>
             <pb xml:id="fol-1v" n="frontmatter"/>
@@ -11252,7 +11607,7 @@
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
                     </row>
                     <row ana="prov:purchase">
-                        <cell><bibl>Aschyli, Sophoclis, Euripidis Tragœdiæ se-<lb/> lectæ Gr. Lat.
+                        <cell><bibl corresp="#regC-bib-Aeschylus1567">Aschyli, Sophoclis, Euripidis Tragœdiæ se-<lb/> lectæ Gr. Lat.
                                 apud Hen. Steph. 1567</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>8° A.184. Linc</orig>
@@ -11263,7 +11618,7 @@
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
                     </row>
                     <row ana="prov:purchase">
-                        <cell><bibl>Sophoclis Tragœdiæ VII. Gr. Lat. per Canterū<lb/> Ant.
+                        <cell><bibl corresp="#regC-bib-Sophocles1579">Sophoclis Tragœdiæ VII. Gr. Lat. per Canterū<lb/> Ant.
                                 1579</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>... 185 ...</orig>
@@ -11274,7 +11629,7 @@
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
                     </row>
                     <row ana="prov:purchase">
-                        <cell><bibl>Pauli Manutii Epistolæ</bibl></cell>
+                        <cell><bibl corresp="#regC-bib-Manuzio1590">Pauli Manutii Epistolæ</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>...186...</orig>
                                     <reg>8° A 186 Linc.</reg>
@@ -11284,7 +11639,7 @@
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
                     </row>
                     <row ana="prov:purchase">
-                        <cell><bibl>Herodiani opā oīa Gr. Lat. <hi rend="underlined:true"
+                        <cell><bibl corresp="#regC-bib-Herodianus1608">Herodiani opā oīa Gr. Lat. <hi rend="underlined:true"
                                     >Ingolst</hi>. 1608.</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>...192...</orig>
@@ -11295,7 +11650,7 @@
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
                     </row>
                     <row ana="prov:purchase">
-                        <cell><bibl>Waseri Grammatica Hebræa cū notis Mss</bibl></cell>
+                        <cell><bibl corresp="#regC-bib-Waser1610">Waseri Grammatica Hebræa cū notis Mss</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>...200...</orig>
                                     <reg>8° A 200 Linc.</reg>
@@ -11615,7 +11970,7 @@
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
                     </row>
                     <row ana="prov:purchase">
-                        <cell><bibl>______ of a Loosness 1701 8°</bibl></cell>
+                        <cell><bibl corresp="#regC-bib-Cockburn1701">______ of a Loosness 1701 8°</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>A 190 Linc.</orig>
                                     <reg>A 190 Linc.</reg>
@@ -11625,7 +11980,7 @@
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
                     </row>
                     <row ana="prov:purchase">
-                        <cell><bibl>Decker's Exercitatt. Med. 1673. 8°</bibl></cell>
+                        <cell><bibl corresp="#regC-bib-Dekkers1673">Decker's Exercitatt. Med. 1673. 8°</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>A.193.Linc.</orig>
                                     <reg>A 193 Linc.</reg>
@@ -11635,7 +11990,7 @@
                         <cell><measure quantity="0" unit="pence">00</measure></cell>
                     </row>
                     <row ana="prov:purchase">
-                        <cell><bibl>Prævotii Medic. Dauperum 1644. 8°</bibl></cell>
+                        <cell><bibl corresp="#regC-bib-Prevost1644">Prævotii Medic. Dauperum 1644. 8°</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>A.187.Linc.</orig>
                                     <reg>A 187 Linc.</reg>
@@ -11753,7 +12108,7 @@
                         <cell><persName>Cl. Auctor.</persName></cell>
                     </row>
                     <row ana="prov:deposit">
-                        <cell><bibl>Logica in usum Juvent. Glasq. <hi rend="underlined:true"
+                        <cell><bibl corresp="#regC-bib-Carmichael1722">Logica in usum Juvent. Glasq. <hi rend="underlined:true"
                                     >Edinb</hi>. 1722.</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>8° A.188.Linc.</orig>
@@ -11762,7 +12117,7 @@
                         <cell>Stat.</cell>
                     </row>
                     <row ana="prov:deposit">
-                        <cell><bibl>Robertson's Help to Spelling <hi rend="underlined:true"
+                        <cell><bibl corresp="#regC-bib-Robertson1722">Robertson's Help to Spelling <hi rend="underlined:true"
                                     >Glasg</hi>. 1722.</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>ibid.</orig>
@@ -11771,7 +12126,7 @@
                         <cell>Stat.</cell>
                     </row>
                     <row ana="prov:deposit">
-                        <cell><bibl>Webster's Sermons <hi rend="underlined:true">Edinb</hi>.
+                        <cell><bibl corresp="#regC-bib-Webster1723">Webster's Sermons <hi rend="underlined:true">Edinb</hi>.
                                 1722</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>...189.</orig>
@@ -11780,7 +12135,7 @@
                         <cell>Stat.</cell>
                     </row>
                     <row ana="prov:deposit">
-                        <cell><bibl>Jones's Way to Reformation</bibl></cell>
+                        <cell><bibl corresp="#regC-bib-Jones1722">Jones's Way to Reformation</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>...191.</orig>
                                     <reg>8° A 191 Linc.</reg>
@@ -11788,7 +12143,7 @@
                         <cell>Stat.</cell>
                     </row>
                     <row ana="prov:deposit">
-                        <cell><bibl>Pharmacopæia Coll. Reg. Edinb. 1722.</bibl></cell>
+                        <cell><bibl corresp="#regC-bib-Coll1722">Pharmacopæia Coll. Reg. Edinb. 1722.</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>...194...</orig>
                                     <reg>8° A 194 Linc.</reg>
@@ -11796,7 +12151,7 @@
                         <cell>Stat.</cell>
                     </row>
                     <row ana="prov:deposit">
-                        <cell><bibl>Grammatica Lat. Compend. ꝓ. S. Prat. 1723</bibl></cell>
+                        <cell><bibl corresp="#regC-bib-Pratt1723">Grammatica Lat. Compend. ꝓ. S. Prat. 1723</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>...195...</orig>
                                     <reg>8° A 195 Linc.</reg>
@@ -11804,7 +12159,7 @@
                         <cell>Stat.</cell>
                     </row>
                     <row ana="prov:deposit">
-                        <cell>Novels, Lond. 1721. 2 Vol.</cell>
+                        <cell><bibl corresp="#regC-bib-Novelsa1722">Novels, Lond. 1721. 2 Vol.</bibl><bibl corresp="#regC-bib-Novelsb1722"></bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>...196...</orig>
                                     <reg>8° A 196 Linc.</reg>
@@ -11812,7 +12167,7 @@
                         <cell>Stat.</cell>
                     </row>
                     <row ana="prov:deposit">
-                        <cell><bibl>Mountfort's Plays 1<hi rend="superscript:true">st</hi>. Voll.
+                        <cell><bibl corresp="#regC-bib-Mountford1719">Mountfort's Plays 1<hi rend="superscript:true">st</hi>. Voll.
                                 Lond. 1720.</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>.197,198.</orig>
@@ -11821,7 +12176,7 @@
                         <cell>Stat.</cell>
                     </row>
                     <row ana="prov:deposit">
-                        <cell><bibl>Instructions for youth. 1722</bibl></cell>
+                        <cell><bibl corresp="#regC-bib-Instructions1722">Instructions for youth. 1722</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>...199.</orig>
                                     <reg>8° A 199 Linc.</reg>
