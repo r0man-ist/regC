@@ -5469,7 +5469,7 @@
             </monogr>
         </biblStruct>
     </object>
-    <object xml:id="regC-bib-Kempp1720" ana="copy-identified">
+    <object xml:id="regC-bib-Kemp1720" ana="copy-identified">
         <objectIdentifier>
             <institution>Bodleian Library</institution>
             <idno type="shelfmark">8° E 47 Jur.</idno>
@@ -11507,7 +11507,7 @@
                         <cell rend="head">d</cell>
                     </row>
                     <row ana="prov:purchase">
-                        <cell><bibl>Monumenta Kempiana ꝓ Ainsworth</bibl></cell>
+                        <cell><bibl corresp="#regC-bib-Kemp1720">Monumenta Kempiana ꝓ Ainsworth</bibl><note>On the title page, noted in black ink: "Lib. Jo. Bowles, ex dono viri eruditissimi Joannis Ward"; unclear whether this is a donation or a purchase</note></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>8° E 47. Jur.</orig>
                                     <reg>8° E 47 Jur.</reg>

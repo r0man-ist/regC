@@ -5063,6 +5063,17 @@
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#P165-I1">
+                  <dcterms:title>Monumenta vetustatis Kempiana, : ex vetustis scriptoribus illustrata, eosque vicissim illustrantia; in duas partes divisa: quarum altera mumias, simulacra, statuas, signa, lares, inscriptiones, vasa, lucernas, amuleta, lapides, gemmas, annulos, fibulas, cum aliis veterum reliquiis; altera nummos, materia modoque diversos, continet..</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/72605595">
+                        <rdfs:label>Kemp, John, 1665-1717</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>8° E 47 Jur.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
             <crm:P119_had_sales_price>
                <crm:E97_Monetary_Amount>
                   <crm:P180_has_currency>Pound</crm:P180_has_currency>
