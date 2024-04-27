@@ -13318,6 +13318,166 @@
          </prov:Legal_Deposit>
       </crm:P70_documents>
       <crm:P70_documents>
+         <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep62">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/122574378">
+                  <rdfs:label>Stationers' Company London</rdfs:label>
+               </crm:E74_Group>
+            </crm:P23_transferred_title_from>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </prov:Legal_Deposit>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep63">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/122574378">
+                  <rdfs:label>Stationers' Company London</rdfs:label>
+               </crm:E74_Group>
+            </crm:P23_transferred_title_from>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </prov:Legal_Deposit>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep64">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/122574378">
+                  <rdfs:label>Stationers' Company London</rdfs:label>
+               </crm:E74_Group>
+            </crm:P23_transferred_title_from>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </prov:Legal_Deposit>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep65">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/122574378">
+                  <rdfs:label>Stationers' Company London</rdfs:label>
+               </crm:E74_Group>
+            </crm:P23_transferred_title_from>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </prov:Legal_Deposit>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep66">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/122574378">
+                  <rdfs:label>Stationers' Company London</rdfs:label>
+               </crm:E74_Group>
+            </crm:P23_transferred_title_from>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </prov:Legal_Deposit>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep67">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/122574378">
+                  <rdfs:label>Stationers' Company London</rdfs:label>
+               </crm:E74_Group>
+            </crm:P23_transferred_title_from>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </prov:Legal_Deposit>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep68">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/122574378">
+                  <rdfs:label>Stationers' Company London</rdfs:label>
+               </crm:E74_Group>
+            </crm:P23_transferred_title_from>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </prov:Legal_Deposit>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep69">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/122574378">
+                  <rdfs:label>Stationers' Company London</rdfs:label>
+               </crm:E74_Group>
+            </crm:P23_transferred_title_from>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </prov:Legal_Deposit>
+      </crm:P70_documents>
+      <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#Dep-ID1">
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep1-I1"/>
             <crm:P37_assigned>
@@ -14231,6 +14391,132 @@
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1723-11-01T00:00:00</crm:P82a_begin_of_the_begin>
                   <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1723-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#Dep-ID62">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep62-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep62-ID">
+                  <crm:P90_has_value>J 3.13 Jur.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#Dep-ID63">
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep63-ID">
+                  <crm:P90_has_value>L 6.17 Art.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#Dep-ID64">
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep64-ID">
+                  <crm:P90_has_value>L 6.18 Art.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#Dep-ID65">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep65-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep65-ID">
+                  <crm:P90_has_value>FF 69 Th.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#Dep-ID66">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep66-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep66-ID">
+                  <crm:P90_has_value>8° Z 58,59 Jur. </crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#Dep-ID67">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep67-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep67-ID">
+                  <crm:P90_has_value>8° Z 56 Jur.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#Dep-ID68">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep68-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep68-ID">
+                  <crm:P90_has_value>8° Z 57 Jur.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#Dep-ID69">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep69-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep69-ID">
+                  <crm:P90_has_value>8° Z 61 Jur.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
                </crm:E61_Time_Primitive>
             </crm:P4_has_time_span>
          </crm:E15_Identifier_Assignment>
@@ -15779,6 +16065,126 @@
          </prov:Donation>
       </crm:P70_documents>
       <crm:P70_documents>
+         <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D62">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <prov:Donor>
+                  <rdfs:label/>
+               </prov:Donor>
+            </crm:P23_transferred_title_from>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </prov:Donation>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D63">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <prov:Donor>
+                  <rdfs:label/>
+               </prov:Donor>
+            </crm:P23_transferred_title_from>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </prov:Donation>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D64">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <prov:Donor>
+                  <rdfs:label/>
+               </prov:Donor>
+            </crm:P23_transferred_title_from>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </prov:Donation>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D65">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <prov:Donor>
+                  <rdfs:label/>
+               </prov:Donor>
+            </crm:P23_transferred_title_from>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </prov:Donation>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D66">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <prov:Donor>
+                  <rdfs:label/>
+               </prov:Donor>
+            </crm:P23_transferred_title_from>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </prov:Donation>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D67">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <prov:Donor>
+                  <rdfs:label/>
+               </prov:Donor>
+            </crm:P23_transferred_title_from>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </prov:Donation>
+      </crm:P70_documents>
+      <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#D-ID1">
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D1-I1"/>
             <crm:P37_assigned>
@@ -16656,6 +17062,102 @@
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1723-11-01T00:00:00</crm:P82a_begin_of_the_begin>
                   <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1723-11-01T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#D-ID62">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D62-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D62-ID">
+                  <crm:P90_has_value>4° C 17.16 Linc.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#D-ID63">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D63-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D63-ID">
+                  <crm:P90_has_value>J 3.14,15 Jur.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#D-ID64">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D64-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D64-ID">
+                  <crm:P90_has_value>F 3.21 Art.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#D-ID65">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D65-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D65-ID">
+                  <crm:P90_has_value>FF 68 Th.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#D-ID66">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D66-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D66-ID">
+                  <crm:P90_has_value>8° Z 54,55 Jur.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#D-ID67">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D67-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D67-ID">
+                  <crm:P90_has_value>60  Jur.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
                </crm:E61_Time_Primitive>
             </crm:P4_has_time_span>
          </crm:E15_Identifier_Assignment>

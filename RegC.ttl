@@ -57,6 +57,12 @@
         <https:r0man-ist.github.io/regC#D-ID6>,
         <https:r0man-ist.github.io/regC#D-ID60>,
         <https:r0man-ist.github.io/regC#D-ID61>,
+        <https:r0man-ist.github.io/regC#D-ID62>,
+        <https:r0man-ist.github.io/regC#D-ID63>,
+        <https:r0man-ist.github.io/regC#D-ID64>,
+        <https:r0man-ist.github.io/regC#D-ID65>,
+        <https:r0man-ist.github.io/regC#D-ID66>,
+        <https:r0man-ist.github.io/regC#D-ID67>,
         <https:r0man-ist.github.io/regC#D-ID7>,
         <https:r0man-ist.github.io/regC#D-ID8>,
         <https:r0man-ist.github.io/regC#D-ID9>,
@@ -118,6 +124,12 @@
         <https:r0man-ist.github.io/regC#D6>,
         <https:r0man-ist.github.io/regC#D60>,
         <https:r0man-ist.github.io/regC#D61>,
+        <https:r0man-ist.github.io/regC#D62>,
+        <https:r0man-ist.github.io/regC#D63>,
+        <https:r0man-ist.github.io/regC#D64>,
+        <https:r0man-ist.github.io/regC#D65>,
+        <https:r0man-ist.github.io/regC#D66>,
+        <https:r0man-ist.github.io/regC#D67>,
         <https:r0man-ist.github.io/regC#D7>,
         <https:r0man-ist.github.io/regC#D8>,
         <https:r0man-ist.github.io/regC#D9>,
@@ -177,6 +189,14 @@
         <https:r0man-ist.github.io/regC#Dep-ID59>,
         <https:r0man-ist.github.io/regC#Dep-ID6>,
         <https:r0man-ist.github.io/regC#Dep-ID60>,
+        <https:r0man-ist.github.io/regC#Dep-ID62>,
+        <https:r0man-ist.github.io/regC#Dep-ID63>,
+        <https:r0man-ist.github.io/regC#Dep-ID64>,
+        <https:r0man-ist.github.io/regC#Dep-ID65>,
+        <https:r0man-ist.github.io/regC#Dep-ID66>,
+        <https:r0man-ist.github.io/regC#Dep-ID67>,
+        <https:r0man-ist.github.io/regC#Dep-ID68>,
+        <https:r0man-ist.github.io/regC#Dep-ID69>,
         <https:r0man-ist.github.io/regC#Dep-ID7>,
         <https:r0man-ist.github.io/regC#Dep1>,
         <https:r0man-ist.github.io/regC#Dep10>,
@@ -236,6 +256,14 @@
         <https:r0man-ist.github.io/regC#Dep6>,
         <https:r0man-ist.github.io/regC#Dep60>,
         <https:r0man-ist.github.io/regC#Dep61>,
+        <https:r0man-ist.github.io/regC#Dep62>,
+        <https:r0man-ist.github.io/regC#Dep63>,
+        <https:r0man-ist.github.io/regC#Dep64>,
+        <https:r0man-ist.github.io/regC#Dep65>,
+        <https:r0man-ist.github.io/regC#Dep66>,
+        <https:r0man-ist.github.io/regC#Dep67>,
+        <https:r0man-ist.github.io/regC#Dep68>,
+        <https:r0man-ist.github.io/regC#Dep69>,
         <https:r0man-ist.github.io/regC#Dep7>,
         <https:r0man-ist.github.io/regC#Dep8>,
         <https:r0man-ist.github.io/regC#Dep9>,
@@ -1762,6 +1790,48 @@
             crm:P82a_begin_of_the_begin "1723-11-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1723-11-01T23:59:59"^^xsd:dateTime ] .
 
+<https:r0man-ist.github.io/regC#D-ID62> a crm:E15_Identifier_Assignment ;
+    crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D62-I1> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D62-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-12-31T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#D-ID63> a crm:E15_Identifier_Assignment ;
+    crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D63-I1> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D63-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-12-31T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#D-ID64> a crm:E15_Identifier_Assignment ;
+    crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D64-I1> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D64-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-12-31T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#D-ID65> a crm:E15_Identifier_Assignment ;
+    crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D65-I1> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D65-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-12-31T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#D-ID66> a crm:E15_Identifier_Assignment ;
+    crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D66-I1> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D66-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-12-31T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#D-ID67> a crm:E15_Identifier_Assignment ;
+    crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D67-I1> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#D67-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-12-31T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
 <https:r0man-ist.github.io/regC#D-ID7> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D7-I1> ;
     crm:P37_assigned <https:r0man-ist.github.io/regC#D7-ID> ;
@@ -2383,6 +2453,72 @@
 <https:r0man-ist.github.io/regC#D61-ID> a crm:E42_Identifier ;
     crm:P90_has_value "8Â° 0 46 Linc." .
 
+<https:r0man-ist.github.io/regC#D62> a prov1:Donation ;
+    crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
+    crm:P23_transferred_title_from [ a prov1:Donor ;
+            rdfs:label "" ] ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#D62-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "4Â°Â C 17.16 Linc." .
+
+<https:r0man-ist.github.io/regC#D63> a prov1:Donation ;
+    crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
+    crm:P23_transferred_title_from [ a prov1:Donor ;
+            rdfs:label "" ] ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#D63-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "J 3.14,15 Jur." .
+
+<https:r0man-ist.github.io/regC#D64> a prov1:Donation ;
+    crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
+    crm:P23_transferred_title_from [ a prov1:Donor ;
+            rdfs:label "" ] ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#D64-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "F 3.21 Art." .
+
+<https:r0man-ist.github.io/regC#D65> a prov1:Donation ;
+    crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
+    crm:P23_transferred_title_from [ a prov1:Donor ;
+            rdfs:label "" ] ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#D65-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "FF 68 Th." .
+
+<https:r0man-ist.github.io/regC#D66> a prov1:Donation ;
+    crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
+    crm:P23_transferred_title_from [ a prov1:Donor ;
+            rdfs:label "" ] ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#D66-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "8Â°Â Z 54,55 Jur." .
+
+<https:r0man-ist.github.io/regC#D67> a prov1:Donation ;
+    crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
+    crm:P23_transferred_title_from [ a prov1:Donor ;
+            rdfs:label "" ] ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#D67-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "60  Jur." .
+
 <https:r0man-ist.github.io/regC#D7> a prov1:Donation ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
@@ -2809,6 +2945,60 @@
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1723-11-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1723-11-01T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep-ID62> a crm:E15_Identifier_Assignment ;
+    crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep62-I1> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep62-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-12-31T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep-ID63> a crm:E15_Identifier_Assignment ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep63-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-12-31T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep-ID64> a crm:E15_Identifier_Assignment ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep64-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-12-31T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep-ID65> a crm:E15_Identifier_Assignment ;
+    crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep65-I1> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep65-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-12-31T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep-ID66> a crm:E15_Identifier_Assignment ;
+    crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep66-I1> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep66-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-12-31T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep-ID67> a crm:E15_Identifier_Assignment ;
+    crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep67-I1> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep67-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-12-31T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep-ID68> a crm:E15_Identifier_Assignment ;
+    crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep68-I1> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep68-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-12-31T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep-ID69> a crm:E15_Identifier_Assignment ;
+    crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep69-I1> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep69-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-12-31T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID7> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep7-I1> ;
@@ -3461,6 +3651,86 @@
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1722-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1723-11-01T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep62> a prov1:Legal_Deposit ;
+    crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
+    crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep62-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "J 3.13 Jur." .
+
+<https:r0man-ist.github.io/regC#Dep63> a prov1:Legal_Deposit ;
+    crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
+    crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep63-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "L 6.17 Art." .
+
+<https:r0man-ist.github.io/regC#Dep64> a prov1:Legal_Deposit ;
+    crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
+    crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep64-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "L 6.18 Art." .
+
+<https:r0man-ist.github.io/regC#Dep65> a prov1:Legal_Deposit ;
+    crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
+    crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep65-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "FF 69 Th." .
+
+<https:r0man-ist.github.io/regC#Dep66> a prov1:Legal_Deposit ;
+    crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
+    crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep66-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "8Â° Z 58,59 Jur. " .
+
+<https:r0man-ist.github.io/regC#Dep67> a prov1:Legal_Deposit ;
+    crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
+    crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep67-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "8Â° Z 56 Jur." .
+
+<https:r0man-ist.github.io/regC#Dep68> a prov1:Legal_Deposit ;
+    crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
+    crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep68-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "8Â° Z 57 Jur." .
+
+<https:r0man-ist.github.io/regC#Dep69> a prov1:Legal_Deposit ;
+    crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
+    crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep69-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "8Â° Z 61 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep7> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;

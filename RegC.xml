@@ -12491,7 +12491,7 @@
             <pb xml:id="fol-47r" n="79"/>
             <table>
                 <row>
-                    <cell rend="head">Expenses 1724</cell>
+                    <cell cols="4" rend="head">Expenses 1724</cell>
                 </row>
                 <row>
                     <cell/>
@@ -12557,11 +12557,12 @@
             </table>
             <pb xml:id="fol-47v" n="80" style="empty"/>
             <pb xml:id="fol-48r" n="81"/>
-            <ab ana="prov"><date ana="prov:when" notBefore="1724-01-01" notAfter="1724-12-31"/><persName ana="prov:seller"
-                    corresp="#regC-HCLE"/>
+            <ab ana="prov"><date ana="prov:when" notBefore="1724-01-01" notAfter="1724-12-31"
+                    /><persName ana="prov:seller" corresp="#regC-HCLE"/>
                 <table>
                     <row>
-                        <cell cols="5" rend="head">Bought of <persName corresp="#regC-HCLE">Mr Clements</persName> 1724.</cell>
+                        <cell cols="5" rend="head">Bought of <persName corresp="#regC-HCLE">Mr
+                                Clements</persName> 1724.</cell>
                     </row>
                     <row>
                         <cell/>
@@ -12622,7 +12623,8 @@
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
                     </row>
                     <row ana="prov:purchase">
-                        <cell><bibl>Biblioth. Literaria n°9</bibl></cell><cell></cell>
+                        <cell><bibl>Biblioth. Literaria n°9</bibl></cell>
+                        <cell/>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="1" unit="shilling">1</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
@@ -12658,21 +12660,23 @@
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
                     </row>
                     <row>
-                        <cell>Two paper Nooks &amp; a Pencil</cell><cell></cell>
+                        <cell>Two paper Nooks &amp; a Pencil</cell>
+                        <cell/>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="2" unit="shilling">2</measure></cell>
                         <cell><measure quantity="10" unit="pence">10</measure></cell>
                     </row>
                     <row>
-                        <cell>Earl Cooper&apos;s Speech (with yͤ Binder)</cell><cell></cell>
+                        <cell>Earl Cooper&apos;s Speech (with yͤ Binder)</cell>
+                        <cell/>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="1" unit="shilling">1</measure></cell>
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
                     </row>
                 </table>
             </ab>
-            <ab ana="prov"><date ana="prov:when" notBefore="1724-01-01" notAfter="1724-12-31"/><persName ana="prov:seller"
-                    corresp="#regC-SFLE"/>
+            <ab ana="prov"><date ana="prov:when" notBefore="1724-01-01" notAfter="1724-12-31"
+                    /><persName ana="prov:seller" corresp="#regC-SFLE"/>
                 <table>
                     <row>
                         <cell cols="5" rend="head">Bought of <persName corresp="#regC-SFLE">Mr
@@ -12690,6 +12694,114 @@
                     </row>
                 </table>
             </ab>
+            <pb xml:id="fol-48v" n="82" style="empty"/>
+            <pb xml:id="fol-49r" n="83"/>
+            <ab ana="prov"><date ana="prov:when" notBefore="1724-01-01" notAfter="1724-12-31"
+                    >1724</date><persName ana="prov:seller" corresp="#regC-HCLE"/>
+                <table>
+                    <row>
+                        <cell rend="head">Books given from Nov. 1723 to Nov. 1724.</cell>
+                        <cell/>
+                        <cell>Benefactor&apos;s name</cell>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>Waterland on yͤ Athan. Creed</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>4° C. 17. 16. Linc.</orig>
+                                    <reg>4° C 17.16 Linc.</reg>
+                                </choice></ab></cell>
+                        <cell><persName ana="prov:donor">Auctor</persName></cell>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Burnet&apos;s History of his own Times</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>J 3.13. Jur.</orig>
+                                    <reg>J 3.13 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell>Station<hi rend="superscript:true">es</hi></cell>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>Wynne&apos;s Life of Sr. Leoline Jenkins 2 Voll.</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>J.3.14.15.<add>Jur</add></orig>
+                                    <reg>J 3.14,15 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell><persName ana="prov:donor">Auctor</persName></cell>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>The Golden Farmer by Dr Wilks</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>F.3.21. Art.</orig>
+                                    <reg>F 3.21 Art.</reg>
+                                </choice></ab></cell>
+                        <cell><persName ana="prov:donor">Auctor</persName></cell>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell>Replies of Wearg &amp;c relating to the Bp̄ of Roch.<hi
+                                rend="superscript:true">er</hi><lb/> Bp̄ of Sarum&apos;s Speech, Sr
+                            Constantine Phipp’s<lb/> Defence; Wynnes Defence &amp;c. Several
+                            Protests<lb/> of the Lords; Gay&apos;s Epistle to yͤ Dutchess of<lb/>
+                            Marlborough with other Tracts.</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>L.6.17. Art</orig>
+                                    <reg>L 6.17 Art.</reg>
+                                </choice></ab></cell>
+                        <cell>Stat.<hi rend="superscript:true">s</hi></cell>
+                    </row>
+                    <row ana="prov:deposit"><cell>Capt. Ogle’s Acco.<hi rend="superscript:true">t</hi> of yͤ Pyrates: Mystery of the Free<lb/>
+                    Mason&apos;s Discover&apos;d: Duke Wharton&apos;s Speech<lb/>
+                    in the Ho: of Lords on yͤ Bill read yͤ 3<hi rend="superscript:true">d</hi> time<lb/>
+                    against yͤ Bp̄ of Roch.<hi rend="superscript:true">r</hi> A Paraphrase on yͤ<lb/>
+                    Song of yͤ Children: Carey&apos;s Cantatas<lb/>
+                    for a voice w<hi rend="superscript:true">th</hi> other tracts</cell><cell><ab type="shelfmark"><choice>
+                        <orig>L.6.18. Art</orig>
+                        <reg>L 6.18 Art.</reg>
+                    </choice></ab></cell><cell>Stat.<hi rend="superscript:true">s</hi></cell></row>
+                    <row ana="prov:donation"><cell><bibl>Nic. Alex. Maurocordati Liber de Officiis Gr. Lat
+                    Lips. 1722.</bibl></cell><cell><ab type="shelfmark"><choice>
+                        <orig>FF. 68. Th.</orig>
+                        <reg>FF 68 Th.</reg>
+                    </choice></ab></cell>
+                        <cell><persName ana="prov:donor">Archiep<hi rend="superscript:true">s</hi>
+                    Cantuar.</persName></cell></row>
+                    <row ana="prov:deposit"><cell><bibl>Lamy Apparatus Biblicus english&apos;d by Bundy</bibl></cell><cell><ab type="shelfmark"><choice>
+                        <orig>FF. 69.Th</orig>
+                        <reg>FF 69 Th.</reg>
+                    </choice></ab></cell>
+                       <cell> Stat.<hi rend="superscript:true">s</hi></cell></row>
+                    <row ana="prov:donation"><cell><bibl>Ecton&apos;s Valor Benefic. ed. 2.<hi rend="superscript:true">da</hi> Lond. 1723</bibl></cell><cell rows="2"><ab type="shelfmark"><choice>
+                        <orig>8° Z.54.55<lb/><hi rend="underlined:true">Jur</hi>.</orig>
+                        <reg>8° Z 54,55 Jur.</reg>
+                    </choice></ab></cell>
+                        <cell rows="2"><persName ana="prov:donor">Auctor</persName></cell></row>
+                    <row><cell><bibl>His State of Qu. Annes Bounty 1721.</bibl></cell></row>
+                    <row><cell><bibl>Psalmi Davidis L priores versib. elegiacis</bibl></cell><cell><ab type="shelfmark"><choice>
+                        <orig>FF. 70. Th.</orig>
+                        <reg>FF 70 Th.</reg>
+                    </choice></ab></cell></row>
+                    <row ana="prov:deposit"><cell><bibl>Millar’s History of the Propagation of Xtianity
+                    &amp; overthrow of Paganism. 2 Voll.</bibl></cell><cell><ab type="shelfmark"><choice>
+                        <orig>8° Z.58.59. Jur.
+                        </orig>
+                        <reg>8° Z 58,59 Jur. </reg>
+                    </choice></ab></cell><cell>Stat<hi rend="superscript:true">s</hi></cell></row>
+                    <row ana="prov:donation"><cell><bibl>Parry&apos;s Tully de Oratore translated</bibl></cell><cell><ab type="shelfmark"><choice>
+                        <orig>60. Jur.</orig>
+                        <reg>60  Jur.</reg>
+                    </choice></ab></cell><cell><persName ana="prov:donor">Auctor</persName></cell></row>
+                    <row ana="prov:deposit"><cell><bibl>Skinner’s Life of General Monk.</bibl></cell><cell><ab type="shelfmark"><choice>
+                        <orig>8° Z. 56. Jur.</orig>
+                        <reg>8° Z 56 Jur.</reg>
+                    </choice></ab></cell><cell rows="3">Stat.<hi rend="superscript:true">s</hi></cell></row>
+                    <row ana="prov:deposit"><cell><bibl>Ollyste&apos;s madness of Disaffection</bibl></cell><cell><ab type="shelfmark"><choice>
+                        <orig>&amp;c. 57. Jur.</orig>
+                        <reg>8° Z 57 Jur.</reg>
+                    </choice></ab></cell></row> 
+                    <row ana="prov:deposit"><cell><bibl>Introduction to the Latin Tongue</bibl></cell><cell><ab type="shelfmark"><choice>
+                        <orig>8°. Z. 61. Jur</orig>
+                        <reg>8° Z 61 Jur.</reg>
+                    </choice></ab></cell></row>
+                </table></ab>
         </body>
     </text>
 </TEI>
