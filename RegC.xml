@@ -209,7 +209,15 @@
                 <persName>Betty, Joseph</persName>
                 <idno type="VIAF">234706680</idno>
             </person>
+            <person xml:id="regC-WLHU">
+                <persName>Le Hunt, William</persName>
+            </person>
+            <person xml:id="regC-CWOR">
+                <persName>Worm, Christen</persName>
+                <idno type="VIAF">54481483</idno>
+            </person>
         </listPerson>
+        
 
 
 
@@ -6362,8 +6370,8 @@
                         <cell>For Letter Charges &amp;c. in procuring from <persName
                                 corresp="#regC-JECK">M<hi rend="superscript:true">r</hi>.
                                 Eccard,<lb/> Library Keeper at Han̄over</persName>, part of
-                            Junius&apos;s Ms.<lb/> Glossary, which had been formerly stoln by a
-                            Dane.</cell>
+                            Junius&apos;s Ms.<lb/> Glossary, which had been formerly stoln by <persName corresp="#regC-CWOR">a
+                            Dane</persName>.</cell>
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="3" unit="shilling">3</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
@@ -12748,59 +12756,96 @@
                                 </choice></ab></cell>
                         <cell>Stat.<hi rend="superscript:true">s</hi></cell>
                     </row>
-                    <row ana="prov:deposit"><cell>Capt. Ogle’s Acco.<hi rend="superscript:true">t</hi> of yͤ Pyrates: Mystery of the Free<lb/>
-                    Mason&apos;s Discover&apos;d: Duke Wharton&apos;s Speech<lb/>
-                    in the Ho: of Lords on yͤ Bill read yͤ 3<hi rend="superscript:true">d</hi> time<lb/>
-                    against yͤ Bp̄ of Roch.<hi rend="superscript:true">r</hi> A Paraphrase on yͤ<lb/>
-                    Song of yͤ Children: Carey&apos;s Cantatas<lb/>
-                    for a voice w<hi rend="superscript:true">th</hi> other tracts</cell><cell><ab type="shelfmark"><choice>
-                        <orig>L.6.18. Art</orig>
-                        <reg>L 6.18 Art.</reg>
-                    </choice></ab></cell><cell>Stat.<hi rend="superscript:true">s</hi></cell></row>
-                    <row ana="prov:donation"><cell><bibl>Nic. Alex. Maurocordati Liber de Officiis Gr. Lat
-                    Lips. 1722.</bibl></cell><cell><ab type="shelfmark"><choice>
-                        <orig>FF. 68. Th.</orig>
-                        <reg>FF 68 Th.</reg>
-                    </choice></ab></cell>
+                    <row ana="prov:deposit">
+                        <cell>Capt. Ogle’s Acco.<hi rend="superscript:true">t</hi> of yͤ Pyrates:
+                            Mystery of the Free<lb/> Mason&apos;s Discover&apos;d: Duke
+                            Wharton&apos;s Speech<lb/> in the Ho: of Lords on yͤ Bill read yͤ 3<hi
+                                rend="superscript:true">d</hi> time<lb/> against yͤ Bp̄ of Roch.<hi
+                                rend="superscript:true">r</hi> A Paraphrase on yͤ<lb/> Song of yͤ
+                            Children: Carey&apos;s Cantatas<lb/> for a voice w<hi
+                                rend="superscript:true">th</hi> other tracts</cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>L.6.18. Art</orig>
+                                    <reg>L 6.18 Art.</reg>
+                                </choice></ab></cell>
+                        <cell>Stat.<hi rend="superscript:true">s</hi></cell>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>Nic. Alex. Maurocordati Liber de Officiis Gr. Lat Lips.
+                                1722.</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>FF. 68. Th.</orig>
+                                    <reg>FF 68 Th.</reg>
+                                </choice></ab></cell>
                         <cell><persName ana="prov:donor">Archiep<hi rend="superscript:true">s</hi>
-                    Cantuar.</persName></cell></row>
-                    <row ana="prov:deposit"><cell><bibl>Lamy Apparatus Biblicus english&apos;d by Bundy</bibl></cell><cell><ab type="shelfmark"><choice>
-                        <orig>FF. 69.Th</orig>
-                        <reg>FF 69 Th.</reg>
-                    </choice></ab></cell>
-                       <cell> Stat.<hi rend="superscript:true">s</hi></cell></row>
-                    <row ana="prov:donation"><cell><bibl>Ecton&apos;s Valor Benefic. ed. 2.<hi rend="superscript:true">da</hi> Lond. 1723</bibl></cell><cell rows="2"><ab type="shelfmark"><choice>
-                        <orig>8° Z.54.55<lb/><hi rend="underlined:true">Jur</hi>.</orig>
-                        <reg>8° Z 54,55 Jur.</reg>
-                    </choice></ab></cell>
-                        <cell rows="2"><persName ana="prov:donor">Auctor</persName></cell></row>
-                    <row><cell><bibl>His State of Qu. Annes Bounty 1721.</bibl></cell></row>
-                    <row><cell><bibl>Psalmi Davidis L priores versib. elegiacis</bibl></cell><cell><ab type="shelfmark"><choice>
-                        <orig>FF. 70. Th.</orig>
-                        <reg>FF 70 Th.</reg>
-                    </choice></ab></cell></row>
-                    <row ana="prov:deposit"><cell><bibl>Millar’s History of the Propagation of Xtianity
-                    &amp; overthrow of Paganism. 2 Voll.</bibl></cell><cell><ab type="shelfmark"><choice>
-                        <orig>8° Z.58.59. Jur.
-                        </orig>
-                        <reg>8° Z 58,59 Jur. </reg>
-                    </choice></ab></cell><cell>Stat<hi rend="superscript:true">s</hi></cell></row>
-                    <row ana="prov:donation"><cell><bibl>Parry&apos;s Tully de Oratore translated</bibl></cell><cell><ab type="shelfmark"><choice>
-                        <orig>60. Jur.</orig>
-                        <reg>60  Jur.</reg>
-                    </choice></ab></cell><cell><persName ana="prov:donor">Auctor</persName></cell></row>
-                    <row ana="prov:deposit"><cell><bibl>Skinner’s Life of General Monk.</bibl></cell><cell><ab type="shelfmark"><choice>
-                        <orig>8° Z. 56. Jur.</orig>
-                        <reg>8° Z 56 Jur.</reg>
-                    </choice></ab></cell><cell rows="3">Stat.<hi rend="superscript:true">s</hi></cell></row>
-                    <row ana="prov:deposit"><cell><bibl>Ollyste&apos;s madness of Disaffection</bibl></cell><cell><ab type="shelfmark"><choice>
-                        <orig>&amp;c. 57. Jur.</orig>
-                        <reg>8° Z 57 Jur.</reg>
-                    </choice></ab></cell></row> 
-                    <row ana="prov:deposit"><cell><bibl>Introduction to the Latin Tongue</bibl></cell><cell><ab type="shelfmark"><choice>
-                        <orig>8°. Z. 61. Jur</orig>
-                        <reg>8° Z 61 Jur.</reg>
-                    </choice></ab></cell></row>
+                                Cantuar.</persName></cell>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Lamy Apparatus Biblicus english&apos;d by Bundy</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>FF. 69.Th</orig>
+                                    <reg>FF 69 Th.</reg>
+                                </choice></ab></cell>
+                        <cell> Stat.<hi rend="superscript:true">s</hi></cell>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>Ecton&apos;s Valor Benefic. ed. 2.<hi rend="superscript:true"
+                                    >da</hi> Lond. 1723</bibl></cell>
+                        <cell rows="2"><ab type="shelfmark"><choice>
+                                    <orig>8° Z.54.55<lb/><hi rend="underlined:true">Jur</hi>.</orig>
+                                    <reg>8° Z 54,55 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell rows="2"><persName ana="prov:donor">Auctor</persName></cell>
+                    </row>
+                    <row>
+                        <cell><bibl>His State of Qu. Annes Bounty 1721.</bibl></cell>
+                    </row>
+                    <row>
+                        <cell><bibl>Psalmi Davidis L priores versib. elegiacis</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>FF. 70. Th.</orig>
+                                    <reg>FF 70 Th.</reg>
+                                </choice></ab></cell>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Millar’s History of the Propagation of Xtianity &amp; overthrow
+                                of Paganism. 2 Voll.</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° Z.58.59. Jur. </orig>
+                                    <reg>8° Z 58,59 Jur. </reg>
+                                </choice></ab></cell>
+                        <cell>Stat<hi rend="superscript:true">s</hi></cell>
+                    </row>
+                    <row ana="prov:donation">
+                        <cell><bibl>Parry&apos;s Tully de Oratore translated</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>60. Jur.</orig>
+                                    <reg>60 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell><persName ana="prov:donor">Auctor</persName></cell>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Skinner’s Life of General Monk.</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8° Z. 56. Jur.</orig>
+                                    <reg>8° Z 56 Jur.</reg>
+                                </choice></ab></cell>
+                        <cell rows="3">Stat.<hi rend="superscript:true">s</hi></cell>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Ollyste&apos;s madness of Disaffection</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>&amp;c. 57. Jur.</orig>
+                                    <reg>8° Z 57 Jur.</reg>
+                                </choice></ab></cell>
+                    </row>
+                    <row ana="prov:deposit">
+                        <cell><bibl>Introduction to the Latin Tongue</bibl></cell>
+                        <cell><ab type="shelfmark"><choice>
+                                    <orig>8°. Z. 61. Jur</orig>
+                                    <reg>8° Z 61 Jur.</reg>
+                                </choice></ab></cell>
+                    </row>
                 </table></ab>
         </body>
     </text>

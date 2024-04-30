@@ -1,10 +1,10 @@
 ﻿xml:id;persName;primary_role;description;VIAF;CERL;WikiData
 regC-JBOU;Bouchier, James;Curator;Regius Professor of Civil Law;;;
-regC-JBOW;Bowles, Joseph;Librarian;;6,13715716210528E+021;cnp02260393;Q6281642
+regC-JBOW;Bowles, Joseph;Librarian;;6137157162105278980009;cnp02260393;Q6281642
 regC-RCLA;Clavering, Robert;;Regius Professor of Hebrew;71262625;;Q7342960
 regC-HCLE;Clements, Henry;bookseller;;;cnp02330155;
 regC-JCOL;Colbatch, John;;;6276752;;
-regC-TDER;Dereham, Thomas Sir;;;5,0371482093113E+021;;
+regC-TDER;Dereham, Thomas Sir;;;5037148209311300460001;;
 regC-JECK;Eckhart, Johann Georg von;Librarian;;71489973;;Q71289
 regC-HFIS;Fisher, Henry;;Registrar of the University;;;
 regC-SFLE;Fletcher, Stephen;bookseller;;;cnp00058554;
@@ -21,7 +21,7 @@ regC-APEI;Peisley, Anthony;;;44191542;cni00089612;
 regC-JPOT;Potter, John;Curator;Regius Professor of Divinity;100189223;cnp00000200;Q336868
 regC-JPUR;Purnell, John;;;;;Q6253571
 regC-RRAW;Rawlinson, Richard;;;47563478;;
-regC-RSHI;Shippen, Robert;Vice-Chancellor;;4,68315994168203E+021;;Q7349764
+regC-RSHI;Shippen, Robert;Vice-Chancellor;;4683159941682025440006;;Q7349764
 regC-FSMI;Smit, Franz;;;74718649;;
 regC-TTER;Terry, Thomas;Curator;Regius Professor of Greek;;;
 regC-NTRO;Trott, Nicholas;;;76700095;;
@@ -40,3 +40,4 @@ regC-DWIL;Wilkins, David;;;24611480;;
 regC-TTRI;Tristram, Thomas;;;37268983;;
 regC-JBET;Betty, Joseph;;;234706680;;
 regC-WLHU;Le Hunt, William;Proctor;;;;
+regC-CWOR;Worm, Christen;;;54481483;;

@@ -17151,7 +17151,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D67-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D67-ID">
-                  <crm:P90_has_value>60  Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>60 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
