@@ -844,6 +844,9 @@
     rdfs:label """Royal College of Physicians of
                             Edinburgh""" .
 
+<https://viaf.org/viaf/15121725> a crm:E39_Actor ;
+    rdfs:label "Waterland, Daniel" .
+
 <https://viaf.org/viaf/151967378> a crm:E21_Person ;
     rdfs:label """LÃ©otaud, Vincent
                             1595-1672""" .
@@ -1040,6 +1043,9 @@
     rdfs:label """Royer, Gideon,
                             1650-1722""" .
 
+<https://viaf.org/viaf/31873466> a crm:E39_Actor ;
+    rdfs:label "Wilkes, Thomas" .
+
 <https://viaf.org/viaf/31998409> a crm:E21_Person ;
     rdfs:label """Kircher, Athanasius,
                             1602-1680.""" .
@@ -1222,6 +1228,9 @@
 <https://viaf.org/viaf/59117215> a crm:E21_Person ;
     rdfs:label """De Bie, Jacques, 1581-ca.
                             1650""" .
+
+<https://viaf.org/viaf/59438242> a crm:E39_Actor ;
+    rdfs:label "Wynne, William" .
 
 <https://viaf.org/viaf/59837110> a crm:E21_Person ;
     rdfs:label """Geier, Martin,
@@ -2437,6 +2446,7 @@
 
 <https:r0man-ist.github.io/regC#D60> a prov1:Donation ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
+    crm:P23_transferred_title_from <https://viaf.org/viaf/9856931> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1722-11-09T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1723-11-01T23:59:59"^^xsd:dateTime ] .
@@ -2455,8 +2465,7 @@
 
 <https:r0man-ist.github.io/regC#D62> a prov1:Donation ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
-    crm:P23_transferred_title_from [ a prov1:Donor ;
-            rdfs:label "" ] ;
+    crm:P23_transferred_title_from <https://viaf.org/viaf/15121725> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
@@ -2466,19 +2475,17 @@
 
 <https:r0man-ist.github.io/regC#D63> a prov1:Donation ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
-    crm:P23_transferred_title_from [ a prov1:Donor ;
-            rdfs:label "" ] ;
+    crm:P23_transferred_title_from <https://viaf.org/viaf/59438242> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D63-ID> a crm:E42_Identifier ;
-    crm:P90_has_value "J 3.14,15 Jur." .
+    crm:P90_has_value "I 3.14,15 Jur." .
 
 <https:r0man-ist.github.io/regC#D64> a prov1:Donation ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
-    crm:P23_transferred_title_from [ a prov1:Donor ;
-            rdfs:label "" ] ;
+    crm:P23_transferred_title_from <https://viaf.org/viaf/31873466> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
@@ -2488,8 +2495,7 @@
 
 <https:r0man-ist.github.io/regC#D65> a prov1:Donation ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
-    crm:P23_transferred_title_from [ a prov1:Donor ;
-            rdfs:label "" ] ;
+    crm:P23_transferred_title_from <https://viaf.org/viaf/9856931> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
@@ -2517,7 +2523,7 @@
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D67-ID> a crm:E42_Identifier ;
-    crm:P90_has_value "60  Jur." .
+    crm:P90_has_value "60 Jur." .
 
 <https:r0man-ist.github.io/regC#D7> a prov1:Donation ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
@@ -3660,7 +3666,7 @@
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep62-ID> a crm:E42_Identifier ;
-    crm:P90_has_value "J 3.13 Jur." .
+    crm:P90_has_value "I 3.13 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep63> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
@@ -9351,6 +9357,9 @@
     rdfs:label "Musgrave, William",
         """Musgrave, William,
                             1655?-1721""" .
+
+<https://viaf.org/viaf/9856931> a crm:E39_Actor ;
+    rdfs:label "Wake, William" .
 
 <https:r0man-ist.github.io/regC#D12-I1> a prov1:Item ;
     dcterms1:creator <https://viaf.org/viaf/76700095> ;

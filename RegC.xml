@@ -216,7 +216,24 @@
                 <persName>Worm, Christen</persName>
                 <idno type="VIAF">54481483</idno>
             </person>
+            <person xml:id="regC-DWAT">
+                <persName>Waterland, Daniel</persName>
+                <idno type="VIAF">15121725</idno>
+            </person>
+            <person xml:id="regC-WWYN">
+                <persName>Wynne, William</persName>
+                <idno type="VIAF">59438242</idno>
+            </person>
+            <person xml:id="regC-TWIL">
+                <persName>Wilkes, Thomas</persName>
+                <idno type="VIAF">31873466</idno>
+            </person>
+            <person xml:id="regC-WWAK">
+                <persName>Wake, William</persName>
+                <idno type="VIAF">9856931</idno>
+            </person>
         </listPerson>
+        
         
 
 
@@ -12353,7 +12370,7 @@
                                     <orig>418. 419.</orig>
                                     <reg>8° B 418,419 Linc.</reg>
                                 </choice></ab></cell>
-                        <cell><persName>Cl. Auctor.</persName></cell>
+                        <cell><persName ana="prov:donor" corresp="#regC-WWAK">Cl. Auctor.</persName></cell>
                     </row>
                     <row ana="prov:deposit">
                         <cell><bibl corresp="#regC-bib-Carmichael1722">Logica in usum Juvent. Glasq.
@@ -12610,7 +12627,7 @@
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
                     </row>
                     <row ana="prov:purchase">
-                        <cell><bibl>Robert of Gloucester&apos;s CHron. ꝓ Hearne 2
+                        <cell><bibl>Robert of Gloucester&apos;s Chron. ꝓ Hearne 2
                             Voll.</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>8°Z.65,66.Jur</orig>
@@ -12668,7 +12685,7 @@
                         <cell><measure quantity="0" unit="pence">0</measure></cell>
                     </row>
                     <row>
-                        <cell>Two paper Nooks &amp; a Pencil</cell>
+                        <cell>Two paper Books &amp; a Pencil</cell>
                         <cell/>
                         <cell><measure quantity="0" unit="pound">00</measure></cell>
                         <cell><measure quantity="2" unit="shilling">2</measure></cell>
@@ -12718,23 +12735,23 @@
                                     <orig>4° C. 17. 16. Linc.</orig>
                                     <reg>4° C 17.16 Linc.</reg>
                                 </choice></ab></cell>
-                        <cell><persName ana="prov:donor">Auctor</persName></cell>
+                        <cell><persName ana="prov:donor" corresp="#regC-DWAT">Auctor</persName></cell>
                     </row>
                     <row ana="prov:deposit">
                         <cell><bibl>Burnet&apos;s History of his own Times</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
-                                    <orig>J 3.13. Jur.</orig>
-                                    <reg>J 3.13 Jur.</reg>
+                                    <orig>I 3.13. Jur.</orig>
+                                    <reg>I 3.13 Jur.</reg>
                                 </choice></ab></cell>
                         <cell>Station<hi rend="superscript:true">es</hi></cell>
                     </row>
                     <row ana="prov:donation">
                         <cell><bibl>Wynne&apos;s Life of Sr. Leoline Jenkins 2 Voll.</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
-                                    <orig>J.3.14.15.<add>Jur</add></orig>
-                                    <reg>J 3.14,15 Jur.</reg>
+                                    <orig>I.3.14.15.<add>Jur</add></orig>
+                                    <reg>I 3.14,15 Jur.</reg>
                                 </choice></ab></cell>
-                        <cell><persName ana="prov:donor">Auctor</persName></cell>
+                        <cell><persName ana="prov:donor" corresp="#regC-WWYN">Auctor</persName></cell>
                     </row>
                     <row ana="prov:donation">
                         <cell><bibl>The Golden Farmer by Dr Wilks</bibl></cell>
@@ -12742,7 +12759,7 @@
                                     <orig>F.3.21. Art.</orig>
                                     <reg>F 3.21 Art.</reg>
                                 </choice></ab></cell>
-                        <cell><persName ana="prov:donor">Auctor</persName></cell>
+                        <cell><persName ana="prov:donor" corresp="#regC-TWIL">Auctor</persName></cell>
                     </row>
                     <row ana="prov:deposit">
                         <cell>Replies of Wearg &amp;c relating to the Bp̄ of Roch.<hi
@@ -12777,7 +12794,7 @@
                                     <orig>FF. 68. Th.</orig>
                                     <reg>FF 68 Th.</reg>
                                 </choice></ab></cell>
-                        <cell><persName ana="prov:donor">Archiep<hi rend="superscript:true">s</hi>
+                        <cell><persName ana="prov:donor" corresp="#regC-WWAK">Archiep<hi rend="superscript:true">s</hi>
                                 Cantuar.</persName></cell>
                     </row>
                     <row ana="prov:deposit">

@@ -14400,7 +14400,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep62-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep62-ID">
-                  <crm:P90_has_value>J 3.13 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>I 3.13 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -16041,6 +16041,11 @@
                   <rdfs:label>Bodleian Library</rdfs:label>
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E39_Actor rdf:about="https://viaf.org/viaf/9856931">
+                  <rdfs:label>Wake, William</rdfs:label>
+               </crm:E39_Actor>
+            </crm:P23_transferred_title_from>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1722-11-09T00:00:00</crm:P82a_begin_of_the_begin>
@@ -16072,9 +16077,9 @@
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
             <crm:P23_transferred_title_from>
-               <prov:Donor>
-                  <rdfs:label/>
-               </prov:Donor>
+               <crm:E39_Actor rdf:about="https://viaf.org/viaf/15121725">
+                  <rdfs:label>Waterland, Daniel</rdfs:label>
+               </crm:E39_Actor>
             </crm:P23_transferred_title_from>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
@@ -16092,9 +16097,9 @@
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
             <crm:P23_transferred_title_from>
-               <prov:Donor>
-                  <rdfs:label/>
-               </prov:Donor>
+               <crm:E39_Actor rdf:about="https://viaf.org/viaf/59438242">
+                  <rdfs:label>Wynne, William</rdfs:label>
+               </crm:E39_Actor>
             </crm:P23_transferred_title_from>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
@@ -16112,9 +16117,9 @@
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
             <crm:P23_transferred_title_from>
-               <prov:Donor>
-                  <rdfs:label/>
-               </prov:Donor>
+               <crm:E39_Actor rdf:about="https://viaf.org/viaf/31873466">
+                  <rdfs:label>Wilkes, Thomas</rdfs:label>
+               </crm:E39_Actor>
             </crm:P23_transferred_title_from>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
@@ -16132,9 +16137,9 @@
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
             <crm:P23_transferred_title_from>
-               <prov:Donor>
-                  <rdfs:label/>
-               </prov:Donor>
+               <crm:E39_Actor rdf:about="https://viaf.org/viaf/9856931">
+                  <rdfs:label>Wake, William</rdfs:label>
+               </crm:E39_Actor>
             </crm:P23_transferred_title_from>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
@@ -17087,7 +17092,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#D63-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#D63-ID">
-                  <crm:P90_has_value>J 3.14,15 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>I 3.14,15 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
