@@ -233,11 +233,6 @@
                 <idno type="VIAF">9856931</idno>
             </person>
         </listPerson>
-        
-        
-
-
-
         <listObject>
             <object xml:id="regC-bib-ActaEruditorum1719" ana="copy-identified">
                 <objectIdentifier>
@@ -6387,8 +6382,8 @@
                         <cell>For Letter Charges &amp;c. in procuring from <persName
                                 corresp="#regC-JECK">M<hi rend="superscript:true">r</hi>.
                                 Eccard,<lb/> Library Keeper at Han̄over</persName>, part of
-                            Junius&apos;s Ms.<lb/> Glossary, which had been formerly stoln by <persName corresp="#regC-CWOR">a
-                            Dane</persName>.</cell>
+                            Junius&apos;s Ms.<lb/> Glossary, which had been formerly stoln by
+                                <persName corresp="#regC-CWOR">a Dane</persName>.</cell>
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="3" unit="shilling">3</measure></cell>
                         <cell><measure quantity="6" unit="pence">6</measure></cell>
@@ -12370,7 +12365,8 @@
                                     <orig>418. 419.</orig>
                                     <reg>8° B 418,419 Linc.</reg>
                                 </choice></ab></cell>
-                        <cell><persName ana="prov:donor" corresp="#regC-WWAK">Cl. Auctor.</persName></cell>
+                        <cell><persName ana="prov:donor" corresp="#regC-WWAK">Cl.
+                            Auctor.</persName></cell>
                     </row>
                     <row ana="prov:deposit">
                         <cell><bibl corresp="#regC-bib-Carmichael1722">Logica in usum Juvent. Glasq.
@@ -12735,7 +12731,8 @@
                                     <orig>4° C. 17. 16. Linc.</orig>
                                     <reg>4° C 17.16 Linc.</reg>
                                 </choice></ab></cell>
-                        <cell><persName ana="prov:donor" corresp="#regC-DWAT">Auctor</persName></cell>
+                        <cell><persName ana="prov:donor" corresp="#regC-DWAT"
+                            >Auctor</persName></cell>
                     </row>
                     <row ana="prov:deposit">
                         <cell><bibl>Burnet&apos;s History of his own Times</bibl></cell>
@@ -12751,7 +12748,8 @@
                                     <orig>I.3.14.15.<add>Jur</add></orig>
                                     <reg>I 3.14,15 Jur.</reg>
                                 </choice></ab></cell>
-                        <cell><persName ana="prov:donor" corresp="#regC-WWYN">Auctor</persName></cell>
+                        <cell><persName ana="prov:donor" corresp="#regC-WWYN"
+                            >Auctor</persName></cell>
                     </row>
                     <row ana="prov:donation">
                         <cell><bibl>The Golden Farmer by Dr Wilks</bibl></cell>
@@ -12759,7 +12757,8 @@
                                     <orig>F.3.21. Art.</orig>
                                     <reg>F 3.21 Art.</reg>
                                 </choice></ab></cell>
-                        <cell><persName ana="prov:donor" corresp="#regC-TWIL">Auctor</persName></cell>
+                        <cell><persName ana="prov:donor" corresp="#regC-TWIL"
+                            >Auctor</persName></cell>
                     </row>
                     <row ana="prov:deposit">
                         <cell>Replies of Wearg &amp;c relating to the Bp̄ of Roch.<hi
@@ -12794,8 +12793,8 @@
                                     <orig>FF. 68. Th.</orig>
                                     <reg>FF 68 Th.</reg>
                                 </choice></ab></cell>
-                        <cell><persName ana="prov:donor" corresp="#regC-WWAK">Archiep<hi rend="superscript:true">s</hi>
-                                Cantuar.</persName></cell>
+                        <cell><persName ana="prov:donor" corresp="#regC-WWAK">Archiep<hi
+                                    rend="superscript:true">s</hi> Cantuar.</persName></cell>
                     </row>
                     <row ana="prov:deposit">
                         <cell><bibl>Lamy Apparatus Biblicus english&apos;d by Bundy</bibl></cell>
