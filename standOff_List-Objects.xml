@@ -5254,7 +5254,7 @@
             </monogr>
         </biblStruct>
     </object>
-    <object xml:id="regC-bib-Kempp1720" ana="copy-identified">
+    <object xml:id="regC-bib-Kemp1720" ana="copy-identified">
         <objectIdentifier>
             <institution>Bodleian Library</institution>
             <idno type="shelfmark">8° E 47 Jur.</idno>
@@ -5639,6 +5639,377 @@
                 <imprint>
                     <pubPlace>Londini</pubPlace>
                     <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Ecton1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° Z 54 Jur.</idno>
+            <idno type="ALMA-ID">990135015370107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135015370107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/47134877">Ecton, John, -1730.</author>
+                <title>Liber valorum &amp; decimarum. : Being an account of such ecclesiastical
+                    benefices in England and Wales, as now stand charged with, or lately were
+                    discharged from the payment of first-fruits and tenths. ... /</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Ecton1721" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° Z 55 Jur.</idno>
+            <idno type="ALMA-ID">990141777510107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990141777510107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/47134877">Ecton, John, -1730.</author>
+                <title>A state of the proceedings of the corporation of the governours of the bounty
+                    of queen Anne, for the augmentation of the maintenance of the poor
+                    clergy.</title>
+                <imprint>
+                    <pubPlace>Lond.</pubPlace>
+                    <date>1721</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Cicero1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° Z 60 Jur.</idno>
+            <idno type="ALMA-ID">990135022060107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135022060107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/78769600">Cicero, Marcus Tullius</author>
+                <title>A translation of Tully de oratore. By G.P.</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-JF1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° Z 61(1) Jur.</idno>
+            <idno type="ALMA-ID">990134952090107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990134952090107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>J. F.</author>
+                <title>A compendious introduction to the Latin tongue, by way of question and
+                    answer. ... The second edition with additions. By J.F.</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Olyffe1724" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° Z 57 Jur.</idno>
+            <idno type="ALMA-ID">990134887360107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990134887360107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/309671439">Ollyffe, George, 1682-1752</author>
+                <title>The madness of disaffection and treason against the present government. By
+                    George Ollyffe, ...</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1724</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Millar1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° Z 58,59 Jur.</idno>
+            <idno type="ALMA-ID">990146516940107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990146516940107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/66847051">Millar, Robert, 1672-1752</author>
+                <title ref="https://viaf.org/viaf/3249159764130608170009">The history of the
+                    propagation of Christianity, and the overthrow of paganism.</title>
+                <imprint>
+                    <pubPlace>Edinb.</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Ogle1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">L 1.18(1) Jur.</idno>
+            <idno type="ALMA-ID">990141619390107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990141619390107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/239569946">Ogle, Chaloner, Sir,
+                    1681?-1750</author>
+                <title>A full ... account of the tryal of all the pyrates lately taken by captain
+                    Ogle on board the Swallow man of war on the coast of Guinea.</title>
+                <imprint>
+                    <pubPlace>Lond.</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-GrandMystery1724" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">L 1.18(2) Jur.</idno>
+            <idno type="ALMA-ID">990148168250107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990148168250107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <title>The grand mystery of free-masons discover'd.</title>
+                <imprint>
+                    <pubPlace>Lond.</pubPlace>
+                    <date>1724</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Wharton1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">L 1.18(3) Jur.</idno>
+            <idno type="ALMA-ID">990145677170107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990145677170107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/25028267">Wharton, Philip Wharton, Duke of,
+                    1698-1731</author>
+                <title>His grace the duke of Wharton's speech in the House of lords on the third
+                    reading of the bill to inflict pains and penalties on Francis ... bishop of
+                    Rochester.</title>
+                <imprint>
+                    <pubPlace>Lond.</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-LePla1724" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">L 1.18(4) Jur.</idno>
+            <idno type="ALMA-ID">990140603580107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990140603580107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/14638253">Le Pla, Marc, 1650?-1715</author>
+                <title>A paraphrase on the Song of the three children [in Daniel iii] in irregular
+                    stanzas [by M. Le Pla].</title>
+                <imprint>
+                    <pubPlace>Lond.</pubPlace>
+                    <date>1724</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Carey1724" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">L 1.18 Jur. (5)</idno>
+            <idno type="ALMA-ID">990122121110107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990122121110107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/14965532">Carey, Henry, 1687?-1743</author>
+                <title>Cantatas for a voice with accompanyment; : together with songs on various
+                    subjects, for one[,] two &amp; three voices: a through bass to the whole and all
+                    the songs transposed for the flute. /</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1724</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Reeve1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">L 1.17 Jur. (1)</idno>
+            <idno type="ALMA-ID">990135247880107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135247880107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/55682948">Reeve, Thomas, Sir, -1737</author>
+                <title>The replies of Thomas Reeve, Esq; and Clement Wearg, Esq; in the House of
+                    Lords, the thirteenth of May, 1723. : In behalf of the bill to inflict pains and
+                    penalties on the late Bishop of Rochester, against the defence made by the said
+                    late Bishop and his counsel..</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Wynne1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">L 1.17 Jur. (2)</idno>
+            <idno type="ALMA-ID">990135206290107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135206290107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/59438242">Wynne, William, 1692-1765,
+                    author</author>
+                <title>The defence of Francis, late Lord Bishop of Rochester, : at the bar of the
+                    House of Lords, on Thursday the 9th, and Saturday the 11th, of May, 1723.
+                    against the bill then depending for inflicting pains and penalties on him.
+                    /</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Willis1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">L 1.17(3) Jur.</idno>
+            <idno type="ALMA-ID">990147980670107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990147980670107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/58057709">Willis, Richard, 1664-1734</author>
+                <title>The bishop of Salisbury's speech in the House of lords, upon the third
+                    reading of the bill to inflict pains and penalties on Francis, late bishop of
+                    Rochester.</title>
+                <imprint>
+                    <pubPlace>Lond.</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Phipps1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">L 1.17(4) Jur.</idno>
+            <idno type="ALMA-ID">990142871220107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990142871220107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/77847485">Phipps, Constantine, Sir,
+                    1656-1723</author>
+                <title>The defence of Francis, late ... bishop of Rochester, at the bar of the House
+                    of lords ... against the bill ... for inflicting pains and penalties on
+                    him.</title>
+                <imprint>
+                    <pubPlace>Lond.</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-HumbleAddress1722" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">L 1.17(5) Jur.</idno>
+            <idno type="ALMA-ID">990143159990107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990143159990107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <title>The humble address of the Protestant dissenting ministers, of three
+                    denominations, in and about the cities of London and Westminster, presented to
+                    his majesty, by ... Matthew Clarke, Nov. 20, 1722 ... with his majesty's most
+                    gracious answer.</title>
+                <imprint>
+                    <pubPlace>Lond.</pubPlace>
+                    <date>1722</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Clauses1721" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">L 1.17(6) Jur.</idno>
+            <idno type="ALMA-ID">990144968670107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990144968670107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <title>i. Three clauses in the Quarentine act, vii Georgii. ii. The petition of the
+                    city of London to the House of lords: and, iii. Their lordships protest on
+                    rejecting the said petition. iv. Another protest of their lordships.</title>
+                <imprint>
+                    <pubPlace>[Lond.</pubPlace>
+                    <date>1721</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Gay1722" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">L 1.17(7) Jur.</idno>
+            <idno type="ALMA-ID">990146140910107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990146140910107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/2480890">Gay, John, 1685-1732</author>
+                <title>An epistle to ... Henrietta, dutchess of Marlborough.</title>
+                <imprint>
+                    <pubPlace>Lond.</pubPlace>
+                    <date>1722</date>
                 </imprint>
             </monogr>
         </biblStruct>

@@ -749,134 +749,124 @@
         <https:r0man-ist.github.io/regC#Sub9> .
 
 <https://viaf.org/viaf/100160573> a crm:E21_Person ;
-    rdfs:label """Colbatch, John,
-                            1664-1748""" .
+    rdfs:label "Colbatch, John, 1664-1748" .
 
 <https://viaf.org/viaf/100162370> a crm:E21_Person ;
-    rdfs:label """Vida, Marco Girolamo,
-                            approximately 1485-1566""" .
+    rdfs:label """Vida, Marco Girolamo, approximately
+                    1485-1566""" .
 
 <https://viaf.org/viaf/100166484> a crm:E21_Person ;
     rdfs:label """Bellori, Giovanni Pietro,
-                            1613-1696""" .
+                    1613-1696""" .
 
 <https://viaf.org/viaf/100170776> a crm:E21_Person ;
-    rdfs:label """Boyer, Abel,
-                            1667-1729""" .
+    rdfs:label "Boyer, Abel, 1667-1729" .
 
 <https://viaf.org/viaf/100197567> a crm:E21_Person ;
-    rdfs:label """Lucretius Carus,
-                            Titus.""" .
+    rdfs:label "Lucretius Carus, Titus." .
 
 <https://viaf.org/viaf/100212546> a crm:E21_Person ;
-    rdfs:label """Wallis, John,
-                            1616-1703""" .
+    rdfs:label "Wallis, John, 1616-1703" .
 
 <https://viaf.org/viaf/100226395> a crm:E21_Person ;
     rdfs:label """Tertullian, approximately
-                            160-approximately 230""" .
+                    160-approximately 230""" .
 
 <https://viaf.org/viaf/100227522> a crm:E21_Person ;
     rdfs:label "Horace" .
 
 <https://viaf.org/viaf/100277651> a crm:E21_Person ;
     rdfs:label """Sykes, Arthur Ashley,
-                            1684?-1756""" .
+                    1684?-1756""" .
 
 <https://viaf.org/viaf/101760867> a crm:E21_Person ;
     rdfs:label "Sophocles" .
 
 <https://viaf.org/viaf/10239962> a crm:E21_Person ;
-    rdfs:label """Riminaldi, Ippolito,
-                            1520-1589""" .
+    rdfs:label "Riminaldi, Ippolito, 1520-1589" .
 
 <https://viaf.org/viaf/10280848> a crm:E21_Person ;
-    rdfs:label """Niemann, Sebastian,
-                            1625-1684""" .
+    rdfs:label "Niemann, Sebastian, 1625-1684" .
 
 <https://viaf.org/viaf/10782288> a crm:E21_Person ;
     rdfs:label """Cockburn, W. 1669-1739.
-                            (William)""" .
+                    (William)""" .
 
 <https://viaf.org/viaf/120694653> a crm:E21_Person ;
-    rdfs:label """Manuzio, Paulo,
-                            1512-1574""" .
+    rdfs:label "Manuzio, Paulo, 1512-1574" .
 
 <https://viaf.org/viaf/120697769> a crm:E21_Person ;
     rdfs:label "Roper, William" .
 
 <https://viaf.org/viaf/121907809> a crm:E21_Person ;
-    rdfs:label """Blanchot, Pierre,
-                            1589-1637""" .
+    rdfs:label "Blanchot, Pierre, 1589-1637" .
 
 <https://viaf.org/viaf/12646173> a crm:E21_Person ;
-    rdfs:label """Maichel, Daniel,
-                            1693-1752""" .
+    rdfs:label "Maichel, Daniel, 1693-1752" .
 
 <https://viaf.org/viaf/12656750> a crm:E21_Person ;
-    rdfs:label """Hodges, Nathaniel,
-                            1629-1688""" .
+    rdfs:label "Hodges, Nathaniel, 1629-1688" .
 
 <https://viaf.org/viaf/129152682525023310159> a crm:E21_Person ;
     rdfs:label """Speidel, Johann
-                            Jacob""" .
+                    Jacob""" .
 
 <https://viaf.org/viaf/129849411> a crm:E21_Person ;
     rdfs:label """Royal College of Physicians of
-                            London""" .
+                    London""" .
 
 <https://viaf.org/viaf/13101243> a crm:E21_Person ;
-    rdfs:label """Cyril, Saint, Bishop of
-                            Jerusalem, approximately 315-386""" .
+    rdfs:label """Cyril, Saint, Bishop of Jerusalem,
+                    approximately 315-386""" .
 
 <https://viaf.org/viaf/13246163> a crm:E21_Person ;
-    rdfs:label """Carocci, Vincenzo,
-                            1580-16..""" .
+    rdfs:label "Carocci, Vincenzo, 1580-16.." .
 
 <https://viaf.org/viaf/13499546> a crm:E21_Person ;
     rdfs:label "Forbes, William -1745" .
 
 <https://viaf.org/viaf/145097> a crm:E21_Person ;
-    rdfs:label """Pontedera, Giulio,
-                            1688-1757""" .
+    rdfs:label "Pontedera, Giulio, 1688-1757" .
+
+<https://viaf.org/viaf/14638253> a crm:E21_Person ;
+    rdfs:label "Le Pla, Marc, 1650?-1715" .
 
 <https://viaf.org/viaf/146817503> a crm:E21_Person ;
     rdfs:label """Royal College of Physicians of
-                            Edinburgh""" .
+                    Edinburgh""" .
+
+<https://viaf.org/viaf/14965532> a crm:E21_Person ;
+    rdfs:label "Carey, Henry, 1687?-1743" .
 
 <https://viaf.org/viaf/15121725> a crm:E39_Actor ;
     rdfs:label "Waterland, Daniel" .
 
 <https://viaf.org/viaf/151967378> a crm:E21_Person ;
-    rdfs:label """LÃ©otaud, Vincent
-                            1595-1672""" .
+    rdfs:label "LÃ©otaud, Vincent 1595-1672" .
 
 <https://viaf.org/viaf/155083> a crm:E21_Person ;
     rdfs:label "Makowski, Jan, 1588-1644" .
 
 <https://viaf.org/viaf/175145857877123020157> a crm:E21_Person ;
     rdfs:label """Hoadly, Benjamin,
-                            1676-1761""" .
+                    1676-1761""" .
 
 <https://viaf.org/viaf/17568960> a crm:E21_Person ;
-    rdfs:label """Bradford, Samuel,
-                            1652-1731""" .
+    rdfs:label "Bradford, Samuel, 1652-1731" .
 
 <https://viaf.org/viaf/17572597> a crm:E21_Person ;
     rdfs:label """Crakanthorpe, Richard,
-                            1567-1624""" .
+                    1567-1624""" .
 
 <https://viaf.org/viaf/17630601> a crm:E21_Person ;
-    rdfs:label """Smalbroke, Richard,
-                            1672-1749""" .
+    rdfs:label "Smalbroke, Richard, 1672-1749" .
 
 <https://viaf.org/viaf/18100406> a crm:E21_Person ;
-    rdfs:label """Henley, John,
-                            1692-1756""" .
+    rdfs:label "Henley, John, 1692-1756" .
 
 <https://viaf.org/viaf/19709084> a crm:E21_Person ;
     rdfs:label """Menochio, Giovanni Stefano,
-                            1575-1655""" .
+                    1575-1655""" .
 
 <https://viaf.org/viaf/19824580> a crm:E21_Person ;
     rdfs:label "Gramaye, Jean-Baptiste" .
@@ -885,553 +875,491 @@
     rdfs:label "Sprott, Thomas" .
 
 <https://viaf.org/viaf/19865> a crm:E21_Person ;
-    rdfs:label """Brisson, BarnabÃ©,
-                            1531-1591.""" .
+    rdfs:label "Brisson, BarnabÃ©, 1531-1591." .
 
 <https://viaf.org/viaf/20029111> a crm:E21_Person ;
-    rdfs:label """Gardiner, Richard,
-                            1591-1670""" .
+    rdfs:label "Gardiner, Richard, 1591-1670" .
 
 <https://viaf.org/viaf/201200036> a crm:E21_Person ;
     rdfs:label """Santorelli, Antonio,
-                            1583-1653""" .
+                    1583-1653""" .
 
 <https://viaf.org/viaf/20903599> a crm:E21_Person ;
-    rdfs:label """Gibson, William
-                            1680?-1750""" .
+    rdfs:label "Gibson, William 1680?-1750" .
 
 <https://viaf.org/viaf/211335569> a crm:E21_Person ;
     rdfs:label """Le Clerc, SÃ©bastien,
-                            1637-1714""" .
+                    1637-1714""" .
 
 <https://viaf.org/viaf/22433369> a crm:E21_Person ;
     rdfs:label """Dorsche, Johann Georg.,
-                            1597-1659""" .
+                    1597-1659""" .
 
 <https://viaf.org/viaf/22489099> a crm:E21_Person ;
-    rdfs:label """Pratt, Samuel,
-                            1659?-1723""" .
+    rdfs:label "Pratt, Samuel, 1659?-1723" .
 
 <https://viaf.org/viaf/2283158188232920260006> a crm:E21_Person ;
     rdfs:label """DefoÃ«, Daniel,
-                            1661?-1731""" .
+                    1661?-1731""" .
 
 <https://viaf.org/viaf/22980277> a crm:E21_Person ;
-    rdfs:label """Tooly, Thomas,
-                            1688-1758""" .
+    rdfs:label "Tooly, Thomas, 1688-1758" .
 
 <https://viaf.org/viaf/234706680> a crm:E39_Actor ;
     rdfs:label "Betty, Joseph" .
 
+<https://viaf.org/viaf/239569946> a crm:E21_Person ;
+    rdfs:label """Ogle, Chaloner, Sir,
+                    1681?-1750""" .
+
 <https://viaf.org/viaf/24456815> a crm:E21_Person ;
-    rdfs:label """Cotes, Digby, 1683 or
-                            4-1745""" .
+    rdfs:label "Cotes, Digby, 1683 or 4-1745" .
 
 <https://viaf.org/viaf/24604287> a crm:E21_Person ;
-    rdfs:label """Leonardo, da Vinci,
-                            1452-1519""" .
+    rdfs:label "Leonardo, da Vinci, 1452-1519" .
 
 <https://viaf.org/viaf/24611480> a crm:E39_Actor ;
     rdfs:label "Wilkins, David" .
 
 <https://viaf.org/viaf/24616821> a crm:E21_Person ;
-    rdfs:label """Justinus, Marcus
-                            Junianus""" .
+    rdfs:label "Justinus, Marcus Junianus" .
 
 <https://viaf.org/viaf/24623353> a crm:E21_Person ;
     rdfs:label """Fabricius, Johann Albert,
-                            1668-1736""" .
+                    1668-1736""" .
 
 <https://viaf.org/viaf/24625861> a crm:E21_Person ;
-    rdfs:label """Riolan, Jean,
-                            1577-1657""" .
+    rdfs:label "Riolan, Jean, 1577-1657" .
 
 <https://viaf.org/viaf/24631271> a crm:E21_Person ;
-    rdfs:label """Ward, Edward,
-                            1667-1731""" .
+    rdfs:label "Ward, Edward, 1667-1731" .
 
 <https://viaf.org/viaf/2470550> a crm:E21_Person ;
-    rdfs:label """Galilei, Galileo,
-                            1564-1642.""" .
+    rdfs:label "Galilei, Galileo, 1564-1642." .
 
 <https://viaf.org/viaf/2480434> a crm:E21_Person ;
     rdfs:label "Owen, John, 1616-1683" .
 
+<https://viaf.org/viaf/2480890> a crm:E21_Person ;
+    rdfs:label "Gay, John, 1685-1732" .
+
+<https://viaf.org/viaf/25028267> a crm:E21_Person ;
+    rdfs:label """Wharton, Philip Wharton, Duke of,
+                    1698-1731""" .
+
 <https://viaf.org/viaf/251523> a crm:E21_Person ;
-    rdfs:label """Carmichael, Gershom,
-                            1672-1729""" .
+    rdfs:label "Carmichael, Gershom, 1672-1729" .
 
 <https://viaf.org/viaf/25398349> a crm:E21_Person ;
-    rdfs:label """Vitringa, Campegius,
-                            1659-1722""" .
+    rdfs:label "Vitringa, Campegius, 1659-1722" .
 
 <https://viaf.org/viaf/25496515> a crm:E21_Person ;
-    rdfs:label """Kipping, Heinrich,
-                            1623-1678""" .
+    rdfs:label "Kipping, Heinrich, 1623-1678" .
 
 <https://viaf.org/viaf/25505863> a crm:E21_Person ;
     rdfs:label """Mantova Benavides, Marco,
-                            1489-1582.""" .
+                    1489-1582.""" .
 
 <https://viaf.org/viaf/26032730> a crm:E21_Person ;
-    rdfs:label """Lewis, Thomas,
-                            1689-1749?""" .
+    rdfs:label "Lewis, Thomas, 1689-1749?" .
 
 <https://viaf.org/viaf/266524486> a crm:E21_Person ;
-    rdfs:label """Eutropius, active 4th
-                            century""" .
+    rdfs:label "Eutropius, active 4th century" .
 
 <https://viaf.org/viaf/267039708> a crm:E21_Person ;
     rdfs:label "Rival, Pierre, ?-1730" .
 
 <https://viaf.org/viaf/267885254> a crm:E21_Person ;
-    rdfs:label """Dekkers, Frederick,
-                            1644-1720""" .
+    rdfs:label "Dekkers, Frederick, 1644-1720" .
 
 <https://viaf.org/viaf/27069096> a crm:E21_Person ;
-    rdfs:label """Montesquieu, Charles de
-                            Secondat, baron de, 1689-1755""" .
+    rdfs:label """Montesquieu, Charles de Secondat, baron
+                    de, 1689-1755""" .
 
 <https://viaf.org/viaf/27070583> a crm:E21_Person ;
-    rdfs:label """Ramsay, chevalier (Andrew
-                            Michael), 1686-1743""" .
+    rdfs:label """Ramsay, chevalier (Andrew Michael),
+                    1686-1743""" .
 
 <https://viaf.org/viaf/27148970> a crm:E21_Person ;
-    rdfs:label """Espence, Claude d'
-                            1511-1571""" .
+    rdfs:label "Espence, Claude d' 1511-1571" .
 
 <https://viaf.org/viaf/27358628> a crm:E21_Person ;
-    rdfs:label """Grawer, Albert,
-                            1575-1617""" .
+    rdfs:label "Grawer, Albert, 1575-1617" .
 
 <https://viaf.org/viaf/280777940> a crm:E21_Person ;
-    rdfs:label """Mena, Ferdinandus,
-                            1520-""" .
+    rdfs:label "Mena, Ferdinandus, 1520-" .
 
 <https://viaf.org/viaf/2813147> a crm:E21_Person ;
-    rdfs:label """QuÃ©tif, Jacques,
-                            1618-1698""" .
+    rdfs:label "QuÃ©tif, Jacques, 1618-1698" .
 
 <https://viaf.org/viaf/28458472> a crm:E21_Person ;
-    rdfs:label """Trommius, Abraham,
-                            1633-1719""" .
+    rdfs:label "Trommius, Abraham, 1633-1719" .
 
 <https://viaf.org/viaf/28537788> a crm:E21_Person ;
     rdfs:label "Dry, John" .
 
 <https://viaf.org/viaf/29543710> a crm:E21_Person ;
-    rdfs:label """Hearne, Thomas,
-                            1678-1735""" .
+    rdfs:label "Hearne, Thomas, 1678-1735" .
 
 <https://viaf.org/viaf/29567630> a crm:E21_Person ;
-    rdfs:label """HjÃ¤rne, Urban,
-                            1641-1724.""" .
+    rdfs:label "HjÃ¤rne, Urban, 1641-1724." .
 
 <https://viaf.org/viaf/299253454> a crm:E21_Person ;
     rdfs:label """Boileau-DesprÃ©aux, NicolÃ¡s,
-                            1636-1711""" .
+                    1636-1711""" .
 
 <https://viaf.org/viaf/30275093> a crm:E21_Person ;
-    rdfs:label """Mountfort, William,
-                            1664?-1692""" .
+    rdfs:label "Mountfort, William, 1664?-1692" .
 
 <https://viaf.org/viaf/305230154> a crm:E21_Person ;
-    rdfs:label """Bonifacio, da Ceva,
-                            1456-1517""" .
+    rdfs:label "Bonifacio, da Ceva, 1456-1517" .
 
 <https://viaf.org/viaf/306131807> a crm:E21_Person ;
-    rdfs:label """Royer, Gideon,
-                            1650-1722""" .
+    rdfs:label "Royer, Gideon, 1650-1722" .
+
+<https://viaf.org/viaf/309671439> a crm:E21_Person ;
+    rdfs:label "Ollyffe, George, 1682-1752" .
 
 <https://viaf.org/viaf/31873466> a crm:E39_Actor ;
     rdfs:label "Wilkes, Thomas" .
 
 <https://viaf.org/viaf/31998409> a crm:E21_Person ;
     rdfs:label """Kircher, Athanasius,
-                            1602-1680.""" .
+                    1602-1680.""" .
 
 <https://viaf.org/viaf/32149754> a crm:E21_Person ;
-    rdfs:label """Middleton, Conyers,
-                            1683-1750""" .
+    rdfs:label "Middleton, Conyers, 1683-1750" .
 
 <https://viaf.org/viaf/32345104> a crm:E21_Person ;
-    rdfs:label """Day, Lionel, 1569 or
-                            1570-1640""" .
+    rdfs:label "Day, Lionel, 1569 or 1570-1640" .
 
 <https://viaf.org/viaf/32388597> a crm:E21_Person ;
-    rdfs:label """Hendley, William,
-                            1691?-1724""" .
+    rdfs:label "Hendley, William, 1691?-1724" .
 
 <https://viaf.org/viaf/34489209> a crm:E21_Person ;
     rdfs:label "Mela, Pomponius" .
 
 <https://viaf.org/viaf/34662220> a crm:E21_Person ;
-    rdfs:label """Grollier de ServiÃ¨re,
-                            Nicolas""" .
+    rdfs:label "Grollier de ServiÃ¨re, Nicolas" .
 
 <https://viaf.org/viaf/347904> a crm:E21_Person ;
-    rdfs:label """Albin, Eleazar, active
-                            1713-1759""" .
+    rdfs:label "Albin, Eleazar, active 1713-1759" .
 
 <https://viaf.org/viaf/37268983> a crm:E39_Actor ;
     rdfs:label "Tristram, Thomas" .
 
 <https://viaf.org/viaf/38056187> a crm:E21_Person ;
     rdfs:label """MÃ¼ller, Gottfried (czynny ok.
-                            1670)""" .
+                    1670)""" .
 
 <https://viaf.org/viaf/38331979> a crm:E21_Person ;
-    rdfs:label """Ward, Thomas,
-                            1652-1708""" .
+    rdfs:label "Ward, Thomas, 1652-1708" .
 
 <https://viaf.org/viaf/39404856> a crm:E21_Person ;
-    rdfs:label """Lamy, Bernard,
-                            1640-1715""" .
+    rdfs:label "Lamy, Bernard, 1640-1715" .
 
 <https://viaf.org/viaf/39811604> a crm:E21_Person ;
     rdfs:label """Hunnius, Helfrich Ulrich,
-                            1583-1636""" .
+                    1583-1636""" .
 
 <https://viaf.org/viaf/40161749> a crm:E21_Person ;
-    rdfs:label """Cheselden, William,
-                            1688-1752""" .
+    rdfs:label "Cheselden, William, 1688-1752" .
 
 <https://viaf.org/viaf/40321758> a crm:E21_Person ;
     rdfs:label "Norrelius, Andreas" .
 
 <https://viaf.org/viaf/41920698> a crm:E21_Person ;
     rdfs:label """Struve, Burkhard Gotthelf,
-                            1671-1738.""" .
+                    1671-1738.""" .
 
 <https://viaf.org/viaf/42187262> a crm:E21_Person ;
-    rdfs:label """Whitby, Daniel,
-                            1638-1726""" .
+    rdfs:label "Whitby, Daniel, 1638-1726" .
 
 <https://viaf.org/viaf/42212722> a crm:E21_Person ;
     rdfs:label "Eyston, Charles, 1667-1721 " .
 
 <https://viaf.org/viaf/44328034> a crm:E21_Person ;
-    rdfs:label """Hughes, John,
-                            1677-1720""" .
+    rdfs:label "Hughes, John, 1677-1720" .
 
 <https://viaf.org/viaf/44432711> a crm:E21_Person ;
     rdfs:label "Cordemoy, J.-L. de" .
 
 <https://viaf.org/viaf/45131215> a crm:E21_Person ;
     rdfs:label """Hossche, Sidronius de
-                            1596-1653""" .
+                    1596-1653""" .
 
 <https://viaf.org/viaf/46771136> a crm:E21_Person ;
-    rdfs:label """Hare, Francis,
-                            1671-1740""" .
+    rdfs:label "Hare, Francis, 1671-1740" .
 
 <https://viaf.org/viaf/46848150> a crm:E21_Person ;
-    rdfs:label """Nicolson, William,
-                            1655-1727""" .
+    rdfs:label "Nicolson, William, 1655-1727" .
 
 <https://viaf.org/viaf/47066992> a crm:E21_Person ;
     rdfs:label """Boxhorn, Marcus Zuerius,
-                            1612-1653.""" .
+                    1612-1653.""" .
 
 <https://viaf.org/viaf/48609> a crm:E21_Person ;
-    rdfs:label """FeuillÃ©e, Louis,
-                            1660-1732""" .
+    rdfs:label "FeuillÃ©e, Louis, 1660-1732" .
 
 <https://viaf.org/viaf/49234977> a crm:E21_Person ;
-    rdfs:label """Le Clerc, Jean,
-                            1657-1736.""" .
+    rdfs:label "Le Clerc, Jean, 1657-1736." .
 
 <https://viaf.org/viaf/49252592> a crm:E21_Person ;
-    rdfs:label """Young, Edward,
-                            1683-1765.""" .
+    rdfs:label "Young, Edward, 1683-1765." .
 
 <https://viaf.org/viaf/4929593> a crm:E21_Person ;
     rdfs:label """Eusebius, of Caesarea, Bishop of
-                            Caesarea, approximately 260-approximately 340""" .
+                    Caesarea, approximately 260-approximately 340""" .
 
 <https://viaf.org/viaf/49308476> a crm:E21_Person ;
     rdfs:label """Scheuchzer, Johann Jakob,
-                            1672-1733""" .
+                    1672-1733""" .
 
 <https://viaf.org/viaf/4972902> a crm:E21_Person ;
-    rdfs:label """Huet, Pierre-Daniel,
-                            1630-1721.""" .
+    rdfs:label "Huet, Pierre-Daniel, 1630-1721." .
 
 <https://viaf.org/viaf/50006688> a crm:E21_Person ;
     rdfs:label """Guglielmini, Domenico,
-                            1655-1710""" .
+                    1655-1710""" .
 
 <https://viaf.org/viaf/50322264> a crm:E21_Person ;
-    rdfs:label """Rinaldini, Carlo,
-                            1615-1698""" .
+    rdfs:label "Rinaldini, Carlo, 1615-1698" .
 
 <https://viaf.org/viaf/51698921> a crm:E21_Person ;
-    rdfs:label """MÃ¼nster, Sebastian,
-                            1489-1552""" .
+    rdfs:label "MÃ¼nster, Sebastian, 1489-1552" .
 
 <https://viaf.org/viaf/51755048> a crm:E21_Person ;
     rdfs:label """Manley, Mary de la RiviÃ¨re
-                            (1663-1724).""" .
+                    (1663-1724).""" .
 
 <https://viaf.org/viaf/51822477> a crm:E21_Person ;
-    rdfs:label """Le Long, Jacques,
-                            1665-1721""" .
+    rdfs:label "Le Long, Jacques, 1665-1721" .
 
 <https://viaf.org/viaf/51842250> a crm:E21_Person ;
-    rdfs:label """Guido, Jean, active
-                            1540""" .
+    rdfs:label "Guido, Jean, active 1540" .
 
 <https://viaf.org/viaf/52029866> a crm:E21_Person ;
-    rdfs:label """Kahl, Johann,
-                            1550-1614""" .
+    rdfs:label "Kahl, Johann, 1550-1614" .
 
 <https://viaf.org/viaf/52539384> a crm:E21_Person ;
-    rdfs:label """Reresby, Tamworth,
-                            1670-""" .
+    rdfs:label "Reresby, Tamworth, 1670-" .
 
 <https://viaf.org/viaf/54139301> a crm:E21_Person ;
-    rdfs:label """Zanchi, Girolamo,
-                            1516-1590""" .
+    rdfs:label "Zanchi, Girolamo, 1516-1590" .
 
 <https://viaf.org/viaf/54487203> a crm:E21_Person ;
-    rdfs:label """Garofalo, Biagio,
-                            1677-1762""" .
+    rdfs:label "Garofalo, Biagio, 1677-1762" .
 
 <https://viaf.org/viaf/55020168> a crm:E21_Person ;
-    rdfs:label """GÃ¼rtler, Nicolaus,
-                            1654-1711""" .
+    rdfs:label "GÃ¼rtler, Nicolaus, 1654-1711" .
+
+<https://viaf.org/viaf/55682948> a crm:E21_Person ;
+    rdfs:label "Reeve, Thomas, Sir, -1737" .
 
 <https://viaf.org/viaf/56467568> a crm:E21_Person ;
     rdfs:label """Cunningham, Alexander,
-                            1655?-1730""" .
+                    1655?-1730""" .
 
 <https://viaf.org/viaf/56661367> a crm:E21_Person ;
-    rdfs:label """Prideaux, Humphrey,
-                            1648-1724.""" .
+    rdfs:label "Prideaux, Humphrey, 1648-1724." .
 
 <https://viaf.org/viaf/56953744> a crm:E21_Person ;
-    rdfs:label """Pfeiffer, August,
-                            1640-1698.""" .
+    rdfs:label "Pfeiffer, August, 1640-1698." .
 
 <https://viaf.org/viaf/57380713> a crm:E21_Person ;
-    rdfs:label """Leyser, Polycarp,
-                            1552-1610.""" .
+    rdfs:label "Leyser, Polycarp, 1552-1610." .
 
 <https://viaf.org/viaf/57550237> a crm:E21_Person ;
-    rdfs:label """Maynard, GÃ©raud de
-                            1537-1607""" .
+    rdfs:label "Maynard, GÃ©raud de 1537-1607" .
+
+<https://viaf.org/viaf/58057709> a crm:E21_Person ;
+    rdfs:label "Willis, Richard, 1664-1734" .
 
 <https://viaf.org/viaf/58955547> a crm:E21_Person ;
-    rdfs:label """Robertson, James (School-master
-                            in Glasgow)""" .
+    rdfs:label """Robertson, James (School-master in
+                    Glasgow)""" .
 
 <https://viaf.org/viaf/59117215> a crm:E21_Person ;
-    rdfs:label """De Bie, Jacques, 1581-ca.
-                            1650""" .
-
-<https://viaf.org/viaf/59438242> a crm:E39_Actor ;
-    rdfs:label "Wynne, William" .
+    rdfs:label "De Bie, Jacques, 1581-ca. 1650" .
 
 <https://viaf.org/viaf/59837110> a crm:E21_Person ;
-    rdfs:label """Geier, Martin,
-                            1614-1680""" .
+    rdfs:label "Geier, Martin, 1614-1680" .
 
 <https://viaf.org/viaf/59956795> a crm:E21_Person ;
-    rdfs:label """Linden, Henricus Antonides van
-                            der 1546-1614""" .
+    rdfs:label """Linden, Henricus Antonides van der
+                    1546-1614""" .
 
 <https://viaf.org/viaf/61539765> a crm:E21_Person ;
     rdfs:label """Bede, the Venerable, Saint,
-                            673-735""" .
+                    673-735""" .
 
 <https://viaf.org/viaf/61551003> a crm:E21_Person ;
-    rdfs:label """Pope, Alexander.
-                            1688-1744.""" .
+    rdfs:label "Pope, Alexander. 1688-1744." .
 
 <https://viaf.org/viaf/61693259> a crm:E21_Person ;
     rdfs:label """Dubourdieu, Jean-Armand,
-                            1680?-1726""" .
+                    1680?-1726""" .
 
 <https://viaf.org/viaf/61785173> a crm:E21_Person ;
-    rdfs:label """Oraeus, Heinrich,
-                            1584-1646""" .
+    rdfs:label "Oraeus, Heinrich, 1584-1646" .
 
 <https://viaf.org/viaf/62367445> a crm:E21_Person ;
-    rdfs:label """Valier, Agostino,
-                            1531-1606""" .
+    rdfs:label "Valier, Agostino, 1531-1606" .
 
 <https://viaf.org/viaf/62606175> a crm:E21_Person ;
-    rdfs:label """Mackenzie, George,
-                            1636-1691""" .
+    rdfs:label "Mackenzie, George, 1636-1691" .
 
 <https://viaf.org/viaf/63858703> a crm:E21_Person ;
     rdfs:label "Boys, James, ?-1725" .
 
 <https://viaf.org/viaf/64053449> a crm:E21_Person ;
     rdfs:label """Alsted, Johann Heinrich,
-                            1588-1638.""" .
+                    1588-1638.""" .
 
 <https://viaf.org/viaf/64138933> a crm:E21_Person ;
     rdfs:label "Lucas, Paul, 1664-1737" .
 
 <https://viaf.org/viaf/64154214> a crm:E21_Person ;
     rdfs:label """Bonifacio, Baldassarre,
-                            1585-1659""" .
+                    1585-1659""" .
 
 <https://viaf.org/viaf/64362921> a crm:E21_Person ;
     rdfs:label """Walle, Jacques van de
-                            1599-1690""" .
+                    1599-1690""" .
 
 <https://viaf.org/viaf/64789715> a crm:E21_Person ;
-    rdfs:label """Burman, Pieter,
-                            1668-1741""" .
+    rdfs:label "Burman, Pieter, 1668-1741" .
 
 <https://viaf.org/viaf/6480301> a crm:E21_Person ;
-    rdfs:label """Roots, Richard, 1673 or
-                            1674-""" .
+    rdfs:label "Roots, Richard, 1673 or 1674-" .
 
 <https://viaf.org/viaf/65516783> a crm:E21_Person ;
-    rdfs:label """Webster, James,
-                            1658?-1720""" .
+    rdfs:label "Webster, James, 1658?-1720" .
+
+<https://viaf.org/viaf/66342695> a crm:E39_Actor ;
+    rdfs:label "Parry, George" .
 
 <https://viaf.org/viaf/66476884> a crm:E21_Person ;
-    rdfs:label """L'Hospital,
-                            Guillaume-FranÃ§ois-Antoine de, 1661-1704""" .
+    rdfs:label """L'Hospital, Guillaume-FranÃ§ois-Antoine
+                    de, 1661-1704""" .
+
+<https://viaf.org/viaf/66847051> a crm:E21_Person ;
+    rdfs:label "Millar, Robert, 1672-1752" .
 
 <https://viaf.org/viaf/69268732> a crm:E21_Person ;
     rdfs:label "Averani, Benedetto" .
 
 <https://viaf.org/viaf/69681040> a crm:E21_Person ;
-    rdfs:label """Falster, Christian,
-                            1690-1752""" .
+    rdfs:label "Falster, Christian, 1690-1752" .
 
 <https://viaf.org/viaf/69805815> a crm:E21_Person ;
-    rdfs:label """Pellegrino, Camillo,
-                            1598-1663""" .
+    rdfs:label "Pellegrino, Camillo, 1598-1663" .
 
 <https://viaf.org/viaf/69868154> a crm:E21_Person ;
-    rdfs:label """Potier, Michael
-                            1564-1631""" .
+    rdfs:label "Potier, Michael 1564-1631" .
 
 <https://viaf.org/viaf/71739299> a crm:E21_Person ;
     rdfs:label "Ripamonti, Giuseppe" .
 
 <https://viaf.org/viaf/71824522> a crm:E21_Person ;
-    rdfs:label """PrÃ©vost, Jean,
-                            1585-1631""" .
+    rdfs:label "PrÃ©vost, Jean, 1585-1631" .
 
 <https://viaf.org/viaf/72605595> a crm:E21_Person ;
     rdfs:label "Kemp, John, 1665-1717" .
 
 <https://viaf.org/viaf/73876517> a crm:E21_Person ;
-    rdfs:label """Meyer, Jacques de
-                            1491-1552""" .
+    rdfs:label "Meyer, Jacques de 1491-1552" .
 
 <https://viaf.org/viaf/73890820> a crm:E21_Person ;
-    rdfs:label """Waser, Kaspar,
-                            1565-1625""" .
+    rdfs:label "Waser, Kaspar, 1565-1625" .
 
 <https://viaf.org/viaf/7400805> a crm:E39_Actor ;
     rdfs:label "Hutcheson, Archibald" .
 
 <https://viaf.org/viaf/7413288> a crm:E21_Person ;
-    rdfs:label """Addison, Joseph,
-                            1672-1719.""" .
+    rdfs:label "Addison, Joseph, 1672-1719." .
 
 <https://viaf.org/viaf/74943049> a crm:E21_Person ;
-    rdfs:label """Schurig, Martin,
-                            1656-1733""" .
+    rdfs:label "Schurig, Martin, 1656-1733" .
 
 <https://viaf.org/viaf/76310659> a crm:E21_Person ;
     rdfs:label """Plemp, Vopiscus Fortunatus,
-                            1601-1671""" .
+                    1601-1671""" .
 
 <https://viaf.org/viaf/76352166> a crm:E21_Person ;
-    rdfs:label """Lily, William,
-                            1468?-1522.""" .
+    rdfs:label "Lily, William, 1468?-1522." .
 
 <https://viaf.org/viaf/76405824> a crm:E21_Person ;
-    rdfs:label """Martin, Gabriel,
-                            1679?-1761""" .
+    rdfs:label "Martin, Gabriel, 1679?-1761" .
 
 <https://viaf.org/viaf/76432533> a crm:E21_Person ;
-    rdfs:label """Dryvere, JÃ©rÃ©mie de,
-                            1504-1554""" .
+    rdfs:label "Dryvere, JÃ©rÃ©mie de, 1504-1554" .
 
 <https://viaf.org/viaf/76660251> a crm:E21_Person ;
-    rdfs:label """Lombardi, Giovanni Francesco,
-                            sÃ©c. 16""" .
+    rdfs:label """Lombardi, Giovanni Francesco, sÃ©c.
+                    16""" .
 
 <https://viaf.org/viaf/77108557> a crm:E21_Person ;
-    rdfs:label """Ramsay, Allan,
-                            1686-1758.""" .
+    rdfs:label "Ramsay, Allan, 1686-1758." .
 
 <https://viaf.org/viaf/77253890> a crm:E21_Person ;
-    rdfs:label """PrÃ¼ckner, Andreas,
-                            1603-1667""" .
+    rdfs:label "PrÃ¼ckner, Andreas, 1603-1667" .
+
+<https://viaf.org/viaf/77847485> a crm:E21_Person ;
+    rdfs:label """Phipps, Constantine, Sir,
+                    1656-1723""" .
 
 <https://viaf.org/viaf/77959> a crm:E39_Actor ;
     rdfs:label "Sloane, Hans" .
-
-<https://viaf.org/viaf/78769600> a crm:E21_Person ;
-    rdfs:label """Cicero, Marcus
-                            Tullius.""" .
 
 <https://viaf.org/viaf/78769732> a crm:E21_Person ;
     rdfs:label "Aeschylus" .
 
 <https://viaf.org/viaf/8269751> a crm:E21_Person ;
-    rdfs:label """Collier, Jeremy,
-                            1650-1726""" .
+    rdfs:label "Collier, Jeremy, 1650-1726" .
 
 <https://viaf.org/viaf/83985148> a crm:E21_Person ;
     rdfs:label "JuvÃ©nal" .
 
 <https://viaf.org/viaf/84035506> a crm:E21_Person ;
-    rdfs:label """Mabillon, Jean,
-                            1632-1707.""" .
+    rdfs:label "Mabillon, Jean, 1632-1707." .
 
 <https://viaf.org/viaf/87614586> a crm:E21_Person ;
     rdfs:label "Herodianus" .
 
 <https://viaf.org/viaf/87990970> a crm:E21_Person ;
-    rdfs:label """Sannazaro, Jacopo,
-                            1458-1530""" .
+    rdfs:label "Sannazaro, Jacopo, 1458-1530" .
 
 <https://viaf.org/viaf/88056977> a crm:E21_Person ;
-    rdfs:label """Cheyne, George,
-                            1671?-1743""" .
+    rdfs:label "Cheyne, George, 1671?-1743" .
 
 <https://viaf.org/viaf/88081876> a crm:E21_Person ;
-    rdfs:label """Devarius, Matthaeus,
-                            1505?-""" .
+    rdfs:label "Devarius, Matthaeus, 1505?-" .
 
 <https://viaf.org/viaf/88873163> a crm:E21_Person ;
-    rdfs:label """Hippolytus, Antipope,
-                            approximately 170-235 or 236""" .
+    rdfs:label """Hippolytus, Antipope, approximately
+                    170-235 or 236""" .
 
 <https://viaf.org/viaf/89043754> a crm:E21_Person ;
     rdfs:label "Aristides, Aelius" .
 
 <https://viaf.org/viaf/89205828> a crm:E21_Person ;
     rdfs:label """MakÄ«n, Jirjis ibn al-Ê¿AmÄ«d,
-                            1205-1273""" .
+                    1205-1273""" .
 
 <https://viaf.org/viaf/89562682> a crm:E21_Person ;
     rdfs:label """Volusenus, Florentius
-                            1504-1547""" .
+                    1504-1547""" .
 
 <https://viaf.org/viaf/89645361> a crm:E21_Person ;
     rdfs:label """Flacius Illyricus, Matthias,
-                            1520-1575.""" .
+                    1520-1575.""" .
 
 <https://viaf.org/viaf/95299692> a crm:E21_Person ;
-    rdfs:label """Ribera, Francisco de
-                            1537-1591""" .
+    rdfs:label "Ribera, Francisco de 1537-1591" .
 
 <https://viaf.org/viaf/9865630> a crm:E21_Person ;
-    rdfs:label """Maittaire, Michael,
-                            1667-1747""" .
+    rdfs:label "Maittaire, Michael, 1667-1747" .
 
 <https:r0man-ist.github.io/regC#D-ID1> a crm:E15_Identifier_Assignment ;
     crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D1-I1> ;
@@ -1828,7 +1756,8 @@
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D-ID66> a crm:E15_Identifier_Assignment ;
-    crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D66-I1> ;
+    crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#D66-I1>,
+        <https:r0man-ist.github.io/regC#D66-I2> ;
     crm:P37_assigned <https:r0man-ist.github.io/regC#D66-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-12-31T00:00:00"^^xsd:dateTime ;
@@ -2505,8 +2434,9 @@
 
 <https:r0man-ist.github.io/regC#D66> a prov1:Donation ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
-    crm:P23_transferred_title_from [ a prov1:Donor ;
-            rdfs:label "" ] ;
+    crm:P23_transferred_title_from <https://viaf.org/viaf/47134877> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#D66-I1>,
+        <https:r0man-ist.github.io/regC#D66-I2> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
@@ -2516,14 +2446,14 @@
 
 <https:r0man-ist.github.io/regC#D67> a prov1:Donation ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
-    crm:P23_transferred_title_from [ a prov1:Donor ;
-            rdfs:label "" ] ;
+    crm:P23_transferred_title_from <https://viaf.org/viaf/66342695> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#D67-I1> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#D67-ID> a crm:E42_Identifier ;
-    crm:P90_has_value "60 Jur." .
+    crm:P90_has_value "8Â° Z 60 Jur." .
 
 <https:r0man-ist.github.io/regC#D7> a prov1:Donation ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
@@ -2960,12 +2890,24 @@
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID63> a crm:E15_Identifier_Assignment ;
+    crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep63-I1>,
+        <https:r0man-ist.github.io/regC#Dep63-I2>,
+        <https:r0man-ist.github.io/regC#Dep63-I3>,
+        <https:r0man-ist.github.io/regC#Dep63-I4>,
+        <https:r0man-ist.github.io/regC#Dep63-I5>,
+        <https:r0man-ist.github.io/regC#Dep63-I6>,
+        <https:r0man-ist.github.io/regC#Dep63-I7> ;
     crm:P37_assigned <https:r0man-ist.github.io/regC#Dep63-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-12-31T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID64> a crm:E15_Identifier_Assignment ;
+    crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep64-I1>,
+        <https:r0man-ist.github.io/regC#Dep64-I2>,
+        <https:r0man-ist.github.io/regC#Dep64-I3>,
+        <https:r0man-ist.github.io/regC#Dep64-I4>,
+        <https:r0man-ist.github.io/regC#Dep64-I5> ;
     crm:P37_assigned <https:r0man-ist.github.io/regC#Dep64-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-12-31T00:00:00"^^xsd:dateTime ;
@@ -3671,6 +3613,13 @@
 <https:r0man-ist.github.io/regC#Dep63> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
     crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#Dep63-I1>,
+        <https:r0man-ist.github.io/regC#Dep63-I2>,
+        <https:r0man-ist.github.io/regC#Dep63-I3>,
+        <https:r0man-ist.github.io/regC#Dep63-I4>,
+        <https:r0man-ist.github.io/regC#Dep63-I5>,
+        <https:r0man-ist.github.io/regC#Dep63-I6>,
+        <https:r0man-ist.github.io/regC#Dep63-I7> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
@@ -3681,6 +3630,11 @@
 <https:r0man-ist.github.io/regC#Dep64> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
     crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#Dep64-I1>,
+        <https:r0man-ist.github.io/regC#Dep64-I2>,
+        <https:r0man-ist.github.io/regC#Dep64-I3>,
+        <https:r0man-ist.github.io/regC#Dep64-I4>,
+        <https:r0man-ist.github.io/regC#Dep64-I5> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
@@ -3701,6 +3655,7 @@
 <https:r0man-ist.github.io/regC#Dep66> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
     crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#Dep66-I1> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
@@ -3721,6 +3676,7 @@
 <https:r0man-ist.github.io/regC#Dep68> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
     crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#Dep68-I1> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
@@ -3731,6 +3687,7 @@
 <https:r0man-ist.github.io/regC#Dep69> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
     crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#Dep69-I1> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
@@ -9258,105 +9215,99 @@
             crm:P90_has_value "1-1-0" ] .
 
 <https://viaf.org/viaf/102329089> a crm:E21_Person ;
-    rdfs:label """Renaudot, EusÃ¨be,
-                            1646-1720.""" .
+    rdfs:label "Renaudot, EusÃ¨be, 1646-1720." .
 
 <https://viaf.org/viaf/12313247> a crm:E21_Person ;
     rdfs:label "Paracelsus, 1493-1541" .
 
 <https://viaf.org/viaf/123145542410496640851> a crm:E21_Person ;
-    rdfs:label """Nichols,
-                            Francis""" .
+    rdfs:label "Nichols, Francis" .
 
 <https://viaf.org/viaf/13253612> a crm:E21_Person ;
-    rdfs:label """Labata, Francisco,
-                            1549-1631""" .
+    rdfs:label "Labata, Francisco, 1549-1631" .
 
 <https://viaf.org/viaf/1431094> a crm:E21_Person,
         crm:E39_Actor ;
     rdfs:label "Johnson, John",
-        """Johnson, John,
-                            1662-1725""" .
+        "Johnson, John, 1662-1725" .
 
 <https://viaf.org/viaf/19913014> a crm:E21_Person ;
     rdfs:label """Bruyn, Cornelis de,
-                            1652?-1727?""" .
+                    1652?-1727?""" .
 
 <https://viaf.org/viaf/28500517> a crm:E21_Person,
         crm:E39_Actor ;
     rdfs:label "Lindsay, John",
-        """Lindsay, John,
-                            1686-1768""" .
+        "Lindsay, John, 1686-1768" .
 
 <https://viaf.org/viaf/30612529> a crm:E21_Person ;
-    rdfs:label """Wood, Thomas,
-                            1661-1722""" .
+    rdfs:label "Wood, Thomas, 1661-1722" .
 
 <https://viaf.org/viaf/309814713> a crm:E21_Person ;
     rdfs:label "Robert of Avesbury" .
 
 <https://viaf.org/viaf/32924921> a crm:E21_Person ;
-    rdfs:label """Wheatly, Charles,
-                            1686-1742""" .
+    rdfs:label "Wheatly, Charles, 1686-1742" .
 
 <https://viaf.org/viaf/34451872> a crm:E21_Person ;
-    rdfs:label """Quintilianus, Marcus
-                            Fabius""" .
+    rdfs:label "Quintilianus, Marcus Fabius" .
 
 <https://viaf.org/viaf/35210347> a crm:E21_Person ;
-    rdfs:label """Finck, Thomas,
-                            1561-1656""" .
+    rdfs:label "Finck, Thomas, 1561-1656" .
 
 <https://viaf.org/viaf/39506285> a crm:E21_Person,
         crm:E39_Actor ;
     rdfs:label "Gastrell, Francis",
-        """Gastrell, Francis,
-                            1662-1725""" .
+        "Gastrell, Francis, 1662-1725" .
 
 <https://viaf.org/viaf/47563478> a crm:E21_Person,
         crm:E39_Actor ;
     rdfs:label "Rawlinson, Richard",
-        """Rawlinson, Richard,
-                            1690-1755""" .
+        "Rawlinson, Richard, 1690-1755" .
 
 <https://viaf.org/viaf/49477662> a crm:E21_Person ;
-    rdfs:label """Calov, Abraham,
-                            1612-1686.""" .
+    rdfs:label "Calov, Abraham, 1612-1686." .
 
 <https://viaf.org/viaf/49654392> a crm:E21_Person ;
     rdfs:label """Schotanus, Meinardus,
-                            1593-1644""" .
+                    1593-1644""" .
 
 <https://viaf.org/viaf/58058121> a crm:E21_Person,
         crm:E39_Actor ;
     rdfs:label "Lux, William",
         "Lux, William, 1694?-" .
 
+<https://viaf.org/viaf/59438242> a crm:E21_Person,
+        crm:E39_Actor ;
+    rdfs:label "Wynne, William",
+        """Wynne, William, 1692-1765,
+                    author""" .
+
 <https://viaf.org/viaf/60463833> a crm:E21_Person ;
     rdfs:label "West, Richard, ?-1726" .
 
 <https://viaf.org/viaf/60475410> a crm:E21_Person ;
-    rdfs:label """Catherall, Samuel,
-                            1661?-1723""" .
+    rdfs:label "Catherall, Samuel, 1661?-1723" .
 
 <https://viaf.org/viaf/64251536> a crm:E21_Person ;
-    rdfs:label """Salmon, Thomas,
-                            1679-1767""" .
+    rdfs:label "Salmon, Thomas, 1679-1767" .
 
 <https://viaf.org/viaf/76700095> a crm:E21_Person,
         crm:E39_Actor ;
     rdfs:label "Trott, Nicholas",
-        """Trott, Nicholas,
-                            1663-1740""" .
+        "Trott, Nicholas, 1663-1740" .
 
 <https://viaf.org/viaf/77377644> a crm:E21_Person ;
     rdfs:label "Lippeloo, Zacharias" .
 
+<https://viaf.org/viaf/78769600> a crm:E21_Person ;
+    rdfs:label "Cicero, Marcus Tullius",
+        "Cicero, Marcus Tullius." .
+
 <https://viaf.org/viaf/79251462> a crm:E21_Person,
         crm:E39_Actor ;
     rdfs:label "Musgrave, William",
-        """Musgrave, William,
-                            1655?-1721""" .
+        "Musgrave, William, 1655?-1721" .
 
 <https://viaf.org/viaf/9856931> a crm:E39_Actor ;
     rdfs:label "Wake, William" .
@@ -9508,6 +9459,21 @@
     dcterms1:creator <https://viaf.org/viaf/45083556> ;
     dcterms1:title "A short discourse concerning pestilential contagion, : and the methods to be used to prevent it. /" ;
     crm:P48_has_preferred_identifier "8Â° N 82 Med." .
+
+<https:r0man-ist.github.io/regC#D66-I1> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/47134877> ;
+    dcterms1:title "Liber valorum & decimarum. : Being an account of such ecclesiastical benefices in England and Wales, as now stand charged with, or lately were discharged from the payment of first-fruits and tenths. ... /" ;
+    crm:P48_has_preferred_identifier "8Â° Z 54 Jur." .
+
+<https:r0man-ist.github.io/regC#D66-I2> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/47134877> ;
+    dcterms1:title "A state of the proceedings of the corporation of the governours of the bounty of queen Anne, for the augmentation of the maintenance of the poor clergy." ;
+    crm:P48_has_preferred_identifier "8Â° Z 55 Jur." .
+
+<https:r0man-ist.github.io/regC#D67-I1> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/78769600> ;
+    dcterms1:title "A translation of Tully de oratore. By G.P." ;
+    crm:P48_has_preferred_identifier "8Â° Z 60 Jur." .
 
 <https:r0man-ist.github.io/regC#D9-I1> a prov1:Item ;
     dcterms1:creator <https://viaf.org/viaf/28500517> ;
@@ -9753,6 +9719,79 @@
 <https:r0man-ist.github.io/regC#Dep60-I1> a prov1:Item ;
     dcterms1:title "Instructions for youth, gentlemen and noblemen. By Sir Walter Raleigh, Lord treasurer Burleigh, Cardinal Sermonetta, and Mr. Walsingham." ;
     crm:P48_has_preferred_identifier "8Â° A 199 Linc." .
+
+<https:r0man-ist.github.io/regC#Dep63-I1> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/55682948> ;
+    dcterms1:title "The replies of Thomas Reeve, Esq; and Clement Wearg, Esq; in the House of Lords, the thirteenth of May, 1723. : In behalf of the bill to inflict pains and penalties on the late Bishop of Rochester, against the defence made by the said late Bishop and his counsel.." ;
+    crm:P48_has_preferred_identifier "L 1.17 Jur. (1)" .
+
+<https:r0man-ist.github.io/regC#Dep63-I2> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/58057709> ;
+    dcterms1:title "The bishop of Salisbury's speech in the House of lords, upon the third reading of the bill to inflict pains and penalties on Francis, late bishop of Rochester." ;
+    crm:P48_has_preferred_identifier "L 1.17(3) Jur." .
+
+<https:r0man-ist.github.io/regC#Dep63-I3> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/77847485> ;
+    dcterms1:title "The defence of Francis, late ... bishop of Rochester, at the bar of the House of lords ... against the bill ... for inflicting pains and penalties on him." ;
+    crm:P48_has_preferred_identifier "L 1.17(4) Jur." .
+
+<https:r0man-ist.github.io/regC#Dep63-I4> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/59438242> ;
+    dcterms1:title "The defence of Francis, late Lord Bishop of Rochester, : at the bar of the House of Lords, on Thursday the 9th, and Saturday the 11th, of May, 1723. against the bill then depending for inflicting pains and penalties on him. /" ;
+    crm:P48_has_preferred_identifier "L 1.17 Jur. (2)" .
+
+<https:r0man-ist.github.io/regC#Dep63-I5> a prov1:Item ;
+    dcterms1:title "i. Three clauses in the Quarentine act, vii Georgii. ii. The petition of the city of London to the House of lords: and, iii. Their lordships protest on rejecting the said petition. iv. Another protest of their lordships." ;
+    crm:P48_has_preferred_identifier "L 1.17(6) Jur." .
+
+<https:r0man-ist.github.io/regC#Dep63-I6> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/2480890> ;
+    dcterms1:title "An epistle to ... Henrietta, dutchess of Marlborough." ;
+    crm:P48_has_preferred_identifier "L 1.17(7) Jur." .
+
+<https:r0man-ist.github.io/regC#Dep63-I7> a prov1:Item ;
+    dcterms1:title "The humble address of the Protestant dissenting ministers, of three denominations, in and about the cities of London and Westminster, presented to his majesty, by ... Matthew Clarke, Nov. 20, 1722 ... with his majesty's most gracious answer." ;
+    crm:P48_has_preferred_identifier "L 1.17(5) Jur." .
+
+<https:r0man-ist.github.io/regC#Dep64-I1> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/239569946> ;
+    dcterms1:title "A full ... account of the tryal of all the pyrates lately taken by captain Ogle on board the Swallow man of war on the coast of Guinea." ;
+    crm:P48_has_preferred_identifier "L 1.18(1) Jur." .
+
+<https:r0man-ist.github.io/regC#Dep64-I2> a prov1:Item ;
+    dcterms1:title "The grand mystery of free-masons discover'd." ;
+    crm:P48_has_preferred_identifier "L 1.18(2) Jur." .
+
+<https:r0man-ist.github.io/regC#Dep64-I3> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/25028267> ;
+    dcterms1:title "His grace the duke of Wharton's speech in the House of lords on the third reading of the bill to inflict pains and penalties on Francis ... bishop of Rochester." ;
+    crm:P48_has_preferred_identifier "L 1.18(3) Jur." .
+
+<https:r0man-ist.github.io/regC#Dep64-I4> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/14638253> ;
+    dcterms1:title "A paraphrase on the Song of the three children [in Daniel iii] in irregular stanzas [by M. Le Pla]." ;
+    crm:P48_has_preferred_identifier "L 1.18(4) Jur." .
+
+<https:r0man-ist.github.io/regC#Dep64-I5> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/14965532> ;
+    dcterms1:title "Cantatas for a voice with accompanyment; : together with songs on various subjects, for one[,] two & three voices: a through bass to the whole and all the songs transposed for the flute. /" ;
+    crm:P48_has_preferred_identifier "L 1.18 Jur. (5)" .
+
+<https:r0man-ist.github.io/regC#Dep66-I1> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/66847051> ;
+    dcterms1:isVersionOf <https://viaf.org/viaf/3249159764130608170009> ;
+    dcterms1:title "The history of the propagation of Christianity, and the overthrow of paganism." ;
+    crm:P48_has_preferred_identifier "8Â° Z 58,59 Jur." .
+
+<https:r0man-ist.github.io/regC#Dep68-I1> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/309671439> ;
+    dcterms1:title "The madness of disaffection and treason against the present government. By George Ollyffe, ..." ;
+    crm:P48_has_preferred_identifier "8Â° Z 57 Jur." .
+
+<https:r0man-ist.github.io/regC#Dep69-I1> a prov1:Item ;
+    dcterms1:creator "J. F." ;
+    dcterms1:title "A compendious introduction to the Latin tongue, by way of question and answer. ... The second edition with additions. By J.F." ;
+    crm:P48_has_preferred_identifier "8Â° Z 61(1) Jur." .
 
 <https:r0man-ist.github.io/regC#P10-I1> a prov1:Item ;
     dcterms1:creator <https://viaf.org/viaf/155083> ;
@@ -10337,48 +10376,48 @@
     crm:P48_has_preferred_identifier "AA 55 Jur." .
 
 <https://viaf.org/viaf/20024460> a crm:E21_Person ;
-    rdfs:label """Maranta, Roberto,
-                            -1530""" .
+    rdfs:label "Maranta, Roberto, -1530" .
 
 <https://viaf.org/viaf/42196703> a crm:E21_Person ;
     rdfs:label """Ernulf, Bishop of Rochester,
-                            1040-1124""" .
+                    1040-1124""" .
+
+<https://viaf.org/viaf/47134877> a crm:E21_Person,
+        crm:E39_Actor ;
+    rdfs:label "Ecton, John",
+        "Ecton, John, -1730." .
 
 <https://viaf.org/viaf/5037148209311300460001> a crm:E39_Actor ;
     rdfs:label "Dereham, Thomas Sir" .
 
 <https://viaf.org/viaf/59113668> a crm:E21_Person ;
-    rdfs:label """Vertot, abbÃ© de,
-                            1655-1735.""" .
+    rdfs:label "Vertot, abbÃ© de, 1655-1735." .
 
 <https://viaf.org/viaf/6276752> a crm:E21_Person,
         crm:E39_Actor ;
     rdfs:label "Colbatch, John",
-        """Colbatch, John,
-                            1670-1729""" .
+        "Colbatch, John, 1670-1729" .
 
 <https://viaf.org/viaf/66547674> a crm:E21_Person,
         crm:E39_Actor ;
     rdfs:label "Le Neve, John",
-        """Le Neve, John,
-                            1679-1741""" .
+        "Le Neve, John, 1679-1741" .
 
 <https://viaf.org/viaf/66901438> a crm:E21_Person ;
     rdfs:label """Manget, Jean-Jacques,
-                            1652-1742""" .
+                    1652-1742""" .
 
 <https://viaf.org/viaf/45083556> a crm:E21_Person,
         crm:E39_Actor ;
     rdfs:label "Mead, Richard",
-        """Mead, Richard,
-                            1673-1754""" .
+        "Mead, Richard, 1673-1754" .
 
 <https://viaf.org/viaf/4683159941682025440006> a crm:E39_Actor ;
     rdfs:label "Shippen, Robert" .
 
 <https://viaf.org/viaf/61149196262174790703> a crm:E21_Person ;
     rdfs:label """Willis, Browne,
-                            1682-1760""" .
+                    1682-1760""" .
 
 <https://viaf.org/viaf/74718649> a crm:E21_Person,
         crm:E39_Actor ;
@@ -10397,17 +10436,15 @@
         crm:E39_Actor ;
     rdfs:label "Des Maizeaux, Pierre",
         """Desmaizeaux, Pierre,
-                            1673?-1745""" .
+                    1673?-1745""" .
 
 <https://viaf.org/viaf/39528957> a crm:E21_Person ;
-    rdfs:label """Favre, Antoine,
-                            1557-1624""" .
+    rdfs:label "Favre, Antoine, 1557-1624" .
 
 <https://viaf.org/viaf/100189223> a crm:E21_Person,
         crm:E39_Actor ;
     rdfs:label "Potter, John",
-        """Potter, John,
-                            1674-1747""" .
+        "Potter, John, 1674-1747" .
 
 <https://data.cerl.org/thesaurus/cnp00058554> a crm:E39_Actor ;
     rdfs:label "Fletcher, Stephen" .

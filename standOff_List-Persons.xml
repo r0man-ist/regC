@@ -193,4 +193,12 @@
         <persName>Wake, William</persName>
         <idno type="VIAF">9856931</idno>
     </person>
+    <person xml:id="regC-JECT">
+        <persName>Ecton, John</persName>
+        <idno type="VIAF">47134877</idno>
+    </person>
+    <person xml:id="regC-GPAR">
+        <persName>Parry, George</persName>
+        <idno type="VIAF">66342695</idno>
+    </person>
 </listPerson>
