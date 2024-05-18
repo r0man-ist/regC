@@ -24,7 +24,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/19913014">
                         <rdfs:label>Bruyn, Cornelis de,
-                    1652?-1727?</rdfs:label>
+                            1652?-1727?</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                </prov:Item>
@@ -55,7 +55,8 @@
                   <dcterms:title>A rational illustration of the Book of Common Prayer, : and administration of the sacraments, and other rites and ceremonies of the Church, according to the use of the Church of England. Wherein liturgies in general are proved lawful and necessary, and an historical account is given of our own: the several tables, rules, and kalendar are consider'd, and the seeming differences reconcil'd: all the rubricks, prayers, rites, and ceremonies are explained, and compared with the liturgies of the Primitive Church: the exact method and harmony of every office is shew'd, and all the material alterations are observ'd, which have at any time been made since the first common-prayer-book of King Edward VI. with the particular reasons that occasion'd them. The whole being the substance of every thing material in all former ritualists comentators or others, upon the same subject; collected and reduc'd into one continued and regular method, and interspersed all along with new observations.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/32924921">
-                        <rdfs:label>Wheatly, Charles, 1686-1742</rdfs:label>
+                        <rdfs:label>Wheatly, Charles,
+                            1686-1742</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>C 16.13 Th.</crm:P48_has_preferred_identifier>
@@ -87,7 +88,8 @@
                   <dcterms:title>A true account of the present state of Trinity college in Cambridge, under the oppressive government of ... Richard Bentley [by C. Middleton.].</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/32149754">
-                        <rdfs:label>Middleton, Conyers, 1683-1750</rdfs:label>
+                        <rdfs:label>Middleton, Conyers,
+                            1683-1750</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° M 236(2) Th.</crm:P48_has_preferred_identifier>
@@ -137,7 +139,8 @@
                   <dcterms:title>Xylobalsamum artificiale, cujus beneficio res quælibet ligneæ quin &amp; aliæ multæ â putredine &amp; corruptione possunt conservari. Cum versione Lat.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/29567630">
-                        <rdfs:label>Hjärne, Urban, 1641-1724.</rdfs:label>
+                        <rdfs:label>Hjärne, Urban,
+                            1641-1724.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° M 23(4) Linc.</crm:P48_has_preferred_identifier>
@@ -202,7 +205,8 @@
                   <dcterms:title>M. Fabij Quintiliani ... oratoriarū institutionū libri. xij. [With] M. Fabij Quintiliani ... xix. declamationes argustissimæ.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/34451872">
-                        <rdfs:label>Quintilianus, Marcus Fabius</rdfs:label>
+                        <rdfs:label>Quintilianus, Marcus
+                            Fabius</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° C 64 Jur.</crm:P48_has_preferred_identifier>
@@ -240,7 +244,8 @@
                   <dcterms:title>Commentarii siue annales rerum Flandricarum libri septendecim</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/73876517">
-                        <rdfs:label>Meyer, Jacques de 1491-1552</rdfs:label>
+                        <rdfs:label>Meyer, Jacques de
+                            1491-1552</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                </prov:Item>
@@ -384,7 +389,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/17572597">
                         <rdfs:label>Crakanthorpe, Richard,
-                    1567-1624</rdfs:label>
+                            1567-1624</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>FF 31 Th.</crm:P48_has_preferred_identifier>
@@ -422,7 +427,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/64154214">
                         <rdfs:label>Bonifacio, Baldassarre,
-                    1585-1659</rdfs:label>
+                            1585-1659</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>AA 37 Jur.</crm:P48_has_preferred_identifier>
@@ -459,7 +464,8 @@
                   <dcterms:title>Examen circuli quadraturae hactenus editarum celeberrimae, : quam Apollonius alter, magno illo Pergaeo non minor geometra, R. P. Gregorius a Sancto Vincentio Societatis Iesu exposuit.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/151967378">
-                        <rdfs:label>Léotaud, Vincent 1595-1672</rdfs:label>
+                        <rdfs:label>Léotaud, Vincent
+                            1595-1672</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                </prov:Item>
@@ -495,8 +501,8 @@
                   <dcterms:title>Theses theologicæ de sponsa Christi.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/59956795">
-                        <rdfs:label>Linden, Henricus Antonides van der
-                    1546-1614</rdfs:label>
+                        <rdfs:label>Linden, Henricus Antonides van
+                            der 1546-1614</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>FF 32 Th. (1)</crm:P48_has_preferred_identifier>
@@ -533,7 +539,8 @@
                   <dcterms:title>Prælectiones academicæ in Danielem prophetam.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/59837110">
-                        <rdfs:label>Geier, Martin, 1614-1680</rdfs:label>
+                        <rdfs:label>Geier, Martin,
+                            1614-1680</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>FF 37 Th.</crm:P48_has_preferred_identifier>
@@ -607,7 +614,8 @@
                   <dcterms:title>Absurda, absurdorum absurdissima, Calvinistica absurda. Keckermanno opposita.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/27358628">
-                        <rdfs:label>Grawer, Albert, 1575-1617</rdfs:label>
+                        <rdfs:label>Grawer, Albert,
+                            1575-1617</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>FF 36 Th.</crm:P48_has_preferred_identifier>
@@ -644,7 +652,8 @@
                   <dcterms:title>Nicolai Gürtleri ... Institutiones theologicæ.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/55020168">
-                        <rdfs:label>Gürtler, Nicolaus, 1654-1711</rdfs:label>
+                        <rdfs:label>Gürtler, Nicolaus,
+                            1654-1711</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>FF 35 Th.</crm:P48_has_preferred_identifier>
@@ -681,7 +690,8 @@
                   <dcterms:title>Horologiographia, post priorem æd. recogn. &amp; aucta.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/51698921">
-                        <rdfs:label>Münster, Sebastian, 1489-1552</rdfs:label>
+                        <rdfs:label>Münster, Sebastian,
+                            1489-1552</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>AA 36 Jur.</crm:P48_has_preferred_identifier>
@@ -718,7 +728,8 @@
                   <dcterms:title>Augusti Pfeifferi ... Informatorium conscientiæ eucharisticum.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/56953744">
-                        <rdfs:label>Pfeiffer, August, 1640-1698.</rdfs:label>
+                        <rdfs:label>Pfeiffer, August,
+                            1640-1698.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>FF 33 Th.</crm:P48_has_preferred_identifier>
@@ -755,7 +766,8 @@
                   <dcterms:title>Caroli Renaldinii Opus mathematicum, in quo vtraque algebra nouis præceptis nouis(que) demonstrationibus illustratur. Methodus quoque resolutionis &amp; compositionis mathematicæ copiosiùs ad abstrusiora theoremata enodanda declaratur.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/50322264">
-                        <rdfs:label>Rinaldini, Carlo, 1615-1698</rdfs:label>
+                        <rdfs:label>Rinaldini, Carlo,
+                            1615-1698</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>AA 34 Jur.</crm:P48_has_preferred_identifier>
@@ -792,7 +804,8 @@
                   <dcterms:title>Harmonia Evangelica historiæ passionis ... Iesu Christi, cujus partem primam ... exponit m. Caspar Sagittarius ... auctor.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/10280848">
-                        <rdfs:label>Niemann, Sebastian, 1625-1684</rdfs:label>
+                        <rdfs:label>Niemann, Sebastian,
+                            1625-1684</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>FF 30 Th.</crm:P48_has_preferred_identifier>
@@ -829,7 +842,8 @@
                   <dcterms:title>The English historical library. : In three parts. Giving a short view and character of most of our historians either in print or manuscript: with an account of our records, law-books, coins, and other matters serviceable to the undertakers of a general history of England. The second edition corrected and augmented. /</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/46848150">
-                        <rdfs:label>Nicolson, William, 1655-1727</rdfs:label>
+                        <rdfs:label>Nicolson, William,
+                            1655-1727</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>R 1.7 Jur.</crm:P48_has_preferred_identifier>
@@ -862,7 +876,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/50006688">
                         <rdfs:label>Guglielmini, Domenico,
-                    1655-1710</rdfs:label>
+                            1655-1710</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 1,2 Jur.</crm:P48_has_preferred_identifier>
@@ -894,7 +908,8 @@
                   <dcterms:title>Church-authority vindicated, in a sermon preach'd at Putney, May 5, 1719. : At a visitation of the peculiars of the Most Reverend the Lord Archbishop of Canterbury, before the Right Worshipful Dr. Bettesworth, Dean of the arches, and commissary of those p</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/46771136">
-                        <rdfs:label>Hare, Francis, 1671-1740</rdfs:label>
+                        <rdfs:label>Hare, Francis,
+                            1671-1740</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° M 19(2) Linc.</crm:P48_has_preferred_identifier>
@@ -921,7 +936,8 @@
                   <dcterms:title>The bishop of Oxford's charge to the clergy of his diocese, at his triennial visitation in July, 1719.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/100189223">
-                        <rdfs:label>Potter, John, 1674-1747</rdfs:label>
+                        <rdfs:label>Potter, John,
+                            1674-1747</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° M 19(1) Linc.</crm:P48_has_preferred_identifier>
@@ -953,7 +969,8 @@
                   <dcterms:title>A defence of the late charge deliver'd to the clergy of the diocese of Oxford, July 1719. : In a letter to the said clergy. /</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/100189223">
-                        <rdfs:label>Potter, John, 1674-1747</rdfs:label>
+                        <rdfs:label>Potter, John,
+                            1674-1747</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° M 19(4) Linc.</crm:P48_has_preferred_identifier>
@@ -981,7 +998,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/175145857877123020157">
                         <rdfs:label>Hoadly, Benjamin,
-                    1676-1761</rdfs:label>
+                            1676-1761</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° M 19(3) Linc.</crm:P48_has_preferred_identifier>
@@ -1013,7 +1030,8 @@
                   <dcterms:title>Librorum de re diplomatica supplementum. : In quo archetypa in his libris pro regulis proposita, ipsæque regulæ denuo confirmantur, novisque speciminibus &amp; argumentis asseruntur &amp; illustrantur.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/84035506">
-                        <rdfs:label>Mabillon, Jean, 1632-1707.</rdfs:label>
+                        <rdfs:label>Mabillon, Jean,
+                            1632-1707.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                </prov:Item>
@@ -1044,7 +1062,8 @@
                   <dcterms:title>Scriptores Ordinis prædicatorum recensiti, opus inchoavit J. Quétif, absolvit J. Echard.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/2813147">
-                        <rdfs:label>Quétif, Jacques, 1618-1698</rdfs:label>
+                        <rdfs:label>Quétif, Jacques,
+                            1618-1698</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>M 1.2 Th.</crm:P48_has_preferred_identifier>
@@ -1108,7 +1127,8 @@
                   <dcterms:title>Abrahami Trommii Concerdantiæ Græcæ versionis vulgo dictæ LXX interpretum, cujus voces secundum ordinem elementorum sermonis Græci digestæ recensentur, contra atque in opere Kircheriano factum fuerat.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/28458472">
-                        <rdfs:label>Trommius, Abraham, 1633-1719</rdfs:label>
+                        <rdfs:label>Trommius, Abraham,
+                            1633-1719</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>P 7.8,9 Th.</crm:P48_has_preferred_identifier>
@@ -1182,7 +1202,8 @@
                   <dcterms:title>The Scourge: in vindication of the Church of England. To which are added, i. The danger of the Church-establishment of England, from the insolence of Protestant dissenters. ii. The anatomy of the heretical synod of dissenters at Salters-hall. By T.L.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/26032730">
-                        <rdfs:label>Lewis, Thomas, 1689-1749?</rdfs:label>
+                        <rdfs:label>Lewis, Thomas,
+                            1689-1749?</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° Y 361 BS</crm:P48_has_preferred_identifier>
@@ -1214,7 +1235,8 @@
                   <dcterms:title>Commentarius philologico theologicus in omnes Veteris et Novi Testamenti libros, tam canonicos quam apocryphos.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/77253890">
-                        <rdfs:label>Prückner, Andreas, 1603-1667</rdfs:label>
+                        <rdfs:label>Prückner, Andreas,
+                            1603-1667</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>L 4.4-6 Th.</crm:P48_has_preferred_identifier>
@@ -1247,7 +1269,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/22433369">
                         <rdfs:label>Dorsche, Johann Georg.,
-                    1597-1659</rdfs:label>
+                            1597-1659</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>L 3.12,13 Th.</crm:P48_has_preferred_identifier>
@@ -1280,7 +1302,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/19709084">
                         <rdfs:label>Menochio, Giovanni Stefano,
-                    1575-1655</rdfs:label>
+                            1575-1655</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>S 2.14,15 Th.</crm:P48_has_preferred_identifier>
@@ -1340,7 +1362,8 @@
                   <dcterms:title>A collection of curious discourses, : written by eminent antiquaries upon several heads in our English antiquities,</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/29543710">
-                        <rdfs:label>Hearne, Thomas, 1678-1735</rdfs:label>
+                        <rdfs:label>Hearne, Thomas,
+                            1678-1735</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>Mus. Bibl. II. 63</crm:P48_has_preferred_identifier>
@@ -1372,7 +1395,8 @@
                   <dcterms:title>Christiani Falsteri Supplementum lingvæ Latinæ,sive, Observationes ad lexicon Fabro-Cellarianum, ed. mdccx. Adjectis notis cum præfatione S. Lintrupii.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/69681040">
-                        <rdfs:label>Falster, Christian, 1690-1752</rdfs:label>
+                        <rdfs:label>Falster, Christian,
+                            1690-1752</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° D 70 Jur.</crm:P48_has_preferred_identifier>
@@ -1431,7 +1455,8 @@
                   <dcterms:title>The history of the revolutions that happened in the government of the Roman republic, English'd by mr. Ozell and others.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/59113668">
-                        <rdfs:label>Vertot, abbé de, 1655-1735.</rdfs:label>
+                        <rdfs:label>Vertot, abbé de,
+                            1655-1735.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>AA 40,41 Jur.</crm:P48_has_preferred_identifier>
@@ -1464,8 +1489,8 @@
                   <dcterms:title>S. Hippolyti episcopi et martyris Opera, : non antea collecta, et partem nunc primum e MSS. in lucem edita Græce et Latine. Accedunt virorum doctorum notæ et animadversiones, ac præter aliorum commentarios in monumentum paschale Sancti Martyris tabula triplici ænea expressum, dissertationes integræ virorum clarissimorum Francisci Blanchini, et Jo. Vignolii, atque ex Virginii Valsechii et Philippi a Turre scriptis excerpta S. Hippolytum spectantia. Subjuncta appendix scriptorum dubiorum, supposititiorumque, nec non quæcunque reperiri potuere ex lucubrationibus Hippolyti Junioris Thebani.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/88873163">
-                        <rdfs:label>Hippolytus, Antipope, approximately
-                    170-235 or 236</rdfs:label>
+                        <rdfs:label>Hippolytus, Antipope,
+                            approximately 170-235 or 236</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>C 16.11 Th.</crm:P48_has_preferred_identifier>
@@ -1498,7 +1523,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/61149196262174790703">
                         <rdfs:label>Willis, Browne,
-                    1682-1760</rdfs:label>
+                            1682-1760</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° D 54 Jur.</crm:P48_has_preferred_identifier>
@@ -1531,7 +1556,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/61149196262174790703">
                         <rdfs:label>Willis, Browne,
-                    1682-1760</rdfs:label>
+                            1682-1760</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° D 53 Jur.</crm:P48_has_preferred_identifier>
@@ -1564,7 +1589,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/61149196262174790703">
                         <rdfs:label>Willis, Browne,
-                    1682-1760</rdfs:label>
+                            1682-1760</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° D 52 Jur.</crm:P48_has_preferred_identifier>
@@ -1597,7 +1622,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/61149196262174790703">
                         <rdfs:label>Willis, Browne,
-                    1682-1760</rdfs:label>
+                            1682-1760</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° D 50 Jur.</crm:P48_has_preferred_identifier>
@@ -1629,7 +1654,8 @@
                   <dcterms:title>Commentarius in librum prophetiarum Iesaiæ: cum prolegomenis.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/25398349">
-                        <rdfs:label>Vitringa, Campegius, 1659-1722</rdfs:label>
+                        <rdfs:label>Vitringa, Campegius,
+                            1659-1722</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>A 7.11,12 Th.</crm:P48_has_preferred_identifier>
@@ -1661,8 +1687,8 @@
                   <dcterms:title>Tou en hagiois patros hēmon Kurillou ... ta heuriskomena panta ... cum nova interpretatione studio A.A. Toultée.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/13101243">
-                        <rdfs:label>Cyril, Saint, Bishop of Jerusalem,
-                    approximately 315-386</rdfs:label>
+                        <rdfs:label>Cyril, Saint, Bishop of
+                            Jerusalem, approximately 315-386</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>G 3.11 Th.</crm:P48_has_preferred_identifier>
@@ -1695,7 +1721,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/41920698">
                         <rdfs:label>Struve, Burkhard Gotthelf,
-                    1671-1738.</rdfs:label>
+                            1671-1738.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° D 60 Jur.</crm:P48_has_preferred_identifier>
@@ -1728,7 +1754,8 @@
                   <dcterms:title>Augustini Valerii ... opusculum ... de cautione adhibenda in edendis libris. Nec non Bernardi cardinalis Naugerii vita, eodem Valerio auctore. Accessere P. Barrocii orationes tres. Nonnullae item aliae patriciorum Venetorum.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/62367445">
-                        <rdfs:label>Valier, Agostino, 1531-1606</rdfs:label>
+                        <rdfs:label>Valier, Agostino,
+                            1531-1606</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>AA 29 Jur.</crm:P48_has_preferred_identifier>
@@ -1761,7 +1788,8 @@
                   <dcterms:title>Jacobi ... Sannazarii ... poëmata. Accessit ejusdem vita, J.A. Vulpio auctore, item G. Altilii et H. Fascitelli carmina nonnulla.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/87990970">
-                        <rdfs:label>Sannazaro, Jacopo, 1458-1530</rdfs:label>
+                        <rdfs:label>Sannazaro, Jacopo,
+                            1458-1530</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>AA 28 Jur.</crm:P48_has_preferred_identifier>
@@ -1815,7 +1843,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/42196703">
                         <rdfs:label>Ernulf, Bishop of Rochester,
-                    1040-1124</rdfs:label>
+                            1040-1124</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>Mus. Bibl. II. 66</crm:P48_has_preferred_identifier>
@@ -1842,7 +1870,8 @@
                   <dcterms:title>B. Caryophili ... dissertationum miscellanearum pars prima [ed. by T.M. Minorellus].</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/54487203">
-                        <rdfs:label>Garofalo, Biagio, 1677-1762</rdfs:label>
+                        <rdfs:label>Garofalo, Biagio,
+                            1677-1762</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>AA 30 Jur.</crm:P48_has_preferred_identifier>
@@ -1874,7 +1903,8 @@
                   <dcterms:title>Recueil d'ouvrages curieux de mathématique et de mécanique, ou Description du cabinet de monsieur Grollier de Servière, par son petit fils.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/34662220">
-                        <rdfs:label>Grollier de Servière, Nicolas</rdfs:label>
+                        <rdfs:label>Grollier de Servière,
+                            Nicolas</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>AA 48 Jur.</crm:P48_has_preferred_identifier>
@@ -1907,7 +1937,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/19913014">
                         <rdfs:label>Bruyn, Cornelis de,
-                    1652?-1727?</rdfs:label>
+                            1652?-1727?</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                </prov:Item>
@@ -1938,7 +1968,8 @@
                   <dcterms:title>Opere de Galileo Galilei. Nuova ed. [ed. by T. Buonaventuri, G. Grandi and B. Bresciani].</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/2470550">
-                        <rdfs:label>Galilei, Galileo, 1564-1642.</rdfs:label>
+                        <rdfs:label>Galilei, Galileo,
+                            1564-1642.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>AA 25-27 Jur.</crm:P48_has_preferred_identifier>
@@ -2023,7 +2054,8 @@
                   <dcterms:title>A rational illustration of the Book of Common Prayer, : and administration of the sacraments, and other rites and ceremonies of the Church, according to the use of the Church of England. Wherein liturgies in general are proved lawful and necessary, and an historical account is given of our own: the several tables, rules, and kalendar are consider'd, and the seeming differences reconcil'd: all the rubricks, prayers, rites, and ceremonies are explained, and compared with the liturgies of the Primitive Church: the exact method and harmony of every office is shew'd, and all the material alterations are observ'd, which have at any time been made since the first common-prayer-book of King Edward VI. with the particular reasons that occasion'd them. The whole being the substance of every thing material in all former ritualists comentators or others, upon the same subject; collected and reduc'd into one continued and regular method, and interspersed all along with new observations.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/32924921">
-                        <rdfs:label>Wheatly, Charles, 1686-1742</rdfs:label>
+                        <rdfs:label>Wheatly, Charles,
+                            1686-1742</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>C 16.13 Th.</crm:P48_has_preferred_identifier>
@@ -2098,7 +2130,8 @@
                   <dcterms:title>M. Fabij Quintiliani ... oratoriarū institutionū libri. xij. [With] M. Fabij Quintiliani ... xix. declamationes argustissimæ.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/34451872">
-                        <rdfs:label>Quintilianus, Marcus Fabius</rdfs:label>
+                        <rdfs:label>Quintilianus, Marcus
+                            Fabius</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° C 64 Jur.</crm:P48_has_preferred_identifier>
@@ -2126,7 +2159,8 @@
                   <dcterms:title>Pet. Dan. Huetii ... Commentarius de rebus ad eum pertinentibus.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/4972902">
-                        <rdfs:label>Huet, Pierre-Daniel, 1630-1721.</rdfs:label>
+                        <rdfs:label>Huet, Pierre-Daniel,
+                            1630-1721.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° D 71 Jur.</crm:P48_has_preferred_identifier>
@@ -2170,7 +2204,8 @@
                   <dcterms:title>Historia ecclesiastica duorum primorum a Christo nato saeculorum.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/49234977">
-                        <rdfs:label>Le Clerc, Jean, 1657-1736.</rdfs:label>
+                        <rdfs:label>Le Clerc, Jean,
+                            1657-1736.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>FF 39 Th.</crm:P48_has_preferred_identifier>
@@ -2197,7 +2232,8 @@
                   <dcterms:title>Défense [by E. Renaudot] de La perpétuité de la foy [of A. Arnauld] contre les calomnies et faussetez du livre [by J. Aymon] intitulé, Monumens authentiques de la religion des Grecs.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/102329089">
-                        <rdfs:label>Renaudot, Eusèbe, 1646-1720.</rdfs:label>
+                        <rdfs:label>Renaudot, Eusèbe,
+                            1646-1720.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° Z 414 Th.</crm:P48_has_preferred_identifier>
@@ -2278,7 +2314,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/299253454">
                         <rdfs:label>Boileau-Despréaux, Nicolás,
-                    1636-1711</rdfs:label>
+                            1636-1711</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>G 3.4 Th.</crm:P48_has_preferred_identifier>
@@ -2352,7 +2388,8 @@
                   <dcterms:title>Bibliotheque historique de la France; : contenant le catalogue de tous les ouvrages, tant imprimez que manuscrits, qui traitent de l'histoire de ce roïaume, ou qui y ont rapport: avec des notes critiques et historiques.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/51822477">
-                        <rdfs:label>Le Long, Jacques, 1665-1721</rdfs:label>
+                        <rdfs:label>Le Long, Jacques,
+                            1665-1721</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>Vet. E4 b.11</crm:P48_has_preferred_identifier>
@@ -2384,7 +2421,8 @@
                   <dcterms:title>Journal des observations physiques, mathématiques et botaniques.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/48609">
-                        <rdfs:label>Feuillée, Louis, 1660-1732</rdfs:label>
+                        <rdfs:label>Feuillée, Louis,
+                            1660-1732</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>P 1.8,9 Med.</crm:P48_has_preferred_identifier>
@@ -2417,7 +2455,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/211335569">
                         <rdfs:label>Le Clerc, Sébastien,
-                    1637-1714</rdfs:label>
+                            1637-1714</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>C 17.12,13 Linc.</crm:P48_has_preferred_identifier>
@@ -2483,7 +2521,8 @@
                   <dcterms:title>Historia patriarcharum Alexandrinorum Jacobitarum, a d. Marco usque ad finem sæculi xiii. [by E. Renaudot.].</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/102329089">
-                        <rdfs:label>Renaudot, Eusèbe, 1646-1720.</rdfs:label>
+                        <rdfs:label>Renaudot, Eusèbe,
+                            1646-1720.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>B 1.20 Linc.</crm:P48_has_preferred_identifier>
@@ -2516,8 +2555,8 @@
                   <dcterms:title>Traité analytique des sections coniques et de leur usage pour la résolution des equations dans les problêmes tant déterminez qu'indéterminez.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/66476884">
-                        <rdfs:label>L'Hospital, Guillaume-François-Antoine
-                    de, 1661-1704</rdfs:label>
+                        <rdfs:label>L'Hospital,
+                            Guillaume-François-Antoine de, 1661-1704</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 24 Jur.</crm:P48_has_preferred_identifier>
@@ -2550,7 +2589,8 @@
                   <dcterms:title>Justinus de historiis Philippicis, et totius mundi originibus, interpretatione et notis illustr. P.J. Cantel.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/24616821">
-                        <rdfs:label>Justinus, Marcus Junianus</rdfs:label>
+                        <rdfs:label>Justinus, Marcus
+                            Junianus</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>C 17.11 Linc.</crm:P48_has_preferred_identifier>
@@ -2582,7 +2622,8 @@
                   <dcterms:title>Titi Lucretii Cari De rerum natura libros sex</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/100197567">
-                        <rdfs:label>Lucretius Carus, Titus.</rdfs:label>
+                        <rdfs:label>Lucretius Carus,
+                            Titus.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>P 1.10 Med.</crm:P48_has_preferred_identifier>
@@ -2647,7 +2688,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/100166484">
                         <rdfs:label>Bellori, Giovanni Pietro,
-                    1613-1696</rdfs:label>
+                            1613-1696</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>Vet. F3 c.20</crm:P48_has_preferred_identifier>
@@ -2711,7 +2752,8 @@
                   <dcterms:title>Petri Burmanni Oratio in humanitatis studia.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/64789715">
-                        <rdfs:label>Burman, Pieter, 1668-1741</rdfs:label>
+                        <rdfs:label>Burman, Pieter,
+                            1668-1741</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>AA 49 Jur.</crm:P48_has_preferred_identifier>
@@ -2816,7 +2858,8 @@
                   <dcterms:title>Epistolaris de antiquis Quintiliani editionibus dissertatio.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/9865630">
-                        <rdfs:label>Maittaire, Michael, 1667-1747</rdfs:label>
+                        <rdfs:label>Maittaire, Michael,
+                            1667-1747</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>AA 49(2) Jur.</crm:P48_has_preferred_identifier>
@@ -2958,7 +3001,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/49308476">
                         <rdfs:label>Scheuchzer, Johann Jakob,
-                    1672-1733</rdfs:label>
+                            1672-1733</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>BB 52 Med.</crm:P48_has_preferred_identifier>
@@ -2996,7 +3039,8 @@
                   <dcterms:title>Spermatologia historico-medica, h.e. Seminis humani consideratio.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/74943049">
-                        <rdfs:label>Schurig, Martin, 1656-1733</rdfs:label>
+                        <rdfs:label>Schurig, Martin,
+                            1656-1733</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>AA 55 Jur.</crm:P48_has_preferred_identifier>
@@ -3148,7 +3192,8 @@
                   <dcterms:title>De tabernaculo fœderis, de sancta civitate Jerusalem, et de templo ejus, libri septem.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/39404856">
-                        <rdfs:label>Lamy, Bernard, 1640-1715</rdfs:label>
+                        <rdfs:label>Lamy, Bernard,
+                            1640-1715</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>C 4.6 Jur.</crm:P48_has_preferred_identifier>
@@ -3185,7 +3230,8 @@
                   <dcterms:title>Histoire critique de l'établissement des Bretons dans les Gaules.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/59113668">
-                        <rdfs:label>Vertot, abbé de, 1655-1735.</rdfs:label>
+                        <rdfs:label>Vertot, abbé de,
+                            1655-1735.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° A 172,173, Linc.</crm:P48_has_preferred_identifier>
@@ -3223,7 +3269,8 @@
                   <dcterms:title>Histoire des révolutions arrivées dans le gouvernement de la république romaine.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/59113668">
-                        <rdfs:label>Vertot, abbé de, 1655-1735.</rdfs:label>
+                        <rdfs:label>Vertot, abbé de,
+                            1655-1735.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° A 174-176 Linc.</crm:P48_has_preferred_identifier>
@@ -3261,7 +3308,8 @@
                   <dcterms:title>A treatise of painting, by Leonardo da Vinci. Translated from the original Italian, and adorn'd with a great number of cuts. To which is prefix'd, the author's life; done from the last edition of the French.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/24604287">
-                        <rdfs:label>Leonardo, da Vinci, 1452-1519</rdfs:label>
+                        <rdfs:label>Leonardo, da Vinci,
+                            1452-1519</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° C 74 Jur.</crm:P48_has_preferred_identifier>
@@ -3298,7 +3346,8 @@
                   <dcterms:title>Matthæii Deuarii Liber de Græcæ linguæ particulis [ed. by P. Devarius.].</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/88081876">
-                        <rdfs:label>Devarius, Matthaeus, 1505?-</rdfs:label>
+                        <rdfs:label>Devarius, Matthaeus,
+                            1505?-</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° Z 41 Jur.</crm:P48_has_preferred_identifier>
@@ -3519,7 +3568,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/66901438">
                         <rdfs:label>Manget, Jean-Jacques,
-                    1652-1742</rdfs:label>
+                            1652-1742</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>Z 4.12-15 Jur.</crm:P48_has_preferred_identifier>
@@ -3556,7 +3605,8 @@
                   <dcterms:title>M. Tullii Ciceronis de officiis libri tres, &amp; in illos S. Rachelii commentarius.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/78769600">
-                        <rdfs:label>Cicero, Marcus Tullius.</rdfs:label>
+                        <rdfs:label>Cicero, Marcus
+                            Tullius.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° E 34 Jur.</crm:P48_has_preferred_identifier>
@@ -3593,7 +3643,8 @@
                   <dcterms:title>Danielis Maichelii Introductio ad historiam literariam de præcipuis bibliothecis Parisiensibus, : locupletata annotationibus, atque methodo, qua rectus bibliothecarum usus [et] vera studiorum ratio ostenditur; ubi [et] de bibliothecariis plurimisque eruditis Parisiensibus honorifice [et] modeste, salva tamen ubique veritate, disseritur; atque ita peregrinantibus quoque via panditur, ad iter literarium Parisiense feliciter [et] cum successu suscipiendum. In duas partes divisa..</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/12646173">
-                        <rdfs:label>Maichel, Daniel, 1693-1752</rdfs:label>
+                        <rdfs:label>Maichel, Daniel,
+                            1693-1752</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° C 75 Jur.</crm:P48_has_preferred_identifier>
@@ -3630,7 +3681,8 @@
                   <dcterms:title>Loimologia: or, An historical account of the plague in London in 1665: : with precautionary directions against the like contagion.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/12656750">
-                        <rdfs:label>Hodges, Nathaniel, 1629-1688</rdfs:label>
+                        <rdfs:label>Hodges, Nathaniel,
+                            1629-1688</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° D 70 Med.</crm:P48_has_preferred_identifier>
@@ -3667,7 +3719,8 @@
                   <dcterms:title>The controversy of ordination truly stated; : as far as it concerns the Church of England by law establish'd. Being an exposition of the Thirty Sixth Article. With a full account of what both Roman Catholicks and Protestants, have deliver'd upon the subject of ordination. Especially, the attempt of Dr. Burnet late bishop of Salisbury, in order to clear that point, is impartially consider'd. Also, Contradiction authoris'd, by the ecclesiastical canons, and the Thirty Nine Articles, of the Church of England: with some reflections upon the same.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/38331979">
-                        <rdfs:label>Ward, Thomas, 1652-1708</rdfs:label>
+                        <rdfs:label>Ward, Thomas,
+                            1652-1708</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° E 32(3) Jur.</crm:P48_has_preferred_identifier>
@@ -3756,7 +3809,8 @@
                   <dcterms:title>Julii Pontederae ... Compendium tabularum botanicarum, in quo plantae 272 ab eo in Italia nuper detectae recensentur. Accessit ejusdem epistola ad G. Sherardum</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/145097">
-                        <rdfs:label>Pontedera, Giulio, 1688-1757</rdfs:label>
+                        <rdfs:label>Pontedera, Giulio,
+                            1688-1757</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 26 Jur.</crm:P48_has_preferred_identifier>
@@ -4081,7 +4135,8 @@
                   <dcterms:title>The life of Her late Majesty Queen Anne, as well before her accession to the throne as after. ... Wherein her conduct during the last four years of her reign is not only vindicated, but shewn to be most beneficial ...</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/64251536">
-                        <rdfs:label>Salmon, Thomas, 1679-1767</rdfs:label>
+                        <rdfs:label>Salmon, Thomas,
+                            1679-1767</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° E 48 Jur.</crm:P48_has_preferred_identifier>
@@ -4092,7 +4147,8 @@
                   <dcterms:title>The life of Her late Majesty Queen Anne, as well before her accession to the throne as after. ... Wherein her conduct during the last four years of her reign is not only vindicated, but shewn to be most beneficial ...</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/64251536">
-                        <rdfs:label>Salmon, Thomas, 1679-1767</rdfs:label>
+                        <rdfs:label>Salmon, Thomas,
+                            1679-1767</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° E 49 Jur.</crm:P48_has_preferred_identifier>
@@ -4151,7 +4207,8 @@
                   <dcterms:title>A natural history of English insects. : Illustrated with a hundred copper plates, curiously engraven from the life: and (for those who desire it) exactly coloured by the author Eleazar Albin, painter..</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/347904">
-                        <rdfs:label>Albin, Eleazar, active 1713-1759</rdfs:label>
+                        <rdfs:label>Albin, Eleazar, active
+                            1713-1759</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>Arch.Nat. hist. N 7 (1) </crm:P48_has_preferred_identifier>
@@ -4183,7 +4240,8 @@
                   <dcterms:title>Philosophical principles of religion: natural and revealed: in two parts. Part I. ... The second edition corrected and enlarged. Part II. ... Now first publish'd. By George Cheyne, ...</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/88056977">
-                        <rdfs:label>Cheyne, George, 1671?-1743</rdfs:label>
+                        <rdfs:label>Cheyne, George,
+                            1671?-1743</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° E 45 Jur.</crm:P48_has_preferred_identifier>
@@ -4248,7 +4306,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/56467568">
                         <rdfs:label>Cunningham, Alexander,
-                    1655?-1730</rdfs:label>
+                            1655?-1730</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° E 51 Jur.</crm:P48_has_preferred_identifier>
@@ -4286,7 +4344,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/66901438">
                         <rdfs:label>Manget, Jean-Jacques,
-                    1652-1742</rdfs:label>
+                            1652-1742</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>T 1.5,6 Med.</crm:P48_has_preferred_identifier>
@@ -4324,7 +4382,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/66901438">
                         <rdfs:label>Manget, Jean-Jacques,
-                    1652-1742</rdfs:label>
+                            1652-1742</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>A 1.14,15 Med.</crm:P48_has_preferred_identifier>
@@ -4388,7 +4446,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/61539765">
                         <rdfs:label>Bede, the Venerable, Saint,
-                    673-735</rdfs:label>
+                            673-735</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>A 15.3 Th.</crm:P48_has_preferred_identifier>
@@ -4541,7 +4599,8 @@
                   <dcterms:title>Jus academicum: or, A defence of the peculiar jurisdiction which belongs ... to universities, by a person concern'd [J. Colbatch]. </dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/100160573">
-                        <rdfs:label>Colbatch, John, 1664-1748</rdfs:label>
+                        <rdfs:label>Colbatch, John,
+                            1664-1748</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 50(5) Art.</crm:P48_has_preferred_identifier>
@@ -4578,7 +4637,8 @@
                   <dcterms:title>An enquiry into the authority of the primitive Complutensian edition of the New Testament, : as principally founded on the most ancient Vatican manuscript; together with some research after that manuscript. In order to decide the dispute about 1 John v. 7</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/17630601">
-                        <rdfs:label>Smalbroke, Richard, 1672-1749</rdfs:label>
+                        <rdfs:label>Smalbroke, Richard,
+                            1672-1749</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° B 417(10) Linc.</crm:P48_has_preferred_identifier>
@@ -4668,7 +4728,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/24623353">
                         <rdfs:label>Fabricius, Johann Albert,
-                    1668-1736</rdfs:label>
+                            1668-1736</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° O 47 Linc.</crm:P48_has_preferred_identifier>
@@ -4757,7 +4817,8 @@
                   <dcterms:title>The compleat linguist. Or, an universal grammar of all the considerable tongues in being. ... To be published monthly, one distinct grammar each month, ... By John Henley, M.A.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/18100406">
-                        <rdfs:label>Henley, John, 1692-1756</rdfs:label>
+                        <rdfs:label>Henley, John,
+                            1692-1756</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° E 42* Jur.</crm:P48_has_preferred_identifier>
@@ -4820,7 +4881,8 @@
                   <dcterms:title>A paraphrase and commentary on the New Testament, containing the Gospels, the Acts, all the Epistles, with a discourse of the Millenium.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/42187262">
-                        <rdfs:label>Whitby, Daniel, 1638-1726</rdfs:label>
+                        <rdfs:label>Whitby, Daniel,
+                            1638-1726</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>M 10.11,12 Th.</crm:P48_has_preferred_identifier>
@@ -4894,7 +4956,8 @@
                   <dcterms:title>Antiquitatum Romanarum libri quatuor. Cui accesserunt J. Lipsii opuscula rariora.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/25496515">
-                        <rdfs:label>Kipping, Heinrich, 1623-1678</rdfs:label>
+                        <rdfs:label>Kipping, Heinrich,
+                            1623-1678</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° E 41 Jur.</crm:P48_has_preferred_identifier>
@@ -4958,7 +5021,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/4929593">
                         <rdfs:label>Eusebius, of Caesarea, Bishop of
-                    Caesarea, approximately 260-approximately 340</rdfs:label>
+                            Caesarea, approximately 260-approximately 340</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>B 2.8-10 Th.</crm:P48_has_preferred_identifier>
@@ -5121,7 +5184,8 @@
                   <dcterms:title>An institute of the laws of England; or, The laws of England in their natural order, according to common use.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/30612529">
-                        <rdfs:label>Wood, Thomas, 1661-1722</rdfs:label>
+                        <rdfs:label>Wood, Thomas,
+                            1661-1722</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>D 3.9 Jur.</crm:P48_has_preferred_identifier>
@@ -5195,7 +5259,8 @@
                   <dcterms:title>The institutions of the law of Scotland. By Sir George Mackenzie ...</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/62606175">
-                        <rdfs:label>Mackenzie, George, 1636-1691</rdfs:label>
+                        <rdfs:label>Mackenzie, George,
+                            1636-1691</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° Z 49 Jur.</crm:P48_has_preferred_identifier>
@@ -5323,7 +5388,8 @@
                   <dcterms:title>Epistolarum Paulli Manutij libri xij. Eiusdem quæ præfationes appellantur: cum noua quoque accessione.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/120694653">
-                        <rdfs:label>Manuzio, Paulo, 1512-1574</rdfs:label>
+                        <rdfs:label>Manuzio, Paulo,
+                            1512-1574</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° A 186 Linc.</crm:P48_has_preferred_identifier>
@@ -5387,7 +5453,8 @@
                   <dcterms:title>Grammatica Hebræa, etymologia et syntaxi absoluta. Emendatior.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/73890820">
-                        <rdfs:label>Waser, Kaspar, 1565-1625</rdfs:label>
+                        <rdfs:label>Waser, Kaspar,
+                            1565-1625</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° A 200 Linc.</crm:P48_has_preferred_identifier>
@@ -5940,7 +6007,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/10782288">
                         <rdfs:label>Cockburn, W. 1669-1739.
-                    (William)</rdfs:label>
+                            (William)</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° A 190 Linc.</crm:P48_has_preferred_identifier>
@@ -5977,7 +6044,8 @@
                   <dcterms:title>Frederici Deckers ... Exercitationes medicæ practicæ circa medendi methodum.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/267885254">
-                        <rdfs:label>Dekkers, Frederick, 1644-1720</rdfs:label>
+                        <rdfs:label>Dekkers, Frederick,
+                            1644-1720</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° A 193 Linc.</crm:P48_has_preferred_identifier>
@@ -6014,7 +6082,8 @@
                   <dcterms:title>Ioannis Præuotij ... Medicina pauperum, cum Censu venenorum &amp; alexipharmacorum. Quibus accessit De medicamentorum materia tractatus.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/71824522">
-                        <rdfs:label>Prévost, Jean, 1585-1631</rdfs:label>
+                        <rdfs:label>Prévost, Jean,
+                            1585-1631</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° A 187 Linc.</crm:P48_has_preferred_identifier>
@@ -9315,7 +9384,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/47066992">
                         <rdfs:label>Boxhorn, Marcus Zuerius,
-                    1612-1653.</rdfs:label>
+                            1612-1653.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>AA 31 Jur.</crm:P48_has_preferred_identifier>
@@ -9346,7 +9415,8 @@
                   <dcterms:title>Bonifacij de Ceua ... Viatice excursioes ... nuper de nonullis hoīm vicijs sparsim edite.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/305230154">
-                        <rdfs:label>Bonifacio, da Ceva, 1456-1517</rdfs:label>
+                        <rdfs:label>Bonifacio, da Ceva,
+                            1456-1517</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>DD 44 Th.</crm:P48_has_preferred_identifier>
@@ -9377,7 +9447,8 @@
                   <dcterms:title>Hieremiæ Thriueri ... commentarij in vii. libros Aphorismorum Hippocratis</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/76432533">
-                        <rdfs:label>Dryvere, Jérémie de, 1504-1554</rdfs:label>
+                        <rdfs:label>Dryvere, Jérémie de,
+                            1504-1554</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>4° F 15(1) Med.</crm:P48_has_preferred_identifier>
@@ -9408,7 +9479,8 @@
                   <dcterms:title>Ioannis Guidonis ... de temporis, astrorum, annique partium integra atque absoluta animaduersione, libri duo</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/51842250">
-                        <rdfs:label>Guido, Jean, active 1540</rdfs:label>
+                        <rdfs:label>Guido, Jean, active
+                            1540</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>4° F 15(2) Med.</crm:P48_has_preferred_identifier>
@@ -9466,7 +9538,8 @@
                   <dcterms:title>Claudii Espencæi ... collectaneorum de continentia libri sex.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/27148970">
-                        <rdfs:label>Espence, Claude d' 1511-1571</rdfs:label>
+                        <rdfs:label>Espence, Claude d'
+                            1511-1571</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>FF 29 Th.</crm:P48_has_preferred_identifier>
@@ -9498,7 +9571,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/89645361">
                         <rdfs:label>Flacius Illyricus, Matthias,
-                    1520-1575.</rdfs:label>
+                            1520-1575.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>FF 23 Th.</crm:P48_has_preferred_identifier>
@@ -9549,7 +9622,8 @@
                   <dcterms:title>Imperatorum Romanorum à Iulio Cæsare ad Heraclium usque numismata aurea ... Caroli ducis Croyi ... studio collecta, arte I. de Bye in æs incisa, opera I. Hemelarii comm. explicata.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/59117215">
-                        <rdfs:label>De Bie, Jacques, 1581-ca. 1650</rdfs:label>
+                        <rdfs:label>De Bie, Jacques, 1581-ca.
+                            1650</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>AA 33(1) Jur.</crm:P48_has_preferred_identifier>
@@ -9608,7 +9682,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/31998409">
                         <rdfs:label>Kircher, Athanasius,
-                    1602-1680.</rdfs:label>
+                            1602-1680.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>AA 47 Jur.</crm:P48_has_preferred_identifier>
@@ -9639,7 +9713,8 @@
                   <dcterms:title>Apparatus concionatorum, seu, Loci communes ad conciones ordine alphabetico digesti.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/13253612">
-                        <rdfs:label>Labata, Francisco, 1549-1631</rdfs:label>
+                        <rdfs:label>Labata, Francisco,
+                            1549-1631</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>DD 49 Th.</crm:P48_has_preferred_identifier>
@@ -9670,7 +9745,8 @@
                   <dcterms:title>Apparatus concionatorum, seu, Loci communes ad conciones ordine alphabetico digesti.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/13253612">
-                        <rdfs:label>Labata, Francisco, 1549-1631</rdfs:label>
+                        <rdfs:label>Labata, Francisco,
+                            1549-1631</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>DD 50 Th.</crm:P48_has_preferred_identifier>
@@ -9763,7 +9839,8 @@
                   <dcterms:title>Adamus: hoc est, Theologica expositio primæ partis Geneseos.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/57380713">
-                        <rdfs:label>Leyser, Polycarp, 1552-1610.</rdfs:label>
+                        <rdfs:label>Leyser, Polycarp,
+                            1552-1610.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>DD 48(1) Th.</crm:P48_has_preferred_identifier>
@@ -9814,7 +9891,8 @@
                   <dcterms:title>Apparato alle antichità di Capua o vero Discorsi della Campania felice.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/69805815">
-                        <rdfs:label>Pellegrino, Camillo, 1598-1663</rdfs:label>
+                        <rdfs:label>Pellegrino, Camillo,
+                            1598-1663</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>AA 46 Jur.</crm:P48_has_preferred_identifier>
@@ -9845,7 +9923,8 @@
                   <dcterms:title>Ideæ reformandi Antichristi ... tomus primus (-tertius) studio &amp; opera Eryci Rhonæi (quo continetur discursus I. à Münster de palingenesia et instauratione Ecclesiæ).</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/61785173">
-                        <rdfs:label>Oraeus, Heinrich, 1584-1646</rdfs:label>
+                        <rdfs:label>Oraeus, Heinrich,
+                            1584-1646</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>DD 42 Th.</crm:P48_has_preferred_identifier>
@@ -9876,7 +9955,8 @@
                   <dcterms:title>Francisci Riberæ ... in sanctum Iesu-Christi euangelium secundùm Ioannem commentarii.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/95299692">
-                        <rdfs:label>Ribera, Francisco de 1537-1591</rdfs:label>
+                        <rdfs:label>Ribera, Francisco de
+                            1537-1591</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>DD 43(1) Th.</crm:P48_has_preferred_identifier>
@@ -9907,7 +9987,8 @@
                   <dcterms:title>Concio ad clerum [on Luke xxii, 31] habita Oxonii ... 1609.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/32345104">
-                        <rdfs:label>Day, Lionel, 1569 or 1570-1640</rdfs:label>
+                        <rdfs:label>Day, Lionel, 1569 or
+                            1570-1640</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>DD 43(2) Th.</crm:P48_has_preferred_identifier>
@@ -9938,7 +10019,8 @@
                   <dcterms:title>Concio ad clerum habita in templo beatæ Mariæ Oxon: Feb: 14.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/20029111">
-                        <rdfs:label>Gardiner, Richard, 1591-1670</rdfs:label>
+                        <rdfs:label>Gardiner, Richard,
+                            1591-1670</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>DD 43(3) Th.</crm:P48_has_preferred_identifier>
@@ -9969,7 +10051,8 @@
                   <dcterms:title>Bibliotheca ss. patrum concionatoria, qua ... conciones, homiliæ, orationes ... summatim exposita ... exhibentur.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/121907809">
-                        <rdfs:label>Blanchot, Pierre, 1589-1637</rdfs:label>
+                        <rdfs:label>Blanchot, Pierre,
+                            1589-1637</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>DD 43(4) Th.</crm:P48_has_preferred_identifier>
@@ -10027,7 +10110,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/49654392">
                         <rdfs:label>Schotanus, Meinardus,
-                    1593-1644</rdfs:label>
+                            1593-1644</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>FF 24 Th. (1)</crm:P48_has_preferred_identifier>
@@ -10039,7 +10122,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/49654392">
                         <rdfs:label>Schotanus, Meinardus,
-                    1593-1644</rdfs:label>
+                            1593-1644</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>FF 24 Th. (2)</crm:P48_has_preferred_identifier>
@@ -10071,7 +10154,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/129152682525023310159">
                         <rdfs:label>Speidel, Johann
-                    Jacob</rdfs:label>
+                            Jacob</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>AA 38 Jur.</crm:P48_has_preferred_identifier>
@@ -10103,7 +10186,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/89205828">
                         <rdfs:label>Makīn, Jirjis ibn al-ʿAmīd,
-                    1205-1273</rdfs:label>
+                            1205-1273</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>AA 32(1) Jur.</crm:P48_has_preferred_identifier>
@@ -10135,7 +10218,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/89562682">
                         <rdfs:label>Volusenus, Florentius
-                    1504-1547</rdfs:label>
+                            1504-1547</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>AA 45 Jur.</crm:P48_has_preferred_identifier>
@@ -10187,7 +10270,8 @@
                   <dcterms:title>Thomæ Finkii ... Geometriæ rotundi libri xiii.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/35210347">
-                        <rdfs:label>Finck, Thomas, 1561-1656</rdfs:label>
+                        <rdfs:label>Finck, Thomas,
+                            1561-1656</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>AA 52(1) Jur.</crm:P48_has_preferred_identifier>
@@ -10198,7 +10282,8 @@
                   <dcterms:title>Thomæ Finckii Horoscopographia, siue, De inueniendo stellarum situ astrologia.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/35210347">
-                        <rdfs:label>Finck, Thomas, 1561-1656</rdfs:label>
+                        <rdfs:label>Finck, Thomas,
+                            1561-1656</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>AA 52(2) Jur.</crm:P48_has_preferred_identifier>
@@ -10249,7 +10334,8 @@
                   <dcterms:title>Consilia, siue Responsa. Vnà cum duobus tractatibus. i. De alienatione prohibita, tam à lege, quàm ab homine. ii. De remedijs possessorijs.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/20024460">
-                        <rdfs:label>Maranta, Roberto, -1530</rdfs:label>
+                        <rdfs:label>Maranta, Roberto,
+                            -1530</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 4(1) Jur.</crm:P48_has_preferred_identifier>
@@ -10280,7 +10366,8 @@
                   <dcterms:title>Praxis, siue de ordine iudiciorum tractatus, qui vulgò Speculum aureum, et Lumen aduocatorum nuncupatur, additionibus P. Follerij locupletatus. Accesserunt prætereà decem disputationes quæstionum legalium, vnà cum repetitione l. Is potest. ff. de acquirend hæred &amp; l. Si actor. ff. de procuratorib. His in noua hac ed. accesserunt Practica iudiciaria canonica &amp; ciuilis, &amp;c. I. de Arnono: &amp; Differentiæ iuris Cæsarei, pontificij, &amp; regni Siciliæ: eiusdem autoris.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/20024460">
-                        <rdfs:label>Maranta, Roberto, -1530</rdfs:label>
+                        <rdfs:label>Maranta, Roberto,
+                            -1530</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 5(1) Jur.</crm:P48_has_preferred_identifier>
@@ -10291,7 +10378,8 @@
                   <dcterms:title>Do. Roberti Marantæ ... singularia, et iuris notabilia, cum declarationibus ad varias leges, &amp; paragraphos.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/20024460">
-                        <rdfs:label>Maranta, Roberto, -1530</rdfs:label>
+                        <rdfs:label>Maranta, Roberto,
+                            -1530</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 5(2) Jur.</crm:P48_has_preferred_identifier>
@@ -10324,7 +10412,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/64053449">
                         <rdfs:label>Alsted, Johann Heinrich,
-                    1588-1638.</rdfs:label>
+                            1588-1638.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>FF 56 Th.</crm:P48_has_preferred_identifier>
@@ -10416,7 +10504,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/25505863">
                         <rdfs:label>Mantova Benavides, Marco,
-                    1489-1582.</rdfs:label>
+                            1489-1582.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>M 3.9(1) Jur.</crm:P48_has_preferred_identifier>
@@ -10427,7 +10515,8 @@
                   <dcterms:title>Hippolyti Riminaldi ... commentaria elegantissima in primam Digesti veteris partem.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/10239962">
-                        <rdfs:label>Riminaldi, Ippolito, 1520-1589</rdfs:label>
+                        <rdfs:label>Riminaldi, Ippolito,
+                            1520-1589</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>M 3.9(2) Jur.</crm:P48_has_preferred_identifier>
@@ -10438,7 +10527,8 @@
                   <dcterms:title>Repetitio [sect.] cum ita .l. hæredes mei.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/54139301">
-                        <rdfs:label>Zanchi, Girolamo, 1516-1590</rdfs:label>
+                        <rdfs:label>Zanchi, Girolamo,
+                            1516-1590</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>M 3.9(3) Jur.</crm:P48_has_preferred_identifier>
@@ -10529,7 +10619,8 @@
                   <dcterms:title>Criticus sacer, vel Commentarii apodictico-elenchtici super Augustanam confessionem, necnon de Scriptura sacra.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/49477662">
-                        <rdfs:label>Calov, Abraham, 1612-1686.</rdfs:label>
+                        <rdfs:label>Calov, Abraham,
+                            1612-1686.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>FF 57 Th.</crm:P48_has_preferred_identifier>
@@ -10540,7 +10631,8 @@
                   <dcterms:title>Theologia naturalis et revelata secundum tenorem Augustanæ confessionis.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/49477662">
-                        <rdfs:label>Calov, Abraham, 1612-1686.</rdfs:label>
+                        <rdfs:label>Calov, Abraham,
+                            1612-1686.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>FF 58 Th.</crm:P48_has_preferred_identifier>
@@ -10571,7 +10663,8 @@
                   <dcterms:title>Medulla Lexici iuridici: siue succinctum ... iuris Cæsarei et canonici; ciuilis, et criminalis; theoretici, ac practici: &amp; in schola &amp; in foro vsitatorum ... vocabulorum penu: cui breuissimum accessit feudale lexicon.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/52029866">
-                        <rdfs:label>Kahl, Johann, 1550-1614</rdfs:label>
+                        <rdfs:label>Kahl, Johann,
+                            1550-1614</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 23 Jur.</crm:P48_has_preferred_identifier>
@@ -10648,7 +10741,8 @@
                   <dcterms:title>Tractatus de remediis contra præiudiciales sententias, vel damnosas executiones, quæ at aduocatis, causarúmque patronis iuxta praxim opponi solent, nunc primum in lucem ed., &amp; at A. Catalutio summariis &amp; multiplici indice illustratus.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/13246163">
-                        <rdfs:label>Carocci, Vincenzo, 1580-16..</rdfs:label>
+                        <rdfs:label>Carocci, Vincenzo,
+                            1580-16..</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 7 Jur.</crm:P48_has_preferred_identifier>
@@ -10739,7 +10833,8 @@
                   <dcterms:title>Antonii Fabri ... de erroribus pragmaticorum et interpretum iuris. Chiliadis pars prima.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/39528957">
-                        <rdfs:label>Favre, Antoine, 1557-1624</rdfs:label>
+                        <rdfs:label>Favre, Antoine,
+                            1557-1624</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 10 Jur.</crm:P48_has_preferred_identifier>
@@ -10751,7 +10846,8 @@
                   <dcterms:title>Antonii Fabri ... Coniecturarum iuris ciuilis libri sex. Lugd., 1598</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/39528957">
-                        <rdfs:label>Favre, Antoine, 1557-1624</rdfs:label>
+                        <rdfs:label>Favre, Antoine,
+                            1557-1624</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 11(1) Jur.</crm:P48_has_preferred_identifier>
@@ -10763,7 +10859,8 @@
                   <dcterms:title>Antonii Fabri ... Coniecturarum iuris ciuilis libri sex. Libri septimus, octauus, nonus, decimus.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/39528957">
-                        <rdfs:label>Favre, Antoine, 1557-1624</rdfs:label>
+                        <rdfs:label>Favre, Antoine,
+                            1557-1624</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 11(2) Jur.</crm:P48_has_preferred_identifier>
@@ -10775,7 +10872,8 @@
                   <dcterms:title>Antonii Fabri ... Coniecturarum iuris ciuilis libri sex. Libri xj &amp; xij.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/39528957">
-                        <rdfs:label>Favre, Antoine, 1557-1624</rdfs:label>
+                        <rdfs:label>Favre, Antoine,
+                            1557-1624</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 12(1) Jur.</crm:P48_has_preferred_identifier>
@@ -10787,7 +10885,8 @@
                   <dcterms:title>Antonii Fabri ... Coniecturarum iuris ciuilis libri sex. Libri xiij, xiiij, xv, xvj.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/39528957">
-                        <rdfs:label>Favre, Antoine, 1557-1624</rdfs:label>
+                        <rdfs:label>Favre, Antoine,
+                            1557-1624</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 12(2) Jur.</crm:P48_has_preferred_identifier>
@@ -10799,7 +10898,8 @@
                   <dcterms:title>Antonii Fabri ... Coniecturarum iuris ciuilis libri sex. Libri xvii &amp; xviii.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/39528957">
-                        <rdfs:label>Favre, Antoine, 1557-1624</rdfs:label>
+                        <rdfs:label>Favre, Antoine,
+                            1557-1624</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 12(3) Jur.</crm:P48_has_preferred_identifier>
@@ -10811,7 +10911,8 @@
                   <dcterms:title>Antonii Fabri ... Coniecturarum iuris ciuilis libri sex. Libri xix et xx.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/39528957">
-                        <rdfs:label>Favre, Antoine, 1557-1624</rdfs:label>
+                        <rdfs:label>Favre, Antoine,
+                            1557-1624</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 13(1) Jur.</crm:P48_has_preferred_identifier>
@@ -10822,7 +10923,8 @@
                   <dcterms:title>Iurisprudentiæ Papinianeæ scientia.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/39528957">
-                        <rdfs:label>Favre, Antoine, 1557-1624</rdfs:label>
+                        <rdfs:label>Favre, Antoine,
+                            1557-1624</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 14 Jur.</crm:P48_has_preferred_identifier>
@@ -10926,7 +11028,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/39811604">
                         <rdfs:label>Hunnius, Helfrich Ulrich,
-                    1583-1636</rdfs:label>
+                            1583-1636</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 8 Jur.</crm:P48_has_preferred_identifier>
@@ -10957,7 +11059,8 @@
                   <dcterms:title>La seconde partie des Notables et singulieres questions du droict escrit, decidees et ingees par arrests memorables de la cour souueraine du parlement de Tholose.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/57550237">
-                        <rdfs:label>Maynard, Géraud de 1537-1607</rdfs:label>
+                        <rdfs:label>Maynard, Géraud de
+                            1537-1607</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 19(1) Jur.</crm:P48_has_preferred_identifier>
@@ -10988,7 +11091,8 @@
                   <dcterms:title>Opera varia, emendatiora &amp; 3a amplius parte auctiora.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/19865">
-                        <rdfs:label>Brisson, Barnabé, 1531-1591.</rdfs:label>
+                        <rdfs:label>Brisson, Barnabé,
+                            1531-1591.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 19(2) Jur.</crm:P48_has_preferred_identifier>
@@ -11046,7 +11150,8 @@
                   <dcterms:title>Ferdinandi Mena ... Methodus febrium omnium, et earum symptômatum curatoria; Hispaniæ medicis potissimùm ex vsu. Accessit Liber de septimestri partu, &amp; de purgantibus medicinis [by Hippocrates] eodem &amp; exposre &amp; enarratore.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/280777940">
-                        <rdfs:label>Mena, Ferdinandus, 1520-</rdfs:label>
+                        <rdfs:label>Mena, Ferdinandus,
+                            1520-</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>C 17.9 Linc.</crm:P48_has_preferred_identifier>
@@ -11208,7 +11313,8 @@
                   <dcterms:title>Fons chymicus id est: Vera auri et argenti conficiendi, ex naturalis philosophiæ venis scaturiens ratio.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/69868154">
-                        <rdfs:label>Potier, Michael 1564-1631</rdfs:label>
+                        <rdfs:label>Potier, Michael
+                            1564-1631</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 17(2) Jur.</crm:P48_has_preferred_identifier>
@@ -11219,8 +11325,8 @@
                   <dcterms:title>Synopsis eorum, quæ de balneis aliis(que) miraculis Puteolanis scripta sunt. Adiectis balneis Aenariarum, necnon scholiis. Ab auctore denuò recogn. &amp; locupletatum.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/76660251">
-                        <rdfs:label>Lombardi, Giovanni Francesco, séc.
-                    16</rdfs:label>
+                        <rdfs:label>Lombardi, Giovanni Francesco,
+                            séc. 16</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 17(3) Jur.</crm:P48_has_preferred_identifier>
@@ -11232,7 +11338,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/76310659">
                         <rdfs:label>Plemp, Vopiscus Fortunatus,
-                    1601-1671</rdfs:label>
+                            1601-1671</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 17(4) Jur.</crm:P48_has_preferred_identifier>
@@ -11244,7 +11350,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/201200036">
                         <rdfs:label>Santorelli, Antonio,
-                    1583-1653</rdfs:label>
+                            1583-1653</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 18 Jur.</crm:P48_has_preferred_identifier>
@@ -11487,7 +11593,8 @@
                   <dcterms:title>A supplement to the English introduction of Lily's Grammar: with select rules of the genders of nouns and the heteroclites; ... The whole from Lily's Latin grammar, publish'd at Oxford: ... For the use of the school in Exon, commonly call'd the Free-School. With a preface, ...</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/76352166">
-                        <rdfs:label>Lily, William, 1468?-1522.</rdfs:label>
+                        <rdfs:label>Lily, William,
+                            1468?-1522.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° C 80 Jur.</crm:P48_has_preferred_identifier>
@@ -11518,7 +11625,8 @@
                   <dcterms:title>The farriers dispensatory, in three parts. Containing I. A description of the medicinal simples, ... II. The preparations of simples, vegetable, animal and mineral; ... III. A number of useful compositions and receipts ... By W. Gibson.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/20903599">
-                        <rdfs:label>Gibson, William 1680?-1750</rdfs:label>
+                        <rdfs:label>Gibson, William
+                            1680?-1750</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° C 77 Jur.</crm:P48_has_preferred_identifier>
@@ -11569,7 +11677,8 @@
                   <dcterms:title>Arithmetick compleated in all its rules both vulgar and decimal; : the extraction of the square and cube roots, as also the calculations of simple and compound interest, with all useful tables. The whole explained in a practical, easy, and more familiar method, than was ever yet published.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/306131807">
-                        <rdfs:label>Royer, Gideon, 1650-1722</rdfs:label>
+                        <rdfs:label>Royer, Gideon,
+                            1650-1722</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° C 79 Jur.</crm:P48_has_preferred_identifier>
@@ -11720,7 +11829,8 @@
                   <dcterms:title>An institute of the laws of England; or, the laws of England in their natural order, according to common use. : Published for the direction of young beginners, or students in the law; and of others that desire to have a general knowledge in our common and statute laws. In four books.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/30612529">
-                        <rdfs:label>Wood, Thomas, 1661-1722</rdfs:label>
+                        <rdfs:label>Wood, Thomas,
+                            1661-1722</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° C 72 Jur.</crm:P48_has_preferred_identifier>
@@ -11752,7 +11862,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/100277651">
                         <rdfs:label>Sykes, Arthur Ashley,
-                    1684?-1756</rdfs:label>
+                            1684?-1756</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° C 82 Jur.</crm:P48_has_preferred_identifier>
@@ -11783,7 +11893,8 @@
                   <dcterms:title>Eloisa to Abelard. / Written by Mr. Pope..</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/61551003">
-                        <rdfs:label>Pope, Alexander. 1688-1744.</rdfs:label>
+                        <rdfs:label>Pope, Alexander.
+                            1688-1744.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° C 84(1) Jur.</crm:P48_has_preferred_identifier>
@@ -11801,7 +11912,8 @@
                   <dcterms:title>Basia: or, the charms of kissing. Translated from the Latin of Catullus and Secundus, and the Greek of Menage.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/22980277">
-                        <rdfs:label>Tooly, Thomas, 1688-1758</rdfs:label>
+                        <rdfs:label>Tooly, Thomas,
+                            1688-1758</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° C 84(3) Jur.</crm:P48_has_preferred_identifier>
@@ -11812,7 +11924,8 @@
                   <dcterms:title>The siege of Damascus. : A tragedy. As it is acted at the Theatre-Royal in Drury-Lane. By His Majesty's servants.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/44328034">
-                        <rdfs:label>Hughes, John, 1677-1720</rdfs:label>
+                        <rdfs:label>Hughes, John,
+                            1677-1720</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° C 84(4) Jur.</crm:P48_has_preferred_identifier>
@@ -11823,7 +11936,8 @@
                   <dcterms:title>The delights of the bottle: or, the compleat vintner ... A merry poem. To which is added, A South-Sea song upon the late bubbles. By the author of The cavalcade.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/24631271">
-                        <rdfs:label>Ward, Edward, 1667-1731</rdfs:label>
+                        <rdfs:label>Ward, Edward,
+                            1667-1731</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° C 84(5) Jur.</crm:P48_has_preferred_identifier>
@@ -11917,7 +12031,8 @@
                   <dcterms:title>Charity still a Christian virtue: or, an impartial account of the tryal and conviction of the Reverend Mr. Hendley, for preaching a charity-sermon at Chisselhurst. ... Humbly offer'd to the consideration of the clergy of the Church of England.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/32388597">
-                        <rdfs:label>Hendley, William, 1691?-1724</rdfs:label>
+                        <rdfs:label>Hendley, William,
+                            1691?-1724</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° C 83(3) Jur.</crm:P48_has_preferred_identifier>
@@ -12010,7 +12125,8 @@
                   <dcterms:title>Rudiments of honour: or, the second part of the British compendium. Wherein is contain'd a particular account of the present nobility of Scotland, or North Britain; ... To which is added, an introduction to ... heraldry.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/123145542410496640851">
-                        <rdfs:label>Nichols, Francis</rdfs:label>
+                        <rdfs:label>Nichols,
+                            Francis</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° Z 42 Jur.</crm:P48_has_preferred_identifier>
@@ -12042,7 +12158,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/51755048">
                         <rdfs:label>Manley, Mary de la Rivière
-                    (1663-1724).</rdfs:label>
+                            (1663-1724).</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° C 86 Jur.</crm:P48_has_preferred_identifier>
@@ -12074,7 +12190,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/2283158188232920260006">
                         <rdfs:label>Defoë, Daniel,
-                    1661?-1731</rdfs:label>
+                            1661?-1731</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° C 85 Jur.</crm:P48_has_preferred_identifier>
@@ -12165,7 +12281,8 @@
                   <dcterms:title>Short instructions for the sacrament of the Lord's Supper, and all objections to it answer'd; together with a sermon ... By Richard Roots ...</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/6480301">
-                        <rdfs:label>Roots, Richard, 1673 or 1674-</rdfs:label>
+                        <rdfs:label>Roots, Richard, 1673 or
+                            1674-</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° O 35(2) Linc.</crm:P48_has_preferred_identifier>
@@ -12188,7 +12305,8 @@
                   <dcterms:title>A treatise concerning St. Matthias Day, misplaced in the Oxford almanack for the year 1684 (being leap-year) at Feb. 24. : In a letter from Dr. Wallis to Dr. John Fell late Lord Bishop of Oxford. Published from the original manuscript in the Savilian Study..</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/100212546">
-                        <rdfs:label>Wallis, John, 1616-1703</rdfs:label>
+                        <rdfs:label>Wallis, John,
+                            1616-1703</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° O 35(5) Linc.</crm:P48_has_preferred_identifier>
@@ -12219,7 +12337,8 @@
                   <dcterms:title>The works of ... Joseph Addison [ed. by T. Tickell].</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/7413288">
-                        <rdfs:label>Addison, Joseph, 1672-1719.</rdfs:label>
+                        <rdfs:label>Addison, Joseph,
+                            1672-1719.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 29-32 Jur.</crm:P48_has_preferred_identifier>
@@ -12250,7 +12369,8 @@
                   <dcterms:title>A miscellany of ingenious thoughts and reflections, in verse and prose.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/52539384">
-                        <rdfs:label>Reresby, Tamworth, 1670-</rdfs:label>
+                        <rdfs:label>Reresby, Tamworth,
+                            1670-</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 33 Jur.</crm:P48_has_preferred_identifier>
@@ -12281,7 +12401,8 @@
                   <dcterms:title>Poems by Allan Ramsay</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/77108557">
-                        <rdfs:label>Ramsay, Allan, 1686-1758.</rdfs:label>
+                        <rdfs:label>Ramsay, Allan,
+                            1686-1758.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>CC 34 Jur.</crm:P48_has_preferred_identifier>
@@ -12312,8 +12433,8 @@
                   <dcterms:title>Persian letters [by baron de Montesquieu]. Tr. by mr. [J.] Ozell.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/27069096">
-                        <rdfs:label>Montesquieu, Charles de Secondat, baron
-                    de, 1689-1755</rdfs:label>
+                        <rdfs:label>Montesquieu, Charles de
+                            Secondat, baron de, 1689-1755</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° A 180,181 Linc.</crm:P48_has_preferred_identifier>
@@ -12346,7 +12467,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/129849411">
                         <rdfs:label>Royal College of Physicians of
-                    London</rdfs:label>
+                            London</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° A 183 Linc.</crm:P48_has_preferred_identifier>
@@ -12377,7 +12498,8 @@
                   <dcterms:title>The compleat French-master, for ladies and gentlemen. ... By Mr. A. Boyer, ...</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/100170776">
-                        <rdfs:label>Boyer, Abel, 1667-1729</rdfs:label>
+                        <rdfs:label>Boyer, Abel,
+                            1667-1729</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° E 35 Jur.</crm:P48_has_preferred_identifier>
@@ -12408,7 +12530,8 @@
                   <dcterms:title>The revenge : a tragedy. As it is acted at the Theatre-Royal in Drury-Lane. By His Majesty's servants.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/49252592">
-                        <rdfs:label>Young, Edward, 1683-1765.</rdfs:label>
+                        <rdfs:label>Young, Edward,
+                            1683-1765.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° E 36 Jur.</crm:P48_has_preferred_identifier>
@@ -12440,7 +12563,8 @@
                   <dcterms:title>Essays upon several moral subjects. : In two parts. ...</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/8269751">
-                        <rdfs:label>Collier, Jeremy, 1650-1726</rdfs:label>
+                        <rdfs:label>Collier, Jeremy,
+                            1650-1726</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° E 37 Jur.</crm:P48_has_preferred_identifier>
@@ -12563,7 +12687,8 @@
                   <dcterms:title>Eutropii historiæ Romanæ breviarium, cum versione Anglicâ, in qua, verbum de verbo, quantum fieri licuit, exprimitur, notis quoque &amp; indice. Or, Eutropius's compendious history of Rome, together with an English translation as literal as possible, notes and an index. By John Clarke ...</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/266524486">
-                        <rdfs:label>Eutropius, active 4th century</rdfs:label>
+                        <rdfs:label>Eutropius, active 4th
+                            century</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° E 65 Jur.</crm:P48_has_preferred_identifier>
@@ -12594,7 +12719,8 @@
                   <dcterms:title>The Irish compendium: or, rudiments of honour. Containing a brief account of all the Kings and governors of Ireland, ... Likewise the institution, ... of peerage; ... and ... of knighthood, ... To which is added, an exact list of all the mayors ... of Dublin, ... Vol.III.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/123145542410496640851">
-                        <rdfs:label>Nichols, Francis</rdfs:label>
+                        <rdfs:label>Nichols,
+                            Francis</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° Z 43 Jur.</crm:P48_has_preferred_identifier>
@@ -12625,8 +12751,8 @@
                   <dcterms:title>An essay upon civil government: wherein is set forth, the necessity, origine, rights, boundaries, and different forms of sovereignty. With observations on the ancient government of Rome and England. According to the principles of the late Archbishop of Cambray. Translated from the French..</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/27070583">
-                        <rdfs:label>Ramsay, chevalier (Andrew Michael),
-                    1686-1743</rdfs:label>
+                        <rdfs:label>Ramsay, chevalier (Andrew
+                            Michael), 1686-1743</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° Z 45 Jur.</crm:P48_has_preferred_identifier>
@@ -12766,7 +12892,8 @@
                   <dcterms:title>The anatomy of the humane body. With XXXI copper-plates. By W. Cheselden, ...</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/40161749">
-                        <rdfs:label>Cheselden, William, 1688-1752</rdfs:label>
+                        <rdfs:label>Cheselden, William,
+                            1688-1752</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° B 407 Linc.</crm:P48_has_preferred_identifier>
@@ -12910,7 +13037,8 @@
                   <dcterms:title>Breviuscula introductio ad logicam: studiosæ juventutis (in Academiâ in primis Glasguensi) philosophica studia auspicantis primis usibus accommodata.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/251523">
-                        <rdfs:label>Carmichael, Gershom, 1672-1729</rdfs:label>
+                        <rdfs:label>Carmichael, Gershom,
+                            1672-1729</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° A 188(1) Linc.</crm:P48_has_preferred_identifier>
@@ -12941,8 +13069,8 @@
                   <dcterms:title>The ladies help to spelling. By James Robertson, school-master in Glasgow.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/58955547">
-                        <rdfs:label>Robertson, James (School-master in
-                    Glasgow)</rdfs:label>
+                        <rdfs:label>Robertson, James (School-master
+                            in Glasgow)</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° A 188(2) Linc.</crm:P48_has_preferred_identifier>
@@ -12973,7 +13101,8 @@
                   <dcterms:title>Select sermons preach'd on several texts, more especially on Romans vi.23. By ... Mr. James Webster, ...</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/65516783">
-                        <rdfs:label>Webster, James, 1658?-1720</rdfs:label>
+                        <rdfs:label>Webster, James,
+                            1658?-1720</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° A 189 Linc.</crm:P48_has_preferred_identifier>
@@ -13032,7 +13161,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/146817503">
                         <rdfs:label>Royal College of Physicians of
-                    Edinburgh</rdfs:label>
+                            Edinburgh</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° A 194 Linc.</crm:P48_has_preferred_identifier>
@@ -13063,7 +13192,8 @@
                   <dcterms:title>Grammaticæ Latinæ in usum principis juventutis Britanicæ compendium. Auctore S. P. D.R</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/22489099">
-                        <rdfs:label>Pratt, Samuel, 1659?-1723</rdfs:label>
+                        <rdfs:label>Pratt, Samuel,
+                            1659?-1723</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° A 195(1) Linc.</crm:P48_has_preferred_identifier>
@@ -13126,7 +13256,8 @@
                   <dcterms:title>Six plays, written by Mr. Mountfort. In two volumes. ...</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/30275093">
-                        <rdfs:label>Mountfort, William, 1664?-1692</rdfs:label>
+                        <rdfs:label>Mountfort, William,
+                            1664?-1692</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° A 198 Linc.</crm:P48_has_preferred_identifier>
@@ -13223,7 +13354,8 @@
                   <dcterms:title>The replies of Thomas Reeve, Esq; and Clement Wearg, Esq; in the House of Lords, the thirteenth of May, 1723. : In behalf of the bill to inflict pains and penalties on the late Bishop of Rochester, against the defence made by the said late Bishop and his counsel..</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/55682948">
-                        <rdfs:label>Reeve, Thomas, Sir, -1737</rdfs:label>
+                        <rdfs:label>Reeve, Thomas, Sir,
+                            -1737</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>L 1.17 Jur. (1)</crm:P48_has_preferred_identifier>
@@ -13234,7 +13366,8 @@
                   <dcterms:title>The bishop of Salisbury's speech in the House of lords, upon the third reading of the bill to inflict pains and penalties on Francis, late bishop of Rochester.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/58057709">
-                        <rdfs:label>Willis, Richard, 1664-1734</rdfs:label>
+                        <rdfs:label>Willis, Richard,
+                            1664-1734</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>L 1.17(3) Jur.</crm:P48_has_preferred_identifier>
@@ -13246,7 +13379,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/77847485">
                         <rdfs:label>Phipps, Constantine, Sir,
-                    1656-1723</rdfs:label>
+                            1656-1723</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>L 1.17(4) Jur.</crm:P48_has_preferred_identifier>
@@ -13258,7 +13391,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/59438242">
                         <rdfs:label>Wynne, William, 1692-1765,
-                    author</rdfs:label>
+                            author</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>L 1.17 Jur. (2)</crm:P48_has_preferred_identifier>
@@ -13313,7 +13446,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/239569946">
                         <rdfs:label>Ogle, Chaloner, Sir,
-                    1681?-1750</rdfs:label>
+                            1681?-1750</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>L 1.18(1) Jur.</crm:P48_has_preferred_identifier>
@@ -13330,8 +13463,8 @@
                   <dcterms:title>His grace the duke of Wharton's speech in the House of lords on the third reading of the bill to inflict pains and penalties on Francis ... bishop of Rochester.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/25028267">
-                        <rdfs:label>Wharton, Philip Wharton, Duke of,
-                    1698-1731</rdfs:label>
+                        <rdfs:label>Wharton, Philip Wharton, Duke
+                            of, 1698-1731</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>L 1.18(3) Jur.</crm:P48_has_preferred_identifier>
@@ -13342,7 +13475,8 @@
                   <dcterms:title>A paraphrase on the Song of the three children [in Daniel iii] in irregular stanzas [by M. Le Pla].</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/14638253">
-                        <rdfs:label>Le Pla, Marc, 1650?-1715</rdfs:label>
+                        <rdfs:label>Le Pla, Marc,
+                            1650?-1715</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>L 1.18(4) Jur.</crm:P48_has_preferred_identifier>
@@ -13353,7 +13487,8 @@
                   <dcterms:title>Cantatas for a voice with accompanyment; : together with songs on various subjects, for one[,] two &amp; three voices: a through bass to the whole and all the songs transposed for the flute. /</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/14965532">
-                        <rdfs:label>Carey, Henry, 1687?-1743</rdfs:label>
+                        <rdfs:label>Carey, Henry,
+                            1687?-1743</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>L 1.18 Jur. (5)</crm:P48_has_preferred_identifier>
@@ -13404,7 +13539,8 @@
                   <dcterms:title>The history of the propagation of Christianity, and the overthrow of paganism.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/66847051">
-                        <rdfs:label>Millar, Robert, 1672-1752</rdfs:label>
+                        <rdfs:label>Millar, Robert,
+                            1672-1752</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° Z 58,59 Jur.</crm:P48_has_preferred_identifier>
@@ -13456,7 +13592,8 @@
                   <dcterms:title>The madness of disaffection and treason against the present government. By George Ollyffe, ...</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/309671439">
-                        <rdfs:label>Ollyffe, George, 1682-1752</rdfs:label>
+                        <rdfs:label>Ollyffe, George,
+                            1682-1752</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° Z 57 Jur.</crm:P48_has_preferred_identifier>
@@ -13493,6 +13630,86 @@
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
                   <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </prov:Legal_Deposit>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep70">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/122574378">
+                  <rdfs:label>Stationers' Company London</rdfs:label>
+               </crm:E74_Group>
+            </crm:P23_transferred_title_from>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </prov:Legal_Deposit>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep71">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/122574378">
+                  <rdfs:label>Stationers' Company London</rdfs:label>
+               </crm:E74_Group>
+            </crm:P23_transferred_title_from>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </prov:Legal_Deposit>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep72">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/122574378">
+                  <rdfs:label>Stationers' Company London</rdfs:label>
+               </crm:E74_Group>
+            </crm:P23_transferred_title_from>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </prov:Legal_Deposit>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep73">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/122574378">
+                  <rdfs:label>Stationers' Company London</rdfs:label>
+               </crm:E74_Group>
+            </crm:P23_transferred_title_from>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T23:59:59</crm:P82b_end_of_the_end>
                </crm:E61_Time_Primitive>
             </crm:P4_has_time_span>
          </prov:Legal_Deposit>
@@ -14554,6 +14771,73 @@
          </crm:E15_Identifier_Assignment>
       </crm:P70_documents>
       <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#Dep-ID70">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep70-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep70-ID">
+                  <crm:P90_has_value>8° O 49 Linc.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#Dep-ID71">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep71-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep71-ID">
+                  <crm:P90_has_value>8° O 50 Linc.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#Dep-ID72">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep72-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep72-ID">
+                  <crm:P90_has_value>8° O 48 Linc.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#Dep-ID73">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep73-I1"/>
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep73-I2"/>
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep73-I3"/>
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep73-I4"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep73-ID">
+                  <crm:P90_has_value>8° Z 62 Jur.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
          <prov:Donation rdf:about="https:r0man-ist.github.io/regC#D1">
             <crm:P22_transferred_title_to>
                <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
@@ -14610,7 +14894,8 @@
                   <dcterms:title>The lives and characters [&amp;c.] of all the Protestant bishops of the Church of England since ... 1559. Vol.1. [in 2 pt. No more publ.].</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/66547674">
-                        <rdfs:label>Le Neve, John, 1679-1741</rdfs:label>
+                        <rdfs:label>Le Neve, John,
+                            1679-1741</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° Z 412 Th.</crm:P48_has_preferred_identifier>
@@ -14726,7 +15011,8 @@
                   <dcterms:title>The short history of the regal succession, and the rights of the several kings recorded in the holy scriptures, enlarged and improved in a third edition: ... By a presbyter of the same church.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/28500517">
-                        <rdfs:label>Lindsay, John, 1686-1768</rdfs:label>
+                        <rdfs:label>Lindsay, John,
+                            1686-1768</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° D 57 Jur.</crm:P48_has_preferred_identifier>
@@ -14797,7 +15083,8 @@
                   <dcterms:title>[Mafteaḥ leshon ha-ḳodesh] = Clavis linguæ sanctæ, : continens grammaticalem explicationem 564. Versiculorum ex Libro Psalmorum, &amp; 546. Versiculorum ex cæteris libris Veteris Testamenti: in quibus omnes radices purè Hebraicæ Veteris Testamenti, cum nonnullis radicibus Chaldaicis (occurrentibus tamen in libris Hebraicis) inveniuntur: &amp; in hac clave referantur, &amp; juxta grammaticas regulas, resolvuntur, &amp; explicantur.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/76700095">
-                        <rdfs:label>Trott, Nicholas, 1663-1740</rdfs:label>
+                        <rdfs:label>Trott, Nicholas,
+                            1663-1740</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>fol. BS. 50</crm:P48_has_preferred_identifier>
@@ -14868,7 +15155,8 @@
                   <dcterms:title>A collection of all the ecclesiastical laws, canons, answers, or rescripts, with other memorials concerning the government, discipline and worship of the Church of England, from its first foundation to the Conquest, that have hitherto been publish'd in the Latin and Saxonic tongues. And of all the canons and constitutions ecclesiastical, made since the Conquest and before the Reformation, in any National Council, or in the provincial synods of Canterbury and York, that have hitherto been publish'd in the Latin tongue. Now first translated into English with explanatory notes, and such glosses from Lyndwood and Athone, as were thought most useful. Part the First. [- Second.]</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/1431094">
-                        <rdfs:label>Johnson, John, 1662-1725</rdfs:label>
+                        <rdfs:label>Johnson, John,
+                            1662-1725</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° X 68,69 Th.</crm:P48_has_preferred_identifier>
@@ -14971,7 +15259,8 @@
                   <dcterms:title>The English topographer: or, An historical account, (as far as can be collected from printed books and manuscripts) of all the pieces that have been written relating to the antiquities, natural history, or topographical description of any part of England. : Alphabetically digested, and illustrated with the draughts of several very curious old seals, exactly engraven from their respective originals.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/47563478">
-                        <rdfs:label>Rawlinson, Richard, 1690-1755</rdfs:label>
+                        <rdfs:label>Rawlinson, Richard,
+                            1690-1755</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° D 49 Jur.</crm:P48_has_preferred_identifier>
@@ -15124,7 +15413,8 @@
                   <dcterms:title>Novum lumen chirurgicum: or, A new light of chirurgery</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/6276752">
-                        <rdfs:label>Colbatch, John, 1670-1729</rdfs:label>
+                        <rdfs:label>Colbatch, John,
+                            1670-1729</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° M 22 Linc. (2)</crm:P48_has_preferred_identifier>
@@ -15215,7 +15505,8 @@
                   <dcterms:title>Archæologia græca, or, The antiquities of Greece.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/100189223">
-                        <rdfs:label>Potter, John, 1674-1747</rdfs:label>
+                        <rdfs:label>Potter, John,
+                            1674-1747</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° C 69 Jur.</crm:P48_has_preferred_identifier>
@@ -15267,7 +15558,8 @@
                   <dcterms:title>The bishop of Oxford's charge to the clergy of his diocese, at his triennial visitation in July, 1719.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/100189223">
-                        <rdfs:label>Potter, John, 1674-1747</rdfs:label>
+                        <rdfs:label>Potter, John,
+                            1674-1747</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                </prov:Item>
@@ -15277,7 +15569,8 @@
                   <dcterms:title>A defence of the late charge deliver'd to the clergy of the diocese of Oxford, July 1719. : In a letter to the said clergy. /</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/100189223">
-                        <rdfs:label>Potter, John, 1674-1747</rdfs:label>
+                        <rdfs:label>Potter, John,
+                            1674-1747</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                </prov:Item>
@@ -15307,7 +15600,8 @@
                   <dcterms:title>Antiquitates Britanno-Belgicæ, præcipue Romanæ, 3 voll. comprehensæ; quorum i. De Belgio Britannico. ii. De Geta Britannico. iii. De Julii Vitalis epitaphio: quibus accedit Appendix.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/79251462">
-                        <rdfs:label>Musgrave, William, 1655?-1721</rdfs:label>
+                        <rdfs:label>Musgrave, William,
+                            1655?-1721</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° C 65-68 Jur.</crm:P48_has_preferred_identifier>
@@ -15339,7 +15633,8 @@
                   <dcterms:title>Bibliotheca Bultelliana: seu Catalogus librorum bibliothecæ ... Caroli Bulteau. Cum indice authorum.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/76405824">
-                        <rdfs:label>Martin, Gabriel, 1679?-1761</rdfs:label>
+                        <rdfs:label>Martin, Gabriel,
+                            1679?-1761</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° E 23,24 Jur.</crm:P48_has_preferred_identifier>
@@ -15397,7 +15692,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/61693259">
                         <rdfs:label>Dubourdieu, Jean-Armand,
-                    1680?-1726</rdfs:label>
+                            1680?-1726</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° E 27 Jur.</crm:P48_has_preferred_identifier>
@@ -15429,7 +15724,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/38056187">
                         <rdfs:label>Müller, Gottfried (czynny ok.
-                    1670)</rdfs:label>
+                            1670)</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° E 29 Jur.</crm:P48_has_preferred_identifier>
@@ -15461,7 +15756,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/100174106">
                         <rdfs:label>Desmaizeaux, Pierre,
-                    1673?-1745</rdfs:label>
+                            1673?-1745</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° E 28 Jur.</crm:P48_has_preferred_identifier>
@@ -15492,7 +15787,8 @@
                   <dcterms:title>The bishop of Chester's case, with relation to the wardenship of Manchester.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/39506285">
-                        <rdfs:label>Gastrell, Francis, 1662-1725</rdfs:label>
+                        <rdfs:label>Gastrell, Francis,
+                            1662-1725</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>G 3.17 Jur.</crm:P48_has_preferred_identifier>
@@ -15548,7 +15844,8 @@
                   <dcterms:title>A short discourse concerning pestilential contagion, : and the methods to be used to prevent it.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/45083556">
-                        <rdfs:label>Mead, Richard, 1673-1754</rdfs:label>
+                        <rdfs:label>Mead, Richard,
+                            1673-1754</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° N 81 Med.</crm:P48_has_preferred_identifier>
@@ -15579,7 +15876,8 @@
                   <dcterms:title>The credibility of the Christian revelation, from it's intrinsick evidence; in eight sermons, being the lecture founded by R. Boyle. With a ninth sermon.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/17568960">
-                        <rdfs:label>Bradford, Samuel, 1652-1731</rdfs:label>
+                        <rdfs:label>Bradford, Samuel,
+                            1652-1731</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>FF 59 Th.</crm:P48_has_preferred_identifier>
@@ -15610,7 +15908,8 @@
                   <dcterms:title>Ioannis Riolani ... responsiones duæ: prima, ad Experimenta noua I. Pecqueti: altera, ad Pecquetianos duos doctores Parisienses, advuersus sanguificationem in corde. Accessit eiusdem Riolani iudicium nouum de venis lacteis; et C. Le Noble Obseruationes de vasis lacteis thoracicis.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/24625861">
-                        <rdfs:label>Riolan, Jean, 1577-1657</rdfs:label>
+                        <rdfs:label>Riolan, Jean,
+                            1577-1657</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° O 35(1) Linc.</crm:P48_has_preferred_identifier>
@@ -15661,7 +15960,8 @@
                   <dcterms:title>Eikon Sokratikē. Or, a portraiture of Socrates, extracted out of Plato. : In blank verse.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/60475410">
-                        <rdfs:label>Catherall, Samuel, 1661?-1723</rdfs:label>
+                        <rdfs:label>Catherall, Samuel,
+                            1661?-1723</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° E 32 Jur.</crm:P48_has_preferred_identifier>
@@ -15672,7 +15972,8 @@
                   <dcterms:title>An essay on the conflagration in blank verse. / By Samuel Catherall M.A. Fellow of Oriel College in Oxford..</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/60475410">
-                        <rdfs:label>Catherall, Samuel, 1661?-1723</rdfs:label>
+                        <rdfs:label>Catherall, Samuel,
+                            1661?-1723</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° E 32 Jur.</crm:P48_has_preferred_identifier>
@@ -15743,7 +16044,8 @@
                   <dcterms:title>Fifteen sermons preech'd on several occasions.</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/24456815">
-                        <rdfs:label>Cotes, Digby, 1683 or 4-1745</rdfs:label>
+                        <rdfs:label>Cotes, Digby, 1683 or
+                            4-1745</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° A 182 Linc.</crm:P48_has_preferred_identifier>
@@ -15774,8 +16076,8 @@
                   <dcterms:title>Marci Hieronymi Vidæ, Cremonensis, Albæ episcopi, De arte poetica libri tres. /</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/100162370">
-                        <rdfs:label>Vida, Marco Girolamo, approximately
-                    1485-1566</rdfs:label>
+                        <rdfs:label>Vida, Marco Girolamo,
+                            approximately 1485-1566</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° E 68 Jur.</crm:P48_has_preferred_identifier>
@@ -15807,7 +16109,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/100226395">
                         <rdfs:label>Tertullian, approximately
-                    160-approximately 230</rdfs:label>
+                            160-approximately 230</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° B 406(2) Linc.</crm:P48_has_preferred_identifier>
@@ -15859,7 +16161,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/64362921">
                         <rdfs:label>Walle, Jacques van de
-                    1599-1690</rdfs:label>
+                            1599-1690</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° E 39 Jur.</crm:P48_has_preferred_identifier>
@@ -15891,7 +16193,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/45131215">
                         <rdfs:label>Hossche, Sidronius de
-                    1596-1653</rdfs:label>
+                            1596-1653</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° E 40 Jur.</crm:P48_has_preferred_identifier>
@@ -15963,7 +16265,8 @@
                   <dcterms:title>A short discourse concerning pestilential contagion, : and the methods to be used to prevent it. /</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/45083556">
-                        <rdfs:label>Mead, Richard, 1673-1754</rdfs:label>
+                        <rdfs:label>Mead, Richard,
+                            1673-1754</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>8° N 82 Med.</crm:P48_has_preferred_identifier>
@@ -17226,7 +17529,8 @@
                   <dcterms:title>The Old and New Testament connected in the history of the Jews and neighbouring nations</dcterms:title>
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/56661367">
-                        <rdfs:label>Prideaux, Humphrey, 1648-1724.</rdfs:label>
+                        <rdfs:label>Prideaux, Humphrey,
+                            1648-1724.</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <dcterms:isVersionOf rdf:resource="https://viaf.org/viaf/7722165326352216290008"/>
@@ -17318,7 +17622,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/42196703">
                         <rdfs:label>Ernulf, Bishop of Rochester,
-                    1040-1124</rdfs:label>
+                            1040-1124</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>Mus. Bibl. II. 66</crm:P48_has_preferred_identifier>
@@ -17372,7 +17676,7 @@
                   <dcterms:creator>
                      <crm:E21_Person rdf:about="https://viaf.org/viaf/42196703">
                         <rdfs:label>Ernulf, Bishop of Rochester,
-                    1040-1124</rdfs:label>
+                            1040-1124</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
                   <crm:P48_has_preferred_identifier>Mus. Bibl. II. 66</crm:P48_has_preferred_identifier>
