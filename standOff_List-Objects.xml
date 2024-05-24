@@ -5989,7 +5989,7 @@
                     city of London to the House of lords: and, iii. Their lordships protest on
                     rejecting the said petition. iv. Another protest of their lordships.</title>
                 <imprint>
-                    <pubPlace>[Lond.</pubPlace>
+                    <pubPlace>Lond.</pubPlace>
                     <date>1721</date>
                 </imprint>
             </monogr>
@@ -6010,6 +6010,167 @@
                 <imprint>
                     <pubPlace>Lond.</pubPlace>
                     <date>1722</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Wake1722" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° B 418,419 Linc.</idno>
+            <idno type="ALMA-ID">990141848660107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990141848660107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/9856931">Wake, William, 1657-1737</author>
+                <title>Sermons preached upon several occasions.</title>
+                <imprint>
+                    <pubPlace>Lond.</pubPlace>
+                    <date>1722</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Wilkes1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">F 3.21(3) Art.</idno>
+            <idno type="ALMA-ID">990139817240107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990139817240107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/31873466">Wilkes, Thomas 1678?-1745 </author>
+                <title>The golden farmer a poem </title>
+                <imprint>
+                    <pubPlace>Lond.</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Psalms1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">FF 71(1) Th.</idno>
+            <idno type="ALMA-ID">990138817980107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990138817980107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <title>Psalmi Davidis quinquaginta priores versibus elegiacis Latine redditi,
+                    interprete J.H.</title>
+                <imprint>
+                    <pubPlace>Lond.</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Maurokordatus1722" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">FF 69 Th.</idno>
+            <idno type="ALMA-ID">990141647430107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990141647430107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/61612142">Maurokordátos, Nikólaos,
+                    1680-1730</author>
+                <title>Peri kathekonton biblos. Liber de officiis. Ed. hac 2a Lat. conversus [by S.
+                    Berglerus].</title>
+                <imprint>
+                    <pubPlace>Lips.</pubPlace>
+                    <date>1722</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Lamy1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">FF 70 Th.</idno>
+            <idno type="ALMA-ID">990147975250107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990147975250107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/39404856">Lamy, Bernard, 1640-1715</author>
+                <title>Apparatus biblicus: or, An introduction to the holy Scriptures [by B. Lamy]
+                    done into Engl., with notes and additions [by R. Bundy].</title>
+                <imprint>
+                    <pubPlace>Lond.</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Skinner1724" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° Z 56 Jur.</idno>
+            <idno type="ALMA-ID">990132508660107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990132508660107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/13139775">Skinner, Thomas, 1629?-1679</author>
+                <title>The life of General Monk: Duke of Albemarle, : containing, I. A faithful
+                    account of his unparallel'd conduct, surprizing actions, and providential
+                    success in accomplishing the restoration of monarchy. II. A particular relation
+                    of that most memorable march from Coldstream to London; the preparations for it
+                    in Scotland, and the happy consequences of it in England. III. Many mistakes
+                    commited by our historians, (particularly the Earl of Clarendon) concerning the
+                    General's adminstration, rectified. /</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1724</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Waterland1724" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">C 17.16 Linc.</idno>
+            <idno type="ALMA-ID">990146657710107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990146657710107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/15121725">Waterland, Daniel, 1683-1740</author>
+                <title>A critical history of the Athanasian creed. Representing the opinions of
+                    antients and moderns concerning it.</title>
+                <imprint>
+                    <pubPlace>Cambr.</pubPlace>
+                    <date>1724</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Burnet1723" ana="not-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="ALMA-ID">990148485580107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990148485580107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/22151653">Burnet, Gilbert, 1643-1715</author>
+                <title>Bishop Burnet's history of his own time.</title>
+                <imprint>
+                    <pubPlace>Lond.</pubPlace>
+                    <date>1724</date>
                 </imprint>
             </monogr>
         </biblStruct>

@@ -370,6 +370,7 @@
                     <xsl:apply-templates/>
                 </th>
             </xsl:when>
+            <xsl:when test="@rend = 'norend'"></xsl:when>
             <xsl:otherwise>
                 <td colspan="{@cols}" rowspan="{@rows}">
                     <xsl:apply-templates/>
