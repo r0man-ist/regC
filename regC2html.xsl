@@ -224,8 +224,8 @@
 
         </xsl:result-document>
 
-        <!-- about html document -->
-        <xsl:result-document href="about.html" method="html">
+        <!-- about html document - disabled because doc is generated manually -->
+        <!--<xsl:result-document href="about.html" method="html">
             <html lang="en">
                 <title>Index of persons</title>
                 <meta charset="utf-8"/>
@@ -265,7 +265,7 @@
             </html>
 
         </xsl:result-document>
-
+-->
     </xsl:template>
 
 
