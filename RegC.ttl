@@ -220,6 +220,11 @@
         <https:r0man-ist.github.io/regC#Dep-ID77>,
         <https:r0man-ist.github.io/regC#Dep-ID78>,
         <https:r0man-ist.github.io/regC#Dep-ID79>,
+        <https:r0man-ist.github.io/regC#Dep-ID80>,
+        <https:r0man-ist.github.io/regC#Dep-ID81>,
+        <https:r0man-ist.github.io/regC#Dep-ID82>,
+        <https:r0man-ist.github.io/regC#Dep-ID83>,
+        <https:r0man-ist.github.io/regC#Dep-ID84>,
         <https:r0man-ist.github.io/regC#Dep1>,
         <https:r0man-ist.github.io/regC#Dep10>,
         <https:r0man-ist.github.io/regC#Dep11>,
@@ -298,6 +303,11 @@
         <https:r0man-ist.github.io/regC#Dep78>,
         <https:r0man-ist.github.io/regC#Dep79>,
         <https:r0man-ist.github.io/regC#Dep8>,
+        <https:r0man-ist.github.io/regC#Dep80>,
+        <https:r0man-ist.github.io/regC#Dep81>,
+        <https:r0man-ist.github.io/regC#Dep82>,
+        <https:r0man-ist.github.io/regC#Dep83>,
+        <https:r0man-ist.github.io/regC#Dep84>,
         <https:r0man-ist.github.io/regC#Dep9>,
         <https:r0man-ist.github.io/regC#M1>,
         <https:r0man-ist.github.io/regC#M10>,
@@ -783,10 +793,6 @@
 <https://viaf.org/viaf/100160573> a crm:E21_Person ;
     rdfs:label "Colbatch, John, 1664-1748" .
 
-<https://viaf.org/viaf/100162370> a crm:E21_Person ;
-    rdfs:label """Vida, Marco Girolamo, approximately
-                    1485-1566""" .
-
 <https://viaf.org/viaf/100166484> a crm:E21_Person ;
     rdfs:label """Bellori, Giovanni Pietro,
                     1613-1696""" .
@@ -823,6 +829,9 @@
 <https://viaf.org/viaf/10782288> a crm:E21_Person ;
     rdfs:label """Cockburn, W. 1669-1739.
                     (William)""" .
+
+<https://viaf.org/viaf/11399444> a crm:E21_Person ;
+    rdfs:label "Lyons, J., active 18th century" .
 
 <https://viaf.org/viaf/120694653> a crm:E21_Person ;
     rdfs:label "Manuzio, Paulo, 1512-1574" .
@@ -922,6 +931,9 @@
 <https://viaf.org/viaf/211335569> a crm:E21_Person ;
     rdfs:label """Le Clerc, SÃ©bastien,
                     1637-1714""" .
+
+<https://viaf.org/viaf/22145254> a crm:E21_Person ;
+    rdfs:label "Mandeville, Bernard, 1670-1733" .
 
 <https://viaf.org/viaf/22151653> a crm:E21_Person ;
     rdfs:label "Burnet, Gilbert, 1643-1715" .
@@ -1033,6 +1045,10 @@
 <https://viaf.org/viaf/28537788> a crm:E21_Person ;
     rdfs:label "Dry, John" .
 
+<https://viaf.org/viaf/289710605> a crm:E21_Person ;
+    rdfs:label """Johnson, Charles, active
+                    1724-1731""" .
+
 <https://viaf.org/viaf/29543710> a crm:E21_Person ;
     rdfs:label "Hearne, Thomas, 1678-1735" .
 
@@ -1077,8 +1093,8 @@
 <https://viaf.org/viaf/347904> a crm:E21_Person ;
     rdfs:label "Albin, Eleazar, active 1713-1759" .
 
-<https://viaf.org/viaf/37268983> a crm:E39_Actor ;
-    rdfs:label "Tristram, Thomas" .
+<https://viaf.org/viaf/36784927> a crm:E21_Person ;
+    rdfs:label "Johnson, S. of Norwich" .
 
 <https://viaf.org/viaf/38056187> a crm:E21_Person ;
     rdfs:label """MÃ¼ller, Gottfried (czynny ok.
@@ -1144,12 +1160,18 @@
     rdfs:label """Scheuchzer, Johann Jakob,
                     1672-1733""" .
 
+<https://viaf.org/viaf/4939726> a crm:E21_Person ;
+    rdfs:label "Hill, Aaron, 1685-1750" .
+
 <https://viaf.org/viaf/4972902> a crm:E21_Person ;
     rdfs:label "Huet, Pierre-Daniel, 1630-1721." .
 
 <https://viaf.org/viaf/50006688> a crm:E21_Person ;
     rdfs:label """Guglielmini, Domenico,
                     1655-1710""" .
+
+<https://viaf.org/viaf/50037252> a crm:E21_Person ;
+    rdfs:label "Woodward, John, 1665-1728" .
 
 <https://viaf.org/viaf/50322264> a crm:E21_Person ;
     rdfs:label "Rinaldini, Carlo, 1615-1698" .
@@ -1279,6 +1301,9 @@
 <https://viaf.org/viaf/66847051> a crm:E21_Person ;
     rdfs:label "Millar, Robert, 1672-1752" .
 
+<https://viaf.org/viaf/69060428> a crm:E21_Person ;
+    rdfs:label "Stukeley, William, 1687-1765" .
+
 <https://viaf.org/viaf/69268732> a crm:E21_Person ;
     rdfs:label "Averani, Benedetto" .
 
@@ -1311,6 +1336,9 @@
 
 <https://viaf.org/viaf/7413288> a crm:E21_Person ;
     rdfs:label "Addison, Joseph, 1672-1719." .
+
+<https://viaf.org/viaf/7413290> a crm:E21_Person ;
+    rdfs:label "Wollaston, William, 1660-1724" .
 
 <https://viaf.org/viaf/74943049> a crm:E21_Person ;
     rdfs:label "Schurig, Martin, 1656-1733" .
@@ -2536,8 +2564,8 @@
 
 <https:r0man-ist.github.io/regC#D68> a prov1:Donation ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
-    crm:P23_transferred_title_from [ a prov1:Donor ;
-            rdfs:label "" ] ;
+    crm:P23_transferred_title_from <https://viaf.org/viaf/37268983> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#D68-I1> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
@@ -2578,8 +2606,8 @@
 
 <https:r0man-ist.github.io/regC#D71> a prov1:Donation ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
-    crm:P23_transferred_title_from [ a prov1:Donor ;
-            rdfs:label "" ] ;
+    crm:P23_transferred_title_from <https://viaf.org/viaf/22209566> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#D71-I1> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
@@ -2589,8 +2617,8 @@
 
 <https:r0man-ist.github.io/regC#D72> a prov1:Donation ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
-    crm:P23_transferred_title_from [ a prov1:Donor ;
-            rdfs:label "" ] ;
+    crm:P23_transferred_title_from <https://viaf.org/viaf/21993304> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#D72-I1> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
@@ -2600,8 +2628,8 @@
 
 <https:r0man-ist.github.io/regC#D73> a prov1:Donation ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
-    crm:P23_transferred_title_from [ a prov1:Donor ;
-            rdfs:label "" ] ;
+    crm:P23_transferred_title_from <https://viaf.org/viaf/69218622> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#D73-I1> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
@@ -3167,8 +3195,42 @@
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID79> a crm:E15_Identifier_Assignment ;
-    crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep79-I1> ;
     crm:P37_assigned <https:r0man-ist.github.io/regC#Dep79-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-12-31T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep-ID80> a crm:E15_Identifier_Assignment ;
+    crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep80-I1> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep80-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-12-31T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep-ID81> a crm:E15_Identifier_Assignment ;
+    crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep81-I1> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep81-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-12-31T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep-ID82> a crm:E15_Identifier_Assignment ;
+    crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep82-I1> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep82-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-12-31T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep-ID83> a crm:E15_Identifier_Assignment ;
+    crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep83-I1> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep83-ID> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-12-31T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep-ID84> a crm:E15_Identifier_Assignment ;
+    crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep84-I1> ;
+    crm:P37_assigned <https:r0man-ist.github.io/regC#Dep84-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-12-31T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
@@ -3940,6 +4002,7 @@
 <https:r0man-ist.github.io/regC#Dep71> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
     crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#Dep71-I1> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
@@ -3970,6 +4033,10 @@
 <https:r0man-ist.github.io/regC#Dep74> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
     crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#Dep74-I1>,
+        <https:r0man-ist.github.io/regC#Dep74-I2>,
+        <https:r0man-ist.github.io/regC#Dep74-I3>,
+        <https:r0man-ist.github.io/regC#Dep74-I4> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
@@ -3980,32 +4047,35 @@
 <https:r0man-ist.github.io/regC#Dep75> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
     crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#Dep75-I1> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep75-ID> a crm:E42_Identifier ;
-    crm:P90_has_value "CC 55 Jur." .
+    crm:P90_has_value "8Â° Z 61Jur." .
 
 <https:r0man-ist.github.io/regC#Dep76> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
     crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#Dep76-I1> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep76-ID> a crm:E42_Identifier ;
-    crm:P90_has_value "Z 1.15 Med." .
+    crm:P90_has_value "8Â° Z 63 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep77> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
     crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#Dep77-I1> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep77-ID> a crm:E42_Identifier ;
-    crm:P90_has_value "8Â° Q 7 Jur." .
+    crm:P90_has_value "8Â° Z 64 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep78> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
@@ -4015,7 +4085,7 @@
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep78-ID> a crm:E42_Identifier ;
-    crm:P90_has_value "8Â° Q 8 Jur." .
+    crm:P90_has_value "8Â° Q 6 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep79> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
@@ -4025,7 +4095,7 @@
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep79-ID> a crm:E42_Identifier ;
-    crm:P90_has_value "8Â° Z 67 Jur." .
+    crm:P90_has_value "8Â° Q 6 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep8> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
@@ -4033,6 +4103,60 @@
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1720-11-08T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1721-11-01T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep80> a prov1:Legal_Deposit ;
+    crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
+    crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#Dep80-I1> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep80-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "CC 55 Jur." .
+
+<https:r0man-ist.github.io/regC#Dep81> a prov1:Legal_Deposit ;
+    crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
+    crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#Dep81-I1> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep81-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "Z 1.15 Med." .
+
+<https:r0man-ist.github.io/regC#Dep82> a prov1:Legal_Deposit ;
+    crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
+    crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#Dep82-I1> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep82-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "8Â° Q 7 Jur." .
+
+<https:r0man-ist.github.io/regC#Dep83> a prov1:Legal_Deposit ;
+    crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
+    crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep83-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "8Â° Q 8 Jur." .
+
+<https:r0man-ist.github.io/regC#Dep84> a prov1:Legal_Deposit ;
+    crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
+    crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#Dep84-I1> ;
+    crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
+            crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
+            crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
+
+<https:r0man-ist.github.io/regC#Dep84-ID> a crm:E42_Identifier ;
+    crm:P90_has_value "8Â° Z 67 Jur." .
 
 <https:r0man-ist.github.io/regC#Dep9> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
@@ -9536,6 +9660,10 @@
             crm:P180_has_currency "Pound" ;
             crm:P90_has_value "1-1-0" ] .
 
+<https://viaf.org/viaf/100162370> a crm:E21_Person ;
+    rdfs:label """Vida, Marco Girolamo, approximately
+                    1485-1566""" .
+
 <https://viaf.org/viaf/102329089> a crm:E21_Person ;
     rdfs:label "Renaudot, EusÃ¨be, 1646-1720." .
 
@@ -9562,6 +9690,16 @@
     rdfs:label """Bruyn, Cornelis de,
                     1652?-1727?""" .
 
+<https://viaf.org/viaf/21993304> a crm:E21_Person,
+        crm:E39_Actor ;
+    rdfs:label "Baker, William",
+        "Baker, William, 1668-1732" .
+
+<https://viaf.org/viaf/22209566> a crm:E21_Person,
+        crm:E39_Actor ;
+    rdfs:label "Freind, John",
+        "Freind, John, 1675-1728" .
+
 <https://viaf.org/viaf/28500517> a crm:E21_Person,
         crm:E39_Actor ;
     rdfs:label "Lindsay, John",
@@ -9586,6 +9724,9 @@
 
 <https://viaf.org/viaf/35210347> a crm:E21_Person ;
     rdfs:label "Finck, Thomas, 1561-1656" .
+
+<https://viaf.org/viaf/37268983> a crm:E39_Actor ;
+    rdfs:label "Tristram, Thomas" .
 
 <https://viaf.org/viaf/39404856> a crm:E21_Person ;
     rdfs:label "Lamy, Bernard, 1640-1715" .
@@ -9626,6 +9767,11 @@
 
 <https://viaf.org/viaf/64251536> a crm:E21_Person ;
     rdfs:label "Salmon, Thomas, 1679-1767" .
+
+<https://viaf.org/viaf/69218622> a crm:E21_Person,
+        crm:E39_Actor ;
+    rdfs:label "Stubs, Philip",
+        "Stubs, Philip, 1665-1738" .
 
 <https://viaf.org/viaf/76700095> a crm:E21_Person,
         crm:E39_Actor ;
@@ -9826,6 +9972,26 @@
     dcterms1:creator <https://viaf.org/viaf/78769600> ;
     dcterms1:title "A translation of Tully de oratore. By G.P." ;
     crm:P48_has_preferred_identifier "8Â° Z 60 Jur." .
+
+<https:r0man-ist.github.io/regC#D68-I1> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/100162370> ;
+    dcterms1:title "MarciÂ HieronymiÂ VidÃ¦ ...Â poematum, quÃ¦Â haudÂ plane disjunxit a fabula, pars prima (altera). Ed. T. Tristram" ;
+    crm:P48_has_preferred_identifier "Vet. A4 d.61" .
+
+<https:r0man-ist.github.io/regC#D71-I1> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/22209566> ;
+    dcterms1:title "Oratio anniversaria in theatro Collegii Regalis Medicorum Londin. : habita, ex HarvÃ¦i instituto, in eorum commemorationem qui suÃ¢ in hoc Collegium beneficentiÃ¢ claruerunt. Die xviij Octobris, anno 1720.." ;
+    crm:P48_has_preferred_identifier "B 26 62(1) Linc." .
+
+<https:r0man-ist.github.io/regC#D72-I1> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/21993304> ;
+    dcterms1:title "A sermon preach'd before the Right Honourable the House of Lords, at the Abby-church, Westminster, on Thursday, January 30. 1724, : being The Anniversary of the Martyrodom of King Charles I. /" ;
+    crm:P48_has_preferred_identifier "B 26 62(4) Linc." .
+
+<https:r0man-ist.github.io/regC#D73-I1> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/69218622> ;
+    dcterms1:title "Advice to the reverend the clergy, of the peculiar jurisdiction of Saint Alban, within the diocese of London, given in the court-consistorial held there on Thursday, May 2, 1723. At the eighth general visitation of that archdeaconry by Philip Stubbs, B.D. and Archdeacon." ;
+    crm:P48_has_preferred_identifier "B 26 62(5) Linc." .
 
 <https:r0man-ist.github.io/regC#D9-I1> a prov1:Item ;
     dcterms1:creator <https://viaf.org/viaf/28500517> ;
@@ -10162,6 +10328,64 @@
     dcterms1:creator "J. F." ;
     dcterms1:title "A compendious introduction to the Latin tongue, by way of question and answer. ... The second edition with additions. By J.F." ;
     crm:P48_has_preferred_identifier "8Â° Z 61(1) Jur." .
+
+<https:r0man-ist.github.io/regC#Dep71-I1> a prov1:Item ;
+    dcterms1:title "The souls magazine of Scripture truths, digested into an historical dialogue, to inform the ignorant, reform the wicked, awake the drowsey, and revive Christianity by faith and obedience." ;
+    crm:P48_has_preferred_identifier "8Â° O 49 Linc." .
+
+<https:r0man-ist.github.io/regC#Dep74-I1> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/11399444> ;
+    dcterms1:title "The infallibility of human judgment, its dignity and excellency. : Being a new art of reasoning, and discovering truth, by reducing all disputable cases to general and self-evident propositions. Illustrated, by bringing several well known disputes to such self-evident and universal conclusions. ... /" ;
+    crm:P48_has_preferred_identifier "8Â° Z 62(1) Jur." .
+
+<https:r0man-ist.github.io/regC#Dep74-I2> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/36784927> ;
+    dcterms1:title "A faithful account of the life of Christopher Layer, Esq; Barrister at law; from his birth to his execution, for high treason; and his last behaviour. Interspers'd with several original papers. By a gentleman of Norwich, his school-fellow." ;
+    crm:P48_has_preferred_identifier "8Â° Z 62(2) Jur." .
+
+<https:r0man-ist.github.io/regC#Dep74-I3> a prov1:Item ;
+    dcterms1:creator "E. B." ;
+    dcterms1:title "The highland rogue: or, the memorable actions of the celebrated Robert Mac-Gregor, commonly called Rob-Roy. ..." ;
+    crm:P48_has_preferred_identifier "8Â° Z 62(3) Jur." .
+
+<https:r0man-ist.github.io/regC#Dep74-I4> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/4939726> ;
+    dcterms1:title "King Henry the Fifth: or, the conquest of France, by the English. A tragedy. As it is acted at the Theatre-Royal in Drury-Lane, by His Majesty's servants. By Aaron Hill, Esq;" ;
+    crm:P48_has_preferred_identifier "8Â° Z 62(4) Jur." .
+
+<https:r0man-ist.github.io/regC#Dep75-I1> a prov1:Item ;
+    dcterms1:title "A dissertation, in answer to a blasphemous letter concerning the fall of man, and the coming of Christ." ;
+    crm:P48_has_preferred_identifier "8Â° Z 61(2) Jur." .
+
+<https:r0man-ist.github.io/regC#Dep76-I1> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/50037252> ;
+    dcterms1:title "An essay towards a natural history of the earth, and terrestrial bodyes, especialy minerals: : as also of the sea, rivers, and springs. With an account of the universal deluge: and of the effects that it had upon the earth. /" ;
+    crm:P48_has_preferred_identifier "8Â° Z 63 Jur." .
+
+<https:r0man-ist.github.io/regC#Dep77-I1> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/22145254> ;
+    dcterms1:title "The fable of the bees: or, private vices, publick benefits. The second edition, enlarged with many additions. As also An essay on charity and charity-schools. And A search into the nature of society." ;
+    crm:P48_has_preferred_identifier "8Â° Z 64 Jur." .
+
+<https:r0man-ist.github.io/regC#Dep80-I1> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/7413290> ;
+    dcterms1:isVersionOf <https://viaf.org/viaf/4603151474825900490009> ;
+    dcterms1:title "The religion of nature delineated [by W. Wollaston]." ;
+    crm:P48_has_preferred_identifier "CC 55 Jur." .
+
+<https:r0man-ist.github.io/regC#Dep81-I1> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/69060428> ;
+    dcterms1:title "Of the spleen, a lect. To which is added some anatomical observations in the dissection of an elephant." ;
+    crm:P48_has_preferred_identifier "S 1.12 Med." .
+
+<https:r0man-ist.github.io/regC#Dep82-I1> a prov1:Item ;
+    dcterms1:title "Sacramental devotions, and suitable meditations. Peculiarly adapted to the communion office. Compiled out of the church-liturgy, and many other eminent tracts of devotion, for private use. Revised by Ja. King, ..." ;
+    crm:P48_has_preferred_identifier "8Â° Q 7 Jur." .
+
+<https:r0man-ist.github.io/regC#Dep84-I1> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/289710605> ;
+    dcterms1:title "A general history of the robberies and murders of the most notorious pyrates, and also their policies, discipline and government, from their first rise and settlement in the island of Providence, in 1717, to the present year 1724. : With the remarkable actions and adventures of the two female pyrates, Mary Read and Anne Bonny. To which is prefix'd an account of the famous Captain Avery and his companions; with the manner of his death in England. The whole digested into the following chapters; ... To which is added, a short abstract of the statute and civil law, in relation to pyracy. /" ;
+    crm:P48_has_preferred_identifier "8Â° Z 67 Jur." .
 
 <https:r0man-ist.github.io/regC#P10-I1> a prov1:Item ;
     dcterms1:creator <https://viaf.org/viaf/155083> ;
@@ -10824,11 +11048,11 @@
 <https://data.cerl.org/thesaurus/cnp00058554> a crm:E39_Actor ;
     rdfs:label "Fletcher, Stephen" .
 
-<https://viaf.org/viaf/122574378> a crm:E74_Group ;
-    rdfs:label "Stationers' Company London" .
-
 <https://data.cerl.org/thesaurus/cnp02330155> a crm:E39_Actor ;
     rdfs:label "Clements, Henry" .
+
+<https://viaf.org/viaf/122574378> a crm:E74_Group ;
+    rdfs:label "Stationers' Company London" .
 
 <https://viaf.org/viaf/129788129> a crm:E74_Group ;
     rdfs:label "Bodleian Library" .
