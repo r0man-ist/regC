@@ -13567,6 +13567,12 @@
                   <rdfs:label>Stationers' Company London</rdfs:label>
                </crm:E74_Group>
             </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep71-I1">
+                  <dcterms:title>The souls magazine of Scripture truths, digested into an historical dialogue, to inform the ignorant, reform the wicked, awake the drowsey, and revive Christianity by faith and obedience.</dcterms:title>
+                  <crm:P48_has_preferred_identifier>8° O 49 Linc.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
@@ -13627,6 +13633,46 @@
                   <rdfs:label>Stationers' Company London</rdfs:label>
                </crm:E74_Group>
             </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep74-I1">
+                  <dcterms:title>The infallibility of human judgment, its dignity and excellency. : Being a new art of reasoning, and discovering truth, by reducing all disputable cases to general and self-evident propositions. Illustrated, by bringing several well known disputes to such self-evident and universal conclusions. ... /</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/11399444">
+                        <rdfs:label>Lyons, J., active 18th century</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>8° Z 62(1) Jur.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep74-I2">
+                  <dcterms:title>A faithful account of the life of Christopher Layer, Esq; Barrister at law; from his birth to his execution, for high treason; and his last behaviour. Interspers'd with several original papers. By a gentleman of Norwich, his school-fellow.</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/36784927">
+                        <rdfs:label>Johnson, S. of Norwich</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>8° Z 62(2) Jur.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep74-I3">
+                  <dcterms:title>The highland rogue: or, the memorable actions of the celebrated Robert Mac-Gregor, commonly called Rob-Roy. ...</dcterms:title>
+                  <dcterms:creator>E. B.</dcterms:creator>
+                  <crm:P48_has_preferred_identifier>8° Z 62(3) Jur.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep74-I4">
+                  <dcterms:title>King Henry the Fifth: or, the conquest of France, by the English. A tragedy. As it is acted at the Theatre-Royal in Drury-Lane, by His Majesty's servants. By Aaron Hill, Esq;</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/4939726">
+                        <rdfs:label>Hill, Aaron, 1685-1750</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>8° Z 62(4) Jur.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
@@ -13647,6 +13693,12 @@
                   <rdfs:label>Stationers' Company London</rdfs:label>
                </crm:E74_Group>
             </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep75-I1">
+                  <dcterms:title>A dissertation, in answer to a blasphemous letter concerning the fall of man, and the coming of Christ.</dcterms:title>
+                  <crm:P48_has_preferred_identifier>8° Z 61(2) Jur.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
@@ -13667,6 +13719,17 @@
                   <rdfs:label>Stationers' Company London</rdfs:label>
                </crm:E74_Group>
             </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep76-I1">
+                  <dcterms:title>An essay towards a natural history of the earth, and terrestrial bodyes, especialy minerals: : as also of the sea, rivers, and springs. With an account of the universal deluge: and of the effects that it had upon the earth. /</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/50037252">
+                        <rdfs:label>Woodward, John, 1665-1728</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>8° Z 63 Jur.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
@@ -13687,6 +13750,17 @@
                   <rdfs:label>Stationers' Company London</rdfs:label>
                </crm:E74_Group>
             </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep77-I1">
+                  <dcterms:title>The fable of the bees: or, private vices, publick benefits. The second edition, enlarged with many additions. As also An essay on charity and charity-schools. And A search into the nature of society.</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/22145254">
+                        <rdfs:label>Mandeville, Bernard, 1670-1733</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>8° Z 64 Jur.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
@@ -13727,6 +13801,147 @@
                   <rdfs:label>Stationers' Company London</rdfs:label>
                </crm:E74_Group>
             </crm:P23_transferred_title_from>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </prov:Legal_Deposit>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep80">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/122574378">
+                  <rdfs:label>Stationers' Company London</rdfs:label>
+               </crm:E74_Group>
+            </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep80-I1">
+                  <dcterms:title>The religion of nature delineated [by W. Wollaston].</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/7413290">
+                        <rdfs:label>Wollaston, William, 1660-1724</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>CC 55 Jur.</crm:P48_has_preferred_identifier>
+                  <dcterms:isVersionOf rdf:resource="https://viaf.org/viaf/4603151474825900490009"/>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </prov:Legal_Deposit>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep81">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/122574378">
+                  <rdfs:label>Stationers' Company London</rdfs:label>
+               </crm:E74_Group>
+            </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep81-I1">
+                  <dcterms:title>Of the spleen, a lect. To which is added some anatomical observations in the dissection of an elephant.</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/69060428">
+                        <rdfs:label>Stukeley, William, 1687-1765</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>S 1.12 Med.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </prov:Legal_Deposit>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep82">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/122574378">
+                  <rdfs:label>Stationers' Company London</rdfs:label>
+               </crm:E74_Group>
+            </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep82-I1">
+                  <dcterms:title>Sacramental devotions, and suitable meditations. Peculiarly adapted to the communion office. Compiled out of the church-liturgy, and many other eminent tracts of devotion, for private use. Revised by Ja. King, ...</dcterms:title>
+                  <crm:P48_has_preferred_identifier>8° Q 7 Jur.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </prov:Legal_Deposit>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep83">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/122574378">
+                  <rdfs:label>Stationers' Company London</rdfs:label>
+               </crm:E74_Group>
+            </crm:P23_transferred_title_from>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </prov:Legal_Deposit>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <prov:Legal_Deposit rdf:about="https:r0man-ist.github.io/regC#Dep84">
+            <crm:P22_transferred_title_to>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/129788129">
+                  <rdfs:label>Bodleian Library</rdfs:label>
+               </crm:E74_Group>
+            </crm:P22_transferred_title_to>
+            <crm:P23_transferred_title_from>
+               <crm:E74_Group rdf:about="https://viaf.org/viaf/122574378">
+                  <rdfs:label>Stationers' Company London</rdfs:label>
+               </crm:E74_Group>
+            </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep84-I1">
+                  <dcterms:title>A general history of the robberies and murders of the most notorious pyrates, and also their policies, discipline and government, from their first rise and settlement in the island of Providence, in 1717, to the present year 1724. : With the remarkable actions and adventures of the two female pyrates, Mary Read and Anne Bonny. To which is prefix'd an account of the famous Captain Avery and his companions; with the manner of his death in England. The whole digested into the following chapters; ... To which is added, a short abstract of the statute and civil law, in relation to pyracy. /</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/289710605">
+                        <rdfs:label>Johnson, Charles, active
+                    1724-1731</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>8° Z 67 Jur.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
@@ -14879,7 +15094,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep75-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep75-ID">
-                  <crm:P90_has_value>CC 55 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° Z 61Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -14895,7 +15110,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep76-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep76-ID">
-                  <crm:P90_has_value>Z 1.15 Med.</crm:P90_has_value>
+                  <crm:P90_has_value>8° Z 63 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -14911,7 +15126,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep77-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep77-ID">
-                  <crm:P90_has_value>8° Q 7 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° Z 64 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -14927,7 +15142,7 @@
             <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep78-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep78-ID">
-                  <crm:P90_has_value>8° Q 8 Jur.</crm:P90_has_value>
+                  <crm:P90_has_value>8° Q 6 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
             <crm:P4_has_time_span>
@@ -14940,9 +15155,88 @@
       </crm:P70_documents>
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#Dep-ID79">
-            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep79-I1"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep79-ID">
+                  <crm:P90_has_value>8° Q 6 Jur.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#Dep-ID80">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep80-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep80-ID">
+                  <crm:P90_has_value>CC 55 Jur.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#Dep-ID81">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep81-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep81-ID">
+                  <crm:P90_has_value>Z 1.15 Med.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#Dep-ID82">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep82-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep82-ID">
+                  <crm:P90_has_value>8° Q 7 Jur.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#Dep-ID83">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep83-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep83-ID">
+                  <crm:P90_has_value>8° Q 8 Jur.</crm:P90_has_value>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P4_has_time_span>
+               <crm:E61_Time_Primitive>
+                  <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T00:00:00</crm:P82a_begin_of_the_begin>
+                  <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-12-31T23:59:59</crm:P82b_end_of_the_end>
+               </crm:E61_Time_Primitive>
+            </crm:P4_has_time_span>
+         </crm:E15_Identifier_Assignment>
+      </crm:P70_documents>
+      <crm:P70_documents>
+         <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#Dep-ID84">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep84-I1"/>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep84-ID">
                   <crm:P90_has_value>8° Z 67 Jur.</crm:P90_has_value>
                </crm:E42_Identifier>
             </crm:P37_assigned>
@@ -16689,10 +16983,22 @@
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
             <crm:P23_transferred_title_from>
-               <prov:Donor>
-                  <rdfs:label/>
-               </prov:Donor>
+               <crm:E39_Actor rdf:about="https://viaf.org/viaf/37268983">
+                  <rdfs:label>Tristram, Thomas</rdfs:label>
+               </crm:E39_Actor>
             </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#D68-I1">
+                  <dcterms:title>Marci Hieronymi Vidæ ... poematum, quæ haud plane disjunxit a fabula, pars prima (altera). Ed. T. Tristram</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/100162370">
+                        <rdfs:label>Vida, Marco Girolamo, approximately
+                    1485-1566</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>Vet. A4 d.61</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
@@ -16749,10 +17055,21 @@
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
             <crm:P23_transferred_title_from>
-               <prov:Donor>
-                  <rdfs:label/>
-               </prov:Donor>
+               <crm:E39_Actor rdf:about="https://viaf.org/viaf/22209566">
+                  <rdfs:label>Freind, John</rdfs:label>
+               </crm:E39_Actor>
             </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#D71-I1">
+                  <dcterms:title>Oratio anniversaria in theatro Collegii Regalis Medicorum Londin. : habita, ex Harvæi instituto, in eorum commemorationem qui suâ in hoc Collegium beneficentiâ claruerunt. Die xviij Octobris, anno 1720..</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/22209566">
+                        <rdfs:label>Freind, John, 1675-1728</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>B 26 62(1) Linc.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
@@ -16769,10 +17086,21 @@
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
             <crm:P23_transferred_title_from>
-               <prov:Donor>
-                  <rdfs:label/>
-               </prov:Donor>
+               <crm:E39_Actor rdf:about="https://viaf.org/viaf/21993304">
+                  <rdfs:label>Baker, William</rdfs:label>
+               </crm:E39_Actor>
             </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#D72-I1">
+                  <dcterms:title>A sermon preach'd before the Right Honourable the House of Lords, at the Abby-church, Westminster, on Thursday, January 30. 1724, : being The Anniversary of the Martyrodom of King Charles I. /</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/21993304">
+                        <rdfs:label>Baker, William, 1668-1732</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>B 26 62(4) Linc.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
@@ -16789,10 +17117,21 @@
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
             <crm:P23_transferred_title_from>
-               <prov:Donor>
-                  <rdfs:label/>
-               </prov:Donor>
+               <crm:E39_Actor rdf:about="https://viaf.org/viaf/69218622">
+                  <rdfs:label>Stubs, Philip</rdfs:label>
+               </crm:E39_Actor>
             </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#D73-I1">
+                  <dcterms:title>Advice to the reverend the clergy, of the peculiar jurisdiction of Saint Alban, within the diocese of London, given in the court-consistorial held there on Thursday, May 2, 1723. At the eighth general visitation of that archdeaconry by Philip Stubbs, B.D. and Archdeacon.</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/69218622">
+                        <rdfs:label>Stubs, Philip, 1665-1738</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>B 26 62(5) Linc.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
