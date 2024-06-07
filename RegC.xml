@@ -240,7 +240,20 @@
                 <persName>Parry, George</persName>
                 <idno type="VIAF">66342695</idno>
             </person>
+            <person xml:id="regC-PSTU">
+                <persName>Stubs, Philip</persName>
+                <idno type="VIAF">69218622</idno>
+            </person>
+            <person xml:id="regC-WBAK">
+                <persName>Baker, William</persName>
+                <idno type="VIAF">21993304</idno>
+            </person>
+            <person xml:id="regC-JFRE">
+                <persName>Freind, John</persName>
+                <idno type="VIAF">22209566</idno>
+            </person>
         </listPerson>
+        
 
 
         <listObject>
@@ -6420,7 +6433,347 @@
             </monogr>
         </biblStruct>
     </object>
+    <object xml:id="regC-bib-Sacramental1722" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° Q 7 Jur.</idno>
+            <idno type="ALMA-ID">990135009930107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135009930107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <title>Sacramental devotions, and suitable meditations. Peculiarly adapted to the
+                    communion office. Compiled out of the church-liturgy, and many other eminent
+                    tracts of devotion, for private use. Revised by Ja. King, ...</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1722</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Vida1722" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">Vet. A4 d.61</idno>
+            <idno type="ALMA-ID">990147320460107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990147320460107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/100162370">Vida, Marco Girolamo, approximately
+                    1485-1566</author>
+                <title>Marci Hieronymi Vidæ ... poematum, quæ haud plane disjunxit a fabula, pars
+                    prima (altera). Ed. T. Tristram </title>
+                <imprint>
+                    <pubPlace>Oxon.</pubPlace>
+                    <date>1722</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Dissertation1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° Z 61(2) Jur.</idno>
+            <idno type="ALMA-ID">990135366260107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135366260107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <title>A dissertation, in answer to a blasphemous letter concerning the fall of man,
+                    and the coming of Christ.</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Johnson1724" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° Z 67 Jur.</idno>
+            <idno type="ALMA-ID">990135343400107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135343400107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/289710605">Johnson, Charles, active
+                    1724-1731</author>
+                <title>A general history of the robberies and murders of the most notorious pyrates,
+                    and also their policies, discipline and government, from their first rise and
+                    settlement in the island of Providence, in 1717, to the present year 1724. :
+                    With the remarkable actions and adventures of the two female pyrates, Mary Read
+                    and Anne Bonny. To which is prefix'd an account of the famous Captain Avery and
+                    his companions; with the manner of his death in England. The whole digested into
+                    the following chapters; ... To which is added, a short abstract of the statute
+                    and civil law, in relation to pyracy. /</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1724</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Wollaston1724" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">CC 55 Jur.</idno>
+            <idno type="ALMA-ID">990142313450107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990142313450107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/7413290">Wollaston, William, 1660-1724</author>
+                <title ref="https://viaf.org/viaf/4603151474825900490009">The religion of nature
+                    delineated [by W. Wollaston].</title>
+                <imprint>
+                    <pubPlace>Lond.</pubPlace>
+                    <date>1724</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Lyons1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° Z 62(1) Jur.</idno>
+            <idno type="ALMA-ID">990135046160107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135046160107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/11399444">Lyons, J., active 18th century</author>
+                <title>The infallibility of human judgment, its dignity and excellency. : Being a
+                    new art of reasoning, and discovering truth, by reducing all disputable cases to
+                    general and self-evident propositions. Illustrated, by bringing several well
+                    known disputes to such self-evident and universal conclusions. ... /</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Johnson1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° Z 62(2) Jur.</idno>
+            <idno type="ALMA-ID">990135216310107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135216310107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/36784927">Johnson, S. of Norwich</author>
+                <title>A faithful account of the life of Christopher Layer, Esq; Barrister at law;
+                    from his birth to his execution, for high treason; and his last behaviour.
+                    Interspers'd with several original papers. By a gentleman of Norwich, his
+                    school-fellow.</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Rogue1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° Z 62(3) Jur.</idno>
+            <idno type="ALMA-ID">990134943100107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990134943100107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author>E. B.</author>
+                <title>The highland rogue: or, the memorable actions of the celebrated Robert
+                    Mac-Gregor, commonly called Rob-Roy. ...</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Hill1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° Z 62(4) Jur.</idno>
+            <idno type="ALMA-ID">990134939980107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990134939980107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/4939726">Hill, Aaron, 1685-1750</author>
+                <title>King Henry the Fifth: or, the conquest of France, by the English. A tragedy.
+                    As it is acted at the Theatre-Royal in Drury-Lane, by His Majesty's servants. By
+                    Aaron Hill, Esq;</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Mandeville1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° Z 64 Jur.</idno>
+            <idno type="ALMA-ID">990135359960107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135359960107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/22145254">Mandeville, Bernard, 1670-1733</author>
+                <title>The fable of the bees: or, private vices, publick benefits. The second
+                    edition, enlarged with many additions. As also An essay on charity and
+                    charity-schools. And A search into the nature of society.</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Woodward1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° Z 63 Jur.</idno>
+            <idno type="ALMA-ID">990135002520107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135002520107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/50037252">Woodward, John, 1665-1728</author>
+                <title>An essay towards a natural history of the earth, and terrestrial bodyes,
+                    especialy minerals: : as also of the sea, rivers, and springs. With an account
+                    of the universal deluge: and of the effects that it had upon the earth.
+                    /</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Stukeley1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">S 1.12 Med.</idno>
+            <idno type="ALMA-ID">990143988890107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990143988890107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/69060428">Stukeley, William, 1687-1765</author>
+                <title>Of the spleen, a lect. To which is added some anatomical observations in the
+                    dissection of an elephant.</title>
+                <imprint>
+                    <pubPlace>Lond.</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Souls1722" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° O 49 Linc.</idno>
+            <idno type="ALMA-ID">990134959790107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990134959790107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <title>The souls magazine of Scripture truths, digested into an historical dialogue,
+                    to inform the ignorant, reform the wicked, awake the drowsey, and revive
+                    Christianity by faith and obedience.</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1722</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Freind1720" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">B 26 62(1) Linc.</idno>
+            <idno type="ALMA-ID">990135058810107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135058810107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/22209566">Freind, John, 1675-1728</author>
+                <title>Oratio anniversaria in theatro Collegii Regalis Medicorum Londin. : habita,
+                    ex Harvæi instituto, in eorum commemorationem qui suâ in hoc Collegium
+                    beneficentiâ claruerunt. Die xviij Octobris, anno 1720..</title>
+                <imprint>
+                    <pubPlace>Londini</pubPlace>
+                    <date>1720</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Baker1724" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">B 26 62(4) Linc.</idno>
+            <idno type="ALMA-ID">990135265760107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135265760107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/21993304">Baker, William, 1668-1732</author>
+                <title>A sermon preach'd before the Right Honourable the House of Lords, at the
+                    Abby-church, Westminster, on Thursday, January 30. 1724, : being The Anniversary
+                    of the Martyrodom of King Charles I. /</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1724</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Stubs1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">B 26 62(5) Linc.</idno>
+            <idno type="ALMA-ID">990135069710107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135069710107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/69218622">Stubs, Philip, 1665-1738</author>
+                <title>Advice to the reverend the clergy, of the peculiar jurisdiction of Saint
+                    Alban, within the diocese of London, given in the court-consistorial held there
+                    on Thursday, May 2, 1723. At the eighth general visitation of that archdeaconry
+                    by Philip Stubbs, B.D. and Archdeacon.</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
 </listObject>
+
 
 
 
@@ -13225,7 +13578,7 @@
                     <cell rend="head">Benefact's</cell>
                 </row>
                 <row ana="prov:deposit">
-                    <cell><bibl>The Soul's Magazine of Script<hi rend="superscript:true">r</hi>
+                    <cell><bibl corresp="#regC-bib-Souls1722">The Soul's Magazine of Script<hi rend="superscript:true">r</hi>
                             Truths</bibl></cell>
                     <cell><ab type="shelfmark"><choice>
                                 <orig>8° O.49.Linc</orig>
@@ -13248,9 +13601,9 @@
                             </choice></ab></cell>
                 </row>
                 <row ana="prov:deposit">
-                    <cell><bibl>Lyon&apos;s Infalibility of Human Judgm<hi rend="superscript:true"
-                                >t</hi> 1723</bibl><lb/><bibl>Life of Xtopher
-                            Layer</bibl><lb/><bibl>The Highland Rogue (Rob. Roy)</bibl><lb/><bibl>K.
+                    <cell><bibl corresp="#regC-bib-Lyons1723">Lyon&apos;s Infalibility of Human Judgm<hi rend="superscript:true"
+                        >t</hi> 1723</bibl><lb/><bibl corresp="#regC-bib-Johnson1723">Life of Xtopher
+                            Layer</bibl><lb/><bibl corresp="#regC-bib-Rogue1723">The Highland Rogue (Rob. Roy)</bibl><lb/><bibl corresp="#regC-bib-Hill1723">K.
                             Hen. V<hi rend="superscript:true">th</hi> a Tragedy by Aaron
                         Hill</bibl></cell>
                     <cell><ab type="shelfmark"><choice>
@@ -13258,36 +13611,36 @@
                                 <reg>8° Z 62 Jur.</reg>
                             </choice></ab></cell>
                 </row>
-                <row>
-                    <cell><bibl>Answer to a Blasphemous Letter con-<lb/> cerning yͤ Fall of Man
+                <row ana="prov:deposit">
+                    <cell><bibl corresp="#regC-bib-Dissertation1723">Answer to a Blasphemous Letter con-<lb/> cerning yͤ Fall of Man
                             &amp;c 1723</bibl></cell>
                     <cell><ab type="shelfmark"><choice>
                                 <orig>8° Z.61. Jur.</orig>
                                 <reg>8° Z 61Jur.</reg>
                             </choice></ab></cell>
                 </row>
-                <row>
-                    <cell><bibl>Dr Woodward&apos;s Nat. History of yͤ Earth</bibl></cell>
+                <row ana="prov:deposit">
+                    <cell><bibl corresp="#regC-bib-Woodward1723">Dr Woodward&apos;s Nat. History of yͤ Earth</bibl></cell>
                     <cell><ab type="shelfmark"><choice>
                                 <orig>8° Z. 63. Jur</orig>
                                 <reg>8° Z 63 Jur.</reg>
                             </choice></ab></cell>
                 </row>
-                <row>
-                    <cell><bibl>Fable of yͤ Bees (by Mandeville)</bibl></cell>
+                <row ana="prov:deposit">
+                    <cell><bibl corresp="#regC-bib-Mandeville1723">Fable of yͤ Bees (by Mandeville)</bibl></cell>
                     <cell><ab type="shelfmark"><choice>
                                 <orig>8° Z. 64. Jur</orig>
                                 <reg>8° Z 64 Jur.</reg>
                             </choice></ab></cell>
                 </row>
-                <row>
+                <row ana="prov:deposit">
                     <cell><bibl>The Deceiver deceiv&apos;d</bibl></cell>
                     <cell><ab type="shelfmark"><choice>
                                 <orig>8° Q.6. Jur.</orig>
                                 <reg>8° Q 6 Jur.</reg>
                             </choice></ab></cell>
                 </row>
-                <row>
+                <row ana="prov:deposit">
                     <cell>Two Cataloques</cell>
                     <cell><ab type="shelfmark"><choice>
                                 <orig>ibid</orig>
@@ -13295,12 +13648,12 @@
                             </choice></ab></cell>
                 </row>
                 <row ana="prov:donation">
-                    <cell><bibl>Vida ꝓ Tristram 2 Voll. Oxon 1722.1723.</bibl></cell>
+                    <cell><bibl corresp="#regC-bib-Vida1722">Vida ꝓ Tristram 2 Voll. Oxon 1722.1723.</bibl></cell>
                     <cell><ab type="shelfmark"><choice>
                                 <orig>Arch. B. Seld. 59.60.</orig>
                                 <reg>Arch. B Seld. 59, 60</reg>
                             </choice></ab></cell>
-                    <cell><persName ana="prov:donor">Editor</persName></cell>
+                    <cell><persName ana="prov:donor" corresp="#regC-TTRI">Editor</persName></cell>
                 </row>
                 <row ana="prov:donation">
                     <cell><bibl>Wheatly’s Sermon on yͤ Credibility of Mysteries</bibl></cell>
@@ -13320,31 +13673,31 @@
                     <cell><persName ana="prov:donor">Auctor</persName></cell>
                 </row>
                 <row ana="prov:donation">
-                    <cell><bibl>Oratio in Coll. Reg. Med. Lond ꝓ Freind</bibl></cell>
+                    <cell><bibl corresp="#regC-bib-Freind1720">Oratio in Coll. Reg. Med. Lond ꝓ Freind</bibl></cell>
                     <cell rows="3"><ab type="shelfmark"><choice>
                                 <orig>B. 26.62 Linc.</orig>
                                 <reg>B 26.62 Linc.</reg>
                             </choice></ab></cell>
-                    <cell rows="3"><persName ana="prov:donor">Auctores</persName></cell>
+                    <cell rows="3"><persName ana="prov:donor" corresp="#regC-JFRE">Auctores</persName></cell>
                 </row>
                 <row ana="prov:donation">
-                    <cell><bibl>Bp̄ of Bangor (Dr Baker’s) Sermon</bibl></cell>
+                    <cell><bibl corresp="#regC-bib-Baker1724">Bp̄ of Bangor (Dr Baker’s) Sermon</bibl></cell>
                     <cell rend="norend"><ab type="shelfmark"><choice>
                                 <orig>B. 26.62 Linc.</orig>
                                 <reg>B 26.62 Linc.</reg>
                             </choice></ab></cell>
-                    <cell rend="norend"><persName ana="prov:donor"/></cell>
+                    <cell><persName ana="prov:donor" corresp="#regC-WBAK">[...]</persName></cell>
                 </row>
                 <row ana="prov:donation">
-                    <cell><bibl>Shibbs&apos;s advice to the Clergy of S. Albany</bibl></cell>
+                    <cell><bibl corresp="#regC-bib-Stubs1723">Stubbs&apos;s advice to the Clergy of S. Albany</bibl></cell>
                     <cell rend="norend"><ab type="shelfmark"><choice>
                                 <orig>B. 26.62 Linc.</orig>
                                 <reg>B 26.62 Linc.</reg>
                             </choice></ab></cell>
-                    <cell rend="norend"><persName ana="prov:donor"/></cell>
+                    <cell><persName ana="prov:donor" corresp="#regC-PSTU">[...]</persName></cell>
                 </row>
                 <row ana="prov:deposit">
-                    <cell><bibl>The Religion of Nature delineated 1724.</bibl></cell>
+                    <cell><bibl corresp="#regC-bib-Wollaston1724">The Religion of Nature delineated 1724.</bibl></cell>
                     <cell><ab type="shelfmark"><choice>
                                 <orig>CC. 55. Jur.</orig>
                                 <reg>CC 55 Jur.</reg>
@@ -13352,14 +13705,14 @@
                     <cell rows="5">Stat.<hi rend="superscript:true">s</hi></cell>
                 </row>
                 <row ana="prov:deposit">
-                    <cell><bibl>Dr Stukeley on the Spleen 1723. Fol.</bibl></cell>
+                    <cell><bibl corresp="#regC-bib-Stukeley1723">Dr Stukeley on the Spleen 1723. Fol.</bibl></cell>
                     <cell><ab type="shelfmark"><choice>
                                 <orig>Z. 1.15. Med</orig>
                                 <reg>Z 1.15 Med.</reg>
                             </choice></ab></cell>
                 </row>
                 <row ana="prov:deposit">
-                    <cell><bibl>Ja: King’s Sacramental Devotions</bibl></cell>
+                    <cell><bibl corresp="#regC-bib-Sacramental1722">Ja: King’s Sacramental Devotions</bibl></cell>
                     <cell><ab type="shelfmark"><choice>
                                 <orig>8° Q. 7. Jur.</orig>
                                 <reg>8° Q 7 Jur.</reg>
@@ -13374,7 +13727,7 @@
                             </choice></ab></cell>
                 </row>
                 <row ana="prov:deposit">
-                    <cell><bibl>Capt. Johnson’s History of yͤ Pyrates 1724.</bibl></cell>
+                    <cell><bibl corresp="#regC-bib-Johnson1724">Capt. Johnson’s History of yͤ Pyrates 1724.</bibl></cell>
                     <cell><ab type="shelfmark"><choice>
                                 <orig>8° Z. 67. Jur</orig>
                                 <reg>8° Z 67 Jur.</reg>
