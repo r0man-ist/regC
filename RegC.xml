@@ -13678,7 +13678,7 @@
                                 <orig>B. 26.62 Linc.</orig>
                                 <reg>B 26.62 Linc.</reg>
                             </choice></ab></cell>
-                    <cell rows="3"><persName ana="prov:donor" corresp="#regC-JFRE">Auctores</persName></cell>
+                    <cell><persName ana="prov:donor" corresp="#regC-JFRE">Auctores</persName></cell>
                 </row>
                 <row ana="prov:donation">
                     <cell><bibl corresp="#regC-bib-Baker1724">Bp̄ of Bangor (Dr Baker’s) Sermon</bibl></cell>
