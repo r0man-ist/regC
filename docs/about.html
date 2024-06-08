@@ -1,5 +1,5 @@
 <!DOCTYPE HTML><html xmlns:t="http://www.tei-c.org/ns/1.0" lang="en">
-   <title>Index of persons</title>
+   <head><title>About</title>
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"><script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script><script src="https://code.jquery.com/jquery-3.6.0.min.js"></script><body>
@@ -14,5 +14,73 @@
          </div>
       </nav>
       <div class="container mt-5"></div>
+   </head>
+   <body>
+      <div class="jumbotron text-center" style="padding-bottom: 20px; padding-top: 22px;">
+         <h1>Register C (Library Records c.854)</h1>
+         <h4>A digital edition and proof of concept</h4>
+       </div>
+       
+       <div class="container">
+         <div class="row">
+           <div class="col-sm-5">
+            <img src="img/title.jpg" class="img-fluid" alt="Title page of Register C"></div>
+            <div class="col-sm-6">
+             <h3>The Register</h3>
+             <p>The Bodleian Library's "Register C" (Library Records c.854) is an account book of the Bodleian Library for the years 1720-1767. It records, in various hands, expenses, books bought, donated and given to the library as well as the moving of books to different shelves within the library.</p>
+             <p>The register provides valuable information regarding the provenances of the Bodleian's holdings (most of the items mentioned are still in the collection today), curatorial practice and institutional history.</p>
+           <p>This website provides a transcription of the Register (currently only for the first five years), making it available in a digital form. Wherever possible the tabular structure of the original has beeen reproduced as closely as possible. In addition to the transcription, where the connected library holdings have been identified, the corresponding bibliographic information, including current shelf marks and a link to the catalogue entry, can be accessed via the "Details"-button.</p>
+            </div>  
+           </div>
+       </div>
+
+       <div class="container">
+         <div class="row">
+           <div class="col-sm-6">
+             <h3>Encoding</h3>
+             <p>The transcription is encoded in TEI-XML. In addition to the transcription, the bibliographic data and information regarding persons mentioned are stored in standOff-Elements. Within the transcription information relevant to the reconstruction of provenance relations is annotated (usually within @ana-attributes) to allow the extraction of the provenance information as structured data (see following paragraph).</p>
+           </div>
+           <div class="col-sm-5">
+            <img src="img/sample.jpg" class="img-fluid" alt="Sample entries from Register C"></div>
+           </div>
+       </div>
+
+       <div class="container">
+         <div class="row">
+           <div class="col-sm-12">
+             <h3>Modelling</h3>
+             <p>All provenance information in the register is annotated in a form that allows the extraction (via XSLT) as Linked Data (in RDF). The modelling of the information is largely based on CIDOC-CRM, although the bibliographical information currently is modelled with simple dc terms.
+              Parts of the information currently are modelled using custom provenance terms. This part of the modelling, as well as the modelling of missing data, vagueness and interpretation, are in need of further development and discussion. 
+             </p>
+           </div>
+           </div>
+       </div>
+
+       <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <a href="img/rdf.png"><img src="img/rdf.png" class="img-fluid" alt="Modelling of provenance information"></div></a>
+          </div>
+          </div>
+      </div>
+
+       <div class="container">
+         <div class="row">
+           <div class="col-sm-12">
+             <h3>Data</h3>
+             <p>All data and scripts for the edition and the provenance information are available in the accompanying <a href="https://github.com/r0man-ist/regC">GitHub-repository</a> from which this website is built.</p>
+           </div>
+           </div>
+       </div>
+
+       <div class="container">
+         <div class="row">
+           <div class="col-sm-12">
+             <h3>Contact</h3>
+             <p>This website and the repository were designed by Roman Kuhn. Contact <a href="mailto:roman.kuhn@voltaire.ox.ac.uk">
+               roman.kuhn@voltaire.ox.ac.uk</a> for further information.</p>
+           </div>
+           </div>
+       </div>
    </body>
 </html>
