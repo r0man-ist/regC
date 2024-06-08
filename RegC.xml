@@ -6901,7 +6901,7 @@
                     <cell><ab ana="prov"><date ana="prov:when" notAfter="1720-07-21"
                                 notBefore="1720-07-21">July 21.</date>
                             <bibl corresp="#regC-bib-Prideaux">D<hi rend="superscript:true">r</hi>.
-                                Prideaux's Connexion of the History of the Old and new Testament,
+                                Prideaux's Connexion of the History of the<lb/> Old and new Testament,
                                     1<hi rend="superscript:true">st</hi>. vol.
                         8°.</bibl></ab></cell>
                     <cell><measure quantity="0" unit="pound">00</measure></cell>
@@ -7650,7 +7650,7 @@
                     <row ana="prov:purchase">
                         <cell>22.</cell>
                         <cell><bibl corresp="#regC-bib-Hoadly1720">[Mr. Hoadley] Bp̄. of
-                                Bangor&apos;s Answer to D<hi rend="superscript:true">r</hi>. Hare.
+                                Bangor&apos;s Answer<lb/> to D<hi rend="superscript:true">r</hi>. Hare.
                                     <hi rend="underlined:true">Lond</hi>. 1720</bibl>.</cell>
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
                         <cell><measure quantity="3" unit="shilling">3</measure></cell>
@@ -11579,8 +11579,8 @@
                                 </choice></ab></cell>
                     </row>
                     <row ana="prov:purchase">
-                        <cell><bibl>Explications des cent Estampes qui representent differentes
-                                nations du Levant. á <hi rend="underlined:true">Paris</hi>. 1715
+                        <cell><bibl>Explications des cent Estampes qui<lb/> representent differentes
+                                nations<lb/> du Levant. á <hi rend="underlined:true">Paris</hi>. 1715
                                 Fol.</bibl></cell>
                         <cell><measure quantity="4" unit="pound">4</measure></cell>
                         <cell><measure quantity="14" unit="shilling">14</measure></cell>
@@ -11644,7 +11644,7 @@
                                 </choice></ab></cell>
                     </row>
                     <row ana="prov:purchase">
-                        <cell><bibl corresp="#regC-bib-Voyages1721">A new Collection of Voyages done
+                        <cell><bibl corresp="#regC-bib-Voyages1721">A new Collection of Voyages done<lb/>
                                 from yͤ French by Edm<hi rend="superscript:true">d</hi>. LLoyd 2
                                 Voll 1721</bibl></cell>
                         <cell><measure quantity="0" unit="pound">0</measure></cell>
@@ -13485,7 +13485,7 @@
                     </row>
                     <row ana="prov:donation">
                         <cell><bibl corresp="#regC-bib-Maurokordatus1722">Nic. Alex. Maurocordati
-                                Liber de Officiis Gr. Lat Lips. 1722.</bibl></cell>
+                                Liber de Officiis Gr. Lat.<lb/> Lips. 1722.</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>FF. 68. Th.</orig>
                                     <reg>FF 68 Th.</reg>
@@ -13524,7 +13524,7 @@
                     </row>
                     <row ana="prov:deposit">
                         <cell><bibl corresp="#regC-bib-Millar1723">Millar’s History of the
-                                Propagation of Xtianity &amp; overthrow of Paganism. 2
+                                Propagation of Xtianity<lb/> &amp; overthrow of Paganism. 2
                             Voll.</bibl></cell>
                         <cell><ab type="shelfmark"><choice>
                                     <orig>8° Z.58.59. Jur. </orig>
