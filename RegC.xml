@@ -6924,7 +6924,30 @@
             </monogr>
         </biblStruct>
     </object>
+    <object xml:id="regC-bib-Pufendorf1724" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° Q 8 Jur.</idno>
+            <idno type="ALMA-ID">990135031670107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135031670107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/99029785">Pufendorf, Samuel, Freiherr von,
+                    1632-1694</author>
+                <title>S. Puffendorfii De officio hominis et civis, juxta legem naturalem, libri
+                    duo. Supplementis &amp; observationibus in academicæ juventutis usum auxit &amp;
+                    illustravit Gerschomus Carmichael, ...</title>
+                <imprint>
+                    <pubPlace>Edinburgi :</pubPlace>
+                    <date>1724</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
 </listObject>
+
 
 
 
@@ -13872,7 +13895,7 @@
                             </choice></ab></cell>
                 </row>
                 <row ana="prov:deposit">
-                    <cell><bibl>Puffendorf de Officio Hominis <hi rend="underlined:true">Edinb</hi>.
+                    <cell><bibl corresp="#regC-bib-Pufendorf1724">Puffendorf de Officio Hominis <hi rend="underlined:true">Edinb</hi>.
                             1724.</bibl></cell>
                     <cell><ab type="shelfmark"><choice>
                                 <orig>8° Q. 8. Jur</orig>

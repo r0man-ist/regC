@@ -13950,6 +13950,18 @@
                   <rdfs:label>Stationers' Company London</rdfs:label>
                </crm:E74_Group>
             </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep83-I1">
+                  <dcterms:title>S. Puffendorfii De officio hominis et civis, juxta legem naturalem, libri duo. Supplementis &amp; observationibus in academicæ juventutis usum auxit &amp; illustravit Gerschomus Carmichael, ...</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/99029785">
+                        <rdfs:label>Pufendorf, Samuel, Freiherr von,
+                    1632-1694</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>8° Q 8 Jur.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
