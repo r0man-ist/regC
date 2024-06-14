@@ -252,7 +252,16 @@
                 <persName>Freind, John</persName>
                 <idno type="VIAF">22209566</idno>
             </person>
+            <person xml:id="regC-CWHE">
+                <persName>Wheatly, Charles</persName>
+                <idno type="VIAF">32924921</idno>
+            </person>
+            <person xml:id="regC-CDRE">
+                <persName>Dresky, Christian</persName>
+                <idno type="VIAF">132110213</idno>
+            </person>
         </listPerson>
+        
         
 
 
@@ -4569,9 +4578,10 @@
             </monogr>
         </biblStruct>
     </object>
-    <object xml:id="regC-bib-Potter1720d" ana="not-identified">
+    <object xml:id="regC-bib-Potter1720d" ana="copy-identified">
         <objectIdentifier>
             <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° Q 6(2) Jur.</idno>
             <idno type="ALMA-ID">990135206490107026</idno>
             <idno type="SOLOlink"
                 >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135206490107026</idno>
@@ -6772,7 +6782,150 @@
             </monogr>
         </biblStruct>
     </object>
+    <object xml:id="regC-bib-Martin1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° O 50 Linc.</idno>
+            <idno type="ALMA-ID">990134847290107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990134847290107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/101579822">Martin, Isaac</author>
+                <title>The tryal and sufferings of Mr. Isaac Martin, : who was put into the
+                    inquisition in Spain, for the sake of the Protestant religion. /</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Bellamy1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° O 48 Linc.</idno>
+            <idno type="ALMA-ID">990135376040107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135376040107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/50606978">Bellamy, D. 1687- (Daniel)</author>
+                <title>The young ladies miscellany: or, youth's innocent and rational amusement. To
+                    which is prefixed, a short essay on the art of pronunciation, ... Adorn'd with
+                    cuts. Written for the particular diversion and improvement of the young ladies
+                    of Mrs. Bellamy's school, in Old Boswel-Court, near Temple-Bar.</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Wheatly1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° Q 6(1) Jur.</idno>
+            <idno type="ALMA-ID">990135213250107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135213250107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/32924921">Wheatly, Charles, 1686-1742</author>
+                <title>The credibility of mysteries; or, No contradiction in the doctrine of the
+                    Trinity. : A sermon preached at the Cathedral of St. Paul, before the Right
+                    Honourable the Lord Mayor, the judges, &amp;c. Jan. 27, 1722/3. being the first
+                    Sunday in Hilary term. /</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Wisbech1718" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° Q 6(3) Jur.</idno>
+            <idno type="ALMA-ID">990135037150107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135037150107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <title>A catalogue of books in the library at Wisbech in the Isle of Ely.</title>
+                <imprint>
+                    <pubPlace>[Cambridge?]</pubPlace>
+                    <date>1718</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Brienne1724" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° Q 6(4) Jur.</idno>
+            <idno type="ALMA-ID">990135221450107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135221450107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <title>Illustrissimi &amp; excellentissimi Ludovici Henrici, comitis
+                    Castri-Briennij, ... A catalogue of the library of His Excellency Louis Henry de
+                    Lomenie, ... to be sold ... at James Woodman's and David Lyon's ... on Tuesday
+                    the 28th of April, 1724. ...</title>
+                <imprint>
+                    <pubPlace>[London]</pubPlace>
+                    <date>1724</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Deceiver1719" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° Q 6(5) Jur.</idno>
+            <idno type="ALMA-ID">990135123580107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135123580107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <title>The deceiver describ'd: : being a second appendix to a pamphlet, entitl'd, A
+                    caution against deceivers. In a letter to the authours of that pamphlet.
+                    /</title>
+                <imprint>
+                    <pubPlace>Exon</pubPlace>
+                    <date>1719</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Dresky1722" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">4° P 46 Jur.</idno>
+            <idno type="ALMA-ID">990144868140107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990144868140107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <title>Dissertatio inauguralis iuridica de fundamento retractus duplicis in agris
+                    Hamburgensium vsitati.</title>
+                <imprint>
+                    <pubPlace>Halæ Magd.</pubPlace>
+                    <date>1722</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
 </listObject>
+
 
 
 
@@ -13587,14 +13740,14 @@
                     <cell rows="9">Stat.&apos;<hi rend="superscript:true">s</hi></cell>
                 </row>
                 <row ana="prov:deposit">
-                    <cell><bibl>Sufferings of Js. Martin in yͤ Inquisition</bibl></cell>
+                    <cell><bibl corresp="#regC-bib-Martin1723">Sufferings of Js. Martin in yͤ Inquisition</bibl></cell>
                     <cell><ab type="shelfmark"><choice>
                                 <orig>8° O.50.Linc.</orig>
                                 <reg>8° O 50 Linc.</reg>
                             </choice></ab></cell>
                 </row>
                 <row ana="prov:deposit">
-                    <cell><bibl>Young Lady's Miscellanys by Bellamy</bibl></cell>
+                    <cell><bibl corresp="#regC-bib-Bellamy1723">Young Lady's Miscellanys by Bellamy</bibl></cell>
                     <cell><ab type="shelfmark"><choice>
                                 <orig>8° O.48.Linc.</orig>
                                 <reg>8° O 48 Linc.</reg>
@@ -13634,14 +13787,14 @@
                             </choice></ab></cell>
                 </row>
                 <row ana="prov:deposit">
-                    <cell><bibl>The Deceiver deceiv&apos;d</bibl></cell>
+                    <cell><note>The two following rows are clearly marked as deposits from the company of stationers in the Register. The items themselves, however, show traces of differing provenances.</note><bibl corresp="#regC-bib-Deceiver1719">The Deceiver deceiv&apos;d</bibl><note>The item carries a note on the title page: "This tract belongs to the Collection of Fanatical Pamphlets given to the Library by Dr Walker. v. FF.43.44.&amp;c. Th.</note></cell>
                     <cell><ab type="shelfmark"><choice>
                                 <orig>8° Q.6. Jur.</orig>
                                 <reg>8° Q 6 Jur.</reg>
                             </choice></ab></cell>
                 </row>
                 <row ana="prov:deposit">
-                    <cell>Two Cataloques</cell>
+                    <cell><bibl corresp="#regC-bib-Wisbech1718">Two Cataloques</bibl><bibl corresp="#regC-bib-Brienne1724"></bibl><note>The first of these catalogues is bound with a MS letter suggesting it was sent to the Library by Richard Middleton Massey. The second one carries Joseph Bowles' name in ink on the title page</note></cell>
                     <cell><ab type="shelfmark"><choice>
                                 <orig>ibid</orig>
                                 <reg>8° Q 6 Jur.</reg>
@@ -13656,21 +13809,21 @@
                     <cell><persName ana="prov:donor" corresp="#regC-TTRI">Editor</persName></cell>
                 </row>
                 <row ana="prov:donation">
-                    <cell><bibl>Wheatly’s Sermon on yͤ Credibility of Mysteries</bibl></cell>
+                    <cell><bibl corresp="#regC-bib-Wheatly1723">Wheatly’s Sermon on yͤ Credibility of Mysteries</bibl></cell>
                     <cell><ab type="shelfmark"><choice>
                                 <orig>8° Q.6. Jur.</orig>
                                 <reg>8° Q 6 Jur.</reg>
                             </choice></ab></cell>
-                    <cell><persName ana="prov:donor">Auctor</persName></cell>
+                    <cell><persName ana="prov:donor" corresp="#regC-CWHE">Auctor</persName></cell>
                 </row>
                 <row ana="prov:donation">
-                    <cell><bibl>Dissertatio de Fundamento Retractus duplicis<lb/> ꝓ Christ. Dresky
+                    <cell><bibl corresp="#regC-bib-Dresky1722">Dissertatio de Fundamento Retractus duplicis<lb/> ꝓ Christ. Dresky
                             Halæ. 1723</bibl></cell>
                     <cell><ab type="shelfmark"><choice>
                                 <orig>4° P. 46. Jur</orig>
                                 <reg>4° P 46 Jur.</reg>
                             </choice></ab></cell>
-                    <cell><persName ana="prov:donor">Auctor</persName></cell>
+                    <cell><persName corresp="#regC-CDRE" ana="prov:donor">Auctor</persName></cell>
                 </row>
                 <row ana="prov:donation">
                     <cell><bibl corresp="#regC-bib-Freind1720">Oratio in Coll. Reg. Med. Lond ꝓ Freind</bibl></cell>

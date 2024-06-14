@@ -13593,6 +13593,17 @@
                   <rdfs:label>Stationers' Company London</rdfs:label>
                </crm:E74_Group>
             </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep72-I1">
+                  <dcterms:title>The tryal and sufferings of Mr. Isaac Martin, : who was put into the inquisition in Spain, for the sake of the Protestant religion. /</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/101579822">
+                        <rdfs:label>Martin, Isaac</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>8° O 50 Linc.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
@@ -13613,6 +13624,17 @@
                   <rdfs:label>Stationers' Company London</rdfs:label>
                </crm:E74_Group>
             </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep73-I1">
+                  <dcterms:title>The young ladies miscellany: or, youth's innocent and rational amusement. To which is prefixed, a short essay on the art of pronunciation, ... Adorn'd with cuts. Written for the particular diversion and improvement of the young ladies of Mrs. Bellamy's school, in Old Boswel-Court, near Temple-Bar.</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/50606978">
+                        <rdfs:label>Bellamy, D. 1687- (Daniel)</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>8° O 48 Linc.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
@@ -13781,6 +13803,12 @@
                   <rdfs:label>Stationers' Company London</rdfs:label>
                </crm:E74_Group>
             </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep78-I1">
+                  <dcterms:title>The deceiver describ'd: : being a second appendix to a pamphlet, entitl'd, A caution against deceivers. In a letter to the authours of that pamphlet. /</dcterms:title>
+                  <crm:P48_has_preferred_identifier>8° Q 6(5) Jur.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
@@ -13801,6 +13829,18 @@
                   <rdfs:label>Stationers' Company London</rdfs:label>
                </crm:E74_Group>
             </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep79-I1">
+                  <dcterms:title>A catalogue of books in the library at Wisbech in the Isle of Ely.</dcterms:title>
+                  <crm:P48_has_preferred_identifier>8° Q 6(3) Jur.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#Dep79-I2">
+                  <dcterms:title>Illustrissimi &amp; excellentissimi Ludovici Henrici, comitis Castri-Briennij, ... A catalogue of the library of His Excellency Louis Henry de Lomenie, ... to be sold ... at James Woodman's and David Lyon's ... on Tuesday the 28th of April, 1724. ...</dcterms:title>
+                  <crm:P48_has_preferred_identifier>8° Q 6(4) Jur.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
@@ -15155,6 +15195,8 @@
       </crm:P70_documents>
       <crm:P70_documents>
          <crm:E15_Identifier_Assignment rdf:about="https:r0man-ist.github.io/regC#Dep-ID79">
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep79-I1"/>
+            <crm:P140_assigned_attribute_to rdf:resource="https:r0man-ist.github.io/regC#Dep79-I2"/>
             <crm:P37_assigned>
                <crm:E42_Identifier rdf:about="https:r0man-ist.github.io/regC#Dep79-ID">
                   <crm:P90_has_value>8° Q 6 Jur.</crm:P90_has_value>
@@ -15975,6 +16017,7 @@
                         <rdfs:label>Potter, John, 1674-1747</rdfs:label>
                      </crm:E21_Person>
                   </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>8° Q 6(2) Jur.</crm:P48_has_preferred_identifier>
                </prov:Item>
             </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
@@ -17015,10 +17058,21 @@
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
             <crm:P23_transferred_title_from>
-               <prov:Donor>
-                  <rdfs:label/>
-               </prov:Donor>
+               <crm:E39_Actor rdf:about="https://viaf.org/viaf/32924921">
+                  <rdfs:label>Wheatly, Charles</rdfs:label>
+               </crm:E39_Actor>
             </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#D69-I1">
+                  <dcterms:title>The credibility of mysteries; or, No contradiction in the doctrine of the Trinity. : A sermon preached at the Cathedral of St. Paul, before the Right Honourable the Lord Mayor, the judges, &amp;c. Jan. 27, 1722/3. being the first Sunday in Hilary term. /</dcterms:title>
+                  <dcterms:creator>
+                     <crm:E21_Person rdf:about="https://viaf.org/viaf/32924921">
+                        <rdfs:label>Wheatly, Charles, 1686-1742</rdfs:label>
+                     </crm:E21_Person>
+                  </dcterms:creator>
+                  <crm:P48_has_preferred_identifier>8° Q 6(1) Jur.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>
@@ -17035,10 +17089,16 @@
                </crm:E74_Group>
             </crm:P22_transferred_title_to>
             <crm:P23_transferred_title_from>
-               <prov:Donor>
-                  <rdfs:label/>
-               </prov:Donor>
+               <crm:E39_Actor rdf:about="https://viaf.org/viaf/132110213">
+                  <rdfs:label>Dresky, Christian</rdfs:label>
+               </crm:E39_Actor>
             </crm:P23_transferred_title_from>
+            <crm:P24_transferred_title_of>
+               <prov:Item rdf:about="https:r0man-ist.github.io/regC#D70-I1">
+                  <dcterms:title>Dissertatio inauguralis iuridica de fundamento retractus duplicis in agris Hamburgensium vsitati.</dcterms:title>
+                  <crm:P48_has_preferred_identifier>4° P 46 Jur.</crm:P48_has_preferred_identifier>
+               </prov:Item>
+            </crm:P24_transferred_title_of>
             <crm:P4_has_time_span>
                <crm:E61_Time_Primitive>
                   <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1724-01-01T00:00:00</crm:P82a_begin_of_the_begin>

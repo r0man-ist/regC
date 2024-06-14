@@ -4311,9 +4311,10 @@
             </monogr>
         </biblStruct>
     </object>
-    <object xml:id="regC-bib-Potter1720d" ana="not-identified">
+    <object xml:id="regC-bib-Potter1720d" ana="copy-identified">
         <objectIdentifier>
             <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° Q 6(2) Jur.</idno>
             <idno type="ALMA-ID">990135206490107026</idno>
             <idno type="SOLOlink"
                 >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135206490107026</idno>
@@ -6510,6 +6511,148 @@
                 <imprint>
                     <pubPlace>London</pubPlace>
                     <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Martin1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° O 50 Linc.</idno>
+            <idno type="ALMA-ID">990134847290107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990134847290107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/101579822">Martin, Isaac</author>
+                <title>The tryal and sufferings of Mr. Isaac Martin, : who was put into the
+                    inquisition in Spain, for the sake of the Protestant religion. /</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Bellamy1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° O 48 Linc.</idno>
+            <idno type="ALMA-ID">990135376040107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135376040107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/50606978">Bellamy, D. 1687- (Daniel)</author>
+                <title>The young ladies miscellany: or, youth's innocent and rational amusement. To
+                    which is prefixed, a short essay on the art of pronunciation, ... Adorn'd with
+                    cuts. Written for the particular diversion and improvement of the young ladies
+                    of Mrs. Bellamy's school, in Old Boswel-Court, near Temple-Bar.</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Wheatly1723" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° Q 6(1) Jur.</idno>
+            <idno type="ALMA-ID">990135213250107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135213250107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <author ref="https://viaf.org/viaf/32924921">Wheatly, Charles, 1686-1742</author>
+                <title>The credibility of mysteries; or, No contradiction in the doctrine of the
+                    Trinity. : A sermon preached at the Cathedral of St. Paul, before the Right
+                    Honourable the Lord Mayor, the judges, &amp;c. Jan. 27, 1722/3. being the first
+                    Sunday in Hilary term. /</title>
+                <imprint>
+                    <pubPlace>London</pubPlace>
+                    <date>1723</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Wisbech1718" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° Q 6(3) Jur.</idno>
+            <idno type="ALMA-ID">990135037150107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135037150107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <title>A catalogue of books in the library at Wisbech in the Isle of Ely.</title>
+                <imprint>
+                    <pubPlace>[Cambridge?]</pubPlace>
+                    <date>1718</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Brienne1724" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° Q 6(4) Jur.</idno>
+            <idno type="ALMA-ID">990135221450107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135221450107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <title>Illustrissimi &amp; excellentissimi Ludovici Henrici, comitis
+                    Castri-Briennij, ... A catalogue of the library of His Excellency Louis Henry de
+                    Lomenie, ... to be sold ... at James Woodman's and David Lyon's ... on Tuesday
+                    the 28th of April, 1724. ...</title>
+                <imprint>
+                    <pubPlace>[London]</pubPlace>
+                    <date>1724</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Deceiver1719" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">8° Q 6(5) Jur.</idno>
+            <idno type="ALMA-ID">990135123580107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990135123580107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <title>The deceiver describ'd: : being a second appendix to a pamphlet, entitl'd, A
+                    caution against deceivers. In a letter to the authours of that pamphlet.
+                    /</title>
+                <imprint>
+                    <pubPlace>Exon</pubPlace>
+                    <date>1719</date>
+                </imprint>
+            </monogr>
+        </biblStruct>
+    </object>
+    <object xml:id="regC-bib-Dresky1722" ana="copy-identified">
+        <objectIdentifier>
+            <institution>Bodleian Library</institution>
+            <idno type="shelfmark">4° P 46 Jur.</idno>
+            <idno type="ALMA-ID">990144868140107026</idno>
+            <idno type="SOLOlink"
+                >https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990144868140107026</idno>
+        </objectIdentifier>
+        <biblStruct>
+            <monogr>
+                <title>Dissertatio inauguralis iuridica de fundamento retractus duplicis in agris
+                    Hamburgensium vsitati.</title>
+                <imprint>
+                    <pubPlace>Halæ Magd.</pubPlace>
+                    <date>1722</date>
                 </imprint>
             </monogr>
         </biblStruct>
