@@ -817,6 +817,9 @@
     rdfs:label """Sykes, Arthur Ashley,
                     1684?-1756""" .
 
+<https://viaf.org/viaf/101579822> a crm:E21_Person ;
+    rdfs:label "Martin, Isaac" .
+
 <https://viaf.org/viaf/101760867> a crm:E21_Person ;
     rdfs:label "Sophocles" .
 
@@ -862,6 +865,9 @@
 
 <https://viaf.org/viaf/13139775> a crm:E21_Person ;
     rdfs:label "Skinner, Thomas, 1629?-1679" .
+
+<https://viaf.org/viaf/132110213> a crm:E39_Actor ;
+    rdfs:label "Dresky, Christian" .
 
 <https://viaf.org/viaf/13246163> a crm:E21_Person ;
     rdfs:label "Carocci, Vincenzo, 1580-16.." .
@@ -1175,6 +1181,9 @@
 
 <https://viaf.org/viaf/50322264> a crm:E21_Person ;
     rdfs:label "Rinaldini, Carlo, 1615-1698" .
+
+<https://viaf.org/viaf/50606978> a crm:E21_Person ;
+    rdfs:label "Bellamy, D. 1687- (Daniel)" .
 
 <https://viaf.org/viaf/51698921> a crm:E21_Person ;
     rdfs:label "MÃ¼nster, Sebastian, 1489-1552" .
@@ -2575,8 +2584,8 @@
 
 <https:r0man-ist.github.io/regC#D69> a prov1:Donation ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
-    crm:P23_transferred_title_from [ a prov1:Donor ;
-            rdfs:label "" ] ;
+    crm:P23_transferred_title_from <https://viaf.org/viaf/32924921> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#D69-I1> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
@@ -2595,8 +2604,8 @@
 
 <https:r0man-ist.github.io/regC#D70> a prov1:Donation ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
-    crm:P23_transferred_title_from [ a prov1:Donor ;
-            rdfs:label "" ] ;
+    crm:P23_transferred_title_from <https://viaf.org/viaf/132110213> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#D70-I1> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
@@ -3195,6 +3204,8 @@
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
 
 <https:r0man-ist.github.io/regC#Dep-ID79> a crm:E15_Identifier_Assignment ;
+    crm:P140_assigned_attribute_to <https:r0man-ist.github.io/regC#Dep79-I1>,
+        <https:r0man-ist.github.io/regC#Dep79-I2> ;
     crm:P37_assigned <https:r0man-ist.github.io/regC#Dep79-ID> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-12-31T00:00:00"^^xsd:dateTime ;
@@ -4013,6 +4024,7 @@
 <https:r0man-ist.github.io/regC#Dep72> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
     crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#Dep72-I1> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
@@ -4023,6 +4035,7 @@
 <https:r0man-ist.github.io/regC#Dep73> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
     crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#Dep73-I1> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
@@ -4080,6 +4093,7 @@
 <https:r0man-ist.github.io/regC#Dep78> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
     crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#Dep78-I1> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
@@ -4090,6 +4104,8 @@
 <https:r0man-ist.github.io/regC#Dep79> a prov1:Legal_Deposit ;
     crm:P22_transferred_title_to <https://viaf.org/viaf/129788129> ;
     crm:P23_transferred_title_from <https://viaf.org/viaf/122574378> ;
+    crm:P24_transferred_title_of <https:r0man-ist.github.io/regC#Dep79-I1>,
+        <https:r0man-ist.github.io/regC#Dep79-I2> ;
     crm:P4_has_time_span [ a crm:E61_Time_Primitive ;
             crm:P82a_begin_of_the_begin "1724-01-01T00:00:00"^^xsd:dateTime ;
             crm:P82b_end_of_the_end "1724-12-31T23:59:59"^^xsd:dateTime ] .
@@ -9716,9 +9732,6 @@
     rdfs:label "Wilkes, Thomas",
         "Wilkes, Thomas 1678?-1745 " .
 
-<https://viaf.org/viaf/32924921> a crm:E21_Person ;
-    rdfs:label "Wheatly, Charles, 1686-1742" .
-
 <https://viaf.org/viaf/34451872> a crm:E21_Person ;
     rdfs:label "Quintilianus, Marcus Fabius" .
 
@@ -9842,7 +9855,8 @@
 
 <https:r0man-ist.github.io/regC#D31-I2> a prov1:Item ;
     dcterms1:creator <https://viaf.org/viaf/100189223> ;
-    dcterms1:title "A defence of the late charge deliver'd to the clergy of the diocese of Oxford, July 1719. : In a letter to the said clergy. /" .
+    dcterms1:title "A defence of the late charge deliver'd to the clergy of the diocese of Oxford, July 1719. : In a letter to the said clergy. /" ;
+    crm:P48_has_preferred_identifier "8Â° Q 6(2) Jur." .
 
 <https:r0man-ist.github.io/regC#D32-I1> a prov1:Item ;
     dcterms1:creator <https://viaf.org/viaf/79251462> ;
@@ -9977,6 +9991,15 @@
     dcterms1:creator <https://viaf.org/viaf/100162370> ;
     dcterms1:title "MarciÂ HieronymiÂ VidÃ¦ ...Â poematum, quÃ¦Â haudÂ plane disjunxit a fabula, pars prima (altera). Ed. T. Tristram" ;
     crm:P48_has_preferred_identifier "Vet. A4 d.61" .
+
+<https:r0man-ist.github.io/regC#D69-I1> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/32924921> ;
+    dcterms1:title "The credibility of mysteries; or, No contradiction in the doctrine of the Trinity. : A sermon preached at the Cathedral of St. Paul, before the Right Honourable the Lord Mayor, the judges, &c. Jan. 27, 1722/3. being the first Sunday in Hilary term. /" ;
+    crm:P48_has_preferred_identifier "8Â° Q 6(1) Jur." .
+
+<https:r0man-ist.github.io/regC#D70-I1> a prov1:Item ;
+    dcterms1:title "Dissertatio inauguralis iuridica de fundamento retractus duplicis in agris Hamburgensium vsitati." ;
+    crm:P48_has_preferred_identifier "4Â° P 46 Jur." .
 
 <https:r0man-ist.github.io/regC#D71-I1> a prov1:Item ;
     dcterms1:creator <https://viaf.org/viaf/22209566> ;
@@ -10333,6 +10356,16 @@
     dcterms1:title "The souls magazine of Scripture truths, digested into an historical dialogue, to inform the ignorant, reform the wicked, awake the drowsey, and revive Christianity by faith and obedience." ;
     crm:P48_has_preferred_identifier "8Â° O 49 Linc." .
 
+<https:r0man-ist.github.io/regC#Dep72-I1> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/101579822> ;
+    dcterms1:title "The tryal and sufferings of Mr. Isaac Martin, : who was put into the inquisition in Spain, for the sake of the Protestant religion. /" ;
+    crm:P48_has_preferred_identifier "8Â° O 50 Linc." .
+
+<https:r0man-ist.github.io/regC#Dep73-I1> a prov1:Item ;
+    dcterms1:creator <https://viaf.org/viaf/50606978> ;
+    dcterms1:title "The young ladies miscellany: or, youth's innocent and rational amusement. To which is prefixed, a short essay on the art of pronunciation, ... Adorn'd with cuts. Written for the particular diversion and improvement of the young ladies of Mrs. Bellamy's school, in Old Boswel-Court, near Temple-Bar." ;
+    crm:P48_has_preferred_identifier "8Â° O 48 Linc." .
+
 <https:r0man-ist.github.io/regC#Dep74-I1> a prov1:Item ;
     dcterms1:creator <https://viaf.org/viaf/11399444> ;
     dcterms1:title "The infallibility of human judgment, its dignity and excellency. : Being a new art of reasoning, and discovering truth, by reducing all disputable cases to general and self-evident propositions. Illustrated, by bringing several well known disputes to such self-evident and universal conclusions. ... /" ;
@@ -10366,6 +10399,18 @@
     dcterms1:creator <https://viaf.org/viaf/22145254> ;
     dcterms1:title "The fable of the bees: or, private vices, publick benefits. The second edition, enlarged with many additions. As also An essay on charity and charity-schools. And A search into the nature of society." ;
     crm:P48_has_preferred_identifier "8Â° Z 64 Jur." .
+
+<https:r0man-ist.github.io/regC#Dep78-I1> a prov1:Item ;
+    dcterms1:title "The deceiver describ'd: : being a second appendix to a pamphlet, entitl'd, A caution against deceivers. In a letter to the authours of that pamphlet. /" ;
+    crm:P48_has_preferred_identifier "8Â° Q 6(5) Jur." .
+
+<https:r0man-ist.github.io/regC#Dep79-I1> a prov1:Item ;
+    dcterms1:title "A catalogue of books in the library at Wisbech in the Isle of Ely." ;
+    crm:P48_has_preferred_identifier "8Â° Q 6(3) Jur." .
+
+<https:r0man-ist.github.io/regC#Dep79-I2> a prov1:Item ;
+    dcterms1:title "Illustrissimi & excellentissimi Ludovici Henrici, comitis Castri-Briennij, ... A catalogue of the library of His Excellency Louis Henry de Lomenie, ... to be sold ... at James Woodman's and David Lyon's ... on Tuesday the 28th of April, 1724. ..." ;
+    crm:P48_has_preferred_identifier "8Â° Q 6(4) Jur." .
 
 <https:r0man-ist.github.io/regC#Dep80-I1> a prov1:Item ;
     dcterms1:creator <https://viaf.org/viaf/7413290> ;
@@ -11005,6 +11050,11 @@
         crm:E39_Actor ;
     rdfs:label "Wake, William",
         "Wake, William, 1657-1737" .
+
+<https://viaf.org/viaf/32924921> a crm:E21_Person,
+        crm:E39_Actor ;
+    rdfs:label "Wheatly, Charles",
+        "Wheatly, Charles, 1686-1742" .
 
 <https://viaf.org/viaf/45083556> a crm:E21_Person,
         crm:E39_Actor ;
