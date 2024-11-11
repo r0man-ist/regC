@@ -2,7 +2,7 @@
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
     xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/" xmlns:dcterms="http://purl.org/dc/terms"
-    xmlns:prov="https:r0man-ist.github.io/regC#prov"
+    xmlns:prov="https://r0man-ist.github.io/regC#prov"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:t="http://www.tei-c.org/ns/1.0">
     <xsl:output method="xml" indent="yes" encoding="UTF-8"/>
@@ -117,7 +117,7 @@
                     <crm:E15_Identifier_Assignment>
                         <xsl:attribute name="rdf:about">
                             <xsl:value-of
-                                select="concat('https:r0man-ist.github.io/regC#', $abbreviation, '-ID', $count)"
+                                select="concat('https://r0man-ist.github.io/regC#', $abbreviation, '-ID', $count)"
                             />
                         </xsl:attribute>
                         <xsl:for-each select="./descendant::t:bibl">
@@ -127,7 +127,7 @@
                             <crm:P140_assigned_attribute_to>
                                 <xsl:attribute name="rdf:resource">
                                     <xsl:value-of
-                                        select="concat('https:r0man-ist.github.io/regC#', $abbreviation, $count, '-I', $count_item)"
+                                        select="concat('https://r0man-ist.github.io/regC#', $abbreviation, $count, '-I', $count_item)"
                                     />
                                 </xsl:attribute>
                             </crm:P140_assigned_attribute_to>
@@ -137,7 +137,7 @@
                             <crm:E42_Identifier>
                                 <xsl:attribute name="rdf:about">
                                     <xsl:value-of
-                                        select="concat('https:r0man-ist.github.io/regC#', $abbreviation, $count, '-ID')"
+                                        select="concat('https://r0man-ist.github.io/regC#', $abbreviation, $count, '-ID')"
                                     />
                                 </xsl:attribute>
                                 <crm:P90_has_value>
@@ -321,7 +321,7 @@
     <xsl:template match="/">
         <rdf:RDF>
             <crm:E31_Document>
-                <xsl:attribute name="rdf:about">https:r0man-ist.github.io/regC</xsl:attribute>
+                <xsl:attribute name="rdf:about">https://r0man-ist.github.io/regC</xsl:attribute>
 
 
 
@@ -336,7 +336,7 @@
                             <!-- basic counter for IDs and URI -->
                             <xsl:attribute name="rdf:about">
                                 <xsl:value-of
-                                    select="concat('https:r0man-ist.github.io/regC#P', $count_purchase)"
+                                    select="concat('https://r0man-ist.github.io/regC#P', $count_purchase)"
                                 />
                             </xsl:attribute>
                             <!-- buyer -->
@@ -368,7 +368,7 @@
                                         <prov:Item>
                                             <xsl:attribute name="rdf:about">
                                                 <xsl:value-of
-                                                  select="concat('https:r0man-ist.github.io/regC#P', $count_purchase, '-I', $count_item)"
+                                                  select="concat('https://r0man-ist.github.io/regC#P', $count_purchase, '-I', $count_item)"
                                                 />
                                             </xsl:attribute>
 
@@ -406,14 +406,14 @@
                         <crm:E15_Identifier_Assignment>
                             <xsl:attribute name="rdf:about">
                                 <xsl:value-of
-                                    select="concat('https:r0man-ist.github.io/regC#M', $count_move)"
+                                    select="concat('https://r0man-ist.github.io/regC#M', $count_move)"
                                 />
                             </xsl:attribute>
                             <crm:P37_assigned>
                                 <crm:E42_Identifier>
                                     <xsl:attribute name="rdf:about">
                                         <xsl:value-of
-                                            select="concat('https:r0man-ist.github.io/regC#M', $count_move, '-IDnew')"
+                                            select="concat('https://r0man-ist.github.io/regC#M', $count_move, '-IDnew')"
                                         />
                                     </xsl:attribute>
                                     <crm:P90_has_value>
@@ -427,7 +427,7 @@
                                 <crm:E42_Identifier>
                                     <xsl:attribute name="rdf:about">
                                         <xsl:value-of
-                                            select="concat('https:r0man-ist.github.io/regC#M', $count_move, '-IDold')"
+                                            select="concat('https://r0man-ist.github.io/regC#M', $count_move, '-IDold')"
                                         />
                                     </xsl:attribute>
                                     <crm:P90_has_value>
@@ -450,7 +450,7 @@
                                         <prov:Item>
                                             <xsl:attribute name="rdf:about">
                                                 <xsl:value-of
-                                                  select="concat('https:r0man-ist.github.io/regC#M', $count_move, '-I', $count_item)"
+                                                  select="concat('https://r0man-ist.github.io/regC#M', $count_move, '-I', $count_item)"
                                                 />
                                             </xsl:attribute>
 
@@ -483,7 +483,7 @@
                             <!-- basic counter for IDs and URI -->
                             <xsl:attribute name="rdf:about">
                                 <xsl:value-of
-                                    select="concat('https:r0man-ist.github.io/regC#Dep', $count_deposit)"
+                                    select="concat('https://r0man-ist.github.io/regC#Dep', $count_deposit)"
                                 />
                             </xsl:attribute>
                             <!-- acquirer -->
@@ -506,7 +506,7 @@
                                         <prov:Item>
                                             <xsl:attribute name="rdf:about">
                                                 <xsl:value-of
-                                                  select="concat('https:r0man-ist.github.io/regC#Dep', $count_deposit, '-I', $count_item)"
+                                                  select="concat('https://r0man-ist.github.io/regC#Dep', $count_deposit, '-I', $count_item)"
                                                 />
                                             </xsl:attribute>
 
@@ -542,7 +542,7 @@
                             <!-- basic counter for IDs and URI -->
                             <xsl:attribute name="rdf:about">
                                 <xsl:value-of
-                                    select="concat('https:r0man-ist.github.io/regC#D', $count_donation)"
+                                    select="concat('https://r0man-ist.github.io/regC#D', $count_donation)"
                                 />
                             </xsl:attribute>
                             <!-- acquirer -->
@@ -586,7 +586,7 @@
                                         <prov:Item>
                                             <xsl:attribute name="rdf:about">
                                                 <xsl:value-of
-                                                  select="concat('https:r0man-ist.github.io/regC#D', $count_donation, '-I', $count_item)"
+                                                  select="concat('https://r0man-ist.github.io/regC#D', $count_donation, '-I', $count_item)"
                                                 />
                                             </xsl:attribute>
 
@@ -618,7 +618,7 @@
                             <!-- basic counter for IDs and URI -->
                             <xsl:attribute name="rdf:about">
                                 <xsl:value-of
-                                    select="concat('https:r0man-ist.github.io/regC#S', $count_sale)"
+                                    select="concat('https://r0man-ist.github.io/regC#S', $count_sale)"
                                 />
                             </xsl:attribute>
                             <!-- seller -->
@@ -648,7 +648,7 @@
                                         <prov:Item>
                                             <xsl:attribute name="rdf:about">
                                                 <xsl:value-of
-                                                  select="concat('https:r0man-ist.github.io/regC#S', $count_sale, '-I', $count_item)"
+                                                  select="concat('https://r0man-ist.github.io/regC#S', $count_sale, '-I', $count_item)"
                                                 />
                                             </xsl:attribute>
 
@@ -683,7 +683,7 @@
                             <!-- basic counter for IDs and URI -->
                             <xsl:attribute name="rdf:about">
                                 <xsl:value-of
-                                    select="concat('https:r0man-ist.github.io/regC#Sub', $count_subscription)"
+                                    select="concat('https://r0man-ist.github.io/regC#Sub', $count_subscription)"
                                 />
                             </xsl:attribute>
                             <!-- subscriber -->
@@ -702,7 +702,7 @@
                                         <prov:Item>
                                             <xsl:attribute name="rdf:about">
                                                 <xsl:value-of
-                                                  select="concat('https:r0man-ist.github.io/regC#Sub', $count_subscription, '-I', $count_item)"
+                                                  select="concat('https://r0man-ist.github.io/regC#Sub', $count_subscription, '-I', $count_item)"
                                                 />
                                             </xsl:attribute>
 
